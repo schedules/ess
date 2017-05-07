@@ -5,7 +5,8 @@ before_script:
   - git remote set-branches --add origin gh-pages
   - git fetch origin gh-pages:gh-pages
   - git checkout gh-pages
-before_deploy:
+script:
+  - node index.js
   - node buildCaches.js
 before_deploy:
   - rm -f deployed*
