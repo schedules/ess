@@ -6,6 +6,7 @@ before_script:
   - git fetch origin gh-pages:gh-pages
   - git checkout gh-pages
 before_deploy:
+  - node buildCaches
   - rm -f deployed*
 deploy:
   provider: pages
