@@ -29,7 +29,7 @@ function output(obj,filename) {
 			s += (radioIndex++) + '|radio|';
 			radioProgs++;
 		}
-		s += item.brand.title + '|';
+		s += (item.brand.title ? item.brand.title : item.episode.title.split(' - ')[0].split(':')[0]) + '|';
 		s += item.episode.id + '|';
 		s += item.published_time.end + '|';
 		s += (new Date(item.published_time.end)/1000)+aMonth + '|';
