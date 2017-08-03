@@ -10,6 +10,7 @@ var static = [
  'bbc_news24',
  'cbbc',
  'cbeebies',
+ 'bbc_parliament',
  'bbc_radio_one',
  'bbc_1xtra',
  'bbc_radio_two',
