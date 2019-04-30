@@ -80,7 +80,7 @@ function next(keys) {
 		query.add('serviceId',key);
 		sdk.make_request('ess.api.bbci.co.uk','/schedules','',query,{},function(obj){
 			mkdirp.mkdirp('./'+key,function(err){
-				fs.writeFile('./'+key+'/'+dom+'.json',JSON.stringify(obj,null,2),'utf8');
+				fs.writeFileSync('./'+key+'/'+dom+'.json',JSON.stringify(obj,null,2),'utf8');
 			});
 			next(keys);
 		},function(err){

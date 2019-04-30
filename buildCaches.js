@@ -53,6 +53,7 @@ function output(obj,filename) {
 function processSchedule(filename) {
 	var scheduleTxt = fs.readFileSync(filename,'utf8');
 	var schedule = JSON.parse(scheduleTxt);
+	if (schedule.items.length) {
 	for (let item of schedule.items) {
 		var target = (schedule.service.type == 'TV' ? tv : radio);
 		if (target.items[item.episode.id]) {
@@ -66,6 +67,7 @@ function processSchedule(filename) {
 		else {
 			target.items[item.episode.id] = item;
 		}
+	}
 	}
 }
 
