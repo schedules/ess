@@ -4,6 +4,7 @@ node_js:
 before_script:
   - git remote set-branches --add origin gh-pages
   - git fetch origin gh-pages:gh-pages
+  - rm -f package-lock.json
   - git checkout gh-pages
 script:
   - node index.js
