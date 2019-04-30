@@ -47,7 +47,7 @@ function output(obj,filename) {
 		s += 'http://bbc.co.uk/programmes/'+item.episode.id + '|';
 		s += '\n';
 	}
-	fs.writeFile(filename,s,'utf8');
+	fs.writeFileSync(filename,s,'utf8');
 }
 
 function processSchedule(filename) {
