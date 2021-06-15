@@ -1,0 +1,885 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:23:23.729Z"
+  },
+  "items": [
+    {
+      "id": "p09h05f5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00281p0"
+      },
+      "episode": {
+        "id": "b007jp0g",
+        "title": "5. Things Hot Up"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-28T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05f6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00sjs5y"
+      },
+      "episode": {
+        "id": "b00sjt9x",
+        "title": "Shoulda Put A Ring On It"
+      },
+      "brand": {
+        "title": "Off the Page"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:30:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05f7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vw35"
+      },
+      "episode": {
+        "id": "b007jvmz",
+        "title": "4. Exhumation"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05f8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006k3g"
+      },
+      "episode": {
+        "id": "b0b51vyy",
+        "title": "5. The Angry Mob"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:30:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05f9",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08drkln"
+      },
+      "episode": {
+        "id": "b08drky3",
+        "title": "Episode 10"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:00:00.000Z",
+        "end": "2021-05-29T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05fb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005f8s"
+      },
+      "episode": {
+        "id": "m0005f8t",
+        "title": "Episode 10: Gudrun"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:15:00.000Z",
+        "end": "2021-05-29T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05fc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01754qw"
+      },
+      "episode": {
+        "id": "b017551k",
+        "title": "Malmesbury: the Philosophy Town"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:30:00.000Z",
+        "end": "2021-05-29T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05fd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00cfwq2"
+      },
+      "episode": {
+        "id": "b00cfwr8",
+        "title": "The Hunt of the God King"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:00:00.000Z",
+        "end": "2021-05-29T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05ff",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wd98"
+      },
+      "episode": {
+        "id": "b00s97hj",
+        "title": "2010 Heat 8"
+      },
+      "brand": {
+        "title": "Counterpoint"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T03:00:00.000Z",
+        "end": "2021-05-29T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05fg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m00089w2"
+      },
+      "episode": {
+        "id": "b007v1dg",
+        "title": "The Good, the Bad and the Temporary"
+      },
+      "brand": {
+        "title": "Bristow"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T03:30:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05fh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07h6fm2"
+      },
+      "episode": {
+        "id": "b07h6fmm",
+        "title": "Occupied"
+      },
+      "brand": {
+        "title": "The Break"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05fj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wc12"
+      },
+      "episode": {
+        "id": "m000wc13",
+        "title": "The Confession of Phil Wang"
+      },
+      "brand": {
+        "title": "The Confessional"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:30:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkdm"
+      },
+      "episode": {
+        "id": "b007jnpv",
+        "title": "Kind Hearts and Coronets"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b084blf7"
+      },
+      "episode": {
+        "id": "b084bmf7",
+        "title": "Lucy Porter on Cary Grant"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T06:30:00.000Z",
+        "end": "2021-05-29T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00b0hmb"
+      },
+      "episode": {
+        "id": "b00b0hml",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Whispers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T07:00:00.000Z",
+        "end": "2021-05-29T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005g4x8"
+      },
+      "episode": {
+        "id": "b007jrrq",
+        "title": "A Good Cause"
+      },
+      "brand": {
+        "title": "Smelling of Roses"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T07:30:00.000Z",
+        "end": "2021-05-29T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09bvvqn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09m5lcf"
+      },
+      "episode": {
+        "id": "b09m5mfr",
+        "title": "Soul Music Mixtapes"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T08:00:00.000Z",
+        "end": "2021-05-29T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pf5p"
+      },
+      "episode": {
+        "id": "b007k094",
+        "title": "Full House"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:00:00.000Z",
+        "end": "2021-05-29T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b052m4wg"
+      },
+      "episode": {
+        "id": "b052m59s",
+        "title": "Episode 1 - 1. New Recruit"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:30:00.000Z",
+        "end": "2021-05-29T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wcjn"
+      },
+      "episode": {
+        "id": "b09tbl2s",
+        "title": "Don't Panic! It's The Douglas Adams Papers"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:00:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvl",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0028br7"
+      },
+      "episode": {
+        "id": "b007jp55",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "The In Crowd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b051089g"
+      },
+      "episode": {
+        "id": "b05108h0",
+        "title": "Dame Kelly Holmes"
+      },
+      "brand": {
+        "title": "I've Never Seen Star Wars"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:30:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b076nzzw"
+      },
+      "episode": {
+        "id": "b076p08g",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Josie Long: Romance and Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01p2rzj"
+      },
+      "episode": {
+        "id": "b01p2s1y",
+        "title": "I Looked Like Gollum at School"
+      },
+      "brand": {
+        "title": "The Jason Byrne Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:30:00.000Z",
+        "end": "2021-05-29T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkdm"
+      },
+      "episode": {
+        "id": "b007jnpv",
+        "title": "Kind Hearts and Coronets"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T15:00:00.000Z",
+        "end": "2021-05-29T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvs",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b084blf7"
+      },
+      "episode": {
+        "id": "b084bmf7",
+        "title": "Lucy Porter on Cary Grant"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T16:30:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bgpg7z"
+      },
+      "episode": {
+        "id": "b0bgpgk3",
+        "title": "4. The Red Moon Mystery 2/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0062yrf"
+      },
+      "episode": {
+        "id": "b007jw60",
+        "title": "The Mortal Immortal by Mary Shelley"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:30:00.000Z",
+        "end": "2021-05-29T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09bvvr5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09m5lcf"
+      },
+      "episode": {
+        "id": "b09m5mfr",
+        "title": "Soul Music Mixtapes"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07gh55k"
+      },
+      "episode": {
+        "id": "b07gh57z",
+        "title": "Pilot"
+      },
+      "brand": {
+        "title": "Welcome to Wherever You Are"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-29T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b077jmp2"
+      },
+      "episode": {
+        "id": "b077jp15",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Josie Long: Romance and Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:30:00.000Z",
+        "end": "2021-05-29T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvy",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b03xgkvm"
+      },
+      "episode": {
+        "id": "b03xgl4g",
+        "title": "Job Interviews and Office Politics"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:00:00.000Z",
+        "end": "2021-05-29T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhvz",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01mdl9h"
+      },
+      "episode": {
+        "id": "b01mdl9r",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Two Episodes of Mash"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:30:00.000Z",
+        "end": "2021-05-29T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bgpg7z"
+      },
+      "episode": {
+        "id": "b0bgpgk3",
+        "title": "4. The Red Moon Mystery 2/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-29T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0062yrf"
+      },
+      "episode": {
+        "id": "b007jw60",
+        "title": "The Mortal Immortal by Mary Shelley"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:30:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wcjn"
+      },
+      "episode": {
+        "id": "b09tbl2s",
+        "title": "Don't Panic! It's The Douglas Adams Papers"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0028br7"
+      },
+      "episode": {
+        "id": "b007jp55",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "The In Crowd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:00:00.000Z",
+        "end": "2021-05-30T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b051089g"
+      },
+      "episode": {
+        "id": "b05108h0",
+        "title": "Dame Kelly Holmes"
+      },
+      "brand": {
+        "title": "I've Never Seen Star Wars"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:30:00.000Z",
+        "end": "2021-05-30T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b076nzzw"
+      },
+      "episode": {
+        "id": "b076p08g",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Josie Long: Romance and Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:00:00.000Z",
+        "end": "2021-05-30T02:30:00.000Z"
+      }
+    }
+  ]
+}

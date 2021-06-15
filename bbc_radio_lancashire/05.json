@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_lancashire"
+  },
+  "service": {
+    "id": "bbc_radio_lancashire",
+    "name": "BBC Radio Lancashire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:37:01.907Z"
+  },
+  "items": [
+    {
+      "id": "p09htdzx",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09htdzt"
+      },
+      "episode": {
+        "id": "p09htdzp",
+        "title": "With Asa Murphy - 04/06/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2lc",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09j3jx7"
+      },
+      "episode": {
+        "id": "p09j3jx1",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k950x",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09k910g"
+      },
+      "episode": {
+        "id": "p09k90f4",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2lv",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09j7455"
+      },
+      "episode": {
+        "id": "p09j744z",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:50:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2mc",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09jg2m6"
+      },
+      "episode": {
+        "id": "p09jg2ly",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Shigufta Khan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2mv",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09jg2ms"
+      },
+      "episode": {
+        "id": "p09jg2mk",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Gary Hickson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2nb",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09jg2n7"
+      },
+      "episode": {
+        "id": "p09jg2n2",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Joe Wilson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2p6",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09jg2nv"
+      },
+      "episode": {
+        "id": "p09jg2nn",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Saturday Night Soul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jg2py",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09jg2pr"
+      },
+      "episode": {
+        "id": "p09jg2pk",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn3lz",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09jjwf7"
+      },
+      "episode": {
+        "id": "p09jjwf5",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

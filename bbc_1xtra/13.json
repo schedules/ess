@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:41:38.830Z"
+  },
+  "items": [
+    {
+      "id": "p09jrkwd",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy0m"
+      },
+      "episode": {
+        "id": "m000wy0p",
+        "title": "Andhim in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkwf",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wm34"
+      },
+      "episode": {
+        "id": "m000wm35",
+        "title": "Friday night vibes!"
+      },
+      "brand": {
+        "title": "Kenny Allstar"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkwh",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy1q"
+      },
+      "episode": {
+        "id": "m000wy1r",
+        "title": "Emmanuel repping Ethiopia"
+      },
+      "brand": {
+        "title": "Africa 360 with..."
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:00:00.000Z",
+        "end": "2021-06-13T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkwj",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wsry"
+      },
+      "episode": {
+        "id": "m000wsrz",
+        "title": "With Skiifall"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T03:00:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktl",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000vxvk"
+      },
+      "episode": {
+        "id": "m000vxvl",
+        "title": "All In Your Fresh Feels"
+      },
+      "brand": {
+        "title": "1Xtra's R&B Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktm",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy0d"
+      },
+      "episode": {
+        "id": "m000wy0g",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Remi Burgz"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T06:00:00.000Z",
+        "end": "2021-06-13T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktn",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy0j"
+      },
+      "episode": {
+        "id": "m000wy0l",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Remi Burgz presents The Gospel Corner"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:32:00.000Z",
+        "end": "2021-06-13T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktp",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy0n"
+      },
+      "episode": {
+        "id": "m000wy0q",
+        "title": "Trevor Drops Old Skool Bangers"
+      },
+      "brand": {
+        "title": "Trevor Nelson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T10:00:00.000Z",
+        "end": "2021-06-13T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktq",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy0s"
+      },
+      "episode": {
+        "id": "m000wy0v",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "David Rodigan"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:00:00.000Z",
+        "end": "2021-06-13T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktr",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy0x"
+      },
+      "episode": {
+        "id": "m000wy0z",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Rampage"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T14:00:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkts",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy11"
+      },
+      "episode": {
+        "id": "m000wy13",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Heartless Crew"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktt",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy15"
+      },
+      "episode": {
+        "id": "m000wy17",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Talks with Richie Brave"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76pd",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000xfqr"
+      },
+      "episode": {
+        "id": "m000xfqs",
+        "title": "Everything R&B - Asiahn Interview & Duchess RnB 1 Take"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktw",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy1b"
+      },
+      "episode": {
+        "id": "m000wy1c",
+        "title": "Ace's Old Skool RnB Hour"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktx",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wxyt"
+      },
+      "episode": {
+        "id": "m000wxyv",
+        "title": "Carl Cox - Drum & Bass special"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrktz",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wxyw"
+      },
+      "episode": {
+        "id": "m000wxyx",
+        "title": "Carista"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:00:00.000Z",
+        "end": "2021-06-14T02:00:00.000Z"
+      }
+    }
+  ]
+}

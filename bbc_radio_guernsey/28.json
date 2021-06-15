@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_guernsey"
+  },
+  "service": {
+    "id": "bbc_radio_guernsey",
+    "name": "BBC Radio Guernsey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:43:24.875Z"
+  },
+  "items": [
+    {
+      "id": "p09h4wg4",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4jmv"
+      },
+      "episode": {
+        "id": "p09h4jmj",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vzc",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vzj",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gycf8"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vzp",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4vzm"
+      },
+      "episode": {
+        "id": "p09h4vzk",
+        "title": "Oscar Pearson 28/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vzv",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4vzs"
+      },
+      "episode": {
+        "id": "p09h4vzq",
+        "title": "Claire Cathcart  28/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w02",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4w00"
+      },
+      "episode": {
+        "id": "p09h4vzx",
+        "title": "Tony Gillham 28/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w08",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4w06"
+      },
+      "episode": {
+        "id": "p09h4w03",
+        "title": "Tim and Sydney  28/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w0c",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4kqt"
+      },
+      "episode": {
+        "id": "p09h4kqk",
+        "title": "Jim Colvin sits in (28/05/2021)"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

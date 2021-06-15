@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cornwall"
+  },
+  "service": {
+    "id": "bbc_radio_cornwall",
+    "name": "BBC Radio Cornwall",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:36:57.131Z"
+  },
+  "items": [
+    {
+      "id": "p09h4jn2",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4jmv"
+      },
+      "episode": {
+        "id": "p09h4jmj",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kls",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4km2",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09gycf8"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kmk",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4kmf"
+      },
+      "episode": {
+        "id": "p09h4km7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "James Churchfield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kn0",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4kmw"
+      },
+      "episode": {
+        "id": "p09h4kmr",
+        "title": "Airwaves, Your Festival At Home with David White (28/05/2021)"
+      },
+      "brand": {
+        "title": "David White"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kp3",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4knw"
+      },
+      "episode": {
+        "id": "p09h4kng",
+        "title": "Airwaves, Your Festival At Home with Julie Skentelbery (28/05/2021)"
+      },
+      "brand": {
+        "title": "Julie Skentelbery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kq6",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4kpv"
+      },
+      "episode": {
+        "id": "p09h4kpk",
+        "title": "Airwaves, Your Festival At Home with Tiffany Truscott (28/05/2021)"
+      },
+      "brand": {
+        "title": "Tiffany Truscott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kr4",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4kqt"
+      },
+      "episode": {
+        "id": "p09h4kqk",
+        "title": "Jim Colvin sits in (28/05/2021)"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

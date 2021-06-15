@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_kent"
+  },
+  "service": {
+    "id": "bbc_radio_kent",
+    "name": "BBC Radio Kent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:41:46.495Z"
+  },
+  "items": [
+    {
+      "id": "p09jgfw6",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j76c9"
+      },
+      "episode": {
+        "id": "p09j76by",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfwd",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j3nzy"
+      },
+      "episode": {
+        "id": "p09j3nzt",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:00:00.000Z",
+        "end": "2021-06-10T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfws",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j76lb"
+      },
+      "episode": {
+        "id": "p09j3p03",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-10T04:00:00.000Z",
+        "end": "2021-06-10T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfxb",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfx3"
+      },
+      "episode": {
+        "id": "p09jgfwv",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Wake Up Call"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:00:00.000Z",
+        "end": "2021-06-10T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfyb",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfy1"
+      },
+      "episode": {
+        "id": "p09jgfxr",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Steve Ladner"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-10T09:00:00.000Z",
+        "end": "2021-06-10T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfz4",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfyw"
+      },
+      "episode": {
+        "id": "p09jgfym",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Pat Marsh"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-10T13:00:00.000Z",
+        "end": "2021-06-10T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgg05",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfzx"
+      },
+      "episode": {
+        "id": "p09jgfzj",
+        "title": "Playwright and director Florian Zeller (The Father)"
+      },
+      "brand": {
+        "title": "The Dominic King Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-10T17:00:00.000Z",
+        "end": "2021-06-10T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgg18",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgg11"
+      },
+      "episode": {
+        "id": "p09jgg0l",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-10T20:00:00.000Z",
+        "end": "2021-06-10T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgg20",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j76pd"
+      },
+      "episode": {
+        "id": "p09j76p7",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    }
+  ]
+}

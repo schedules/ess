@@ -1,0 +1,127 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_five_live_sports_extra"
+  },
+  "service": {
+    "id": "bbc_radio_five_live_sports_extra",
+    "name": "BBC Radio 5 live sports extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:32:21.711Z"
+  },
+  "items": [
+    {
+      "id": "p09j65g0",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wsdv"
+      },
+      "episode": {
+        "id": "m000wsdw",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jw7",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wsdv"
+      },
+      "episode": {
+        "id": "m000wsdw",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:00:00.000Z",
+        "end": "2021-06-10T09:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m24",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wtnc"
+      },
+      "episode": {
+        "id": "m000wtnd",
+        "title": "England v New Zealand - Day 1"
+      },
+      "brand": {
+        "title": "Test Match Special"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T09:25:00.000Z",
+        "end": "2021-06-10T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkvl2",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wvdk"
+      },
+      "episode": {
+        "id": "m000wvdl",
+        "title": "Middlesex v Surrey"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T18:00:00.000Z",
+        "end": "2021-06-10T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jw9",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wsdv"
+      },
+      "episode": {
+        "id": "m000wsdw",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-10T23:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:31:01.484Z"
+  },
+  "items": [
+    {
+      "id": "p09hxn3d",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09htccz"
+      },
+      "episode": {
+        "id": "p09htccx",
+        "title": "Russell Walker: Songs for The Shed"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9kk",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09j3jx7"
+      },
+      "episode": {
+        "id": "p09j3jx1",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9gkn",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k910g"
+      },
+      "episode": {
+        "id": "p09k90f4",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9ls",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jn9ll"
+      },
+      "episode": {
+        "id": "p09jn9l6",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Adam Tomlinson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9lz",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jn9lx"
+      },
+      "episode": {
+        "id": "p09jn9lv",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Harry Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9m4",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jk713"
+      },
+      "episode": {
+        "id": "p09jgk99",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Liz Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9mh",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jg7js"
+      },
+      "episode": {
+        "id": "p09jg7jj",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "John Kane's Northern Soul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9mn",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jn9jv"
+      },
+      "episode": {
+        "id": "p09jn9jr",
+        "title": "The Howl & The Hum, live from York Minster with Jericho Keys (05/06/21)"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in York and North Yorkshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9mt",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jg7kk"
+      },
+      "episode": {
+        "id": "p09jg7kc",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

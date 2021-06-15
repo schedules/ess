@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_guernsey"
+  },
+  "service": {
+    "id": "bbc_radio_guernsey",
+    "name": "BBC Radio Guernsey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:43:13.045Z"
+  },
+  "items": [
+    {
+      "id": "p09jxrwb",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxrw4"
+      },
+      "episode": {
+        "id": "p09jxrw2",
+        "title": "Tim Manns 13/06/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrtv",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jrxj8"
+      },
+      "episode": {
+        "id": "p09jrxj3",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrtw",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09js980"
+      },
+      "episode": {
+        "id": "p09jrxjc",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-14T04:00:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrv6",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxrv2"
+      },
+      "episode": {
+        "id": "p09jxrtx",
+        "title": "David Earl 14/06/2021"
+      },
+      "brand": {
+        "title": "Oscar Pearson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrvg",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxrvc"
+      },
+      "episode": {
+        "id": "p09jxrv7",
+        "title": "Claire Cathcart sits in (14/06/2021)"
+      },
+      "brand": {
+        "title": "Jenny Kendall-Tobias"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrvh",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxp7n"
+      },
+      "episode": {
+        "id": "p09jxp7j",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Eliza Philippidis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-06-14T13:00:00.000Z",
+        "end": "2021-06-14T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrvj",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxp8f"
+      },
+      "episode": {
+        "id": "p09jxp87",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Tim and Sydney"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrvk",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jwyyy"
+      },
+      "episode": {
+        "id": "p09jwyyv",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    }
+  ]
+}

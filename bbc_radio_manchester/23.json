@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:35:37.192Z"
+  },
+  "items": [
+    {
+      "id": "p09h5wl4",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wkk"
+      },
+      "episode": {
+        "id": "p09h5wk8",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Connor Phillips"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wvp",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gxgqm"
+      },
+      "episode": {
+        "id": "p09gxgqk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wvw",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gycq3"
+      },
+      "episode": {
+        "id": "p09gxgqq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5ww2",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gycqp"
+      },
+      "episode": {
+        "id": "p09gycqd",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:50:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wwf",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5ww9"
+      },
+      "episode": {
+        "id": "p09h5ww5",
+        "title": "Debra Green OBE"
+      },
+      "brand": {
+        "title": "Mike Shaft"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wwq",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wwm"
+      },
+      "episode": {
+        "id": "p09h5wwk",
+        "title": "Ryan Thomas"
+      },
+      "brand": {
+        "title": "Mike Sweeney"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wx3",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wx0"
+      },
+      "episode": {
+        "id": "p09h5wwy",
+        "title": "Premier League build-up"
+      },
+      "brand": {
+        "title": "Stacey Copeland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wxk",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wx9"
+      },
+      "episode": {
+        "id": "p09h5wx6",
+        "title": "Premier League live: Manchester City v Everton"
+      },
+      "brand": {
+        "title": "BBC Radio Manchester Sport: Big Match Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wz0",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wys"
+      },
+      "episode": {
+        "id": "p09h5wyd",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Indus"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wz7",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wz5"
+      },
+      "episode": {
+        "id": "p09h5wz2",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The People"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wz9",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h59zy"
+      },
+      "episode": {
+        "id": "p09h59zv",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

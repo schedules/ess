@@ -1,0 +1,727 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:31:11.152Z"
+  },
+  "items": [
+    {
+      "id": "p09h4p9b",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqq"
+      },
+      "episode": {
+        "id": "m000wdqr",
+        "title": "Coldplay"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:00:00.000Z",
+        "end": "2021-05-27T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9c",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqs"
+      },
+      "episode": {
+        "id": "m000wdqt",
+        "title": "Rex Orange County"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:45:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9d",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqv"
+      },
+      "episode": {
+        "id": "m000wdqw",
+        "title": "The 1975"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9f",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqx"
+      },
+      "episode": {
+        "id": "m000wdqy",
+        "title": "Ed Sheeran"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:00:00.000Z",
+        "end": "2021-05-28T01:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9g",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqz"
+      },
+      "episode": {
+        "id": "m000wdr0",
+        "title": "Miley Cyrus"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:55:00.000Z",
+        "end": "2021-05-28T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9h",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdr1"
+      },
+      "episode": {
+        "id": "m000wdr2",
+        "title": "Jamie Jones"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T02:30:00.000Z",
+        "end": "2021-05-28T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwwsk",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd2g"
+      },
+      "episode": {
+        "id": "m000wd2h",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T03:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwwsl",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd2j"
+      },
+      "episode": {
+        "id": "m000wd2k",
+        "title": "with Rakeem Omar"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06y8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdmx"
+      },
+      "episode": {
+        "id": "m000wdmy",
+        "title": "Radio 1 DJ's Quiz War: The Final"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T06:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06y9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdmz"
+      },
+      "episode": {
+        "id": "m000wdn0",
+        "title": "with Greg James"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdn1"
+      },
+      "episode": {
+        "id": "m000wdn2",
+        "title": "with Jordan North"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:32:00.000Z",
+        "end": "2021-05-28T10:02:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdn3"
+      },
+      "episode": {
+        "id": "m000wdn4",
+        "title": "The Biggest Dance Anthems"
+      },
+      "brand": {
+        "title": "Jordan North"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T10:02:00.000Z",
+        "end": "2021-05-28T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdl1"
+      },
+      "episode": {
+        "id": "m000wdl2",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T11:45:00.000Z",
+        "end": "2021-05-28T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdn5"
+      },
+      "episode": {
+        "id": "m000wdn6",
+        "title": "The next Matt vs Mollie challenge and the biggest New Music Friday releases!"
+      },
+      "brand": {
+        "title": "Matt and Mollie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T12:00:00.000Z",
+        "end": "2021-05-28T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdn7"
+      },
+      "episode": {
+        "id": "m000wdn8",
+        "title": "with Matt and Mollie"
+      },
+      "brand": {
+        "title": "Radio 1's Party Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T14:00:00.000Z",
+        "end": "2021-05-28T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yh",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdn9"
+      },
+      "episode": {
+        "id": "m000wdnb",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "The Official Chart on Radio 1 with Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T15:00:00.000Z",
+        "end": "2021-05-28T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdl9"
+      },
+      "episode": {
+        "id": "m000wdlb",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T16:45:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6b",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf5y"
+      },
+      "episode": {
+        "id": "m000wf5z",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6c",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf60"
+      },
+      "episode": {
+        "id": "m000wf61",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:30:00.000Z",
+        "end": "2021-05-28T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6d",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf62"
+      },
+      "episode": {
+        "id": "m000wf63",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:00:00.000Z",
+        "end": "2021-05-28T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6f",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf64"
+      },
+      "episode": {
+        "id": "m000wf65",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:30:00.000Z",
+        "end": "2021-05-28T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6g",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf66"
+      },
+      "episode": {
+        "id": "m000wf67",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T19:00:00.000Z",
+        "end": "2021-05-28T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6h",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf68"
+      },
+      "episode": {
+        "id": "m000wf69",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T19:30:00.000Z",
+        "end": "2021-05-28T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6k",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf6b"
+      },
+      "episode": {
+        "id": "m000wf6c",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T20:00:00.000Z",
+        "end": "2021-05-28T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6l",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf6d"
+      },
+      "episode": {
+        "id": "m000wf6f",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T20:30:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf6g"
+      },
+      "episode": {
+        "id": "m000wf6h",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-28T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6n",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf6j"
+      },
+      "episode": {
+        "id": "m000wf6k",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:30:00.000Z",
+        "end": "2021-05-28T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6p",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf6l"
+      },
+      "episode": {
+        "id": "m000wf6m",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:00:00.000Z",
+        "end": "2021-05-28T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yn",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdmn"
+      },
+      "episode": {
+        "id": "m000wdmp",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Essential Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06yp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdmq"
+      },
+      "episode": {
+        "id": "m000wdmr",
+        "title": "FFRR: Andy Daniell"
+      },
+      "brand": {
+        "title": "Radio 1 Dance Presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:00:00.000Z",
+        "end": "2021-05-29T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7z6q",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wf6n"
+      },
+      "episode": {
+        "id": "m000wf6p",
+        "title": "Armand Van Helden (2020)"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:00:00.000Z",
+        "end": "2021-05-29T02:30:00.000Z"
+      }
+    }
+  ]
+}

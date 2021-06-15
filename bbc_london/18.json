@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_london"
+  },
+  "service": {
+    "id": "bbc_london",
+    "name": "BBC Radio London",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:32:13.472Z"
+  },
+  "items": [
+    {
+      "id": "p09g40rg",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g40rd"
+      },
+      "episode": {
+        "id": "p09g40r7",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "LionHeart"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41f8",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41f6"
+      },
+      "episode": {
+        "id": "p09g41f1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41ft",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41fm"
+      },
+      "episode": {
+        "id": "p09g41fd",
+        "title": "Claira Hermet sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41gq",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41gh"
+      },
+      "episode": {
+        "id": "p09g41g5",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T06:00:00.000Z",
+        "end": "2021-05-18T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41hd",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41h7"
+      },
+      "episode": {
+        "id": "p09g41h3",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Robert Elms"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:00:00.000Z",
+        "end": "2021-05-18T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41hs",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41hl"
+      },
+      "episode": {
+        "id": "p09g41hh",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Jo Good"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T12:30:00.000Z",
+        "end": "2021-05-18T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41j7",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41j3"
+      },
+      "episode": {
+        "id": "p09g41hx",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Eddie Nestor"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T16:00:00.000Z",
+        "end": "2021-05-18T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41jn",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41jk"
+      },
+      "episode": {
+        "id": "p09g41jc",
+        "title": "Aurie Styla sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "The Scene with Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T19:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g41k0",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09g41jw"
+      },
+      "episode": {
+        "id": "p09g41js",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "LionHeart"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    }
+  ]
+}

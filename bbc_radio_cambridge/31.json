@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cambridge"
+  },
+  "service": {
+    "id": "bbc_radio_cambridge",
+    "name": "BBC Radio Cambridgeshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:33:34.060Z"
+  },
+  "items": [
+    {
+      "id": "p09hld5l",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld5b"
+      },
+      "episode": {
+        "id": "p09hld53",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hldfz",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hgdrd"
+      },
+      "episode": {
+        "id": "p09hgdrb",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hldgc",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hl31g"
+      },
+      "episode": {
+        "id": "p09hgdrm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hldh0",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hldgt"
+      },
+      "episode": {
+        "id": "p09hldgl",
+        "title": "Kev Lawrence - Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hldh8",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hldh5"
+      },
+      "episode": {
+        "id": "p09hldh3",
+        "title": "Emma Bullimore - Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hldhj",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hldhg"
+      },
+      "episode": {
+        "id": "p09hldhc",
+        "title": "Emily Martin - Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k1h00",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hxgtg"
+      },
+      "episode": {
+        "id": "p09hxgtb",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Edward Adoo"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hldjy",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hldjs"
+      },
+      "episode": {
+        "id": "p09hldjg",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    }
+  ]
+}

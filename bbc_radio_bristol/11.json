@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_bristol"
+  },
+  "service": {
+    "id": "bbc_radio_bristol",
+    "name": "BBC Radio Bristol",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:32:18.345Z"
+  },
+  "items": [
+    {
+      "id": "p09j8dzf",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j8dz8"
+      },
+      "episode": {
+        "id": "p09j8dz3",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8fcw",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j3p8w"
+      },
+      "episode": {
+        "id": "p09j3p8s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8fcz",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j77dk"
+      },
+      "episode": {
+        "id": "p09j3p93",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8fd4",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j77fn"
+      },
+      "episode": {
+        "id": "p09j77f4",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:50:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8fdl",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j8fdf"
+      },
+      "episode": {
+        "id": "p09j8fd6",
+        "title": "Euro 2020 and Vaccines"
+      },
+      "brand": {
+        "title": "James Hanson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8fdw",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j8fdr"
+      },
+      "episode": {
+        "id": "p09j8fdn",
+        "title": "Joe Lemer sits in (11/06/2021)"
+      },
+      "brand": {
+        "title": "John Darvall"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kfqgf",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09kfqgc"
+      },
+      "episode": {
+        "id": "p09kfqg9",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Steve Yabsley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:00:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8ff7",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j8ff4"
+      },
+      "episode": {
+        "id": "p09j8ff2",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Friday Night Sport with Geoff Twentyman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8ffh",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j8ffb"
+      },
+      "episode": {
+        "id": "p09j8ff8",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8fg2",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j8ffv"
+      },
+      "episode": {
+        "id": "p09j8ffn",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

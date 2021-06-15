@@ -1,0 +1,380 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:33:20.865Z"
+  },
+  "items": [
+    {
+      "id": "p09hnf9c",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm7f"
+      },
+      "episode": {
+        "id": "m000wm7g",
+        "title": "Enter the Dream Machine"
+      },
+      "brand": {
+        "title": "Late Junction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf9d",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm7h"
+      },
+      "episode": {
+        "id": "m000wm7j",
+        "title": "An English Dream and Beethoven's Breakthrough"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf9f",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm7k"
+      },
+      "episode": {
+        "id": "m000wm7l",
+        "title": "Vol 7: Purple is for Prince: an hour of stirring piano songs"
+      },
+      "brand": {
+        "title": "Piano Flow with Lianne La Havas"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wry2"
+      },
+      "episode": {
+        "id": "m000wry3",
+        "title": "Vol 7: Dreamy harmonies to soothe your mind"
+      },
+      "brand": {
+        "title": "Happy Harmonies with Laufey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wry4"
+      },
+      "episode": {
+        "id": "m000wry5",
+        "title": "Saturday - Elizabeth Alker"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:00:00.000Z",
+        "end": "2021-06-05T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psh",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wry6"
+      },
+      "episode": {
+        "id": "m000wry7",
+        "title": "Sibelius's Violin Concerto with Leah Broad and Andrew McGregor"
+      },
+      "brand": {
+        "title": "Record Review"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T08:00:00.000Z",
+        "end": "2021-06-05T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wry8"
+      },
+      "episode": {
+        "id": "m000wry9",
+        "title": "Yo-Yo Ma and Emanuel Ax"
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:45:00.000Z",
+        "end": "2021-06-05T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryb"
+      },
+      "episode": {
+        "id": "m000wryc",
+        "title": "Jess Gillam with... Eve-Marie Caravassilis"
+      },
+      "brand": {
+        "title": "This Classical Life"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T11:30:00.000Z",
+        "end": "2021-06-05T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryd"
+      },
+      "episode": {
+        "id": "m000wryf",
+        "title": "Oboist Uchenna Ngwe with sounds old and new"
+      },
+      "brand": {
+        "title": "Inside Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:00:00.000Z",
+        "end": "2021-06-05T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pss",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryg"
+      },
+      "episode": {
+        "id": "m000wryh",
+        "title": "Relaxing Escapes"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T14:00:00.000Z",
+        "end": "2021-06-05T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryj"
+      },
+      "episode": {
+        "id": "m000wryk",
+        "title": "Kathryn Tickell with Nobuhiko Chiba"
+      },
+      "brand": {
+        "title": "Music Planet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:00:00.000Z",
+        "end": "2021-06-05T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5psz",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryl"
+      },
+      "episode": {
+        "id": "m000wrym",
+        "title": "Shake Stew"
+      },
+      "brand": {
+        "title": "J to Z"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:00:00.000Z",
+        "end": "2021-06-05T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pt1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryn"
+      },
+      "episode": {
+        "id": "m000wryp",
+        "title": "La Bohème"
+      },
+      "brand": {
+        "title": "Opera on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:30:00.000Z",
+        "end": "2021-06-05T19:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pt3",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryq"
+      },
+      "episode": {
+        "id": "m000wryr",
+        "title": "The Soldier's Tale"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:50:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pt4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrys"
+      },
+      "episode": {
+        "id": "m000wryt",
+        "title": "Jennifer Walshe and Neil Luck"
+      },
+      "brand": {
+        "title": "New Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-05T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pt5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryv"
+      },
+      "episode": {
+        "id": "m000wryw",
+        "title": "Surprising Solos"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

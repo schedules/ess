@@ -1,0 +1,428 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-20T03:27:46.126Z"
+  },
+  "items": [
+    {
+      "id": "p09gvfsb",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w79y"
+      },
+      "episode": {
+        "id": "m000w7b0",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:05:00.000Z",
+        "end": "2021-05-20T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfsc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9x4"
+      },
+      "episode": {
+        "id": "m000w9x5",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:50:00.000Z",
+        "end": "2021-05-20T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j2j4v",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9x4"
+      },
+      "episode": {
+        "id": "m000w9x5",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T05:00:00.000Z",
+        "end": "2021-05-20T07:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j2bwq",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000dfr8"
+      },
+      "episode": {
+        "id": "m000dfr9",
+        "title": "Stanley Baldwin"
+      },
+      "brand": {
+        "title": "Prime Properties"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T07:50:00.000Z",
+        "end": "2021-05-20T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkd",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9lq"
+      },
+      "episode": {
+        "id": "m000w9lr",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Wednesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T08:00:00.000Z",
+        "end": "2021-05-20T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkf",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbc1"
+      },
+      "episode": {
+        "id": "m000wbc2",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T08:30:00.000Z",
+        "end": "2021-05-20T09:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkg",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbc3"
+      },
+      "episode": {
+        "id": "m000wbc4",
+        "title": "Live Attorney General Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T09:10:00.000Z",
+        "end": "2021-05-20T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkh",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbc5"
+      },
+      "episode": {
+        "id": "m000wbc6",
+        "title": "Live Business Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T09:30:00.000Z",
+        "end": "2021-05-20T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j2j4w",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wq4j"
+      },
+      "episode": {
+        "id": "m000wq4k",
+        "title": "Live Future of the Railways Statement"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T10:30:00.000Z",
+        "end": "2021-05-20T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbc7"
+      },
+      "episode": {
+        "id": "m000wbc8",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T11:30:00.000Z",
+        "end": "2021-05-20T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w917"
+      },
+      "episode": {
+        "id": "m000w918",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Debate Night"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T16:30:00.000Z",
+        "end": "2021-05-20T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j2j4x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbcf"
+      },
+      "episode": {
+        "id": "m000wbcg",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Lords Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:30:00.000Z",
+        "end": "2021-05-20T18:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j2j4y",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wq4l"
+      },
+      "episode": {
+        "id": "m000wq4m",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T18:15:00.000Z",
+        "end": "2021-05-20T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbc9"
+      },
+      "episode": {
+        "id": "m000wbcb",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:30:00.000Z",
+        "end": "2021-05-20T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmw1v",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlw7"
+      },
+      "episode": {
+        "id": "m000wlw8",
+        "title": "Future of the Union Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T19:30:00.000Z",
+        "end": "2021-05-20T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbcc"
+      },
+      "episode": {
+        "id": "m000wbcd",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T22:00:00.000Z",
+        "end": "2021-05-20T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkn",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbcf"
+      },
+      "episode": {
+        "id": "m000wbcg",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Lords Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-20T22:30:00.000Z",
+        "end": "2021-05-20T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqkp",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w7fm"
+      },
+      "episode": {
+        "id": "m000w7fn",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-20T23:45:00.000Z"
+      }
+    }
+  ]
+}

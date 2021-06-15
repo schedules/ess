@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-16T03:22:25.771Z"
+  },
+  "items": [
+    {
+      "id": "p09gq6h9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6y4"
+      },
+      "episode": {
+        "id": "m000w6y5",
+        "title": "St Johnstone v Livingston"
+      },
+      "brand": {
+        "title": "Scottish Premiership"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-15T22:00:00.000Z",
+        "end": "2021-05-15T23:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b7wy58"
+      },
+      "episode": {
+        "id": "b0b7wz31",
+        "title": "Episode 6 - Isle of Arran"
+      },
+      "brand": {
+        "title": "Dhan Uisge"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:50:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6jv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyl5x",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wd73"
+      },
+      "episode": {
+        "id": "m000wd74",
+        "title": "Spartans v Rangers"
+      },
+      "brand": {
+        "title": "Scottish Women's Premier League"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:00:00.000Z",
+        "end": "2021-05-16T17:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyl5y",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jl0f"
+      },
+      "episode": {
+        "id": "m000jl0g",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:05:00.000Z",
+        "end": "2021-05-16T17:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6k7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xq"
+      },
+      "episode": {
+        "id": "m000w6xs",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:15:00.000Z",
+        "end": "2021-05-16T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6k8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xv"
+      },
+      "episode": {
+        "id": "m000w6xw",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Seachd Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:30:00.000Z",
+        "end": "2021-05-16T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6k9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xm"
+      },
+      "episode": {
+        "id": "m000w6xn",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Alleluia!"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:30:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000js68"
+      },
+      "episode": {
+        "id": "m000js69",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Leugh Mi/Book Show"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gj67"
+      },
+      "episode": {
+        "id": "m000gj68",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Dreach Ùr"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:30:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003bjb"
+      },
+      "episode": {
+        "id": "m0003bjc",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "DIY le Donnie"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T20:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jy55"
+      },
+      "episode": {
+        "id": "m000jy56",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:40:00.000Z",
+        "end": "2021-05-16T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kh",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xk"
+      },
+      "episode": {
+        "id": "m000w6xl",
+        "title": "A’ Dol Fodha/Going Under"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:45:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b07wswm3"
+      },
+      "episode": {
+        "id": "b07wsxmn",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-16T21:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gnzc"
+      },
+      "episode": {
+        "id": "m000gnzd",
+        "title": "Sgrios/Crash"
+      },
+      "brand": {
+        "title": "Eadar na Dha: 1918-1935/Clash of Futures: 1918-1935"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:55:00.000Z",
+        "end": "2021-05-16T22:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b7wy58"
+      },
+      "episode": {
+        "id": "b0b7wz31",
+        "title": "Episode 6 - Isle of Arran"
+      },
+      "brand": {
+        "title": "Dhan Uisge"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:50:00.000Z",
+        "end": "2021-05-16T23:00:00.000Z"
+      }
+    }
+  ]
+}

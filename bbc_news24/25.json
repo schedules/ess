@@ -1,0 +1,840 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-25T03:32:49.021Z"
+  },
+  "items": [
+    {
+      "id": "p09hgq2l",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whtr"
+      },
+      "episode": {
+        "id": "m000whts",
+        "title": "Tito Mboweni, South African Finance Minister"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:30:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2m",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whtt"
+      },
+      "episode": {
+        "id": "m000whtv",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2n",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whls"
+      },
+      "episode": {
+        "id": "m000whlt",
+        "title": "Israel-Gaza conflict rages online"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:30:00.000Z",
+        "end": "2021-05-25T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2p",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whtw"
+      },
+      "episode": {
+        "id": "m000whtx",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:00:00.000Z",
+        "end": "2021-05-25T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2q",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whty"
+      },
+      "episode": {
+        "id": "m000whtz",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Monday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:30:00.000Z",
+        "end": "2021-05-25T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2r",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whv0"
+      },
+      "episode": {
+        "id": "m000whv1",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T02:00:00.000Z",
+        "end": "2021-05-25T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2v",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfk2"
+      },
+      "episode": {
+        "id": "m000wfk3",
+        "title": "Kenyans on Safari"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T02:30:00.000Z",
+        "end": "2021-05-25T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2x",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whv2"
+      },
+      "episode": {
+        "id": "m000whv3",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T03:00:00.000Z",
+        "end": "2021-05-25T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq2z",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whtr"
+      },
+      "episode": {
+        "id": "m000whts",
+        "title": "Tito Mboweni, South African Finance Minister"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T03:30:00.000Z",
+        "end": "2021-05-25T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq31",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whv4"
+      },
+      "episode": {
+        "id": "m000whv5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:00:00.000Z",
+        "end": "2021-05-25T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgq33",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whv6"
+      },
+      "episode": {
+        "id": "m000whv7",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "World Business Report"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:30:00.000Z",
+        "end": "2021-05-25T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt0"
+      },
+      "episode": {
+        "id": "m000wfyd",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:00:00.000Z",
+        "end": "2021-05-25T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wgsg"
+      },
+      "episode": {
+        "id": "m000wgsj",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T08:00:00.000Z",
+        "end": "2021-05-25T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt1"
+      },
+      "episode": {
+        "id": "m000wgsl",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T09:00:00.000Z",
+        "end": "2021-05-25T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt2"
+      },
+      "episode": {
+        "id": "m000wfz1",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T12:00:00.000Z",
+        "end": "2021-05-25T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt3"
+      },
+      "episode": {
+        "id": "m000wjt4",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T12:30:00.000Z",
+        "end": "2021-05-25T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt5"
+      },
+      "episode": {
+        "id": "m000wjt6",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T13:00:00.000Z",
+        "end": "2021-05-25T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt7"
+      },
+      "episode": {
+        "id": "m000wjt8",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:00:00.000Z",
+        "end": "2021-05-25T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wg0h"
+      },
+      "episode": {
+        "id": "m000wg0k",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:00:00.000Z",
+        "end": "2021-05-25T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjt9"
+      },
+      "episode": {
+        "id": "m000wjtb",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:30:00.000Z",
+        "end": "2021-05-25T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwn",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtc"
+      },
+      "episode": {
+        "id": "m000wjtd",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:45:00.000Z",
+        "end": "2021-05-25T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrws",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtf"
+      },
+      "episode": {
+        "id": "m000wjtg",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Outside Source"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:00:00.000Z",
+        "end": "2021-05-25T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwv",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjth"
+      },
+      "episode": {
+        "id": "m000wjtj",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T19:00:00.000Z",
+        "end": "2021-05-25T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrww",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtk"
+      },
+      "episode": {
+        "id": "m000wjtl",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T20:00:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwx",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wg1k"
+      },
+      "episode": {
+        "id": "m000wg1n",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News at Ten"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-25T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwy",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtm"
+      },
+      "episode": {
+        "id": "m000wjtn",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:30:00.000Z",
+        "end": "2021-05-25T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrwz",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtp"
+      },
+      "episode": {
+        "id": "m000wjtq",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:45:00.000Z",
+        "end": "2021-05-25T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtr"
+      },
+      "episode": {
+        "id": "m000wjts",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:00:00.000Z",
+        "end": "2021-05-25T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtt"
+      },
+      "episode": {
+        "id": "m000wjtv",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:30:00.000Z",
+        "end": "2021-05-25T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjtw"
+      },
+      "episode": {
+        "id": "m000wjtx",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:00:00.000Z",
+        "end": "2021-05-25T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2hp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whtr"
+      },
+      "episode": {
+        "id": "m000whts",
+        "title": "Tito Mboweni, South African Finance Minister"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:30:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjv0"
+      },
+      "episode": {
+        "id": "m000wjv1",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfjw"
+      },
+      "episode": {
+        "id": "m000wfjx",
+        "title": "Shooting for the Stars"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:30:00.000Z",
+        "end": "2021-05-26T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjv2"
+      },
+      "episode": {
+        "id": "m000wjv3",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:00:00.000Z",
+        "end": "2021-05-26T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrx8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjv4"
+      },
+      "episode": {
+        "id": "m000wjv5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Tuesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:30:00.000Z",
+        "end": "2021-05-26T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhrxb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wjv6"
+      },
+      "episode": {
+        "id": "m000wjv7",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-26T02:00:00.000Z",
+        "end": "2021-05-26T02:30:00.000Z"
+      }
+    }
+  ]
+}

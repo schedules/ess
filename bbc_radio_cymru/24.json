@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:31:06.848Z"
+  },
+  "items": [
+    {
+      "id": "p09gw80c",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb3m"
+      },
+      "episode": {
+        "id": "m000wb3p",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-24T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw80d",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb3s"
+      },
+      "episode": {
+        "id": "m000wb3w",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "John Hardy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:30:00.000Z",
+        "end": "2021-05-24T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwby4",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wcl3"
+      },
+      "episode": {
+        "id": "m000wcl4",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T06:00:00.000Z",
+        "end": "2021-05-24T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwby7",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb5w"
+      },
+      "episode": {
+        "id": "m000wb5x",
+        "title": "Bob Dylan yn 80 oed"
+      },
+      "brand": {
+        "title": "Aled Hughes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T08:00:00.000Z",
+        "end": "2021-05-24T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwby8",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb5y"
+      },
+      "episode": {
+        "id": "m000wb5z",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Bore Cothi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T10:00:00.000Z",
+        "end": "2021-05-24T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbyb",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb60"
+      },
+      "episode": {
+        "id": "m000wb61",
+        "title": "Dewi Llwyd"
+      },
+      "brand": {
+        "title": "Dros Ginio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T11:30:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbyd",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb62"
+      },
+      "episode": {
+        "id": "m000wb64",
+        "title": "Dafydd Pantrod yn westai"
+      },
+      "brand": {
+        "title": "Ifan Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbyg",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb66"
+      },
+      "episode": {
+        "id": "m000wb67",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Post Prynhawn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbyh",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb6b"
+      },
+      "episode": {
+        "id": "m000wb6c",
+        "title": "Ffermio yn Llydaw"
+      },
+      "brand": {
+        "title": "Troi'r Tir"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbyk",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb6f"
+      },
+      "episode": {
+        "id": "m000wb6h",
+        "title": "Celf a Cherddoriaeth"
+      },
+      "brand": {
+        "title": "Recordiau Rhys Mwyn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:30:00.000Z",
+        "end": "2021-05-24T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbyl",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb6k"
+      },
+      "episode": {
+        "id": "m000wb6m",
+        "title": "Trafod \"Yr Amgueddfa\" - drama newydd sy'n cychwyn ar S4C cyn hir"
+      },
+      "brand": {
+        "title": "Stiwdio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T20:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbym",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb6p"
+      },
+      "episode": {
+        "id": "m000wb6s",
+        "title": "'Baton Twirling’ a Her yr Het"
+      },
+      "brand": {
+        "title": "Geraint Lloyd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-24T23:00:00.000Z"
+      }
+    }
+  ]
+}

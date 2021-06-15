@@ -1,0 +1,357 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:31:08.458Z"
+  },
+  "items": [
+    {
+      "id": "p09j9n96",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wtr0"
+      },
+      "episode": {
+        "id": "m000wtr3",
+        "title": "Dream on..."
+      },
+      "brand": {
+        "title": "Late Junction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9n99",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wtr6"
+      },
+      "episode": {
+        "id": "m000wtr9",
+        "title": "Ravel, Shostakovich and Mozart at the 2020 BBC Proms"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9n9b",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wtrd"
+      },
+      "episode": {
+        "id": "m000wtrg",
+        "title": "Vol 8: Music That Makes You Think, Makes You Feel"
+      },
+      "brand": {
+        "title": "Piano Flow with Lianne La Havas"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9x5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyxy"
+      },
+      "episode": {
+        "id": "m000wyxz",
+        "title": "Vol 8: Stunning harmonies from film soundtracks"
+      },
+      "brand": {
+        "title": "Happy Harmonies with Laufey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9x7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyy0"
+      },
+      "episode": {
+        "id": "m000wyy1",
+        "title": "Saturday - Elizabeth Alker"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:00:00.000Z",
+        "end": "2021-06-12T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9x8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyy2"
+      },
+      "episode": {
+        "id": "m000wyy3",
+        "title": "Orff's Carmina Burana in Building a Library with Jeremy Summerly and Andrew McGregor"
+      },
+      "brand": {
+        "title": "Record Review"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T08:00:00.000Z",
+        "end": "2021-06-12T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9x9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyy4"
+      },
+      "episode": {
+        "id": "m000wyy5",
+        "title": "Coventry UK City of Culture 2021"
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:45:00.000Z",
+        "end": "2021-06-12T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xb",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyy6"
+      },
+      "episode": {
+        "id": "m000wyy7",
+        "title": "Jess Gillam with...William Thomas"
+      },
+      "brand": {
+        "title": "This Classical Life"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:30:00.000Z",
+        "end": "2021-06-12T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyy8"
+      },
+      "episode": {
+        "id": "m000wyy9",
+        "title": "Conductor Vasily Petrenko finds space and time in music"
+      },
+      "brand": {
+        "title": "Inside Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:00:00.000Z",
+        "end": "2021-06-12T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyb"
+      },
+      "episode": {
+        "id": "m000wyyc",
+        "title": "Anxiety"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:00:00.000Z",
+        "end": "2021-06-12T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyd"
+      },
+      "episode": {
+        "id": "m000wyyf",
+        "title": "Andean Music from Colombia"
+      },
+      "brand": {
+        "title": "Music Planet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:00:00.000Z",
+        "end": "2021-06-12T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyg"
+      },
+      "episode": {
+        "id": "m000wyyh",
+        "title": "Nnenna Freelon"
+      },
+      "brand": {
+        "title": "J to Z"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:00:00.000Z",
+        "end": "2021-06-12T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyj"
+      },
+      "episode": {
+        "id": "m000wyyk",
+        "title": "La clemenza di Tito"
+      },
+      "brand": {
+        "title": "Opera on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:30:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyl"
+      },
+      "episode": {
+        "id": "m000wyym",
+        "title": "Trrhythms, Disparates and Troglodyte Angels"
+      },
+      "brand": {
+        "title": "New Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-12T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyn"
+      },
+      "episode": {
+        "id": "m000wyyp",
+        "title": "Wide-Open Space"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

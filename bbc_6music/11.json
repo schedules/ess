@@ -1,0 +1,403 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:46:34.729Z"
+  },
+  "items": [
+    {
+      "id": "p09j6f52",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wt5h"
+      },
+      "episode": {
+        "id": "m000wt5j",
+        "title": "with Steve Lamacq"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f54",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wt5k"
+      },
+      "episode": {
+        "id": "m000wt5l",
+        "title": "with Lauren Laverne"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f56",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wt5m"
+      },
+      "episode": {
+        "id": "m000wt5n",
+        "title": "Sherelle sits in"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:00:00.000Z",
+        "end": "2021-06-11T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f59",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wt5p"
+      },
+      "episode": {
+        "id": "m000wt5q",
+        "title": "with Tom Ravenscroft"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T02:00:00.000Z",
+        "end": "2021-06-11T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5c",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wt5r"
+      },
+      "episode": {
+        "id": "m000wt5s",
+        "title": "The New Music Playlist"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T03:00:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5d",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wt5t"
+      },
+      "episode": {
+        "id": "m000wt5v",
+        "title": "The Awesome Segue"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgl",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmc"
+      },
+      "episode": {
+        "id": "m000wtmd",
+        "title": "Lynks Desert Island Disco and Photographer Rankin"
+      },
+      "brand": {
+        "title": "Lauren Laverne"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T06:30:00.000Z",
+        "end": "2021-06-11T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgm",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmf"
+      },
+      "episode": {
+        "id": "m000wtmg",
+        "title": "The Blessed Madonna sits in"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:30:00.000Z",
+        "end": "2021-06-11T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgn",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmh"
+      },
+      "episode": {
+        "id": "m000wtmj",
+        "title": "Loraine James' Friday Guest Mix"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T11:00:00.000Z",
+        "end": "2021-06-11T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgp",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmk"
+      },
+      "episode": {
+        "id": "m000wtmm",
+        "title": "The Blessed Madonna sits in"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T11:30:00.000Z",
+        "end": "2021-06-11T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l3vs0",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000xccn"
+      },
+      "episode": {
+        "id": "m000xccp",
+        "title": "Goal Soundz"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:00:00.000Z",
+        "end": "2021-06-11T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgq",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmp"
+      },
+      "episode": {
+        "id": "m000wtmr",
+        "title": "Ep 579 - Comedian Alex Horne joins Shaun in the 6 Music virtual Pub"
+      },
+      "brand": {
+        "title": "Shaun Keaveny"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:30:00.000Z",
+        "end": "2021-06-11T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgr",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtms"
+      },
+      "episode": {
+        "id": "m000wtmt",
+        "title": "Friday Free For All"
+      },
+      "brand": {
+        "title": "Steve Lamacq"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T15:00:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgs",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmv"
+      },
+      "episode": {
+        "id": "m000wtmw",
+        "title": "Returning with some brand new Brian Jonestown Massacre"
+      },
+      "brand": {
+        "title": "Iggy Pop"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgt",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmx"
+      },
+      "episode": {
+        "id": "m000wtmy",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Tom Ravenscroft"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T20:00:00.000Z",
+        "end": "2021-06-11T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9qgv",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wtmz"
+      },
+      "episode": {
+        "id": "m000wtn0",
+        "title": "The Ravers Hour with Squarepusher"
+      },
+      "brand": {
+        "title": "Tom Ravenscroft"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:00:00.000Z",
+        "end": "2021-06-11T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l35dc",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000rnt9"
+      },
+      "episode": {
+        "id": "m000rntb",
+        "title": "Block out distraction with two hours of beats"
+      },
+      "brand": {
+        "title": "Focus Beats"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-12T01:00:00.000Z"
+      }
+    }
+  ]
+}

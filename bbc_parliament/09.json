@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-09T03:36:26.967Z"
+  },
+  "items": [
+    {
+      "id": "p09jwt6z",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wvzj"
+      },
+      "episode": {
+        "id": "m000wvzm",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:30:00.000Z",
+        "end": "2021-06-09T00:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt70",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12t"
+      },
+      "episode": {
+        "id": "m000x12v",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:15:00.000Z",
+        "end": "2021-06-09T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kxpvc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x8dh"
+      },
+      "episode": {
+        "id": "m000x8dj",
+        "title": "Covid-19 Statement"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T07:00:00.000Z",
+        "end": "2021-06-09T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtfx",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzn5"
+      },
+      "episode": {
+        "id": "m000wzn6",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Tuesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:00:00.000Z",
+        "end": "2021-06-09T08:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09km07s",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x7jz"
+      },
+      "episode": {
+        "id": "m000x7k0",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Political Highlights"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:30:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kxpvd",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x8dk"
+      },
+      "episode": {
+        "id": "m000x8dl",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Senedd Cymru - Welsh Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:25:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtfy",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13b"
+      },
+      "episode": {
+        "id": "m000x13c",
+        "title": "Violence against Women and Girls Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtfz",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13d"
+      },
+      "episode": {
+        "id": "m000x13f",
+        "title": "Live COP26 UN Climate Summit Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T10:30:00.000Z",
+        "end": "2021-06-09T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtg0",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13g"
+      },
+      "episode": {
+        "id": "m000x13h",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:00:00.000Z",
+        "end": "2021-06-09T11:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtg2",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13j"
+      },
+      "episode": {
+        "id": "m000x13k",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:35:00.000Z",
+        "end": "2021-06-09T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09km07v",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x7k1"
+      },
+      "episode": {
+        "id": "m000x7k2",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Lords Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:30:00.000Z",
+        "end": "2021-06-09T19:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtg3",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13l"
+      },
+      "episode": {
+        "id": "m000x13m",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T19:15:00.000Z",
+        "end": "2021-06-09T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09km07x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x7k3"
+      },
+      "episode": {
+        "id": "m000x7k4",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T20:00:00.000Z",
+        "end": "2021-06-09T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtg4",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzpn"
+      },
+      "episode": {
+        "id": "m000wzpp",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Wednesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:00:00.000Z",
+        "end": "2021-06-09T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtg5",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13g"
+      },
+      "episode": {
+        "id": "m000x13h",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:30:00.000Z",
+        "end": "2021-06-09T23:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwtg6",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000ww16"
+      },
+      "episode": {
+        "id": "m000ww18",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:05:00.000Z",
+        "end": "2021-06-10T00:50:00.000Z"
+      }
+    }
+  ]
+}

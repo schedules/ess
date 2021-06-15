@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-25T03:24:37.653Z"
+  },
+  "items": [
+    {
+      "id": "p09gwbkl",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wck2"
+      },
+      "episode": {
+        "id": "m000wck3",
+        "title": "In Their Own Words: Marvin Gaye - What’s Going On"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbkm",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wck5"
+      },
+      "episode": {
+        "id": "b03zdfj9",
+        "title": "Trouble Man"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbkp",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000rgfx"
+      },
+      "episode": {
+        "id": "m000rgfy",
+        "title": "Insight - Marvin Gaye:  Episode 1"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:00:00.000Z",
+        "end": "2021-05-25T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbks",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b00t4rrs"
+      },
+      "episode": {
+        "id": "m000rgg6",
+        "title": "Insight - Marvin Gaye: Episode 2"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T02:00:00.000Z",
+        "end": "2021-05-25T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbkv",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wck6"
+      },
+      "episode": {
+        "id": "m000wck7",
+        "title": "The Marvin Gaye Playlist"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T03:00:00.000Z",
+        "end": "2021-05-25T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwbl0",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wck8"
+      },
+      "episode": {
+        "id": "m000wck9",
+        "title": "Lost Love"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:00:00.000Z",
+        "end": "2021-05-25T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85r",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcfy"
+      },
+      "episode": {
+        "id": "m000wcfz",
+        "title": "The Maths of Life and 6 Music Salutes"
+      },
+      "brand": {
+        "title": "Lauren Laverne"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T06:30:00.000Z",
+        "end": "2021-05-25T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85t",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcg0"
+      },
+      "episode": {
+        "id": "m000wcg1",
+        "title": "With Music From The Near Future"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T09:30:00.000Z",
+        "end": "2021-05-25T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85v",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcg2"
+      },
+      "episode": {
+        "id": "m000wcg3",
+        "title": "Ep 566 - Katy J Pearson & Joe Lycett chat to Shaun"
+      },
+      "brand": {
+        "title": "Shaun Keaveny"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T12:00:00.000Z",
+        "end": "2021-05-25T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85w",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcg4"
+      },
+      "episode": {
+        "id": "m000wcg5",
+        "title": "Kid Critics"
+      },
+      "brand": {
+        "title": "Steve Lamacq"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T15:00:00.000Z",
+        "end": "2021-05-25T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85x",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcg6"
+      },
+      "episode": {
+        "id": "m000wcg7",
+        "title": "Anagram Sam and 12 Second Album"
+      },
+      "brand": {
+        "title": "Marc Riley"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:00:00.000Z",
+        "end": "2021-05-25T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85y",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcg8"
+      },
+      "episode": {
+        "id": "m000wcg9",
+        "title": "Sonic Youth in Concert"
+      },
+      "brand": {
+        "title": "Gideon Coe"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T20:00:00.000Z",
+        "end": "2021-05-25T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw85z",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcgb"
+      },
+      "episode": {
+        "id": "m000wcgc",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht2j5",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0000w11"
+      },
+      "episode": {
+        "id": "m0000w12",
+        "title": "The 6 Music Black Power Soundscape"
+      },
+      "brand": {
+        "title": "The 6 Music Black Power Soundscape"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gy6bf",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0002rz8"
+      },
+      "episode": {
+        "id": "m0002rz9",
+        "title": "Maggie Gyllenhaal"
+      },
+      "brand": {
+        "title": "Sound and Vision"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:00:00.000Z",
+        "end": "2021-05-26T02:00:00.000Z"
+      }
+    }
+  ]
+}

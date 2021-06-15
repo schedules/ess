@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:39:03.045Z"
+  },
+  "items": [
+    {
+      "id": "p09h05px",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wdfb"
+      },
+      "episode": {
+        "id": "m000wdfc",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:30:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05py",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wdfd"
+      },
+      "episode": {
+        "id": "m000wdff",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Vicki Blight"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj5x",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk80"
+      },
+      "episode": {
+        "id": "m000wk81",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Radio Wales Breakfast with Oliver Hides"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T06:00:00.000Z",
+        "end": "2021-05-29T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj5z",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk82"
+      },
+      "episode": {
+        "id": "m000wk83",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Money for Nothing"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T08:00:00.000Z",
+        "end": "2021-05-29T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj60",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk84"
+      },
+      "episode": {
+        "id": "m000wk85",
+        "title": "Ruby Wax and Tom Allen join Carol on the show"
+      },
+      "brand": {
+        "title": "Carol Vorderman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T10:30:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj64",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk86"
+      },
+      "episode": {
+        "id": "m000wk87",
+        "title": "Championship play-off final preview"
+      },
+      "brand": {
+        "title": "Radio Wales Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj66",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk88"
+      },
+      "episode": {
+        "id": "m000wk89",
+        "title": "Brentford v Swansea"
+      },
+      "brand": {
+        "title": "Radio Wales Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj69",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk8d"
+      },
+      "episode": {
+        "id": "m000wk8f",
+        "title": "Championship play-off final: Your reaction"
+      },
+      "brand": {
+        "title": "Call Rob Phillips"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T16:30:00.000Z",
+        "end": "2021-05-29T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj6c",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk8g"
+      },
+      "episode": {
+        "id": "m000wk8h",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Bethan Elfyn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjj6j",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wk8j"
+      },
+      "episode": {
+        "id": "m000wk8k",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC Introducing with Adam Walton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_norfolk"
+  },
+  "service": {
+    "id": "bbc_radio_norfolk",
+    "name": "BBC Radio Norfolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-20T03:37:46.529Z"
+  },
+  "items": [
+    {
+      "id": "p09gnss6",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsry"
+      },
+      "episode": {
+        "id": "p09gnsrk",
+        "title": "With Nick Risby (19/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnssf",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09g42yh"
+      },
+      "episode": {
+        "id": "p09g42y6",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:00:00.000Z",
+        "end": "2021-05-20T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnssh",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09g4cqb"
+      },
+      "episode": {
+        "id": "p09g42yt",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-20T04:00:00.000Z",
+        "end": "2021-05-20T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnst0",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsst"
+      },
+      "episode": {
+        "id": "p09gnssj",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Chris Goreham"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-20T05:00:00.000Z",
+        "end": "2021-05-20T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnstk",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnstg"
+      },
+      "episode": {
+        "id": "p09gnstb",
+        "title": "With Sophie Little (20/05/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-20T09:00:00.000Z",
+        "end": "2021-05-20T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsv8",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnstz"
+      },
+      "episode": {
+        "id": "p09gnstr",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Stephen Bumfrey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-20T13:00:00.000Z",
+        "end": "2021-05-20T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsvz",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsvv"
+      },
+      "episode": {
+        "id": "p09gnsvl",
+        "title": "With Kitty Perrin (20/05/2021)"
+      },
+      "brand": {
+        "title": "The Social"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:00:00.000Z",
+        "end": "2021-05-20T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsw9",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsw6"
+      },
+      "episode": {
+        "id": "p09gnsw3",
+        "title": "With Nick Risby (20/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-21T00:00:00.000Z"
+      }
+    }
+  ]
+}

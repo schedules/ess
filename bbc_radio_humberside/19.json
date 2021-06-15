@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_humberside"
+  },
+  "service": {
+    "id": "bbc_radio_humberside",
+    "name": "BBC Radio Humberside",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:37:46.620Z"
+  },
+  "items": [
+    {
+      "id": "p09gl5ck",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gl5c9"
+      },
+      "episode": {
+        "id": "p09gl5c1",
+        "title": "Russell Walker: Songs for Ice Cream."
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl6vq",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09g428f"
+      },
+      "episode": {
+        "id": "p09g4288",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl6vt",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09g4c5c"
+      },
+      "episode": {
+        "id": "p09g428z",
+        "title": "Claira Hermet sits in (19/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl6wf",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gl6w6"
+      },
+      "episode": {
+        "id": "p09gl6vw",
+        "title": "19/05/2021 Kofi Smiles"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl6xp",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gl6xf"
+      },
+      "episode": {
+        "id": "p09gl6x3",
+        "title": "19/05/2021 David Burns"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:00:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl6zz",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gl6z3"
+      },
+      "episode": {
+        "id": "p09gl6yb",
+        "title": "19/05/2021 Andy Comfort"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl71f",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gl70y"
+      },
+      "episode": {
+        "id": "p09gl70l",
+        "title": "19/05/2021 Fiona Mills"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl72w",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gl72q"
+      },
+      "episode": {
+        "id": "p09gl72g",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    }
+  ]
+}

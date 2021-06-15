@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_essex"
+  },
+  "service": {
+    "id": "bbc_radio_essex",
+    "name": "BBC Essex",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:22:54.729Z"
+  },
+  "items": [
+    {
+      "id": "p09h4skz",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4skk"
+      },
+      "episode": {
+        "id": "p09h4sjy",
+        "title": "David Clayton (23/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Essex"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgb00",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4syb",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4sz5",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4syv"
+      },
+      "episode": {
+        "id": "p09h4syh",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Sonia Watson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4t09",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4szz"
+      },
+      "episode": {
+        "id": "p09h4szn",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Ben Fryer"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4t16",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4t14"
+      },
+      "episode": {
+        "id": "p09h4t0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Sadie Nine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4t1g",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4t1b"
+      },
+      "episode": {
+        "id": "p09h4t17",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Rob Jelly"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4t1t",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4t1n"
+      },
+      "episode": {
+        "id": "p09h4t1k",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Tony Fisher"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

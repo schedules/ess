@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:42:19.808Z"
+  },
+  "items": [
+    {
+      "id": "p09jjx2w",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjx2r"
+      },
+      "episode": {
+        "id": "p09jjx2m",
+        "title": "Connor Phillips sits in (10/06/2021)"
+      },
+      "brand": {
+        "title": "Anna Jameson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx36",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09j3p8w"
+      },
+      "episode": {
+        "id": "p09j3p8s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx3f",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09j77dk"
+      },
+      "episode": {
+        "id": "p09j3p93",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx3q",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09j77fn"
+      },
+      "episode": {
+        "id": "p09j77f4",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:50:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx4c",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjx43"
+      },
+      "episode": {
+        "id": "p09jjx3w",
+        "title": "Euro 2020"
+      },
+      "brand": {
+        "title": "Justin Moorhouse"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx59",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjx51"
+      },
+      "episode": {
+        "id": "p09jjx4m",
+        "title": "Charlie Thompson"
+      },
+      "brand": {
+        "title": "Stacey Copeland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx6n",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjx6d"
+      },
+      "episode": {
+        "id": "p09jjx5x",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Phil Trow"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:00:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx74",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjx6x"
+      },
+      "episode": {
+        "id": "p09jjx6v",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Talking Balls"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjx7f",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjx7c"
+      },
+      "episode": {
+        "id": "p09jjx78",
+        "title": "With Shell Zenner (11/06/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Manchester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn38r",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jn2ll"
+      },
+      "episode": {
+        "id": "p09jn2l1",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Linda McDermott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_merseyside"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

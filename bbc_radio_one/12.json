@@ -1,0 +1,474 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:38:18.896Z"
+  },
+  "items": [
+    {
+      "id": "p09j9m3x",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wtnp"
+      },
+      "episode": {
+        "id": "m000wtnq",
+        "title": "London Grammar"
+      },
+      "brand": {
+        "title": "Radio 1's Essential Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-12T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m3y",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wtnr"
+      },
+      "episode": {
+        "id": "m000wtns",
+        "title": "HE.SHE.THEY: Jaye Ward"
+      },
+      "brand": {
+        "title": "Radio 1 Dance Presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:00:00.000Z",
+        "end": "2021-06-12T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m3z",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wtnt"
+      },
+      "episode": {
+        "id": "m000wtnv",
+        "title": "Go Hard!"
+      },
+      "brand": {
+        "title": "Annie Mac in the Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:00:00.000Z",
+        "end": "2021-06-12T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m40",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vz7q"
+      },
+      "episode": {
+        "id": "m000vz7r",
+        "title": "Festival Main Stage!"
+      },
+      "brand": {
+        "title": "Annie Mac in the Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:30:00.000Z",
+        "end": "2021-06-12T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ktjyg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000sbjh"
+      },
+      "episode": {
+        "id": "m000sbjj",
+        "title": "XL Recordings: Overmono"
+      },
+      "brand": {
+        "title": "Radio 1's Wind Down Presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T03:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m42",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wtpg"
+      },
+      "episode": {
+        "id": "m000wtph",
+        "title": "Unwind with Miley Cyrus, Kanye West & more"
+      },
+      "brand": {
+        "title": "Radio 1 relax"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqn",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wxzq"
+      },
+      "episode": {
+        "id": "m000wxzr",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "The Happy Hour from Radio 1"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wxzs"
+      },
+      "episode": {
+        "id": "m000wxzt",
+        "title": "Saturday 12th June"
+      },
+      "brand": {
+        "title": "Radio 1 Weekend Breakfast with Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqq",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wxzv"
+      },
+      "episode": {
+        "id": "m000wxzw",
+        "title": "with Adele Roberts"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqs",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wxzx"
+      },
+      "episode": {
+        "id": "m000wxzy",
+        "title": "with Jordan North"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:32:00.000Z",
+        "end": "2021-06-12T10:02:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqt",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wxzz"
+      },
+      "episode": {
+        "id": "m000wy00",
+        "title": "Kicked Out The Gym"
+      },
+      "brand": {
+        "title": "Jordan North"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:02:00.000Z",
+        "end": "2021-06-12T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqv",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy01"
+      },
+      "episode": {
+        "id": "m000wy02",
+        "title": "Play along with the Listener Quiz, and hear another 'You Wouldn't Believe It...' story!"
+      },
+      "brand": {
+        "title": "Matt and Mollie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:00:00.000Z",
+        "end": "2021-06-12T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqw",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy03"
+      },
+      "episode": {
+        "id": "m000wy04",
+        "title": "Classic Dance Anthems with Charlie Hedges"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:00:00.000Z",
+        "end": "2021-06-12T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqx",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy05"
+      },
+      "episode": {
+        "id": "m000wy06",
+        "title": "Euros Special: Classic Dance Anthems with Charlie Hedges"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqy",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy07"
+      },
+      "episode": {
+        "id": "m000wy08",
+        "title": "Today's Dance Anthems with Charlie Hedges"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkqz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy09"
+      },
+      "episode": {
+        "id": "m000wy0b",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra's Takeover with DJ Target"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkr1",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy0c"
+      },
+      "episode": {
+        "id": "m000wy0f",
+        "title": "Evolution of Wizkid"
+      },
+      "brand": {
+        "title": "1Xtra's Rap Show with Tiffany Calver"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkr2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy0h"
+      },
+      "episode": {
+        "id": "m000wy0k",
+        "title": "Benzi presents Mom Trapz in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:00:00.000Z",
+        "end": "2021-06-12T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkr3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy0m"
+      },
+      "episode": {
+        "id": "m000wy0p",
+        "title": "Andhim in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkr4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy0r"
+      },
+      "episode": {
+        "id": "m000wy0t",
+        "title": "Glastonbury 2013 - Rudimental & Diplo"
+      },
+      "brand": {
+        "title": "Radio 1's Classic Essential Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T02:00:00.000Z"
+      }
+    }
+  ]
+}

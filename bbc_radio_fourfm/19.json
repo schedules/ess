@@ -1,0 +1,1054 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_fourfm"
+  },
+  "service": {
+    "id": "bbc_radio_fourfm",
+    "name": "BBC Radio 4 FM",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:27:54.123Z"
+  },
+  "items": [
+    {
+      "id": "p09g7bbj",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tf"
+      },
+      "episode": {
+        "id": "m000w4tg",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Midnight News"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-18T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bbk",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4th"
+      },
+      "episode": {
+        "id": "m000w4tj",
+        "title": "Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:30:00.000Z",
+        "end": "2021-05-18T23:48:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bbp",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tk"
+      },
+      "episode": {
+        "id": "m000w4tl",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Shipping Forecast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:48:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bbs",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tm"
+      },
+      "episode": {
+        "id": "m000w4tn",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Selection of BBC World Service Programmes"
+      },
+      "masterbrand": {
+        "id": "bbc_world_service"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T04:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bbw",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tp"
+      },
+      "episode": {
+        "id": "m000w4tq",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Shipping Forecast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:20:00.000Z",
+        "end": "2021-05-19T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bbx",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tr"
+      },
+      "episode": {
+        "id": "m000w4ts",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "News Briefing"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:30:00.000Z",
+        "end": "2021-05-19T04:43:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bby",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tt"
+      },
+      "episode": {
+        "id": "m000w4tv",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Prayer for the Day"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:43:00.000Z",
+        "end": "2021-05-19T04:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bc0",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w4tw"
+      },
+      "episode": {
+        "id": "m000w4tx",
+        "title": "19/05/21 - Lowland peat re-wetting, phasing out peat for horticulture and land rights."
+      },
+      "brand": {
+        "title": "Farming Today"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:45:00.000Z",
+        "end": "2021-05-19T04:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7bc1",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "b09snm74"
+      },
+      "episode": {
+        "id": "b09snn7p",
+        "title": "Helen Moncrieff on the Fulmar"
+      },
+      "brand": {
+        "title": "Tweet of the Day"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:58:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h1s",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32c"
+      },
+      "episode": {
+        "id": "m000w32d",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Today"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gy5c2",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33s"
+      },
+      "episode": {
+        "id": "m000w33t",
+        "title": "The near-death experience that made me a musician"
+      },
+      "brand": {
+        "title": "Life Changing"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T08:00:00.000Z",
+        "end": "2021-05-19T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h1t",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "b09z60gt"
+      },
+      "episode": {
+        "id": "b09z62h2",
+        "title": "Li Qingzhao: Patriotic Poet"
+      },
+      "brand": {
+        "title": "Chinese Characters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T08:30:00.000Z",
+        "end": "2021-05-19T08:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h1v",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w345"
+      },
+      "episode": {
+        "id": "m000w346",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T08:45:00.000Z",
+        "end": "2021-05-19T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h1w",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32h"
+      },
+      "episode": {
+        "id": "m000w32j",
+        "title": "Police abuse supercomplaint, Alice in Wonderland Exhibition and Consensual non-monogamy"
+      },
+      "brand": {
+        "title": "Woman's Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:00:00.000Z",
+        "end": "2021-05-19T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h1x",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32k"
+      },
+      "episode": {
+        "id": "m000w32l",
+        "title": "Burnley"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T10:00:00.000Z",
+        "end": "2021-05-19T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h1z",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "b07x5tdt"
+      },
+      "episode": {
+        "id": "b07x5vs3",
+        "title": "Gibraltar"
+      },
+      "brand": {
+        "title": "Mark Steel's in Town"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T10:30:00.000Z",
+        "end": "2021-05-19T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h20",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w566"
+      },
+      "episode": {
+        "id": "m000w567",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "News Summary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T11:00:00.000Z",
+        "end": "2021-05-19T11:04:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h22",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32p"
+      },
+      "episode": {
+        "id": "m000w32q",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T11:04:00.000Z",
+        "end": "2021-05-19T11:18:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h24",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32s"
+      },
+      "episode": {
+        "id": "m000w32t",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "You and Yours"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T11:18:00.000Z",
+        "end": "2021-05-19T11:57:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h26",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32v"
+      },
+      "episode": {
+        "id": "m000w32w",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Weather"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T11:57:00.000Z",
+        "end": "2021-05-19T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h27",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32x"
+      },
+      "episode": {
+        "id": "m000w32y",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "World at One"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T12:00:00.000Z",
+        "end": "2021-05-19T12:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h29",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32z"
+      },
+      "episode": {
+        "id": "m000w330",
+        "title": "Three: Vanishing Acts (1966-1979)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T12:45:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2b",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w332"
+      },
+      "episode": {
+        "id": "m000w333",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "The Archers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2d",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w334"
+      },
+      "episode": {
+        "id": "m000w335",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "GF Newman's The Corrupted"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:15:00.000Z",
+        "end": "2021-05-19T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2g",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w336"
+      },
+      "episode": {
+        "id": "m000w337",
+        "title": "MBL: Mortgages & the Pandemic"
+      },
+      "brand": {
+        "title": "Money Box"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T14:00:00.000Z",
+        "end": "2021-05-19T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2h",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w338"
+      },
+      "episode": {
+        "id": "m000w339",
+        "title": "Voices & personality; Awards; canine jealousy; misophonia - noises that cause anger & anxiety, pink drinks make you run faster"
+      },
+      "brand": {
+        "title": "All in the Mind"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T14:30:00.000Z",
+        "end": "2021-05-19T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2j",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33b"
+      },
+      "episode": {
+        "id": "m000w33c",
+        "title": "Fitness & fatness"
+      },
+      "brand": {
+        "title": "Thinking Allowed"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T15:00:00.000Z",
+        "end": "2021-05-19T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2k",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33d"
+      },
+      "episode": {
+        "id": "m000w33f",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T15:30:00.000Z",
+        "end": "2021-05-19T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2l",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33g"
+      },
+      "episode": {
+        "id": "m000w33h",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "PM"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:00:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2m",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33l"
+      },
+      "episode": {
+        "id": "m000w33m",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Six O'Clock News"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2n",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "b08nq9m8"
+      },
+      "episode": {
+        "id": "b08nq9wk",
+        "title": "Dewey Decimal"
+      },
+      "brand": {
+        "title": "Shush!"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:30:00.000Z",
+        "end": "2021-05-19T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2p",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33n"
+      },
+      "episode": {
+        "id": "m000w33p",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "The Archers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:00:00.000Z",
+        "end": "2021-05-19T18:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2q",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33q"
+      },
+      "episode": {
+        "id": "m000w33r",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Front Row"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:15:00.000Z",
+        "end": "2021-05-19T18:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2t",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000jw0s"
+      },
+      "episode": {
+        "id": "m000jw0t",
+        "title": "Ward 5B"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:45:00.000Z",
+        "end": "2021-05-19T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2v",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33s"
+      },
+      "episode": {
+        "id": "m000w33t",
+        "title": "The near-death experience that made me a musician"
+      },
+      "brand": {
+        "title": "Life Changing"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:00:00.000Z",
+        "end": "2021-05-19T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2w",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000t6r6"
+      },
+      "episode": {
+        "id": "m000t6r7",
+        "title": "Dreaming of Damascus"
+      },
+      "brand": {
+        "title": "Art of Now"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:30:00.000Z",
+        "end": "2021-05-19T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2x",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33v"
+      },
+      "episode": {
+        "id": "m000w33w",
+        "title": "\"Greenfinger\""
+      },
+      "brand": {
+        "title": "Costing the Earth"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T20:00:00.000Z",
+        "end": "2021-05-19T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2y",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33d"
+      },
+      "episode": {
+        "id": "m000w33f",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T20:30:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h2z",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33x"
+      },
+      "episode": {
+        "id": "m000w33y",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "The World Tonight"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-19T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h31",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w32p"
+      },
+      "episode": {
+        "id": "m000w32q",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:45:00.000Z",
+        "end": "2021-05-19T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h33",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w33z"
+      },
+      "episode": {
+        "id": "m000w340",
+        "title": "To The Stage"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T22:00:00.000Z",
+        "end": "2021-05-19T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h35",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "b09tf6zt"
+      },
+      "episode": {
+        "id": "b09tf719",
+        "title": "07/03/2018"
+      },
+      "brand": {
+        "title": "Domestic Science"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T22:15:00.000Z",
+        "end": "2021-05-19T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h37",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w341"
+      },
+      "episode": {
+        "id": "m000w342",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Today in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T22:30:00.000Z",
+        "end": "2021-05-19T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h3b",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w343"
+      },
+      "episode": {
+        "id": "m000w344",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Midnight News"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:00:00.000Z",
+        "end": "2021-05-19T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h3d",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w345"
+      },
+      "episode": {
+        "id": "m000w346",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:30:00.000Z",
+        "end": "2021-05-19T23:48:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7h3g",
+      "service": {
+        "id": "bbc_radio_fourfm"
+      },
+      "version": {
+        "id": "m000w348"
+      },
+      "episode": {
+        "id": "m000w349",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Shipping Forecast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:48:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    }
+  ]
+}

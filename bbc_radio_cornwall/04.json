@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cornwall"
+  },
+  "service": {
+    "id": "bbc_radio_cornwall",
+    "name": "BBC Radio Cornwall",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:28:20.081Z"
+  },
+  "items": [
+    {
+      "id": "p09hll0k",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hll0f"
+      },
+      "episode": {
+        "id": "p09hll09",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlljg",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hghtn"
+      },
+      "episode": {
+        "id": "p09hghth",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:00:00.000Z",
+        "end": "2021-06-04T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlljj",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hl55j"
+      },
+      "episode": {
+        "id": "p09hghv6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:00:00.000Z",
+        "end": "2021-06-04T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlljq",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hlljn"
+      },
+      "episode": {
+        "id": "p09hlljk",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "James Churchfield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:00:00.000Z",
+        "end": "2021-06-04T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hllk3",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hlljx"
+      },
+      "episode": {
+        "id": "p09hlljs",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "David White"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-06-04T09:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hllkt",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hllkn"
+      },
+      "episode": {
+        "id": "p09hllkg",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Julie Skentelbery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hllld",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hlll4"
+      },
+      "episode": {
+        "id": "p09hlll1",
+        "title": "Daniel Pascoe sits in (04/06/2021)"
+      },
+      "brand": {
+        "title": "Tiffany Truscott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlllq",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09hlllm"
+      },
+      "episode": {
+        "id": "p09hlllh",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    }
+  ]
+}

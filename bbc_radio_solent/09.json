@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_solent"
+  },
+  "service": {
+    "id": "bbc_radio_solent",
+    "name": "BBC Radio Solent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:32:55.481Z"
+  },
+  "items": [
+    {
+      "id": "p09jkgkp",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j75yk"
+      },
+      "episode": {
+        "id": "p09j75yg",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgy1",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j3n7d"
+      },
+      "episode": {
+        "id": "p09j3n76",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgym",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j767j"
+      },
+      "episode": {
+        "id": "p09j3n7t",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgz4",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgyy"
+      },
+      "episode": {
+        "id": "p09jkgyt",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Alun Newman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgzr",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgzl"
+      },
+      "episode": {
+        "id": "p09jkgzb",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Pat Sissons"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh0s",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkh0k"
+      },
+      "episode": {
+        "id": "p09jkh03",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Louisa Hannan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jms1r",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgkb"
+      },
+      "episode": {
+        "id": "p09jkgk1",
+        "title": "Kent Spitfires v Hampshire Hawks"
+      },
+      "brand": {
+        "title": "Summer Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh20",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j76c9"
+      },
+      "episode": {
+        "id": "p09j76by",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    }
+  ]
+}

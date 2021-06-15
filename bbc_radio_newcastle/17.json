@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_newcastle"
+  },
+  "service": {
+    "id": "bbc_radio_newcastle",
+    "name": "BBC Newcastle",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:32:27.649Z"
+  },
+  "items": [
+    {
+      "id": "p09glytx",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09glytt"
+      },
+      "episode": {
+        "id": "p09glytr",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Solid Gold Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gly5j",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09g40m8"
+      },
+      "episode": {
+        "id": "p09g40m4",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gly5r",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09g4cvg"
+      },
+      "episode": {
+        "id": "p09g40mm",
+        "title": "Claira Hermet sits in (17/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:00:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gly6f",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gly63"
+      },
+      "episode": {
+        "id": "p09gly5x",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Alfie Joey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gly76",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gly6z"
+      },
+      "episode": {
+        "id": "p09gly6q",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Lisa Shaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gly7s",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gly7l"
+      },
+      "episode": {
+        "id": "p09gly7c",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Anna Foster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gstl8",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gly81"
+      },
+      "episode": {
+        "id": "p09gly7y",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Total Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T18:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gstly",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gstlr"
+      },
+      "episode": {
+        "id": "p09gstlf",
+        "title": "Newcastle Falcons v Northampton Saints"
+      },
+      "brand": {
+        "title": "North East Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:20:00.000Z",
+        "end": "2021-05-17T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gstmf",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gly8j"
+      },
+      "episode": {
+        "id": "p09gly8c",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Newcastle"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-17T20:30:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gly9l",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09gly9c"
+      },
+      "episode": {
+        "id": "p09gly92",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    }
+  ]
+}

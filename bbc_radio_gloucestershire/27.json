@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_gloucestershire"
+  },
+  "service": {
+    "id": "bbc_radio_gloucestershire",
+    "name": "BBC Radio Gloucestershire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:30:52.010Z"
+  },
+  "items": [
+    {
+      "id": "p09h4v4y",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h4904"
+      },
+      "episode": {
+        "id": "p09h4902",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vbb",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vbg",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vc5",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h4vbx"
+      },
+      "episode": {
+        "id": "p09h4vbm",
+        "title": "With Steve Kitchen 27/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vdp",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h4vd9"
+      },
+      "episode": {
+        "id": "p09h4vcy",
+        "title": "With Anna King 27/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vff",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h4vf6"
+      },
+      "episode": {
+        "id": "p09h4vdz",
+        "title": "With Nicky Price 27/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vgx",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h4vgm"
+      },
+      "episode": {
+        "id": "p09h4vg9",
+        "title": "With Maddie Simpson 27/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vjg",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h4vj8"
+      },
+      "episode": {
+        "id": "p09h4vht",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-27T20:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4vjr",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09h49n6"
+      },
+      "episode": {
+        "id": "p09h49mm",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_sheffield"
+  },
+  "service": {
+    "id": "bbc_radio_sheffield",
+    "name": "BBC Radio Sheffield",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:30:30.152Z"
+  },
+  "items": [
+    {
+      "id": "p09h7tk4",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h544c"
+      },
+      "episode": {
+        "id": "p09h5448",
+        "title": "Russell Walker: Songs for Footwear"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz2v",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz2w",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz32",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09hwz30"
+      },
+      "episode": {
+        "id": "p09hwz2x",
+        "title": "Simon Morykin"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz3p",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09hwz3g"
+      },
+      "episode": {
+        "id": "p09hwz36",
+        "title": "Kat Harbourne"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz4k",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09hwz4b"
+      },
+      "episode": {
+        "id": "p09hthzs",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Liz Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz4w",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09ht80f"
+      },
+      "episode": {
+        "id": "p09ht803",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "John Kane's Northern Soul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz53",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09hwz51"
+      },
+      "episode": {
+        "id": "p09hwz4x",
+        "title": "Radio 1's Big Weekend with Gia Ford"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwz55",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09ht81x"
+      },
+      "episode": {
+        "id": "p09ht81s",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

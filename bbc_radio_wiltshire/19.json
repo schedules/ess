@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wiltshire"
+  },
+  "service": {
+    "id": "bbc_radio_wiltshire",
+    "name": "BBC Wiltshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:26:15.500Z"
+  },
+  "items": [
+    {
+      "id": "p09gpmbt",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gpmbq"
+      },
+      "episode": {
+        "id": "p09gpmbn",
+        "title": "Chris Baxter's Late Show"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm37",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09g428f"
+      },
+      "episode": {
+        "id": "p09g4288",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm39",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09g4c5c"
+      },
+      "episode": {
+        "id": "p09g428z",
+        "title": "Claira Hermet sits in (19/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm3k",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gpm3g"
+      },
+      "episode": {
+        "id": "p09gpm3c",
+        "title": "19/05/2021 With Ben Prater"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm3w",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gpm3s"
+      },
+      "episode": {
+        "id": "p09gpm3n",
+        "title": "19/05/2021 With Graham Rogers"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:00:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm5y",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gpm5k"
+      },
+      "episode": {
+        "id": "p09gpm4n",
+        "title": "19/05/2021 With James Thomas"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm6b",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gpm66"
+      },
+      "episode": {
+        "id": "p09gpm61",
+        "title": "19/05/2021 With Caroline Densley"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpm6v",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gpm6k"
+      },
+      "episode": {
+        "id": "p09gpm6d",
+        "title": "Chris Baxter's Late Show"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    }
+  ]
+}

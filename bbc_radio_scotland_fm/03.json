@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-03T03:32:00.642Z"
+  },
+  "items": [
+    {
+      "id": "p09hk3zb",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wkqt"
+      },
+      "episode": {
+        "id": "m000wkqw",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:30:00.000Z",
+        "end": "2021-06-03T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xr",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl8v"
+      },
+      "episode": {
+        "id": "m000wl8w",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:00:00.000Z",
+        "end": "2021-06-03T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xs",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl8x"
+      },
+      "episode": {
+        "id": "m000wl8y",
+        "title": "with Kaye Adams"
+      },
+      "brand": {
+        "title": "Mornings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T08:00:00.000Z",
+        "end": "2021-06-03T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xt",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl8z"
+      },
+      "episode": {
+        "id": "m000wl90",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Lunchtime Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T11:00:00.000Z",
+        "end": "2021-06-03T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xv",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl91"
+      },
+      "episode": {
+        "id": "m000wl92",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "The Afternoon Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T12:30:00.000Z",
+        "end": "2021-06-03T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xw",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl93"
+      },
+      "episode": {
+        "id": "m000wl94",
+        "title": "with John Beattie"
+      },
+      "brand": {
+        "title": "Drivetime"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T15:00:00.000Z",
+        "end": "2021-06-03T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xx",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl95"
+      },
+      "episode": {
+        "id": "m000wl96",
+        "title": "Songs From Dance Routines"
+      },
+      "brand": {
+        "title": "Get it On with Bryan Burnett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:00:00.000Z",
+        "end": "2021-06-03T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xy",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl97"
+      },
+      "episode": {
+        "id": "m000wl98",
+        "title": "Here Comes the Summer!"
+      },
+      "brand": {
+        "title": "Travelling Folk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T19:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk3xz",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wl99"
+      },
+      "episode": {
+        "id": "m000wl9b",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Natasha Raskin Sharp"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-03T23:00:00.000Z"
+      }
+    }
+  ]
+}

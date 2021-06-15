@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_jersey"
+  },
+  "service": {
+    "id": "bbc_radio_jersey",
+    "name": "BBC Radio Jersey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:40:09.864Z"
+  },
+  "items": [
+    {
+      "id": "p09h55gb",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55g0"
+      },
+      "episode": {
+        "id": "p09h55fx",
+        "title": "Jim Colvin 23/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55hc",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55hl",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55hs",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55hq"
+      },
+      "episode": {
+        "id": "p09h55hn",
+        "title": "Ashlea Tracey  24/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55j0",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55hy"
+      },
+      "episode": {
+        "id": "p09h55ht",
+        "title": "Jenny Mullin 24/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55j8",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55j5"
+      },
+      "episode": {
+        "id": "p09h55j2",
+        "title": "Sarah Bailey 24/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55jf",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55jc"
+      },
+      "episode": {
+        "id": "p09h55j9",
+        "title": "Tim and Sydney 24/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55jh",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h4g5p"
+      },
+      "episode": {
+        "id": "p09h4g5m",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

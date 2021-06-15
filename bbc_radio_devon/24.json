@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_devon"
+  },
+  "service": {
+    "id": "bbc_radio_devon",
+    "name": "BBC Radio Devon",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:21:04.694Z"
+  },
+  "items": [
+    {
+      "id": "p09h4rm5",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4rm3"
+      },
+      "episode": {
+        "id": "p09h4rm0",
+        "title": "with Jim Colvin (23/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Devon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4rwn",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4rww",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ry1",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4rxp"
+      },
+      "episode": {
+        "id": "p09h4rx5",
+        "title": "with Gordon Sparks (24/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Devon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ryx",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4ryr"
+      },
+      "episode": {
+        "id": "p09h4ryc",
+        "title": "with Gordon Sparks (24/05/2021)"
+      },
+      "brand": {
+        "title": "The Golden Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-24T08:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4rzl",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4rzc"
+      },
+      "episode": {
+        "id": "p09h4rz3",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "David FitzGerald"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4rzy",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4rzw"
+      },
+      "episode": {
+        "id": "p09h4rzr",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Pippa Quelch"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s04",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4s02"
+      },
+      "episode": {
+        "id": "p09h4s00",
+        "title": "with Rick Edwards (24/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Devon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s06",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4g5p"
+      },
+      "episode": {
+        "id": "p09h4g5m",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

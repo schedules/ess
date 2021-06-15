@@ -1,0 +1,604 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-06T03:29:13.929Z"
+  },
+  "items": [
+    {
+      "id": "p09jpfpl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000bhgv"
+      },
+      "episode": {
+        "id": "m000bhgw",
+        "title": "The Hurt Locker"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:45:00.000Z",
+        "end": "2021-06-06T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww8j"
+      },
+      "episode": {
+        "id": "m000ww8k",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:50:00.000Z",
+        "end": "2021-06-06T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww8l"
+      },
+      "episode": {
+        "id": "m000ww8m",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:55:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfql",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtj"
+      },
+      "episode": {
+        "id": "m000wvtk",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfqr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtl"
+      },
+      "episode": {
+        "id": "m000wvtm",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "The Andrew Marr Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfqs",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx2k"
+      },
+      "episode": {
+        "id": "m000wx2l",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Politics London"
+      },
+      "masterbrand": {
+        "id": "bbc_one_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:00:00.000Z",
+        "end": "2021-06-06T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfqv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m00042tq"
+      },
+      "episode": {
+        "id": "m00042tr",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Pilgrimage"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:30:00.000Z",
+        "end": "2021-06-06T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfqy",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000d2dx"
+      },
+      "episode": {
+        "id": "m000d2dz",
+        "title": "Pinder Family"
+      },
+      "brand": {
+        "title": "Wanted Down Under"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T10:30:00.000Z",
+        "end": "2021-06-06T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfqz",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b098vx41"
+      },
+      "episode": {
+        "id": "b098vx43",
+        "title": "Episode 10 - London 6"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T11:15:00.000Z",
+        "end": "2021-06-06T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfr2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtn"
+      },
+      "episode": {
+        "id": "m000wvtp",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:00:00.000Z",
+        "end": "2021-06-06T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfr3",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtq"
+      },
+      "episode": {
+        "id": "m000wvtr",
+        "title": "The Power of Music"
+      },
+      "brand": {
+        "title": "Songs of Praise"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:15:00.000Z",
+        "end": "2021-06-06T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfr5",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvts"
+      },
+      "episode": {
+        "id": "m000wvtt",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Points of View"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:50:00.000Z",
+        "end": "2021-06-06T13:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfr7",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtv"
+      },
+      "episode": {
+        "id": "m000wvtw",
+        "title": "Norfolk"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:05:00.000Z",
+        "end": "2021-06-06T14:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfr9",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000csly"
+      },
+      "episode": {
+        "id": "m000cslz",
+        "title": "Finding Dory"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T14:05:00.000Z",
+        "end": "2021-06-06T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrc",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b09m2kfz"
+      },
+      "episode": {
+        "id": "b09m2kgl",
+        "title": "07/01/2018 - Attenborough and the Sea Dragon"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T15:35:00.000Z",
+        "end": "2021-06-06T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrd",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtx"
+      },
+      "episode": {
+        "id": "m000wvty",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:35:00.000Z",
+        "end": "2021-06-06T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx2m"
+      },
+      "episode": {
+        "id": "m000wx2n",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:50:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvtz"
+      },
+      "episode": {
+        "id": "m000wvv0",
+        "title": "Norfolk/Suffolk"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvv1"
+      },
+      "episode": {
+        "id": "m000wvv2",
+        "title": "Awards Ceremony"
+      },
+      "brand": {
+        "title": "The British Academy Television Awards"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:00:00.000Z",
+        "end": "2021-06-06T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p09fs2z4"
+      },
+      "episode": {
+        "id": "p09fs2x4",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T20:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfrw",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvv4"
+      },
+      "episode": {
+        "id": "m000wvv5",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-06T21:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfry",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx2p"
+      },
+      "episode": {
+        "id": "m000wx2q",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:20:00.000Z",
+        "end": "2021-06-06T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfs2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvv6"
+      },
+      "episode": {
+        "id": "m000wvv7",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Top Gear"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:30:00.000Z",
+        "end": "2021-06-06T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfs4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p09gmj71"
+      },
+      "episode": {
+        "id": "p09gmj2v",
+        "title": "Wild Weekends"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:30:00.000Z",
+        "end": "2021-06-06T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfs6",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvv8"
+      },
+      "episode": {
+        "id": "m000wvv9",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "The Wall"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:00:00.000Z",
+        "end": "2021-06-06T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfs9",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvvb"
+      },
+      "episode": {
+        "id": "m000wvvc",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:45:00.000Z",
+        "end": "2021-06-06T23:50:00.000Z"
+      }
+    }
+  ]
+}

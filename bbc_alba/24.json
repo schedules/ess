@@ -1,0 +1,491 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-24T03:39:23.021Z"
+  },
+  "items": [
+    {
+      "id": "p09hcddx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdjx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdjy",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfg9"
+      },
+      "episode": {
+        "id": "m000wfgd",
+        "title": "A’ Cumail Sàmhach"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:00:00.000Z",
+        "end": "2021-05-24T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdjz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08m92zr"
+      },
+      "episode": {
+        "id": "b08m93q6",
+        "title": "Episode 12 - Ri Cleasachd!"
+      },
+      "brand": {
+        "title": "Sù Shiùsaidh/Little Suzy's Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:15:00.000Z",
+        "end": "2021-05-24T16:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xp"
+      },
+      "episode": {
+        "id": "m000w6xr",
+        "title": "Beuc an Leòmhainn"
+      },
+      "brand": {
+        "title": "Su Pic (Peek Zoo)"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:20:00.000Z",
+        "end": "2021-05-24T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b016lrkk"
+      },
+      "episode": {
+        "id": "b016lrlv",
+        "title": "Episode 15 - Episode 15"
+      },
+      "brand": {
+        "title": "Baile Mhuilinn"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:30:00.000Z",
+        "end": "2021-05-24T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000brn2"
+      },
+      "episode": {
+        "id": "m000brn3",
+        "title": "Lan agus Falamh"
+      },
+      "brand": {
+        "title": "Piseag agus Cuilean/Kit and Pup"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:40:00.000Z",
+        "end": "2021-05-24T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fzpz"
+      },
+      "episode": {
+        "id": "m000fzq0",
+        "title": "Cairt-bhòrd"
+      },
+      "brand": {
+        "title": "Piseag agus Cuilean/Kit and Pup"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:45:00.000Z",
+        "end": "2021-05-24T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfh1"
+      },
+      "episode": {
+        "id": "m000wfh2",
+        "title": "Tha Tàlant aig Muile-mhàg"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:50:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fc47"
+      },
+      "episode": {
+        "id": "m000fc48",
+        "title": "Oidhche na Gràisge"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T17:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfgs"
+      },
+      "episode": {
+        "id": "m000wfgv",
+        "title": "Dìomhaireachd agus Spèileabordan/Secrets & Skateboards"
+      },
+      "brand": {
+        "title": "Port Paipeir"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:20:00.000Z",
+        "end": "2021-05-24T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00xhh1n"
+      },
+      "episode": {
+        "id": "b00xhh40",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Saidheans Sporsail"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:35:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09ltj4p"
+      },
+      "episode": {
+        "id": "b09ltj56",
+        "title": "Episode 2 - Stafainn"
+      },
+      "brand": {
+        "title": "Kerry is Kirsty"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00ttmv5"
+      },
+      "episode": {
+        "id": "b00ttmv9",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Speaking Our Language"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:30:00.000Z",
+        "end": "2021-05-24T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdk9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b06t7nb9"
+      },
+      "episode": {
+        "id": "b06t7nch",
+        "title": "Episode 49 - Episode 49"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:55:00.000Z",
+        "end": "2021-05-24T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdkb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfh3"
+      },
+      "episode": {
+        "id": "m000wfh4",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T19:00:00.000Z",
+        "end": "2021-05-24T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdkc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000ghq9"
+      },
+      "episode": {
+        "id": "m000ghqb",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Thar na Loidhne/Crossing the Line"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T19:30:00.000Z",
+        "end": "2021-05-24T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdkf",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfgg"
+      },
+      "episode": {
+        "id": "m000c088",
+        "title": "Bill Lawson - Sar Shloinntear (The Genealogist)"
+      },
+      "brand": {
+        "title": "Trusadh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T20:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdkg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jblk"
+      },
+      "episode": {
+        "id": "m000jbll",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Julie Fowlis | Ceòl aig Baile"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-24T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdkj",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b097zvrh"
+      },
+      "episode": {
+        "id": "b097zvs7",
+        "title": "09/10/2017 - Tormod - Na Bheachd Fhein/Norman - In His Own Words"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:30:00.000Z",
+        "end": "2021-05-24T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdkk",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000qrhx"
+      },
+      "episode": {
+        "id": "m000qrhz",
+        "title": "Air Iomall - Music from the Edge"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T22:30:00.000Z",
+        "end": "2021-05-24T23:00:00.000Z"
+      }
+    }
+  ]
+}

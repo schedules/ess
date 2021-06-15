@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_hereford_worcester"
+  },
+  "service": {
+    "id": "bbc_radio_hereford_worcester",
+    "name": "BBC Hereford & Worcester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:27:52.248Z"
+  },
+  "items": [
+    {
+      "id": "p09gl1tb",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09gkj9f"
+      },
+      "episode": {
+        "id": "p09gkj97",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1dt",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09g40m8"
+      },
+      "episode": {
+        "id": "p09g40m4",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1fx",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09g4cvg"
+      },
+      "episode": {
+        "id": "p09g40mm",
+        "title": "Claira Hermet sits in (17/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:00:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1h7",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09gl1gv"
+      },
+      "episode": {
+        "id": "p09gl1g8",
+        "title": "Elliott Webb at Breakfast (17/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1hh",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09gl1hd"
+      },
+      "episode": {
+        "id": "p09gl1hb",
+        "title": "Tammy Gooding (17/05/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1j5",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09gl1hy"
+      },
+      "episode": {
+        "id": "p09gl1hq",
+        "title": "Andrew Easton (17/05/2021)"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1jm",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09gl1jh"
+      },
+      "episode": {
+        "id": "p09gl1jc",
+        "title": "Kate Justice (17/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl1jt",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09gkj0x"
+      },
+      "episode": {
+        "id": "p09gkj0j",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    }
+  ]
+}

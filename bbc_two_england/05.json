@@ -1,0 +1,554 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-05T03:27:17.565Z"
+  },
+  "items": [
+    {
+      "id": "p09j19f4",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000mg00"
+      },
+      "episode": {
+        "id": "b00zmc8r",
+        "title": "28/06/2008 - Zodiac"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:20:00.000Z",
+        "end": "2021-06-05T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19f5",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mccz3"
+      },
+      "episode": {
+        "id": "p08mcctc",
+        "title": "No Exit"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:50:00.000Z",
+        "end": "2021-06-05T01:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19f6",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mcd8g"
+      },
+      "episode": {
+        "id": "p08mcd79",
+        "title": "Deadlock"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:35:00.000Z",
+        "end": "2021-06-05T02:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19f7",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnv4"
+      },
+      "episode": {
+        "id": "m000w7fx",
+        "title": "George, Peter and Clare"
+      },
+      "brand": {
+        "title": "Saved by a Stranger"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T02:15:00.000Z",
+        "end": "2021-06-05T03:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19f8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-06-05T03:15:00.000Z",
+        "end": "2021-06-05T05:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8qz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b07tlspw"
+      },
+      "episode": {
+        "id": "b07tlwxl",
+        "title": "Episode 4 - Superpowers"
+      },
+      "brand": {
+        "title": "Wild & Weird"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:45:00.000Z",
+        "end": "2021-06-05T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8r1",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bs2m8n"
+      },
+      "episode": {
+        "id": "b0bs2stl",
+        "title": "Episode 3 - Army Coding Den"
+      },
+      "brand": {
+        "title": "The Dengineers"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:00:00.000Z",
+        "end": "2021-06-05T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8r2",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000scdx"
+      },
+      "episode": {
+        "id": "m000scdy",
+        "title": "Harry v Ria"
+      },
+      "brand": {
+        "title": "The Dog Ate My Homework"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:30:00.000Z",
+        "end": "2021-06-05T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8r4",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wn76"
+      },
+      "episode": {
+        "id": "m000wn77",
+        "title": "Lindsey v Adam - The Decider!"
+      },
+      "brand": {
+        "title": "Blue Peter"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-05T07:00:00.000Z",
+        "end": "2021-06-05T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8r6",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0b6yb5r"
+      },
+      "episode": {
+        "id": "b0b6ybc8",
+        "title": "Episode 1 - Land of Giants"
+      },
+      "brand": {
+        "title": "Deadly Dinosaurs with Steve Backshall"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-05T07:30:00.000Z",
+        "end": "2021-06-05T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8r8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnk0"
+      },
+      "episode": {
+        "id": "m000wnk1",
+        "title": "Asia"
+      },
+      "brand": {
+        "title": "Our Wild Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T08:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jt81q",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wntt"
+      },
+      "episode": {
+        "id": "m000wntv",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Springwatch"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rc",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvwy"
+      },
+      "episode": {
+        "id": "m000wvwz",
+        "title": "Women's Final: York City Knights v St Helens"
+      },
+      "brand": {
+        "title": "Rugby League: Challenge Cup"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:00:00.000Z",
+        "end": "2021-06-05T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jt81r",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wn0v"
+      },
+      "episode": {
+        "id": "m000wn0w",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:15:00.000Z",
+        "end": "2021-06-05T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rh",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wtdh"
+      },
+      "episode": {
+        "id": "m000wtdj",
+        "title": "Space: How Far Can We Go?"
+      },
+      "brand": {
+        "title": "Brian Cox's Adventures in Space and Time"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:15:00.000Z",
+        "end": "2021-06-05T14:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rk",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b07gtbnx"
+      },
+      "episode": {
+        "id": "b02xdncc",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "D-Day: The Last Heroes"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T14:15:00.000Z",
+        "end": "2021-06-05T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rm",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx0"
+      },
+      "episode": {
+        "id": "b014r143",
+        "title": "Episode 6 - Britain's Home Guard"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:15:00.000Z",
+        "end": "2021-06-05T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rp",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx1"
+      },
+      "episode": {
+        "id": "m000wvx2",
+        "title": "Semi-Final: Castleford v Warrington"
+      },
+      "brand": {
+        "title": "Rugby League: Challenge Cup"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:30:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rq",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx4"
+      },
+      "episode": {
+        "id": "m000wvx6",
+        "title": "First Test: Day Four Highlights"
+      },
+      "brand": {
+        "title": "Cricket: Today at the Test"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jt81t",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wzgt"
+      },
+      "episode": {
+        "id": "m000crqx",
+        "title": "The Story of 1989"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T19:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rs",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx8"
+      },
+      "episode": {
+        "id": "m000wvxb",
+        "title": "Tina Turner at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:40:00.000Z",
+        "end": "2021-06-05T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rt",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bt4c3j"
+      },
+      "episode": {
+        "id": "b0bt4c3p",
+        "title": "26/11/2018 - Tina Turner: Simply the Best"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:45:00.000Z",
+        "end": "2021-06-05T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rv",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvxd"
+      },
+      "episode": {
+        "id": "m000wvxg",
+        "title": "Tina Live!"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:30:00.000Z",
+        "end": "2021-06-05T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bkvw13"
+      },
+      "episode": {
+        "id": "b0bkvw2l",
+        "title": "15/09/2018 - Three Summers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:40:00.000Z",
+        "end": "2021-06-06T01:20:00.000Z"
+      }
+    }
+  ]
+}

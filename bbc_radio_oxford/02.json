@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_oxford"
+  },
+  "service": {
+    "id": "bbc_radio_oxford",
+    "name": "BBC Radio Oxford",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:30:48.847Z"
+  },
+  "items": [
+    {
+      "id": "p09hwt3n",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl3h4"
+      },
+      "episode": {
+        "id": "p09hl3h0",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwthp",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hggd1"
+      },
+      "episode": {
+        "id": "p09hggcy",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:00:00.000Z",
+        "end": "2021-06-02T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtj1",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl3yg"
+      },
+      "episode": {
+        "id": "p09hggd5",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:00:00.000Z",
+        "end": "2021-06-02T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtjh",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtj7"
+      },
+      "episode": {
+        "id": "p09hwtj4",
+        "title": "Adam Ball sits in (02/06/2021)"
+      },
+      "brand": {
+        "title": "David Prever's Breakfast Club"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-06-02T05:00:00.000Z",
+        "end": "2021-06-02T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtkc",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtk3"
+      },
+      "episode": {
+        "id": "p09hwtjs",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Kat Orman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-06-02T09:00:00.000Z",
+        "end": "2021-06-02T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtlb",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtl4"
+      },
+      "episode": {
+        "id": "p09hwtkx",
+        "title": "Lilley Mitchell sits in (02/06/2021)"
+      },
+      "brand": {
+        "title": "Adam Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-06-02T13:00:00.000Z",
+        "end": "2021-06-02T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtlt",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtln"
+      },
+      "episode": {
+        "id": "p09hwtlh",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Fleur Ostojak"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtm7",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl402"
+      },
+      "episode": {
+        "id": "p09hl400",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    }
+  ]
+}

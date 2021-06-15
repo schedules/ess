@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-03T03:42:38.074Z"
+  },
+  "items": [
+    {
+      "id": "p09hxmb4",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hsssj"
+      },
+      "episode": {
+        "id": "p09hsssf",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmbc",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hgh67"
+      },
+      "episode": {
+        "id": "p09hgh5s",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:00:00.000Z",
+        "end": "2021-06-03T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmbh",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hl4jx"
+      },
+      "episode": {
+        "id": "p09hgh6y",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T04:00:00.000Z",
+        "end": "2021-06-03T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmcc",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxmbw"
+      },
+      "episode": {
+        "id": "p09hxmbn",
+        "title": "Elise Evans sits in (03/06/2021)"
+      },
+      "brand": {
+        "title": "Daz Hale"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:00:00.000Z",
+        "end": "2021-06-03T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmf1",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxmdr"
+      },
+      "episode": {
+        "id": "p09hxmd2",
+        "title": "Dil Neiyyar sits in (03/06/2021)"
+      },
+      "brand": {
+        "title": "Caroline Martin"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T09:00:00.000Z",
+        "end": "2021-06-03T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmfd",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxmfb"
+      },
+      "episode": {
+        "id": "p09hxmf8",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Paul Franks"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:00:00.000Z",
+        "end": "2021-06-03T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmfm",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxmfk"
+      },
+      "episode": {
+        "id": "p09hxmff",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Henry Liston"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmfq",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hstc3"
+      },
+      "episode": {
+        "id": "p09hstbz",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    }
+  ]
+}

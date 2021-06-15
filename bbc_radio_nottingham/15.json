@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_nottingham"
+  },
+  "service": {
+    "id": "bbc_radio_nottingham",
+    "name": "BBC Radio Nottingham",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:43:03.350Z"
+  },
+  "items": [
+    {
+      "id": "p09k6kx0",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09jx2fl"
+      },
+      "episode": {
+        "id": "p09jx2fb",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kb2",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09jry0h"
+      },
+      "episode": {
+        "id": "p09jry09",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kbc",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09jsb98"
+      },
+      "episode": {
+        "id": "p09jry0q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kbn",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09k6kbk"
+      },
+      "episode": {
+        "id": "p09k6kbg",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Sarah Julian"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kc4",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09k6kc0"
+      },
+      "episode": {
+        "id": "p09k6kbs",
+        "title": "Ed Nell sits in (15/06/2021)"
+      },
+      "brand": {
+        "title": "Mark Dennison"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kcl",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09k6kch"
+      },
+      "episode": {
+        "id": "p09k6kc9",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Andy Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kd6",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09k6kd3"
+      },
+      "episode": {
+        "id": "p09k6kcy",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Arun Verma"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6kdp",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09jx2vz"
+      },
+      "episode": {
+        "id": "p09jx2vw",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    }
+  ]
+}

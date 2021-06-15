@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wiltshire"
+  },
+  "service": {
+    "id": "bbc_radio_wiltshire",
+    "name": "BBC Wiltshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:33:12.324Z"
+  },
+  "items": [
+    {
+      "id": "p09h8gd9",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h48w6"
+      },
+      "episode": {
+        "id": "p09h48w1",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhsz",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxht8",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhtk",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxhtf"
+      },
+      "episode": {
+        "id": "p09hxht9",
+        "title": "With Graham Rogers 29/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhv9",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxhtw"
+      },
+      "episode": {
+        "id": "p09hxhtp",
+        "title": "BBC Airwaves"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhw0",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxhvy"
+      },
+      "episode": {
+        "id": "p09hxhvq",
+        "title": "With Marie Lennon 29/05/2021"
+      },
+      "brand": {
+        "title": "Saturday Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhw5",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxhw3"
+      },
+      "episode": {
+        "id": "p09hxhw1",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhwd",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hl6lk"
+      },
+      "episode": {
+        "id": "p09hl6lb",
+        "title": "With James Threlfall 29/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in the West"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhwj",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h4g8g"
+      },
+      "episode": {
+        "id": "p09h4g88",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

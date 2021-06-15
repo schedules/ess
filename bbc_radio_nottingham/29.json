@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_nottingham"
+  },
+  "service": {
+    "id": "bbc_radio_nottingham",
+    "name": "BBC Radio Nottingham",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:42:04.024Z"
+  },
+  "items": [
+    {
+      "id": "p09h7lbh",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09h4qc6"
+      },
+      "episode": {
+        "id": "p09h4qc3",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dean Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqx0",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqx4",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqx8",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hl28n"
+      },
+      "episode": {
+        "id": "p09hl28f",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:50:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqxh",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hwqxf"
+      },
+      "episode": {
+        "id": "p09hwqxb",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Liesl Soards"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx1pz",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hwqxs"
+      },
+      "episode": {
+        "id": "p09hwqxn",
+        "title": "Frances Finn sits in (29/05/2021)"
+      },
+      "brand": {
+        "title": "Dino"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx1q2",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hwq96"
+      },
+      "episode": {
+        "id": "p09hwq93",
+        "title": "Bromley v Notts County"
+      },
+      "brand": {
+        "title": "Matchday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:00:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx1q3",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hwqy1"
+      },
+      "episode": {
+        "id": "p09hwqxz",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jake Garner"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqyb",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hsw3g"
+      },
+      "episode": {
+        "id": "p09hsw3b",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "The Beat"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqyq",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hwqyj"
+      },
+      "episode": {
+        "id": "p09hwqyd",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Nottinghamshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwqz1",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09hsw58"
+      },
+      "episode": {
+        "id": "p09hsw4y",
+        "title": "DJ Delights (29/05/2021)"
+      },
+      "brand": {
+        "title": "Devon Daley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cambridge"
+  },
+  "service": {
+    "id": "bbc_radio_cambridge",
+    "name": "BBC Radio Cambridgeshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:27:18.702Z"
+  },
+  "items": [
+    {
+      "id": "p09h4fcz",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4fcp"
+      },
+      "episode": {
+        "id": "p09h4fc5",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4fdb",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4fdj",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09gycf8"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4fdv",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4fdr"
+      },
+      "episode": {
+        "id": "p09h4fdm",
+        "title": "Louise Hulland 28/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ff5",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4ff1"
+      },
+      "episode": {
+        "id": "p09h4fdx",
+        "title": "Amir Suleman 28/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ffj",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4ffg"
+      },
+      "episode": {
+        "id": "p09h4ffb",
+        "title": "Dave Webster 28/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ffq",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4ffn"
+      },
+      "episode": {
+        "id": "p09h4ffl",
+        "title": "Natalie Malcolm 28/05/2021"
+      },
+      "brand": {
+        "title": "That Friday Feeling"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ffx",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4ffv"
+      },
+      "episode": {
+        "id": "p09h4ffr",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:46:46.811Z"
+  },
+  "items": [
+    {
+      "id": "p09j9lzx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00sq1rc"
+      },
+      "episode": {
+        "id": "b00sq1vx",
+        "title": "Poetry Schmoetry"
+      },
+      "brand": {
+        "title": "Off the Page"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:30:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m00",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s8pn8"
+      },
+      "episode": {
+        "id": "b01s8pyv",
+        "title": "8. Death at the Weekend"
+      },
+      "brand": {
+        "title": "Detective"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m01",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b008l1bv"
+      },
+      "episode": {
+        "id": "b008l1cb",
+        "title": "5. Surprise"
+      },
+      "brand": {
+        "title": "Falco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:30:00.000Z",
+        "end": "2021-06-12T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m02",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b092rchz"
+      },
+      "episode": {
+        "id": "b092rckg",
+        "title": "Episode 5"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:00:00.000Z",
+        "end": "2021-06-12T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m04",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000t030"
+      },
+      "episode": {
+        "id": "m000t031",
+        "title": "Episode 10"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:15:00.000Z",
+        "end": "2021-06-12T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m05",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b092k9jd"
+      },
+      "episode": {
+        "id": "b092k9jp",
+        "title": "The School on the Moor"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:30:00.000Z",
+        "end": "2021-06-12T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m07",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0022h3j"
+      },
+      "episode": {
+        "id": "b0076cwx",
+        "title": "22/02/2003 - Jeremy Front - The Long Weekend"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:00:00.000Z",
+        "end": "2021-06-12T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m0c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wtml"
+      },
+      "episode": {
+        "id": "b00sfwmk",
+        "title": "2010 Semi-final 1"
+      },
+      "brand": {
+        "title": "Counterpoint"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T03:00:00.000Z",
+        "end": "2021-06-12T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m0h",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0008qtb"
+      },
+      "episode": {
+        "id": "b007w5jb",
+        "title": "Repaying Mr Piper"
+      },
+      "brand": {
+        "title": "Bristow"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T03:30:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m0j",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bf64c2"
+      },
+      "episode": {
+        "id": "b0bf64gh",
+        "title": "A Song for Lenzie"
+      },
+      "brand": {
+        "title": "Fags, Mags and Bags"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m0l",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wsjd"
+      },
+      "episode": {
+        "id": "m000wsjf",
+        "title": "The Confession of Lucy Porter"
+      },
+      "brand": {
+        "title": "The Confessional"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:30:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01697dj"
+      },
+      "episode": {
+        "id": "b01697h2",
+        "title": "23/10/2011 - Len Deighton - The Ipcress File"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnch",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b085879r"
+      },
+      "episode": {
+        "id": "b08587nx",
+        "title": "Orlando Murrin on Dinu Lipatti"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:30:00.000Z",
+        "end": "2021-06-12T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnck",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0009481"
+      },
+      "episode": {
+        "id": "b007k356",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Whispers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:00:00.000Z",
+        "end": "2021-06-12T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00tqq5w"
+      },
+      "episode": {
+        "id": "b00tqqjc",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Snap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:30:00.000Z",
+        "end": "2021-06-12T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncp",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bn22ll"
+      },
+      "episode": {
+        "id": "b0bn22mh",
+        "title": "The Changing Sound of Radio"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T08:00:00.000Z",
+        "end": "2021-06-12T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07vnghk"
+      },
+      "episode": {
+        "id": "b07vnglv",
+        "title": "Cressida Cowell, Ruth Dudley Edwards, Helen Zaltzman & Michael Billington"
+      },
+      "brand": {
+        "title": "Quote... Unquote"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:00:00.000Z",
+        "end": "2021-06-12T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b1twrt"
+      },
+      "episode": {
+        "id": "b0b1txr3",
+        "title": "All Play and No Work Makes Jill an Unemployment Statistic"
+      },
+      "brand": {
+        "title": "The 27-Year Itch"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:30:00.000Z",
+        "end": "2021-06-12T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncs",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09y6wfz"
+      },
+      "episode": {
+        "id": "b09y6wg3",
+        "title": "The Ultimate Trip: Stanley Kubrick's Space Odyssey"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnct",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0161500"
+      },
+      "episode": {
+        "id": "b01616lj",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Elvenquest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00z5hqh"
+      },
+      "episode": {
+        "id": "b00z5hrv",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Helen Keen's It Is Rocket Science"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:30:00.000Z",
+        "end": "2021-06-12T13:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00fcbc4"
+      },
+      "episode": {
+        "id": "b00fcbgm",
+        "title": "Episode 1 - 1. Pubs"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:45:00.000Z",
+        "end": "2021-06-12T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06pbwrb"
+      },
+      "episode": {
+        "id": "b06pbwzh",
+        "title": "Broadband on the Run"
+      },
+      "brand": {
+        "title": "Tom Wrigglesworth's Hang-Ups"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:00:00.000Z",
+        "end": "2021-06-12T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrncy",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s4g14"
+      },
+      "episode": {
+        "id": "b041y1n3",
+        "title": "Eleanor and Mr Woodfield"
+      },
+      "brand": {
+        "title": "Isy Suttie's Love Letters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:30:00.000Z",
+        "end": "2021-06-12T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01697dj"
+      },
+      "episode": {
+        "id": "b01697h2",
+        "title": "23/10/2011 - Len Deighton - The Ipcress File"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:00:00.000Z",
+        "end": "2021-06-12T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b085879r"
+      },
+      "episode": {
+        "id": "b08587nx",
+        "title": "Orlando Murrin on Dinu Lipatti"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:30:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bj6q4h"
+      },
+      "episode": {
+        "id": "b0bj6qq8",
+        "title": "6. Marooned on Mercury 2/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wy4n"
+      },
+      "episode": {
+        "id": "m000wy4p",
+        "title": "The Treasure in the Forest"
+      },
+      "brand": {
+        "title": "HG Wells"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:35:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bn22ll"
+      },
+      "episode": {
+        "id": "b0bn22mh",
+        "title": "The Changing Sound of Radio"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000jlmm"
+      },
+      "episode": {
+        "id": "b09h6k1g",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Welcome to Wherever You Are"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-12T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b016c7v7"
+      },
+      "episode": {
+        "id": "b016c8y5",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Elvenquest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:30:00.000Z",
+        "end": "2021-06-12T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b03yqjgj"
+      },
+      "episode": {
+        "id": "b03yqjgv",
+        "title": "Pregnancy and In-Laws"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:00:00.000Z",
+        "end": "2021-06-12T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnd9",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01mqqhf"
+      },
+      "episode": {
+        "id": "b01mqqht",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Two Episodes of Mash"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:30:00.000Z",
+        "end": "2021-06-12T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bj6q4h"
+      },
+      "episode": {
+        "id": "b0bj6qq8",
+        "title": "6. Marooned on Mercury 2/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-12T23:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wy4n"
+      },
+      "episode": {
+        "id": "m000wy4p",
+        "title": "The Treasure in the Forest"
+      },
+      "brand": {
+        "title": "HG Wells"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:35:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09y6wfz"
+      },
+      "episode": {
+        "id": "b09y6wg3",
+        "title": "The Ultimate Trip: Stanley Kubrick's Space Odyssey"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0161500"
+      },
+      "episode": {
+        "id": "b01616lj",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Elvenquest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:00:00.000Z",
+        "end": "2021-06-13T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00z5hqh"
+      },
+      "episode": {
+        "id": "b00z5hrv",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Helen Keen's It Is Rocket Science"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:30:00.000Z",
+        "end": "2021-06-13T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00fcbc4"
+      },
+      "episode": {
+        "id": "b00fcbgm",
+        "title": "Episode 1 - 1. Pubs"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:45:00.000Z",
+        "end": "2021-06-13T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndl",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06pbwrb"
+      },
+      "episode": {
+        "id": "b06pbwzh",
+        "title": "Broadband on the Run"
+      },
+      "brand": {
+        "title": "Tom Wrigglesworth's Hang-Ups"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:00:00.000Z",
+        "end": "2021-06-13T02:30:00.000Z"
+      }
+    }
+  ]
+}

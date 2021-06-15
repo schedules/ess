@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_humberside"
+  },
+  "service": {
+    "id": "bbc_radio_humberside",
+    "name": "BBC Radio Humberside",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-01T03:36:22.124Z"
+  },
+  "items": [
+    {
+      "id": "p09ht900",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09ht8zx"
+      },
+      "episode": {
+        "id": "p09ht8zs",
+        "title": "Russell Walker: Songs for Bin Day!"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9xx",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09hgf9l"
+      },
+      "episode": {
+        "id": "p09hgf9c",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": "2021-06-01T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9xy",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09hl3f8"
+      },
+      "episode": {
+        "id": "p09hgfb2",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T04:00:00.000Z",
+        "end": "2021-06-01T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9y3",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09ht9y1"
+      },
+      "episode": {
+        "id": "p09ht9xz",
+        "title": "01/06/2021 Kofi Smiles"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:00:00.000Z",
+        "end": "2021-06-01T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9yf",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09ht9yb"
+      },
+      "episode": {
+        "id": "p09ht9y4",
+        "title": "01/06/2021 David Burns"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-01T09:00:00.000Z",
+        "end": "2021-06-01T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9yq",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09ht9yn"
+      },
+      "episode": {
+        "id": "p09ht9yj",
+        "title": "01/06/2021 Lizzie Rose"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-01T13:00:00.000Z",
+        "end": "2021-06-01T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9z0",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09ht9yx"
+      },
+      "episode": {
+        "id": "p09ht9ys",
+        "title": "01/06/2021 Kim Harrison"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:00:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht9zh",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09ht9zb"
+      },
+      "episode": {
+        "id": "p09ht9z4",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    }
+  ]
+}

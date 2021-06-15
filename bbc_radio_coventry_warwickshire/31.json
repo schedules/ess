@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_coventry_warwickshire"
+  },
+  "service": {
+    "id": "bbc_radio_coventry_warwickshire",
+    "name": "BBC Coventry & Warwickshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:39:50.825Z"
+  },
+  "items": [
+    {
+      "id": "p09hsrqs",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hsrqq"
+      },
+      "episode": {
+        "id": "p09hsrqn",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss13",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hgdrd"
+      },
+      "episode": {
+        "id": "p09hgdrb",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss15",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hl31g"
+      },
+      "episode": {
+        "id": "p09hgdrm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss1c",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hss19"
+      },
+      "episode": {
+        "id": "p09hss17",
+        "title": "Spring bank holiday (31/05/2021): BBC CWR Breakfast with Phil Upton"
+      },
+      "brand": {
+        "title": "Breakfast on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss1x",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hss1t"
+      },
+      "episode": {
+        "id": "p09hss1l",
+        "title": "Spring bank holiday (31/05/2021): Richard Williams"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss2j",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hss2b"
+      },
+      "episode": {
+        "id": "p09hss26",
+        "title": "Spring bank holiday (31/05/2021): Letitia George"
+      },
+      "brand": {
+        "title": "Afternoons on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss2t",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hss2q"
+      },
+      "episode": {
+        "id": "p09hss2m",
+        "title": "The Sky Blues Fancast (Rpt) (31/05/2021)"
+      },
+      "brand": {
+        "title": "The Sound of the Sky Blues"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss30",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hss2y"
+      },
+      "episode": {
+        "id": "p09hss2w",
+        "title": "Spring bank holiday (31/05/2021): Sandra Godley"
+      },
+      "brand": {
+        "title": "Evenings on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hss39",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09hss35"
+      },
+      "episode": {
+        "id": "p09hss33",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    }
+  ]
+}

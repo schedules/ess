@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_newcastle"
+  },
+  "service": {
+    "id": "bbc_radio_newcastle",
+    "name": "BBC Newcastle",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:27:07.660Z"
+  },
+  "items": [
+    {
+      "id": "p09k6bly",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6blt"
+      },
+      "episode": {
+        "id": "p09k6blq",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6br2",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jry0h"
+      },
+      "episode": {
+        "id": "p09jry09",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6br3",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jsb98"
+      },
+      "episode": {
+        "id": "p09jry0q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6brf",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6br8"
+      },
+      "episode": {
+        "id": "p09k6br5",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Alfie Joey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bs9",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bs2"
+      },
+      "episode": {
+        "id": "p09k6brs",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Gilly Hope"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bt5",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bsw"
+      },
+      "episode": {
+        "id": "p09k6bsj",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Anna Foster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6btx",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6btq"
+      },
+      "episode": {
+        "id": "p09k6btg",
+        "title": "Tom Campbell Sits In 15/06/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Newcastle"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bvp",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bvh"
+      },
+      "episode": {
+        "id": "p09k6bv8",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    }
+  ]
+}

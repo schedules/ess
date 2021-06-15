@@ -1,0 +1,474 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:31:37.346Z"
+  },
+  "items": [
+    {
+      "id": "p09j6cks",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqrs"
+      },
+      "episode": {
+        "id": "m000wqrv",
+        "title": "Euros Special"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kwv50",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqtk"
+      },
+      "episode": {
+        "id": "m000wqtl",
+        "title": "Having An Attitude Of Gratitude"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T01:00:00.000Z",
+        "end": "2021-06-09T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckv",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vy77"
+      },
+      "episode": {
+        "id": "m000vy78",
+        "title": "London Grammar, James Blake, The 1975 and more"
+      },
+      "brand": {
+        "title": "Radio 1's Chillout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T01:00:00.000Z",
+        "end": "2021-06-09T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6cky",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9y"
+      },
+      "episode": {
+        "id": "m000ws9z",
+        "title": "Classical Disney Tracks"
+      },
+      "brand": {
+        "title": "Radio 1's Movie Mixtapes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T02:00:00.000Z",
+        "end": "2021-06-09T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6cl1",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsb0"
+      },
+      "episode": {
+        "id": "m000wsb1",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T03:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6cl3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsb2"
+      },
+      "episode": {
+        "id": "m000wsb3",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65vp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsss"
+      },
+      "episode": {
+        "id": "m000wsst",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T06:00:00.000Z",
+        "end": "2021-06-09T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65vt",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wssv"
+      },
+      "episode": {
+        "id": "m000wssw",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Clara Amfo"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:32:00.000Z",
+        "end": "2021-06-09T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65vx",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqm0"
+      },
+      "episode": {
+        "id": "m000wqm1",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:45:00.000Z",
+        "end": "2021-06-09T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65vz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wssx"
+      },
+      "episode": {
+        "id": "m000wssy",
+        "title": "Bamboleo"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T12:00:00.000Z",
+        "end": "2021-06-09T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65w3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wssz"
+      },
+      "episode": {
+        "id": "m000wst0",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T14:32:00.000Z",
+        "end": "2021-06-09T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65w6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqm6"
+      },
+      "episode": {
+        "id": "m000wqm7",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T16:45:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65wd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst1"
+      },
+      "episode": {
+        "id": "m000wst2",
+        "title": "Inhaler Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65wg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst3"
+      },
+      "episode": {
+        "id": "m000wst4",
+        "title": "Fourplay with House Gospel Choir"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T19:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65wk",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst5"
+      },
+      "episode": {
+        "id": "m000wst6",
+        "title": "Sian Eleri sits in for Jack"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-09T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65wp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsry"
+      },
+      "episode": {
+        "id": "m000wsrz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:00:00.000Z",
+        "end": "2021-06-10T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65ws",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst7"
+      },
+      "episode": {
+        "id": "m000wst8",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Radio 1 Interview"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:00:00.000Z",
+        "end": "2021-06-10T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxw8m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x16n"
+      },
+      "episode": {
+        "id": "p09jp6wx",
+        "title": "Rebecca"
+      },
+      "brand": {
+        "title": "The YUNGBLUD Podcast"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:15:00.000Z",
+        "end": "2021-06-10T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbdgb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "p09jp57z"
+      },
+      "episode": {
+        "id": "m000x16q",
+        "title": "Jacob"
+      },
+      "brand": {
+        "title": "The YUNGBLUD Podcast"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:30:00.000Z",
+        "end": "2021-06-10T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65ww",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst9"
+      },
+      "episode": {
+        "id": "m000wstb",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:45:00.000Z",
+        "end": "2021-06-10T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:20:50.421Z"
+  },
+  "items": [
+    {
+      "id": "p09g55wv",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w2w2"
+      },
+      "episode": {
+        "id": "m000w2w3",
+        "title": "What So Not in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g55wx",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000vrhn"
+      },
+      "episode": {
+        "id": "m000vrhp",
+        "title": "UK Rap, Drill & Stateside!"
+      },
+      "brand": {
+        "title": "Kenny Allstar"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09fhn9k",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000vxvw"
+      },
+      "episode": {
+        "id": "m000vxvx",
+        "title": "Awa & Takura"
+      },
+      "brand": {
+        "title": "Africa 360 with..."
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T02:00:00.000Z",
+        "end": "2021-05-16T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g55x0",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000vwg9"
+      },
+      "episode": {
+        "id": "m000vwgb",
+        "title": "With Anz"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T03:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09fhq77",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000twqt"
+      },
+      "episode": {
+        "id": "m000twqv",
+        "title": "In Your Feels"
+      },
+      "brand": {
+        "title": "1Xtra's R&B Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kk5",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w40s"
+      },
+      "episode": {
+        "id": "m000w40v",
+        "title": "Newsburgz and Remi's Requests"
+      },
+      "brand": {
+        "title": "Remi Burgz"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:00:00.000Z",
+        "end": "2021-05-16T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kk6",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w40x"
+      },
+      "episode": {
+        "id": "m000w40z",
+        "title": "DJ Milktray"
+      },
+      "brand": {
+        "title": "Remi Burgz presents The Gospel Corner"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:32:00.000Z",
+        "end": "2021-05-16T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kk7",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w411"
+      },
+      "episode": {
+        "id": "m000w413",
+        "title": "Trevor's Got Old Skool Sunday On Lock"
+      },
+      "brand": {
+        "title": "Trevor Nelson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T10:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kk9",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w415"
+      },
+      "episode": {
+        "id": "m000w417",
+        "title": "Dave and Ansel Collins Crate Classic"
+      },
+      "brand": {
+        "title": "David Rodigan"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kkb",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w419"
+      },
+      "episode": {
+        "id": "m000w41c",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Rampage"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kkd",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w41f"
+      },
+      "episode": {
+        "id": "m000w41h",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Heartless Crew"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kkf",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w41k"
+      },
+      "episode": {
+        "id": "m000w41l",
+        "title": "Young, Black and in care"
+      },
+      "brand": {
+        "title": "1Xtra Talks with Richie Brave"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kkg",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w41m"
+      },
+      "episode": {
+        "id": "m000w41n",
+        "title": "Shelley & Jaz Karis"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-16T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6kkj",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w41p"
+      },
+      "episode": {
+        "id": "m000w41q",
+        "title": "Ace's Old Skool RnB Hour"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gzczf",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000k3ys"
+      },
+      "episode": {
+        "id": "m000k3yt",
+        "title": "1Xtra Talks Special - George Floyd and Black Lives Matter"
+      },
+      "brand": {
+        "title": "1Xtra Talks with Richie Brave"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_solent"
+  },
+  "service": {
+    "id": "bbc_radio_solent",
+    "name": "BBC Radio Solent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:32:50.393Z"
+  },
+  "items": [
+    {
+      "id": "p09jkgrq",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j7475"
+      },
+      "episode": {
+        "id": "p09j746w",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh2f",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j3ks3"
+      },
+      "episode": {
+        "id": "p09j3ks0",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9c69",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09k90fw"
+      },
+      "episode": {
+        "id": "p09k90fp",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:00:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh3g",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkh37"
+      },
+      "episode": {
+        "id": "p09jkh32",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Lucy Ambache"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh3q",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkh3n"
+      },
+      "episode": {
+        "id": "p09jkh3k",
+        "title": "Steph Nieuwenhuys sits in (06/06/2021)"
+      },
+      "brand": {
+        "title": "Rebecca Parker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:00:00.000Z",
+        "end": "2021-06-06T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh41",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkh3w"
+      },
+      "episode": {
+        "id": "p09jkh3r",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Jono Holmes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:00:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh4b",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j74t5"
+      },
+      "episode": {
+        "id": "p09j74t1",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkh4r",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkh4h"
+      },
+      "episode": {
+        "id": "p09jkh4c",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    }
+  ]
+}

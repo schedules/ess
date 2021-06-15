@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-20T03:26:51.445Z"
+  },
+  "items": [
+    {
+      "id": "p09glm4b",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glm48"
+      },
+      "episode": {
+        "id": "p09glm46",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmfw",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09g42yh"
+      },
+      "episode": {
+        "id": "p09g42y6",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:00:00.000Z",
+        "end": "2021-05-20T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmg1",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09g4cqb"
+      },
+      "episode": {
+        "id": "p09g42yt",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-20T04:00:00.000Z",
+        "end": "2021-05-20T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmgk",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmgd"
+      },
+      "episode": {
+        "id": "p09glmg9",
+        "title": "Travelling abroad"
+      },
+      "brand": {
+        "title": "Becky Want"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-20T05:00:00.000Z",
+        "end": "2021-05-20T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmhk",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmhd"
+      },
+      "episode": {
+        "id": "p09glmh3",
+        "title": "Mike Garry"
+      },
+      "brand": {
+        "title": "Mike Sweeney"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-20T09:00:00.000Z",
+        "end": "2021-05-20T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmhr",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmhn"
+      },
+      "episode": {
+        "id": "p09glmhl",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Phil Trow"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-20T13:00:00.000Z",
+        "end": "2021-05-20T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmj2",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmhz"
+      },
+      "episode": {
+        "id": "p09glmhv",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Talking Balls"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:00:00.000Z",
+        "end": "2021-05-20T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgn72",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmjb"
+      },
+      "episode": {
+        "id": "p09glmj5",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Anna Jameson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-20T18:00:00.000Z",
+        "end": "2021-05-20T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgn7h",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09hgn7c"
+      },
+      "episode": {
+        "id": "p09hgn76",
+        "title": "Stronger than Before (20/05/2021)"
+      },
+      "brand": {
+        "title": "Stories of Hope"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-20T20:00:00.000Z",
+        "end": "2021-05-20T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glmjt",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmjm"
+      },
+      "episode": {
+        "id": "p09glmjj",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-21T00:00:00.000Z"
+      }
+    }
+  ]
+}

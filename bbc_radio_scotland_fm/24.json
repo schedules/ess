@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:30:54.909Z"
+  },
+  "items": [
+    {
+      "id": "p09gw655",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbnd"
+      },
+      "episode": {
+        "id": "m000wbnf",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Iain Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw656",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbng"
+      },
+      "episode": {
+        "id": "m000wbnh",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "As BBC Local Radio and BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw873",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbds"
+      },
+      "episode": {
+        "id": "m000wbdw",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw875",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbdz"
+      },
+      "episode": {
+        "id": "m000wbf2",
+        "title": "with Kaye Adams"
+      },
+      "brand": {
+        "title": "Mornings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T08:00:00.000Z",
+        "end": "2021-05-24T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw876",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbf5"
+      },
+      "episode": {
+        "id": "m000wbf7",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Lunchtime Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T11:00:00.000Z",
+        "end": "2021-05-24T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw878",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbf9"
+      },
+      "episode": {
+        "id": "m000wbfc",
+        "title": "Two stars of River City, Photographer Rankin on TV's latest talent challenge and Film Director Ira Sachs on Frankie"
+      },
+      "brand": {
+        "title": "The Afternoon Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T12:30:00.000Z",
+        "end": "2021-05-24T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw87b",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbff"
+      },
+      "episode": {
+        "id": "m000wbfh",
+        "title": "with John Beattie"
+      },
+      "brand": {
+        "title": "Drivetime"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T15:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw87d",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbfk"
+      },
+      "episode": {
+        "id": "m000wbfm",
+        "title": "Bob Dylan Covers"
+      },
+      "brand": {
+        "title": "Get it On with Bryan Burnett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw87g",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbfr"
+      },
+      "episode": {
+        "id": "m000wbft",
+        "title": "A Tribe Called Quest are Triple A"
+      },
+      "brand": {
+        "title": "Vic Galloway"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T19:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw87j",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbfw"
+      },
+      "episode": {
+        "id": "m000wbfy",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Iain Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-24T23:00:00.000Z"
+      }
+    }
+  ]
+}

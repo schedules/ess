@@ -1,0 +1,725 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-03T03:36:11.830Z"
+  },
+  "items": [
+    {
+      "id": "p09j19ch",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnnr"
+      },
+      "episode": {
+        "id": "m000wnnt",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "See Hear"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:30:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19cl",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnq6"
+      },
+      "episode": {
+        "id": "m000w81f",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Dragons' Den"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:00:00.000Z",
+        "end": "2021-06-03T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19cp",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnqb"
+      },
+      "episode": {
+        "id": "m000w24s",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Inside Culture"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:00:00.000Z",
+        "end": "2021-06-03T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19cr",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnqj"
+      },
+      "episode": {
+        "id": "m000vlmh",
+        "title": "West Ruislip to Windsor"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:30:00.000Z",
+        "end": "2021-06-03T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j19cs",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-06-03T02:00:00.000Z",
+        "end": "2021-06-03T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1954",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnkq"
+      },
+      "episode": {
+        "id": "m000wnkt",
+        "title": "Gloucester"
+      },
+      "brand": {
+        "title": "Garden Rescue"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:30:00.000Z",
+        "end": "2021-06-03T06:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1955",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000v4g3"
+      },
+      "episode": {
+        "id": "m000v4g4",
+        "title": "Somerset"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T06:15:00.000Z",
+        "end": "2021-06-03T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1957",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnkx"
+      },
+      "episode": {
+        "id": "m000w7b3",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "All That Glitters: Britain's Next Jewellery Star"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T07:00:00.000Z",
+        "end": "2021-06-03T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1959",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnl0"
+      },
+      "episode": {
+        "id": "m000wnl3",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-03T08:00:00.000Z",
+        "end": "2021-06-03T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195c",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnl4"
+      },
+      "episode": {
+        "id": "m000wnl6",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-03T09:00:00.000Z",
+        "end": "2021-06-03T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195d",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0906nc7"
+      },
+      "episode": {
+        "id": "b091sxbx",
+        "title": "Episode 15 - Episode 15"
+      },
+      "brand": {
+        "title": "Letterbox"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T12:00:00.000Z",
+        "end": "2021-06-03T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195f",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bs73fl"
+      },
+      "episode": {
+        "id": "b0bs73g3",
+        "title": "Episode 6 - Jan and Romano"
+      },
+      "brand": {
+        "title": "Make Me a Dealer"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T12:30:00.000Z",
+        "end": "2021-06-03T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195g",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08rzjzy"
+      },
+      "episode": {
+        "id": "b08rzk02",
+        "title": "Episode 17 - North East Fish"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:15:00.000Z",
+        "end": "2021-06-03T13:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195h",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08rzk42"
+      },
+      "episode": {
+        "id": "b08rzk46",
+        "title": "Episode 18 - North East Main"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:45:00.000Z",
+        "end": "2021-06-03T14:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195j",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnl8"
+      },
+      "episode": {
+        "id": "m000wnlb",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Springwatch"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T14:15:00.000Z",
+        "end": "2021-06-03T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195k",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b07bkbx4"
+      },
+      "episode": {
+        "id": "b0684rmg",
+        "title": "Episode 3 - Seabirds"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T15:15:00.000Z",
+        "end": "2021-06-03T15:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195l",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0b05xjp"
+      },
+      "episode": {
+        "id": "b0b05ykj",
+        "title": "Episode 13 - Episode 13"
+      },
+      "brand": {
+        "title": "Eggheads"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T15:45:00.000Z",
+        "end": "2021-06-03T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195m",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnld"
+      },
+      "episode": {
+        "id": "m000fjcr",
+        "title": "Episode 29"
+      },
+      "brand": {
+        "title": "Flog It!"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T16:15:00.000Z",
+        "end": "2021-06-03T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jl9vv",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvdv"
+      },
+      "episode": {
+        "id": "b094mtyl",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Richard Osman's House of Games"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:00:00.000Z",
+        "end": "2021-06-03T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195p",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000d2fl"
+      },
+      "episode": {
+        "id": "m000d2fm",
+        "title": "Dundee to Aberdeen"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:30:00.000Z",
+        "end": "2021-06-03T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195q",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnlh"
+      },
+      "episode": {
+        "id": "m000wnll",
+        "title": "First Test: Day Two Highlights"
+      },
+      "brand": {
+        "title": "Cricket: Today at the Test"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-03T18:00:00.000Z",
+        "end": "2021-06-03T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195r",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnlt"
+      },
+      "episode": {
+        "id": "m000wnlx",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Springwatch"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T19:00:00.000Z",
+        "end": "2021-06-03T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195s",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnm0"
+      },
+      "episode": {
+        "id": "m000wnm3",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "The Road to Partition"
+      },
+      "masterbrand": {
+        "id": "bbc_one_northern_ireland"
+      },
+      "published_time": {
+        "start": "2021-06-03T20:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195t",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnm6"
+      },
+      "episode": {
+        "id": "m000wnmb",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Mock the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-03T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195v",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p065wfcf"
+      },
+      "episode": {
+        "id": "p065wf8d",
+        "title": "27/09/2018 - Wonderdate"
+      },
+      "brand": {
+        "title": "Comedy Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:30:00.000Z",
+        "end": "2021-06-03T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195w",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnmh"
+      },
+      "episode": {
+        "id": "m000wnmm",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Newsnight"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:45:00.000Z",
+        "end": "2021-06-03T22:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195x",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnms"
+      },
+      "episode": {
+        "id": "m000wnmx",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weather"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T22:25:00.000Z",
+        "end": "2021-06-03T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195y",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnn1"
+      },
+      "episode": {
+        "id": "m000wnn4",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Building Britain's Biggest Nuclear Power Station"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T22:30:00.000Z",
+        "end": "2021-06-03T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j195z",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnnc"
+      },
+      "episode": {
+        "id": "m000vsx2",
+        "title": "Britain in the Roaring 20s"
+      },
+      "brand": {
+        "title": "Make-up: A Glamorous History"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:30:00.000Z",
+        "end": "2021-06-04T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1960",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnnf"
+      },
+      "episode": {
+        "id": "m000w7rz",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "The Great British Sewing Bee"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:30:00.000Z",
+        "end": "2021-06-04T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1961",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnnj"
+      },
+      "episode": {
+        "id": "m000vlpk",
+        "title": "Guildford to Aldershot"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T01:30:00.000Z",
+        "end": "2021-06-04T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:38:18.205Z"
+  },
+  "items": [
+    {
+      "id": "p09jrn71",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy46"
+      },
+      "episode": {
+        "id": "m000wy47",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Snoochie Shy"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-14T22:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn73",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy48"
+      },
+      "episode": {
+        "id": "m000wy49",
+        "title": "Loxy DNB Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn76",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy4b"
+      },
+      "episode": {
+        "id": "m000wy4c",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra's Cosmic Wind Down"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T02:00:00.000Z",
+        "end": "2021-06-15T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn79",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wsp7"
+      },
+      "episode": {
+        "id": "m000wsp8",
+        "title": "Monday Mayhem with Sian"
+      },
+      "brand": {
+        "title": "Sian Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T03:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsvr",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9k"
+      },
+      "episode": {
+        "id": "m000wy9l",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsvt",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wqrc"
+      },
+      "episode": {
+        "id": "m000wqrf",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:30:00.000Z",
+        "end": "2021-06-15T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsvv",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9m"
+      },
+      "episode": {
+        "id": "m000wy9n",
+        "title": "Tea Tuesday"
+      },
+      "brand": {
+        "title": "The 1Xtra Breakfast Show with Nadia Jae"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T06:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsvx",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9p"
+      },
+      "episode": {
+        "id": "m000wy9q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Nick Bright"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsvz",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy82"
+      },
+      "episode": {
+        "id": "m000wy84",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T11:45:00.000Z",
+        "end": "2021-06-15T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsw1",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9r"
+      },
+      "episode": {
+        "id": "m000wy9s",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Yasmin Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T12:00:00.000Z",
+        "end": "2021-06-15T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsw3",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9t"
+      },
+      "episode": {
+        "id": "m000wy9v",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Reece Parkinson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T15:00:00.000Z",
+        "end": "2021-06-15T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsw4",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy8h"
+      },
+      "episode": {
+        "id": "m000wy8k",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T16:45:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsw5",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9w"
+      },
+      "episode": {
+        "id": "m000wy9x",
+        "title": "1Xtra Remembers"
+      },
+      "brand": {
+        "title": "Reece Parkinson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsw8",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy9y"
+      },
+      "episode": {
+        "id": "m000wy9z",
+        "title": "Hip-Hop Week"
+      },
+      "brand": {
+        "title": "DJ Target"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T18:00:00.000Z",
+        "end": "2021-06-15T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsw9",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wyb0"
+      },
+      "episode": {
+        "id": "m000wyb1",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jamz Supernova"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T20:00:00.000Z",
+        "end": "2021-06-15T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrswc",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wyb2"
+      },
+      "episode": {
+        "id": "m000wyb3",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Snoochie Shy"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-15T22:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrswf",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wy8s"
+      },
+      "episode": {
+        "id": "m000wy8t",
+        "title": "Annie's Continued Euro Celebrations"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-16T00:00:00.000Z",
+        "end": "2021-06-16T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-20T03:17:06.749Z"
+  },
+  "items": [
+    {
+      "id": "p09gpyvl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099r9jz"
+      },
+      "episode": {
+        "id": "p099cpc4",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:00:00.000Z",
+        "end": "2021-05-19T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rb5f"
+      },
+      "episode": {
+        "id": "p099cq12",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:45:00.000Z",
+        "end": "2021-05-20T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvn",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sl"
+      },
+      "episode": {
+        "id": "m000w6sm",
+        "title": "Forest Edge"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:30:00.000Z",
+        "end": "2021-05-20T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvp",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bktc"
+      },
+      "episode": {
+        "id": "m000bjyw",
+        "title": "Marple to Huddersfield"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:00:00.000Z",
+        "end": "2021-05-20T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jgr35"
+      },
+      "episode": {
+        "id": "b09hcts2",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:30:00.000Z",
+        "end": "2021-05-20T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvt",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T02:30:00.000Z",
+        "end": "2021-05-20T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T04:30:00.000Z",
+        "end": "2021-05-20T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0cr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:58:00.000Z",
+        "end": "2021-05-20T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0cs",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bpkj"
+      },
+      "episode": {
+        "id": "m000bk2g",
+        "title": "Sowerby Bridge to Manchester"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T18:00:00.000Z",
+        "end": "2021-05-20T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0ct",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6tf"
+      },
+      "episode": {
+        "id": "m000w6th",
+        "title": "Mountain Ridge Lake"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T18:30:00.000Z",
+        "end": "2021-05-20T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0cv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6tk"
+      },
+      "episode": {
+        "id": "m000w6tm",
+        "title": "Semi-Final 2"
+      },
+      "brand": {
+        "title": "Eurovision Song Contest"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-20T19:00:00.000Z",
+        "end": "2021-05-20T21:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0cx",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000qspx"
+      },
+      "episode": {
+        "id": "m000qspy",
+        "title": "Tea with Mussolini"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:05:00.000Z",
+        "end": "2021-05-20T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gy5xf",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wd63"
+      },
+      "episode": {
+        "id": "m000w6tr",
+        "title": "Delia Derbyshire: The Myths and the Legendary Tapes"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-21T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0cz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6tf"
+      },
+      "episode": {
+        "id": "m000w6th",
+        "title": "Mountain Ridge Lake"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T00:30:00.000Z",
+        "end": "2021-05-21T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0d0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bpkj"
+      },
+      "episode": {
+        "id": "m000bk2g",
+        "title": "Sowerby Bridge to Manchester"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T01:00:00.000Z",
+        "end": "2021-05-21T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0d1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6ts"
+      },
+      "episode": {
+        "id": "m000w6s5",
+        "title": "Vaccines"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T01:30:00.000Z",
+        "end": "2021-05-21T02:25:00.000Z"
+      }
+    }
+  ]
+}

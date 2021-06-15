@@ -1,0 +1,960 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:27:37.387Z"
+  },
+  "items": [
+    {
+      "id": "p09hjhw0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bgpg7z"
+      },
+      "episode": {
+        "id": "b0bgpgk3",
+        "title": "4. The Red Moon Mystery 2/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-29T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0062yrf"
+      },
+      "episode": {
+        "id": "b007jw60",
+        "title": "The Mortal Immortal by Mary Shelley"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:30:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wcjn"
+      },
+      "episode": {
+        "id": "b09tbl2s",
+        "title": "Don't Panic! It's The Douglas Adams Papers"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0028br7"
+      },
+      "episode": {
+        "id": "b007jp55",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "The In Crowd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:00:00.000Z",
+        "end": "2021-05-30T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b051089g"
+      },
+      "episode": {
+        "id": "b05108h0",
+        "title": "Dame Kelly Holmes"
+      },
+      "brand": {
+        "title": "I've Never Seen Star Wars"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:30:00.000Z",
+        "end": "2021-05-30T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b076nzzw"
+      },
+      "episode": {
+        "id": "b076p08g",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Josie Long: Romance and Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:00:00.000Z",
+        "end": "2021-05-30T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01p2rzj"
+      },
+      "episode": {
+        "id": "b01p2s1y",
+        "title": "I Looked Like Gollum at School"
+      },
+      "brand": {
+        "title": "The Jason Byrne Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:30:00.000Z",
+        "end": "2021-05-30T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkdm"
+      },
+      "episode": {
+        "id": "b007jnpv",
+        "title": "Kind Hearts and Coronets"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T03:00:00.000Z",
+        "end": "2021-05-30T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhw9",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b084blf7"
+      },
+      "episode": {
+        "id": "b084bmf7",
+        "title": "Lucy Porter on Cary Grant"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:30:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr0z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08fs5z4"
+      },
+      "episode": {
+        "id": "b08fs6r1",
+        "title": "Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T06:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr10",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06vc380"
+      },
+      "episode": {
+        "id": "b06vc384",
+        "title": "Ian Hart"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:10:00.000Z",
+        "end": "2021-05-30T06:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr11",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005nyx"
+      },
+      "episode": {
+        "id": "m0005nyy",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Lucy Catherine - Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:20:00.000Z",
+        "end": "2021-05-30T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr13",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006m0g8"
+      },
+      "episode": {
+        "id": "b007jydz",
+        "title": "The Gorilla"
+      },
+      "brand": {
+        "title": "We're in Business"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T07:30:00.000Z",
+        "end": "2021-05-30T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr14",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00zdbm4"
+      },
+      "episode": {
+        "id": "b00zdbmj",
+        "title": "13/03/2011 - From 26/11/1962"
+      },
+      "brand": {
+        "title": "The Arthur Haynes Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:00:00.000Z",
+        "end": "2021-05-30T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr17",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wd10"
+      },
+      "episode": {
+        "id": "b007zkzz",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Double Income, No Kids Yet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:30:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b05sy1yp"
+      },
+      "episode": {
+        "id": "b05sy1yw",
+        "title": "Sandie Shaw"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T09:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1g",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0100j3p"
+      },
+      "episode": {
+        "id": "b0100j9q",
+        "title": "08/04/2011 - Hummers"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:45:00.000Z",
+        "end": "2021-05-30T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkbz"
+      },
+      "episode": {
+        "id": "p09fy247",
+        "title": "3. The Committee of Sleep"
+      },
+      "brand": {
+        "title": "Sneakernomics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T10:00:00.000Z",
+        "end": "2021-05-30T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1m",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkc0"
+      },
+      "episode": {
+        "id": "m000wkc1",
+        "title": "Africa's Digital Poets - Breaking the Window with a Poem  2/2"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:00:00.000Z",
+        "end": "2021-05-30T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1q",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09rx2bv"
+      },
+      "episode": {
+        "id": "b09rx3vt",
+        "title": "Last Chance Salon"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:30:00.000Z",
+        "end": "2021-05-30T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07zf838"
+      },
+      "episode": {
+        "id": "b07zf850",
+        "title": "The Invention of Angela Carter by Edmund Gordon (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:00:00.000Z",
+        "end": "2021-05-30T13:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1t",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b077s3n7"
+      },
+      "episode": {
+        "id": "b077s3qj",
+        "title": "Phil Tufnell"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:10:00.000Z",
+        "end": "2021-05-30T13:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08pmsm3"
+      },
+      "episode": {
+        "id": "b08pmsmp",
+        "title": "Series 8 (Omnibus)"
+      },
+      "brand": {
+        "title": "How Does That Make You Feel?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:20:00.000Z",
+        "end": "2021-05-30T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9sw"
+      },
+      "episode": {
+        "id": "b00c7fbx",
+        "title": "Bob Dylan"
+      },
+      "brand": {
+        "title": "What's So Great About ...?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:30:00.000Z",
+        "end": "2021-05-30T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr1z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005tlf"
+      },
+      "episode": {
+        "id": "m0005tlg",
+        "title": "Stephen Wakelam - Death at the Bed End"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:00:00.000Z",
+        "end": "2021-05-30T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr20",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkc0"
+      },
+      "episode": {
+        "id": "m000wkc1",
+        "title": "Africa's Digital Poets - Breaking the Window with a Poem  2/2"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:00:00.000Z",
+        "end": "2021-05-30T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr21",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09rx2bv"
+      },
+      "episode": {
+        "id": "b09rx3vt",
+        "title": "Last Chance Salon"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:30:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr26",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0065clr"
+      },
+      "episode": {
+        "id": "b0076wvt",
+        "title": "Thomas Hardy - The Withered Arm"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr28",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0003tdv"
+      },
+      "episode": {
+        "id": "m0003tdx",
+        "title": "MS. Found in a Bottle by  Edgar Allan Poe"
+      },
+      "brand": {
+        "title": "Murder & Mystery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:45:00.000Z",
+        "end": "2021-05-30T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2b",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkbz"
+      },
+      "episode": {
+        "id": "p09fy247",
+        "title": "3. The Committee of Sleep"
+      },
+      "brand": {
+        "title": "Sneakernomics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:00:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2d",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005tlf"
+      },
+      "episode": {
+        "id": "m0005tlg",
+        "title": "Stephen Wakelam - Death at the Bed End"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b05sy1yp"
+      },
+      "episode": {
+        "id": "b05sy1yw",
+        "title": "Sandie Shaw"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:00:00.000Z",
+        "end": "2021-05-30T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2j",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0100j3p"
+      },
+      "episode": {
+        "id": "b0100j9q",
+        "title": "08/04/2011 - Hummers"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:45:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09rx2bv"
+      },
+      "episode": {
+        "id": "b09rx3vt",
+        "title": "Last Chance Salon"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-30T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2l",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06kcbvk"
+      },
+      "episode": {
+        "id": "b06kcbw8",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:30:00.000Z",
+        "end": "2021-05-30T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2m",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07m4wwb"
+      },
+      "episode": {
+        "id": "b07m4wyh",
+        "title": "Family"
+      },
+      "brand": {
+        "title": "Henry Normal: A Normal..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:00:00.000Z",
+        "end": "2021-05-30T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01kkr2z"
+      },
+      "episode": {
+        "id": "b01kkr59",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Alice's Wunderland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:30:00.000Z",
+        "end": "2021-05-30T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0065clr"
+      },
+      "episode": {
+        "id": "b0076wvt",
+        "title": "Thomas Hardy - The Withered Arm"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-30T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0003tdv"
+      },
+      "episode": {
+        "id": "m0003tdx",
+        "title": "MS. Found in a Bottle by  Edgar Allan Poe"
+      },
+      "brand": {
+        "title": "Murder & Mystery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:45:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07zf838"
+      },
+      "episode": {
+        "id": "b07zf850",
+        "title": "The Invention of Angela Carter by Edmund Gordon (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b077s3n7"
+      },
+      "episode": {
+        "id": "b077s3qj",
+        "title": "Phil Tufnell"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:10:00.000Z",
+        "end": "2021-05-31T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr31",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08pmsm3"
+      },
+      "episode": {
+        "id": "b08pmsmp",
+        "title": "Series 8 (Omnibus)"
+      },
+      "brand": {
+        "title": "How Does That Make You Feel?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:20:00.000Z",
+        "end": "2021-05-31T02:30:00.000Z"
+      }
+    }
+  ]
+}

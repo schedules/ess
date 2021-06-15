@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wiltshire"
+  },
+  "service": {
+    "id": "bbc_radio_wiltshire",
+    "name": "BBC Wiltshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:32:06.163Z"
+  },
+  "items": [
+    {
+      "id": "p09k9tz0",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jwvjt"
+      },
+      "episode": {
+        "id": "p09jwvjk",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9tz1",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jry0h"
+      },
+      "episode": {
+        "id": "p09jry09",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9tz2",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jsb98"
+      },
+      "episode": {
+        "id": "p09jry0q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9tzf",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09k9tz6"
+      },
+      "episode": {
+        "id": "p09k9tz3",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Ben Prater"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9v07",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09k9tzz"
+      },
+      "episode": {
+        "id": "p09k9tzp",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Marie Lennon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9v17",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09k9v0y"
+      },
+      "episode": {
+        "id": "p09k9v0m",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "James Thomas"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9v1r",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09k9v1n"
+      },
+      "episode": {
+        "id": "p09k9v1j",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Sue Kinnear"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9v1s",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jww05"
+      },
+      "episode": {
+        "id": "p09jww02",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:23:52.362Z"
+  },
+  "items": [
+    {
+      "id": "p09g6p0z",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3xj"
+      },
+      "episode": {
+        "id": "m000w3xk",
+        "title": "Vegetable Voices"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6p10",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3xl"
+      },
+      "episode": {
+        "id": "m000w3xm",
+        "title": "Nicola Benedetti at the BBC Proms 2020"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yt1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3hs"
+      },
+      "episode": {
+        "id": "m000w3hv",
+        "title": "Sunday - Martin Handley"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:00:00.000Z",
+        "end": "2021-05-16T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yt2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3hx"
+      },
+      "episode": {
+        "id": "m000w3hz",
+        "title": "Sarah Walker with an exhilarating musical mix"
+      },
+      "brand": {
+        "title": "Sunday Morning"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T08:00:00.000Z",
+        "end": "2021-05-16T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yt4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3j1"
+      },
+      "episode": {
+        "id": "m000kh8f",
+        "title": "Helen Macdonald"
+      },
+      "brand": {
+        "title": "Private Passions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T11:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yt7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000vy3g"
+      },
+      "episode": {
+        "id": "m000vy3j",
+        "title": "Timothy Ridout and Tom Poster play Brahms viola sonatas"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yt9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3j3"
+      },
+      "episode": {
+        "id": "m000w3j5",
+        "title": "Music for Melancholy"
+      },
+      "brand": {
+        "title": "The Early Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000vyd2"
+      },
+      "episode": {
+        "id": "m000vyd3",
+        "title": "St Martin-in-the-Fields, London"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yth",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3j7"
+      },
+      "episode": {
+        "id": "m000w3j9",
+        "title": "Your Sunday jazz soundtrack"
+      },
+      "brand": {
+        "title": "Jazz Record Requests"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:00:00.000Z",
+        "end": "2021-05-16T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jc"
+      },
+      "episode": {
+        "id": "m000w3jd",
+        "title": "Brass Bands"
+      },
+      "brand": {
+        "title": "The Listening Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:00:00.000Z",
+        "end": "2021-05-16T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jf"
+      },
+      "episode": {
+        "id": "m000w3jg",
+        "title": "Pictures at an Exhibition"
+      },
+      "brand": {
+        "title": "Words and Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:30:00.000Z",
+        "end": "2021-05-16T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytq",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000v2jt"
+      },
+      "episode": {
+        "id": "m000v2jv",
+        "title": "Fluxus -  60 Years and Not Counting"
+      },
+      "brand": {
+        "title": "Sunday Feature"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:45:00.000Z",
+        "end": "2021-05-16T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yts",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jh"
+      },
+      "episode": {
+        "id": "m000w3jj",
+        "title": "Angela"
+      },
+      "brand": {
+        "title": "Drama on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:30:00.000Z",
+        "end": "2021-05-16T20:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytt",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jk"
+      },
+      "episode": {
+        "id": "m000w3jl",
+        "title": "CPE Bach’s Cello Concerto in A"
+      },
+      "brand": {
+        "title": "Record Review Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:10:00.000Z",
+        "end": "2021-05-16T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jm"
+      },
+      "episode": {
+        "id": "m000w3jn",
+        "title": "Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:00:00.000Z",
+        "end": "2021-05-16T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jp"
+      },
+      "episode": {
+        "id": "m000w3jq",
+        "title": "Part 10: Andrea Baker"
+      },
+      "brand": {
+        "title": "Sounds Connected"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:00:00.000Z",
+        "end": "2021-05-16T23:30:00.000Z"
+      }
+    }
+  ]
+}

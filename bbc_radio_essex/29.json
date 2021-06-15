@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_essex"
+  },
+  "service": {
+    "id": "bbc_radio_essex",
+    "name": "BBC Essex",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:28:44.699Z"
+  },
+  "items": [
+    {
+      "id": "p09h4sxh",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09h4ffv"
+      },
+      "episode": {
+        "id": "p09h4ffr",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0kr",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0ks",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0kz",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht0kw"
+      },
+      "episode": {
+        "id": "p09ht0kt",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Kath Melandri"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0lc",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht0l7"
+      },
+      "episode": {
+        "id": "p09ht0l3",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "The Steve and Ian Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0ls",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht0lm"
+      },
+      "episode": {
+        "id": "p09ht0lh",
+        "title": "Victoria Polley (29/05/2021)"
+      },
+      "brand": {
+        "title": "Around The Wicket"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0m8",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht0m3"
+      },
+      "episode": {
+        "id": "p09ht0ly",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Emma Bullimore"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-29T15:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0mk",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hlcm6"
+      },
+      "episode": {
+        "id": "p09hlclj",
+        "title": "Rock 'n' Roll Heaven (29/05/2021)"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0mx",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht0ms"
+      },
+      "episode": {
+        "id": "p09ht0mm",
+        "title": "Amy Lauren (Guest Mix) (29/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Essex"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht0n4",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hlcnq"
+      },
+      "episode": {
+        "id": "p09hlcnl",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

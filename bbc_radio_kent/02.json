@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_kent"
+  },
+  "service": {
+    "id": "bbc_radio_kent",
+    "name": "BBC Radio Kent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:26:34.823Z"
+  },
+  "items": [
+    {
+      "id": "p09htbt3",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hl3h4"
+      },
+      "episode": {
+        "id": "p09hl3h0",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbd1",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hggd1"
+      },
+      "episode": {
+        "id": "p09hggcy",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:00:00.000Z",
+        "end": "2021-06-02T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbdc",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hl3yg"
+      },
+      "episode": {
+        "id": "p09hggd5",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:00:00.000Z",
+        "end": "2021-06-02T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbf6",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbdy"
+      },
+      "episode": {
+        "id": "p09htbdj",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-02T05:00:00.000Z",
+        "end": "2021-06-02T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbg8",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbg0"
+      },
+      "episode": {
+        "id": "p09htbfr",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-02T09:00:00.000Z",
+        "end": "2021-06-02T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbgw",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbgp"
+      },
+      "episode": {
+        "id": "p09htbgk",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-02T13:00:00.000Z",
+        "end": "2021-06-02T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbh3",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbh1"
+      },
+      "episode": {
+        "id": "p09htbgz",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:00:00.000Z",
+        "end": "2021-06-02T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbh8",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbh6"
+      },
+      "episode": {
+        "id": "p09htbh4",
+        "title": "Upload RE:Loaded"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-02T20:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbhh",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hl402"
+      },
+      "episode": {
+        "id": "p09hl400",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    }
+  ]
+}

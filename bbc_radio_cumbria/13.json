@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cumbria"
+  },
+  "service": {
+    "id": "bbc_radio_cumbria",
+    "name": "BBC Radio Cumbria",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:42:01.068Z"
+  },
+  "items": [
+    {
+      "id": "p09jx3ql",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx3qb"
+      },
+      "episode": {
+        "id": "p09jx3pv",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Simon's Fantastic 80s"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx441",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jrx0v"
+      },
+      "episode": {
+        "id": "p09jrx0l",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k92f7",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09k90px"
+      },
+      "episode": {
+        "id": "p09k90pt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx460",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx45s"
+      },
+      "episode": {
+        "id": "p09jx458",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Richard Corrie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx47b",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx471"
+      },
+      "episode": {
+        "id": "p09jx46j",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Val Armstrong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx48l",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx47y"
+      },
+      "episode": {
+        "id": "p09jx47p",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Joe Costin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx49g",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx492"
+      },
+      "episode": {
+        "id": "p09jx48v",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Paul Braithwaite"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx4bh",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx4b9"
+      },
+      "episode": {
+        "id": "p09jx49x",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Solid Gold Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    }
+  ]
+}

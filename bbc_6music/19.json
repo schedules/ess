@@ -1,0 +1,334 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:32:41.337Z"
+  },
+  "items": [
+    {
+      "id": "p09g7f6c",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53r"
+      },
+      "episode": {
+        "id": "m000w53s",
+        "title": "Vol. 6: Music that makes me scream & shout"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6d",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0000xfn"
+      },
+      "episode": {
+        "id": "m0000xfq",
+        "title": "Slow Sunday with Ólafur Arnalds"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6f",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b09rmpxn"
+      },
+      "episode": {
+        "id": "b09rmr9v",
+        "title": "Lords of the New Church, Muse and Betty and the Werewolves"
+      },
+      "brand": {
+        "title": "6 Music Live Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T02:00:00.000Z",
+        "end": "2021-05-19T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6g",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53t"
+      },
+      "episode": {
+        "id": "m000w53v",
+        "title": "SOAK, The xx, New Order, and more!"
+      },
+      "brand": {
+        "title": "6 Music's Jukebox"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T03:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6h",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53w"
+      },
+      "episode": {
+        "id": "m000w53x",
+        "title": "Names In Songs"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4j",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4z5"
+      },
+      "episode": {
+        "id": "m000w4z6",
+        "title": "Social Recall"
+      },
+      "brand": {
+        "title": "Lauren Laverne"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T06:30:00.000Z",
+        "end": "2021-05-19T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4k",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4z7"
+      },
+      "episode": {
+        "id": "m000w4z8",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:30:00.000Z",
+        "end": "2021-05-19T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4l",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4z9"
+      },
+      "episode": {
+        "id": "m000w4zb",
+        "title": "Ep 562 - Paul Weller is today's Album of the Day"
+      },
+      "brand": {
+        "title": "Shaun Keaveny"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T12:00:00.000Z",
+        "end": "2021-05-19T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4m",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4zc"
+      },
+      "episode": {
+        "id": "m000w4zd",
+        "title": "Tom Ravenscroft sits in"
+      },
+      "brand": {
+        "title": "Steve Lamacq"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T15:00:00.000Z",
+        "end": "2021-05-19T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4r",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4zf"
+      },
+      "episode": {
+        "id": "m000w4zg",
+        "title": "Kristin Hersh Archive Session"
+      },
+      "brand": {
+        "title": "Marc Riley"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:00:00.000Z",
+        "end": "2021-05-19T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4t",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4zh"
+      },
+      "episode": {
+        "id": "m000w4zj",
+        "title": "Dark Horse is the Label Of Love."
+      },
+      "brand": {
+        "title": "Gideon Coe"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T20:00:00.000Z",
+        "end": "2021-05-19T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4v",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4zk"
+      },
+      "episode": {
+        "id": "m000w4zl",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Freak Zone Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4w",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0000xg9"
+      },
+      "episode": {
+        "id": "m0000xgb",
+        "title": "Picks from 2018"
+      },
+      "brand": {
+        "title": "Russell Crowe's Slow Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:00:00.000Z",
+        "end": "2021-05-20T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b4y",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0009r1t"
+      },
+      "episode": {
+        "id": "m0009r1w",
+        "title": "2019"
+      },
+      "brand": {
+        "title": "Russell Crowe's Slow Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:00:00.000Z",
+        "end": "2021-05-20T02:00:00.000Z"
+      }
+    }
+  ]
+}

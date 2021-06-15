@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_guernsey"
+  },
+  "service": {
+    "id": "bbc_radio_guernsey",
+    "name": "BBC Radio Guernsey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:27:20.215Z"
+  },
+  "items": [
+    {
+      "id": "p09gl14w",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gkgyq"
+      },
+      "episode": {
+        "id": "p09gkgyl",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w0q",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w0s",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w10",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4w0x"
+      },
+      "episode": {
+        "id": "p09h4w0v",
+        "title": "Isla Blatchford  22/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w15",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4w13"
+      },
+      "episode": {
+        "id": "p09h4w11",
+        "title": "Tony Gillham 22/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3cj0",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09j3c4c"
+      },
+      "episode": {
+        "id": "p09j3c45",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Channels Islands Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w1m",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gycl8"
+      },
+      "episode": {
+        "id": "p09gycl1",
+        "title": "Featured Artist: Public Image Ltd"
+      },
+      "brand": {
+        "title": "Stereo Underground"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w1y",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h4w1s"
+      },
+      "episode": {
+        "id": "p09h4w1n",
+        "title": "Featured Artist: Elliot Albert Orchard"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in the Channel Islands"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4w25",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09h495b"
+      },
+      "episode": {
+        "id": "p09h494r",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:26:05.046Z"
+  },
+  "items": [
+    {
+      "id": "p09hj9pt",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wk6h"
+      },
+      "episode": {
+        "id": "m000wk6j",
+        "title": "Elohim in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9pv",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000w5rl"
+      },
+      "episode": {
+        "id": "m000w5rm",
+        "title": "Friday Nights With Kenny!"
+      },
+      "brand": {
+        "title": "Kenny Allstar"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6g0",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wc99"
+      },
+      "episode": {
+        "id": "m000wc9b",
+        "title": "Navy Kenzo"
+      },
+      "brand": {
+        "title": "Africa 360 with..."
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:00:00.000Z",
+        "end": "2021-05-30T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9pw",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wb4k"
+      },
+      "episode": {
+        "id": "m000wb4m",
+        "title": "With Children of Zeus"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T03:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5p",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000vgm9"
+      },
+      "episode": {
+        "id": "m000vgmb",
+        "title": "The Freshest Icons"
+      },
+      "brand": {
+        "title": "1Xtra's R&B Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5q",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wklt"
+      },
+      "episode": {
+        "id": "m000wklv",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Remi Burgz"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:00:00.000Z",
+        "end": "2021-05-30T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5r",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wklw"
+      },
+      "episode": {
+        "id": "m000wklx",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Remi Burgz presents The Gospel Corner"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:32:00.000Z",
+        "end": "2021-05-30T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5s",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkly"
+      },
+      "episode": {
+        "id": "m000wklz",
+        "title": "Trevor Continues the Bank Holiday R'n'B Weekend Vibes!"
+      },
+      "brand": {
+        "title": "Trevor Nelson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T10:00:00.000Z",
+        "end": "2021-05-30T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5t",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkm0"
+      },
+      "episode": {
+        "id": "m000wkm1",
+        "title": "Part 2"
+      },
+      "brand": {
+        "title": "1Xtra's R&B Weekender"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:00:00.000Z",
+        "end": "2021-05-30T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5v",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkm2"
+      },
+      "episode": {
+        "id": "m000wkm3",
+        "title": "R&B Weekend"
+      },
+      "brand": {
+        "title": "Rampage"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:00:00.000Z",
+        "end": "2021-05-30T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5w",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkm4"
+      },
+      "episode": {
+        "id": "m000wkm5",
+        "title": "Heartless Crew - The Millenium R&B Special"
+      },
+      "brand": {
+        "title": "Heartless Crew"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:00:00.000Z",
+        "end": "2021-05-30T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5x",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkm6"
+      },
+      "episode": {
+        "id": "m000wkm7",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "1Xtra Talks with Richie Brave"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5y",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkm8"
+      },
+      "episode": {
+        "id": "m000wkm9",
+        "title": "Jermaine Dupri"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-30T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv5z",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wkmb"
+      },
+      "episode": {
+        "id": "m000wkmc",
+        "title": "100% Jermaine Dupri Productions"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv60",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wk99"
+      },
+      "episode": {
+        "id": "m000wk9b",
+        "title": "DJ EZ"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv61",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wk9c"
+      },
+      "episode": {
+        "id": "m000wk9d",
+        "title": "Sherelle - DJ Manny interview and guest mix"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:00:00.000Z",
+        "end": "2021-05-31T02:00:00.000Z"
+      }
+    }
+  ]
+}

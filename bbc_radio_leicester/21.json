@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leicester"
+  },
+  "service": {
+    "id": "bbc_radio_leicester",
+    "name": "BBC Radio Leicester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-21T03:22:37.717Z"
+  },
+  "items": [
+    {
+      "id": "p09gth5m",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gkhg6"
+      },
+      "episode": {
+        "id": "p09gkhg3",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-21T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth5p",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09g43gg"
+      },
+      "episode": {
+        "id": "p09g43g4",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-21T00:00:00.000Z",
+        "end": "2021-05-21T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth5r",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09g4chy"
+      },
+      "episode": {
+        "id": "p09g43gr",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:00:00.000Z",
+        "end": "2021-05-21T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth5s",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09g4cjr"
+      },
+      "episode": {
+        "id": "p09g4cjj",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:50:00.000Z",
+        "end": "2021-05-21T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth60",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gth5x"
+      },
+      "episode": {
+        "id": "p09gth5t",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Jimmy Carpenter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-21T05:00:00.000Z",
+        "end": "2021-05-21T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth65",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gth63"
+      },
+      "episode": {
+        "id": "p09gth61",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Summaya Mughal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-21T09:00:00.000Z",
+        "end": "2021-05-21T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth6m",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gth6c"
+      },
+      "episode": {
+        "id": "p09gth67",
+        "title": "Ady Dayman sits in (21/05/2021)"
+      },
+      "brand": {
+        "title": "Jack Rafferty"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-21T13:00:00.000Z",
+        "end": "2021-05-21T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth71",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gth6x"
+      },
+      "episode": {
+        "id": "p09gth6s",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Sport Weekend Preview"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:00:00.000Z",
+        "end": "2021-05-21T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth7t",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gth7k"
+      },
+      "episode": {
+        "id": "p09gth76",
+        "title": "Leicester Tigers v Montpellier"
+      },
+      "brand": {
+        "title": "BBC Radio Leicester Sport: Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-21T18:00:00.000Z",
+        "end": "2021-05-21T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gth8r",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gth8f"
+      },
+      "episode": {
+        "id": "p09gkph8",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Dean Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:30:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    }
+  ]
+}

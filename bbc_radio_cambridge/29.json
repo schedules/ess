@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cambridge"
+  },
+  "service": {
+    "id": "bbc_radio_cambridge",
+    "name": "BBC Radio Cambridgeshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:38:53.946Z"
+  },
+  "items": [
+    {
+      "id": "p09h4ffx",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09h4ffv"
+      },
+      "episode": {
+        "id": "p09h4ffr",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlchk",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlchm",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlcj1",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlchv"
+      },
+      "episode": {
+        "id": "p09hlchn",
+        "title": "Kev Lawrence 29/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlcjr",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlcjf"
+      },
+      "episode": {
+        "id": "p09hlcj8",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlcky",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlckj"
+      },
+      "episode": {
+        "id": "p09hlck7",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Summer Saturday Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlcmd",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlcm6"
+      },
+      "episode": {
+        "id": "p09hlclj",
+        "title": "Rock 'n' Roll Heaven (29/05/2021)"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlcnd",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlcn7"
+      },
+      "episode": {
+        "id": "p09hlcmr",
+        "title": "Natalie Malcolm 29/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlcnv",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlcnq"
+      },
+      "episode": {
+        "id": "p09hlcnl",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

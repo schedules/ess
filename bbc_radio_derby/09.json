@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_derby"
+  },
+  "service": {
+    "id": "bbc_radio_derby",
+    "name": "BBC Radio Derby",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:35:52.168Z"
+  },
+  "items": [
+    {
+      "id": "p09j8fzg",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j881m"
+      },
+      "episode": {
+        "id": "p09j881j",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g3q",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j3n7d"
+      },
+      "episode": {
+        "id": "p09j3n76",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g4w",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j767j"
+      },
+      "episode": {
+        "id": "p09j3n7t",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g64",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j8g5w"
+      },
+      "episode": {
+        "id": "p09j8g5b",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Andy Twigge"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g6s",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j8g6m"
+      },
+      "episode": {
+        "id": "p09j8g6j",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Ian Skye"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g72",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j8g6z"
+      },
+      "episode": {
+        "id": "p09j8g6w",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sally Pepper"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g78",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j8g76"
+      },
+      "episode": {
+        "id": "p09j8g73",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sportscene At Six"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g7r",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j8g7l"
+      },
+      "episode": {
+        "id": "p09j8g7f",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Top Floor"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8g7v",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09j88zk"
+      },
+      "episode": {
+        "id": "p09j88zc",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    }
+  ]
+}

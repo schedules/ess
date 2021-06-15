@@ -1,0 +1,1177 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-23T03:33:57.486Z"
+  },
+  "items": [
+    {
+      "id": "p09hgmr8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whls"
+      },
+      "episode": {
+        "id": "m000whlt",
+        "title": "Israel-Gaza conflict rages online"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:30:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmr9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whmp"
+      },
+      "episode": {
+        "id": "m000whmq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfk2"
+      },
+      "episode": {
+        "id": "m000wfk3",
+        "title": "Kenyans on Safari"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:30:00.000Z",
+        "end": "2021-05-23T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whmr"
+      },
+      "episode": {
+        "id": "m000whms",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:00:00.000Z",
+        "end": "2021-05-23T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9ns"
+      },
+      "episode": {
+        "id": "m000w9nt",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:30:00.000Z",
+        "end": "2021-05-23T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whmt"
+      },
+      "episode": {
+        "id": "m000whmv",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T02:00:00.000Z",
+        "end": "2021-05-23T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrg",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfk0"
+      },
+      "episode": {
+        "id": "m000wfk1",
+        "title": "Killing Hope: Targeted Attacks in Afghanistan"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T02:30:00.000Z",
+        "end": "2021-05-23T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whmw"
+      },
+      "episode": {
+        "id": "m000whmx",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T03:00:00.000Z",
+        "end": "2021-05-23T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfjw"
+      },
+      "episode": {
+        "id": "m000wfjx",
+        "title": "Shooting for the Stars"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T03:30:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whmy"
+      },
+      "episode": {
+        "id": "m000whmz",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgmrl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wbcc"
+      },
+      "episode": {
+        "id": "m000wbcd",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:30:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69b",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whn0"
+      },
+      "episode": {
+        "id": "m000whn1",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast (BBC News Channel)"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69c",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whn2"
+      },
+      "episode": {
+        "id": "m000whn3",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69d",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whn4"
+      },
+      "episode": {
+        "id": "m000whn5",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:30:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69f",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whn6"
+      },
+      "episode": {
+        "id": "m000whn7",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlbjr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wlqr"
+      },
+      "episode": {
+        "id": "m000whr7",
+        "title": "Becoming Andi"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:30:00.000Z",
+        "end": "2021-05-23T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69h",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whn8"
+      },
+      "episode": {
+        "id": "m000whn9",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:00:00.000Z",
+        "end": "2021-05-23T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69j",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9ns"
+      },
+      "episode": {
+        "id": "m000w9nt",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:30:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69k",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnb"
+      },
+      "episode": {
+        "id": "m000whnc",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69l",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfjw"
+      },
+      "episode": {
+        "id": "m000wfjx",
+        "title": "Shooting for the Stars"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:30:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69m",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnd"
+      },
+      "episode": {
+        "id": "m000whnf",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69n",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfk2"
+      },
+      "episode": {
+        "id": "m000wfk3",
+        "title": "Kenyans on Safari"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:30:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69p",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whng"
+      },
+      "episode": {
+        "id": "m000whnh",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69q",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wbcc"
+      },
+      "episode": {
+        "id": "m000wbcd",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:30:00.000Z",
+        "end": "2021-05-23T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69r",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnj"
+      },
+      "episode": {
+        "id": "m000whnk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:00:00.000Z",
+        "end": "2021-05-23T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69s",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whls"
+      },
+      "episode": {
+        "id": "m000whlt",
+        "title": "Israel-Gaza conflict rages online"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:30:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69t",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnl"
+      },
+      "episode": {
+        "id": "m000whnm",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlbjs",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wlqr"
+      },
+      "episode": {
+        "id": "m000whr7",
+        "title": "Becoming Andi"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:30:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69w",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnn"
+      },
+      "episode": {
+        "id": "m000whnp",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69x",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnq"
+      },
+      "episode": {
+        "id": "m000whnr",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69y",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whns"
+      },
+      "episode": {
+        "id": "m000whnt",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:30:00.000Z",
+        "end": "2021-05-23T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh69z",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9nj"
+      },
+      "episode": {
+        "id": "m000w9nk",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:45:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnv"
+      },
+      "episode": {
+        "id": "m000whnw",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfjy"
+      },
+      "episode": {
+        "id": "m000wfjz",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Click - Short Edition"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:30:00.000Z",
+        "end": "2021-05-23T18:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnx"
+      },
+      "episode": {
+        "id": "m000whny",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:45:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whnz"
+      },
+      "episode": {
+        "id": "m000whp0",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfk2"
+      },
+      "episode": {
+        "id": "m000wfk3",
+        "title": "Kenyans on Safari"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:30:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whp1"
+      },
+      "episode": {
+        "id": "m000whp2",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wfk0"
+      },
+      "episode": {
+        "id": "m000wfk1",
+        "title": "Killing Hope: Targeted Attacks in Afghanistan"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:30:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whp3"
+      },
+      "episode": {
+        "id": "m000whp4",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whp5"
+      },
+      "episode": {
+        "id": "m000whp6",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:30:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6b9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whp7"
+      },
+      "episode": {
+        "id": "m000whp8",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whp9"
+      },
+      "episode": {
+        "id": "m000whpb",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:30:00.000Z",
+        "end": "2021-05-23T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9nj"
+      },
+      "episode": {
+        "id": "m000w9nk",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:45:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whpc"
+      },
+      "episode": {
+        "id": "m000whpd",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-23T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7k14",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w3pj"
+      },
+      "episode": {
+        "id": "m000w3pk",
+        "title": "Doug Gurr - Director, Natural History Museum, UK"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:30:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bg",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whph"
+      },
+      "episode": {
+        "id": "m000whpj",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whls"
+      },
+      "episode": {
+        "id": "m000whlt",
+        "title": "Israel-Gaza conflict rages online"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:30:00.000Z",
+        "end": "2021-05-24T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whpk"
+      },
+      "episode": {
+        "id": "m000whpl",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:00:00.000Z",
+        "end": "2021-05-24T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wbcc"
+      },
+      "episode": {
+        "id": "m000wbcd",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:30:00.000Z",
+        "end": "2021-05-24T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6bl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whpm"
+      },
+      "episode": {
+        "id": "m000whpn",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-24T02:00:00.000Z",
+        "end": "2021-05-24T02:30:00.000Z"
+      }
+    }
+  ]
+}

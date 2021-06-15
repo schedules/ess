@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_sheffield"
+  },
+  "service": {
+    "id": "bbc_radio_sheffield",
+    "name": "BBC Radio Sheffield",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:28:45.780Z"
+  },
+  "items": [
+    {
+      "id": "p09gp5gw",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gl5c9"
+      },
+      "episode": {
+        "id": "p09gl5c1",
+        "title": "Russell Walker: Songs for Ice Cream."
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp5h2",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09g428f"
+      },
+      "episode": {
+        "id": "p09g4288",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp5hc",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09g4c5c"
+      },
+      "episode": {
+        "id": "p09g428z",
+        "title": "Claira Hermet sits in (19/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp5hz",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp5hs"
+      },
+      "episode": {
+        "id": "p09gp5hh",
+        "title": "Toby Foster"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp5jh",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp5jf"
+      },
+      "episode": {
+        "id": "p09gp5j9",
+        "title": "Paulette Edwards"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:00:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h83fs",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp5jm"
+      },
+      "episode": {
+        "id": "p09gp5jk",
+        "title": "Howard Pressman"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h83fx",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp5js"
+      },
+      "episode": {
+        "id": "p09gp5jq",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Football Heaven"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:30:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h83fz",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp5jz"
+      },
+      "episode": {
+        "id": "p09gp5jw",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Football Heaven Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h83g7",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h83g3"
+      },
+      "episode": {
+        "id": "p09h83g0",
+        "title": "Sile Sibanda"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:00:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp5k6",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gl72q"
+      },
+      "episode": {
+        "id": "p09gl72g",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    }
+  ]
+}

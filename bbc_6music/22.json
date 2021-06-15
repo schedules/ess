@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:27:52.429Z"
+  },
+  "items": [
+    {
+      "id": "p09gc0w3",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w622"
+      },
+      "episode": {
+        "id": "m000w623",
+        "title": "Beats all the way for two hours. To help you work or just zone out"
+      },
+      "brand": {
+        "title": "Focus Beats"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-22T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0w4",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w624"
+      },
+      "episode": {
+        "id": "m000w625",
+        "title": "120 minutes of sublime cinematic ambience"
+      },
+      "brand": {
+        "title": "Ambient Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:00:00.000Z",
+        "end": "2021-05-22T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0w5",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000vhrx"
+      },
+      "episode": {
+        "id": "m000vhry",
+        "title": "Vol. 3: My transcendent mixtape"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0w6",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w626"
+      },
+      "episode": {
+        "id": "m000w627",
+        "title": "Joni Mitchell - Blue"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0qv",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnj"
+      },
+      "episode": {
+        "id": "m000wbnk",
+        "title": "Bobby Gillespie and Jehnny Beth"
+      },
+      "brand": {
+        "title": "Radcliffe and Maconie"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0qw",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnl"
+      },
+      "episode": {
+        "id": "m000wbnm",
+        "title": "Marvin Gaye Block Party"
+      },
+      "brand": {
+        "title": "The Huey Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0qx",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnn"
+      },
+      "episode": {
+        "id": "m000wbnp",
+        "title": "With Producer, DJ and label boss Elkka"
+      },
+      "brand": {
+        "title": "Jamz Supernova on 6"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:00:00.000Z",
+        "end": "2021-05-22T13:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0qy",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnq"
+      },
+      "episode": {
+        "id": "m000wbnr",
+        "title": "The Weekend Warm Up Mix"
+      },
+      "brand": {
+        "title": "Jamz Supernova on 6"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:32:00.000Z",
+        "end": "2021-05-22T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0qz",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbns"
+      },
+      "episode": {
+        "id": "m000wbnt",
+        "title": "Cleveland Watkiss Words and Music"
+      },
+      "brand": {
+        "title": "Gilles Peterson"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r0",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnv"
+      },
+      "episode": {
+        "id": "m000wbnw",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "The Craig Charles Funk and Soul Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxpxp",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wmjm"
+      },
+      "episode": {
+        "id": "m000wmjn",
+        "title": "Marvin Gaye's 'What's Going On' at 50 special"
+      },
+      "brand": {
+        "title": "The Craig Charles Funk and Soul Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:30:00.000Z",
+        "end": "2021-05-22T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r1",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnx"
+      },
+      "episode": {
+        "id": "m000wbny",
+        "title": "Dance Floor: We Almost Lost Detroit"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T20:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r2",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbnz"
+      },
+      "episode": {
+        "id": "m000wbp0",
+        "title": "History of the World: Detroit vs Everybody"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-22T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r3",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbp1"
+      },
+      "episode": {
+        "id": "m000wbp2",
+        "title": "Sweat Box: Movement Festival special"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:00:00.000Z",
+        "end": "2021-05-22T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r5",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbp3"
+      },
+      "episode": {
+        "id": "m000wbp4",
+        "title": "Nabihah Iqbal - Episode 4"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r8",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbp5"
+      },
+      "episode": {
+        "id": "m000wbp6",
+        "title": "ATTLAS' Tour of Ontario"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r9",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000tn8d"
+      },
+      "episode": {
+        "id": "m000tn8f",
+        "title": "Vol 5: Pain; Songs for dark, depressing days"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:00:00.000Z",
+        "end": "2021-05-23T02:00:00.000Z"
+      }
+    }
+  ]
+}

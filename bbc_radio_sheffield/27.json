@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_sheffield"
+  },
+  "service": {
+    "id": "bbc_radio_sheffield",
+    "name": "BBC Radio Sheffield",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:27:18.212Z"
+  },
+  "items": [
+    {
+      "id": "p09h7tqw",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h5472"
+      },
+      "episode": {
+        "id": "p09h546q",
+        "title": "Russell Walker: Songs for Cheese"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tbg",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tbm",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tcb",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h7tc3"
+      },
+      "episode": {
+        "id": "p09h7tbs",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7td5",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h7tcs"
+      },
+      "episode": {
+        "id": "p09h7tcj",
+        "title": "Paulette Edwards"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tf2",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h7tdx"
+      },
+      "episode": {
+        "id": "p09h7tdh",
+        "title": "Howard Pressman"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3vf0",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09j3vdy"
+      },
+      "episode": {
+        "id": "p09j3vdv",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Summer Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tfk",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h7tfg"
+      },
+      "episode": {
+        "id": "p09h7tfc",
+        "title": "Sile Sibanda"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:00:00.000Z",
+        "end": "2021-05-27T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tft",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h7tfr"
+      },
+      "episode": {
+        "id": "p09h7tfn",
+        "title": "With Ellie Colton"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-27T20:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7tfx",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09h53v1"
+      },
+      "episode": {
+        "id": "p09h53tz",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_five_live"
+  },
+  "service": {
+    "id": "bbc_radio_five_live",
+    "name": "BBC Radio 5 live",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:35:33.126Z"
+  },
+  "items": [
+    {
+      "id": "p09hl1qw",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wlq8"
+      },
+      "episode": {
+        "id": "m000wlq9",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Stephen Nolan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j77br",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "p09j3jx7"
+      },
+      "episode": {
+        "id": "p09j3jx1",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hl1qx",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wlqb"
+      },
+      "episode": {
+        "id": "m000wlqc",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j603s",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wsk5"
+      },
+      "episode": {
+        "id": "m000wsk6",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Saturday Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j603t",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wsk7"
+      },
+      "episode": {
+        "id": "m000wsk8",
+        "title": "Stacey Dooley, Adam Hills, Ahir Shah and Kids Review Their Parents’ Record Collection"
+      },
+      "brand": {
+        "title": "Scott Mills and Chris Stark"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T08:00:00.000Z",
+        "end": "2021-06-05T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kd2t3",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x46d"
+      },
+      "episode": {
+        "id": "m000x46f",
+        "title": "That Hotels Episode"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:00:00.000Z",
+        "end": "2021-06-05T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jtxs8",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wzvz"
+      },
+      "episode": {
+        "id": "m000wzw0",
+        "title": "Euros: Best goals"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:30:00.000Z",
+        "end": "2021-06-05T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jtxsf",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wzw3"
+      },
+      "episode": {
+        "id": "m000wzw4",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T11:00:00.000Z",
+        "end": "2021-06-05T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jtxsh",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wzw5"
+      },
+      "episode": {
+        "id": "m000wzw6",
+        "title": "Hull FC v St Helens"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:30:00.000Z",
+        "end": "2021-06-05T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jtxsk",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wzw7"
+      },
+      "episode": {
+        "id": "m000wzw8",
+        "title": "The Derby"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:30:00.000Z",
+        "end": "2021-06-05T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jtxsm",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wzw9"
+      },
+      "episode": {
+        "id": "m000wzwb",
+        "title": "Wales v Albania"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:00:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kh1j8",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x531"
+      },
+      "episode": {
+        "id": "m000x532",
+        "title": "That Club Staff Episode"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kd2t4",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x46g"
+      },
+      "episode": {
+        "id": "m000x46h",
+        "title": "Marissa Callaghan and Julie Nelson"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:30:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j603w",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wskc"
+      },
+      "episode": {
+        "id": "m000wskd",
+        "title": "John Krasinski, A Quiet Place Part II, After Love and Gunda."
+      },
+      "brand": {
+        "title": "Kermode and Mayo's Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j603y",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wskf"
+      },
+      "episode": {
+        "id": "m000wskg",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Stephen Nolan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:00:00.000Z",
+        "end": "2021-06-05T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k7bz4",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x220"
+      },
+      "episode": {
+        "id": "m000x221",
+        "title": "Judy - 40 years behind bars; and Jeff - Running anti-abortion camps"
+      },
+      "brand": {
+        "title": "Stacey Dooley Revisits"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

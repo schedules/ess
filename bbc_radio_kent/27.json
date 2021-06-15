@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_kent"
+  },
+  "service": {
+    "id": "bbc_radio_kent",
+    "name": "BBC Radio Kent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:30:58.731Z"
+  },
+  "items": [
+    {
+      "id": "p09h58pr",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09gyd5k"
+      },
+      "episode": {
+        "id": "p09gyd5g",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h583g",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h583k",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h584d",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09h583z"
+      },
+      "episode": {
+        "id": "p09h583r",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5871",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09h586h"
+      },
+      "episode": {
+        "id": "p09h585m",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h589n",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09h588j"
+      },
+      "episode": {
+        "id": "p09h587w",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h58dd",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09h58cv"
+      },
+      "episode": {
+        "id": "p09h58c5",
+        "title": "The Dominic King Show: actor Nathaniel Parker"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h58g2",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09h58fs"
+      },
+      "episode": {
+        "id": "p09h58fj",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-27T20:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h58gq",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09gyd8r"
+      },
+      "episode": {
+        "id": "p09gyd8d",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

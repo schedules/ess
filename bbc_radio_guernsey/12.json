@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_guernsey"
+  },
+  "service": {
+    "id": "bbc_radio_guernsey",
+    "name": "BBC Radio Guernsey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:39:29.838Z"
+  },
+  "items": [
+    {
+      "id": "p09jfxls",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09j7tpt"
+      },
+      "episode": {
+        "id": "p09j7tpm",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrs6",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jrwc0"
+      },
+      "episode": {
+        "id": "p09jrwbx",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k93vv",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09k91cm"
+      },
+      "episode": {
+        "id": "p09k90nl",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrt6",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxrsy"
+      },
+      "episode": {
+        "id": "p09jxrsq",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Isla Blatchford"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrtb",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxp14"
+      },
+      "episode": {
+        "id": "p09jxp0z",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Tony Gillham"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrtd",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxp1y"
+      },
+      "episode": {
+        "id": "p09jxp1k",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Channel Islands Sport with Robin Grey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrth",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09js768"
+      },
+      "episode": {
+        "id": "p09js762",
+        "title": "Featured Artist: Garbage. Plus: Teenage Fanclub, The Ruts, Billy Bragg, Royal Blood, Gary Numan, Mott The Hoople..."
+      },
+      "brand": {
+        "title": "Stereo Underground"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrtk",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jxp4j"
+      },
+      "episode": {
+        "id": "p09jxp41",
+        "title": "Arts Sunday Special"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in the Channel Islands"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxrtp",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09jwt8s"
+      },
+      "episode": {
+        "id": "p09jwt8n",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

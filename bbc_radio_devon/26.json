@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_devon"
+  },
+  "service": {
+    "id": "bbc_radio_devon",
+    "name": "BBC Radio Devon",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:36:22.400Z"
+  },
+  "items": [
+    {
+      "id": "p09h4rwf",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4gzs"
+      },
+      "episode": {
+        "id": "p09h4gzp",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s0b",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09gxjmp"
+      },
+      "episode": {
+        "id": "p09gxjm7",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s0d",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09gyd1y"
+      },
+      "episode": {
+        "id": "p09gxjn3",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:00:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s0k",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4s0h"
+      },
+      "episode": {
+        "id": "p09h4s0f",
+        "title": "with Gordon Sparks (26/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Devon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s0r",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4s0p"
+      },
+      "episode": {
+        "id": "p09h4s0m",
+        "title": "with Gordon Sparks (26/05/2021)"
+      },
+      "brand": {
+        "title": "The Golden Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:00:00.000Z",
+        "end": "2021-05-26T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s0x",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4s0v"
+      },
+      "episode": {
+        "id": "p09h4s0s",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "David FitzGerald"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-26T09:00:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s14",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4s11"
+      },
+      "episode": {
+        "id": "p09h4s0z",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Pippa Quelch"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s25",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4s1t"
+      },
+      "episode": {
+        "id": "p09h4s16",
+        "title": "with Sarah Gosling (26/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Devon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4s2n",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4j08"
+      },
+      "episode": {
+        "id": "p09h4j06",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    }
+  ]
+}

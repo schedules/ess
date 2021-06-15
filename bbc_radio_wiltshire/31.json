@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wiltshire"
+  },
+  "service": {
+    "id": "bbc_radio_wiltshire",
+    "name": "BBC Wiltshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:35:56.623Z"
+  },
+  "items": [
+    {
+      "id": "p09hxhyt",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxhyl"
+      },
+      "episode": {
+        "id": "p09hxhyd",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhz9",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hgdrd"
+      },
+      "episode": {
+        "id": "p09hgdrb",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxhzm",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hl31g"
+      },
+      "episode": {
+        "id": "p09hgdrm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxj02",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxhzz"
+      },
+      "episode": {
+        "id": "p09hxhzr",
+        "title": "Spring bank holiday With Graham Rogers (31/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxj0s",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxj0l"
+      },
+      "episode": {
+        "id": "p09hxj0c",
+        "title": "Spring bank holiday With Shaun Hodgetts (31/05/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxj25",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxj1v"
+      },
+      "episode": {
+        "id": "p09hxj1b",
+        "title": "Spring bank holiday With Sue Kinnear (31/05/2021)"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxj34",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hxj30"
+      },
+      "episode": {
+        "id": "p09hxj2r",
+        "title": "Spring bank holiday With Jonathan Fido (31/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxj3p",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09hl7rh"
+      },
+      "episode": {
+        "id": "p09hl7rb",
+        "title": "David Smith sits in on Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    }
+  ]
+}

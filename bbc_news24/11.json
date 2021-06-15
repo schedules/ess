@@ -1,0 +1,957 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-11T03:44:06.290Z"
+  },
+  "items": [
+    {
+      "id": "p09jv3l1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzpg"
+      },
+      "episode": {
+        "id": "m000wzph",
+        "title": "Ben Rhodes - US Deputy National Security Advisor (2009-2017)"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:30:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxt"
+      },
+      "episode": {
+        "id": "m000wzxv",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzl"
+      },
+      "episode": {
+        "id": "m000wqzm",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newscast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:30:00.000Z",
+        "end": "2021-06-11T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxw"
+      },
+      "episode": {
+        "id": "m000wzxx",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:00:00.000Z",
+        "end": "2021-06-11T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:30:00.000Z",
+        "end": "2021-06-11T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzy0"
+      },
+      "episode": {
+        "id": "m000wzy1",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T02:00:00.000Z",
+        "end": "2021-06-11T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wvqb"
+      },
+      "episode": {
+        "id": "m000wvqc",
+        "title": "Yazidi Women: Clearing Sinjar's Mines"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T02:30:00.000Z",
+        "end": "2021-06-11T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzy2"
+      },
+      "episode": {
+        "id": "m000wzy3",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T03:00:00.000Z",
+        "end": "2021-06-11T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3l9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzpg"
+      },
+      "episode": {
+        "id": "m000wzph",
+        "title": "Ben Rhodes - US Deputy National Security Advisor (2009-2017)"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T03:30:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3lb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzy4"
+      },
+      "episode": {
+        "id": "m000wzy5",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv3ld",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzy6"
+      },
+      "episode": {
+        "id": "m000wzy7",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "World Business Report"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:30:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbrr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x00v"
+      },
+      "episode": {
+        "id": "m000ww6l",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbrs",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000ww3q"
+      },
+      "episode": {
+        "id": "m000ww3v",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T08:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbrt",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000ww3z"
+      },
+      "episode": {
+        "id": "m000ww43",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbrw",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x00w"
+      },
+      "episode": {
+        "id": "m000ww6v",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:00:00.000Z",
+        "end": "2021-06-11T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbrx",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x00x"
+      },
+      "episode": {
+        "id": "m000x00y",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:30:00.000Z",
+        "end": "2021-06-11T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x00z"
+      },
+      "episode": {
+        "id": "m000x010",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:00:00.000Z",
+        "end": "2021-06-11T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x011"
+      },
+      "episode": {
+        "id": "m000x012",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:00:00.000Z",
+        "end": "2021-06-11T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x013"
+      },
+      "episode": {
+        "id": "m000x014",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:45:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000ww7f"
+      },
+      "episode": {
+        "id": "m000ww7h",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x015"
+      },
+      "episode": {
+        "id": "m000x016",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:30:00.000Z",
+        "end": "2021-06-11T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x017"
+      },
+      "episode": {
+        "id": "m000x018",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:45:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x019"
+      },
+      "episode": {
+        "id": "m000x01b",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01c"
+      },
+      "episode": {
+        "id": "m000x01d",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:30:00.000Z",
+        "end": "2021-06-11T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbs8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01f"
+      },
+      "episode": {
+        "id": "m000x01g",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:00:00.000Z",
+        "end": "2021-06-11T19:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01h"
+      },
+      "episode": {
+        "id": "m000x01j",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Newswatch"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:45:00.000Z",
+        "end": "2021-06-11T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01k"
+      },
+      "episode": {
+        "id": "m000x01l",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T20:00:00.000Z",
+        "end": "2021-06-11T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzl"
+      },
+      "episode": {
+        "id": "m000wqzm",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newscast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T20:30:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ktjzn",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x825"
+      },
+      "episode": {
+        "id": "m000x826",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News America"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-11T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01p"
+      },
+      "episode": {
+        "id": "m000x01q",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:30:00.000Z",
+        "end": "2021-06-11T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01m"
+      },
+      "episode": {
+        "id": "m000x01n",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:45:00.000Z",
+        "end": "2021-06-11T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01r"
+      },
+      "episode": {
+        "id": "m000x01s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:00:00.000Z",
+        "end": "2021-06-11T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01t"
+      },
+      "episode": {
+        "id": "m000x01v",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:30:00.000Z",
+        "end": "2021-06-11T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsn",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01w"
+      },
+      "episode": {
+        "id": "m000x01x",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-11T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kfj7w",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46q"
+      },
+      "episode": {
+        "id": "m000x46r",
+        "title": "G7"
+      },
+      "brand": {
+        "title": "World Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:30:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01y"
+      },
+      "episode": {
+        "id": "m000x01z",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kfj7x",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46s"
+      },
+      "episode": {
+        "id": "m000x46t",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:30:00.000Z",
+        "end": "2021-06-12T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsq",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x020"
+      },
+      "episode": {
+        "id": "m000x021",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:00:00.000Z",
+        "end": "2021-06-12T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kfj7y",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:30:00.000Z",
+        "end": "2021-06-12T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbsr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x022"
+      },
+      "episode": {
+        "id": "m000x023",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:00:00.000Z",
+        "end": "2021-06-12T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kfj7z",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46v"
+      },
+      "episode": {
+        "id": "m000x46w",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Click - Short Edition"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:30:00.000Z",
+        "end": "2021-06-12T02:45:00.000Z"
+      }
+    }
+  ]
+}

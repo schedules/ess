@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_shropshire"
+  },
+  "service": {
+    "id": "bbc_radio_shropshire",
+    "name": "BBC Radio Shropshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:44:39.467Z"
+  },
+  "items": [
+    {
+      "id": "p09jkcch",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j8b50"
+      },
+      "episode": {
+        "id": "p09j8b4w",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkccn",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j3p8w"
+      },
+      "episode": {
+        "id": "p09j3p8s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkccx",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j77dk"
+      },
+      "episode": {
+        "id": "p09j3p93",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkcf2",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkcdq"
+      },
+      "episode": {
+        "id": "p09jkcdb",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Adam Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkcg3",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkcfp"
+      },
+      "episode": {
+        "id": "p09jkcff",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jim Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkcgv",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkcgs"
+      },
+      "episode": {
+        "id": "p09jkcgj",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Paul Shuttleworth"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:00:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkch2",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkch0"
+      },
+      "episode": {
+        "id": "p09jkcgx",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Mark Elliott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkch6",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j8bng"
+      },
+      "episode": {
+        "id": "p09j8bmv",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

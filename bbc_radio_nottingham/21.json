@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_nottingham"
+  },
+  "service": {
+    "id": "bbc_radio_nottingham",
+    "name": "BBC Radio Nottingham",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-21T03:38:23.610Z"
+  },
+  "items": [
+    {
+      "id": "p09gnywb",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gkhg6"
+      },
+      "episode": {
+        "id": "p09gkhg3",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-21T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnz8n",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09g43gg"
+      },
+      "episode": {
+        "id": "p09g43g4",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-21T00:00:00.000Z",
+        "end": "2021-05-21T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnz8x",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09g4chy"
+      },
+      "episode": {
+        "id": "p09g43gr",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:00:00.000Z",
+        "end": "2021-05-21T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnz98",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09g4cjr"
+      },
+      "episode": {
+        "id": "p09g4cjj",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:50:00.000Z",
+        "end": "2021-05-21T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnzb1",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnz9t"
+      },
+      "episode": {
+        "id": "p09gnz9h",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Sarah Julian"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-21T05:00:00.000Z",
+        "end": "2021-05-21T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnzbd",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnzb9"
+      },
+      "episode": {
+        "id": "p09gnzb5",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Mark Dennison"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-21T09:00:00.000Z",
+        "end": "2021-05-21T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnzbt",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnzbm"
+      },
+      "episode": {
+        "id": "p09gnzbg",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Andy Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-21T13:00:00.000Z",
+        "end": "2021-05-21T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnzcc",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnzc6"
+      },
+      "episode": {
+        "id": "p09gnzbw",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "The Terrace"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:00:00.000Z",
+        "end": "2021-05-21T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnzdl",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnzd9"
+      },
+      "episode": {
+        "id": "p09gnzct",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Jodi Law"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-21T18:00:00.000Z",
+        "end": "2021-05-21T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnzf5",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gkphb"
+      },
+      "episode": {
+        "id": "p09gkph8",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Dean Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    }
+  ]
+}

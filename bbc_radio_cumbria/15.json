@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cumbria"
+  },
+  "service": {
+    "id": "bbc_radio_cumbria",
+    "name": "BBC Radio Cumbria",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:41:43.998Z"
+  },
+  "items": [
+    {
+      "id": "p09jx6m6",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx6lc"
+      },
+      "episode": {
+        "id": "p09jx6k6",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "John Gillmore"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx875",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jry0h"
+      },
+      "episode": {
+        "id": "p09jry09",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx87l",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jsb98"
+      },
+      "episode": {
+        "id": "p09jry0q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx88f",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx884"
+      },
+      "episode": {
+        "id": "p09jx87q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Mike Zeller"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8bg",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx89l"
+      },
+      "episode": {
+        "id": "p09jx88w",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Caroline Robertson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8cr",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx8ck"
+      },
+      "episode": {
+        "id": "p09jx8c5",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Vicky Warham"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8dp",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx8dj"
+      },
+      "episode": {
+        "id": "p09jx8dc",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Cumbria Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8fz",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09jx8f6"
+      },
+      "episode": {
+        "id": "p09jx8dy",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "John Gillmore"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    }
+  ]
+}

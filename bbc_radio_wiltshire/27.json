@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wiltshire"
+  },
+  "service": {
+    "id": "bbc_radio_wiltshire",
+    "name": "BBC Wiltshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:31:45.492Z"
+  },
+  "items": [
+    {
+      "id": "p09h8fv5",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h4904"
+      },
+      "episode": {
+        "id": "p09h4902",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g5p",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g5s",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g6d",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h8g65"
+      },
+      "episode": {
+        "id": "p09h8g5w",
+        "title": "27/05/2021 With Ben Prater"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g79",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h8g75"
+      },
+      "episode": {
+        "id": "p09h8g6v",
+        "title": "27/05/2021 With Marie Lennon"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g7p",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h8g7j"
+      },
+      "episode": {
+        "id": "p09h8g7d",
+        "title": "27/05/2021 With James Thomas"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g81",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h8g7x"
+      },
+      "episode": {
+        "id": "p09h8g7q",
+        "title": "27/05/2021 With Tim Weeks"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8g8d",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09h49n6"
+      },
+      "episode": {
+        "id": "p09h49mm",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

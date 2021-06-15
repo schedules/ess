@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_gloucestershire"
+  },
+  "service": {
+    "id": "bbc_radio_gloucestershire",
+    "name": "BBC Radio Gloucestershire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:33:10.104Z"
+  },
+  "items": [
+    {
+      "id": "p09ht334",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09hl8mw"
+      },
+      "episode": {
+        "id": "p09hl8ms",
+        "title": "David Smith sits in (01/06/2021)"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3d0",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09hggd1"
+      },
+      "episode": {
+        "id": "p09hggcy",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:00:00.000Z",
+        "end": "2021-06-02T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3dc",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09hl3yg"
+      },
+      "episode": {
+        "id": "p09hggd5",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:00:00.000Z",
+        "end": "2021-06-02T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3dt",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09ht3dp"
+      },
+      "episode": {
+        "id": "p09ht3dk",
+        "title": "With Mark Cummings 02/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-02T05:00:00.000Z",
+        "end": "2021-06-02T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3f6",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09ht3f4"
+      },
+      "episode": {
+        "id": "p09ht3f0",
+        "title": "With Anna King 02/06/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-02T09:00:00.000Z",
+        "end": "2021-06-02T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3fj",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09ht3fd"
+      },
+      "episode": {
+        "id": "p09ht3f8",
+        "title": "With Steve Kitchen 02/06/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-02T13:00:00.000Z",
+        "end": "2021-06-02T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3ft",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09ht3fq"
+      },
+      "episode": {
+        "id": "p09ht3fm",
+        "title": "With Maddie Simpson 02/06/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht3fw",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09hl8s9"
+      },
+      "episode": {
+        "id": "p09hl8rw",
+        "title": "David Smith sits in (02/06/2021)"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_newcastle"
+  },
+  "service": {
+    "id": "bbc_radio_newcastle",
+    "name": "BBC Newcastle",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:44:02.154Z"
+  },
+  "items": [
+    {
+      "id": "p09htytt",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09hsx0t"
+      },
+      "episode": {
+        "id": "p09hsx0n",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmw74",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09j3jx7"
+      },
+      "episode": {
+        "id": "p09j3jx1",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k992q",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k910g"
+      },
+      "episode": {
+        "id": "p09k90f4",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmw78",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09j7455"
+      },
+      "episode": {
+        "id": "p09j744z",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:50:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmw7p",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jmw7g"
+      },
+      "episode": {
+        "id": "p09jmw79",
+        "title": "Kelly Scott 05/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Newcastle"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmw88",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jmw82"
+      },
+      "episode": {
+        "id": "p09jmw7t",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Simon Logan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmw8w",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jmw8j"
+      },
+      "episode": {
+        "id": "p09jmw8d",
+        "title": "Newcastle Falcons v Worcester Warriors"
+      },
+      "brand": {
+        "title": "North East Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmwbt",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jmwb8"
+      },
+      "episode": {
+        "id": "p09jmw9q",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Beat Surrender"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmwcb",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09htynr"
+      },
+      "episode": {
+        "id": "p09htynh",
+        "title": "Not Now Norman"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in the North East"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmwcf",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09j7y0g"
+      },
+      "episode": {
+        "id": "p09j7y03",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Simon's Fantastic 80s"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

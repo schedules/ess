@@ -1,0 +1,288 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:44:25.291Z"
+  },
+  "items": [
+    {
+      "id": "p09j9m20",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wthq"
+      },
+      "episode": {
+        "id": "m000wths",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Ashley Storrie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9m21",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wthv"
+      },
+      "episode": {
+        "id": "m000wthx",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Local Radio and BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5c",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy28"
+      },
+      "episode": {
+        "id": "m000wy29",
+        "title": "Flour Power"
+      },
+      "brand": {
+        "title": "Scoff The Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5f",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2b"
+      },
+      "episode": {
+        "id": "m000wy2c",
+        "title": "A sea bird city, hares and some rare breeds"
+      },
+      "brand": {
+        "title": "Out of Doors"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:30:00.000Z",
+        "end": "2021-06-12T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5g",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2d"
+      },
+      "episode": {
+        "id": "m000wy2f",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5h",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2g"
+      },
+      "episode": {
+        "id": "m000wy2h",
+        "title": "Euros, Gambling & Spiralisers"
+      },
+      "brand": {
+        "title": "Shereen"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5j",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wth6"
+      },
+      "episode": {
+        "id": "m000wth8",
+        "title": "Only An Excuse? Euros Special"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:30:00.000Z",
+        "end": "2021-06-12T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5k",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2j"
+      },
+      "episode": {
+        "id": "m000wy2k",
+        "title": "Off The Ball at the Euros"
+      },
+      "brand": {
+        "title": "Off the Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5m",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2l"
+      },
+      "episode": {
+        "id": "m000wy2m",
+        "title": "Euro Sportsound"
+      },
+      "brand": {
+        "title": "Sportsound"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5n",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2n"
+      },
+      "episode": {
+        "id": "m000wy2p",
+        "title": "Wayne Robertson Scottish Dance Band"
+      },
+      "brand": {
+        "title": "Take the Floor"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5p",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2q"
+      },
+      "episode": {
+        "id": "m000wy2r",
+        "title": "Judges Are Doing It For Themselves"
+      },
+      "brand": {
+        "title": "Pipeline"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrn5q",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy2s"
+      },
+      "episode": {
+        "id": "m000wy2t",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Billy Sloan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

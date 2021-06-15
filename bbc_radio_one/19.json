@@ -1,0 +1,428 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:26:50.838Z"
+  },
+  "items": [
+    {
+      "id": "p09g6vjd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w37k"
+      },
+      "episode": {
+        "id": "m000w37m",
+        "title": "Jordan Comolli Quest Mix"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v7g1"
+      },
+      "episode": {
+        "id": "m000v7g2",
+        "title": "Tom Misch, Clairo, TLC and more"
+      },
+      "brand": {
+        "title": "Radio 1's Chillout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:00:00.000Z",
+        "end": "2021-05-19T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4ff"
+      },
+      "episode": {
+        "id": "m000w4fg",
+        "title": "Revision Soothing Special"
+      },
+      "brand": {
+        "title": "Radio 1's Movie Mixtapes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T02:00:00.000Z",
+        "end": "2021-05-19T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjh",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4fh"
+      },
+      "episode": {
+        "id": "m000w4fj",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T03:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4fk"
+      },
+      "episode": {
+        "id": "m000w4fl",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f22",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w526"
+      },
+      "episode": {
+        "id": "m000w527",
+        "title": "Another dilemma to solve in Ask The Nation"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T06:00:00.000Z",
+        "end": "2021-05-19T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f23",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w528"
+      },
+      "episode": {
+        "id": "m000w529",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Clara Amfo"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:32:00.000Z",
+        "end": "2021-05-19T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f24",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4l9"
+      },
+      "episode": {
+        "id": "m000w4lb",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T11:45:00.000Z",
+        "end": "2021-05-19T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f25",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52b"
+      },
+      "episode": {
+        "id": "m000w52c",
+        "title": "Vick and Katie are in for Scott and Chris"
+      },
+      "brand": {
+        "title": "Vick Hope and Katie Thistleton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T12:00:00.000Z",
+        "end": "2021-05-19T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f26",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52d"
+      },
+      "episode": {
+        "id": "m000w52f",
+        "title": "Overthinkers Hotline"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T14:32:00.000Z",
+        "end": "2021-05-19T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f27",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4lh"
+      },
+      "episode": {
+        "id": "m000w4lj",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:45:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f28",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52g"
+      },
+      "episode": {
+        "id": "m000w52h",
+        "title": "Holly Humberstone Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f29",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52j"
+      },
+      "episode": {
+        "id": "m000w52k",
+        "title": "Fourplay with Jords"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:00:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f2b",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52l"
+      },
+      "episode": {
+        "id": "m000w52m",
+        "title": "Under The Influence with Squid"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-19T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f2c",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4lt"
+      },
+      "episode": {
+        "id": "m000w4lv",
+        "title": "With Mara TK"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:00:00.000Z",
+        "end": "2021-05-20T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f2d",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52n"
+      },
+      "episode": {
+        "id": "m000w52p",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "The Radio 1 Interview"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:00:00.000Z",
+        "end": "2021-05-20T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f2f",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w52q"
+      },
+      "episode": {
+        "id": "m000w52r",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:15:00.000Z",
+        "end": "2021-05-20T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f2g",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000sgnn"
+      },
+      "episode": {
+        "id": "m000sgnp",
+        "title": "Lucy Rose Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:30:00.000Z",
+        "end": "2021-05-20T02:00:00.000Z"
+      }
+    }
+  ]
+}

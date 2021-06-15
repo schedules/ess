@@ -1,0 +1,468 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-02T03:29:06.545Z"
+  },
+  "items": [
+    {
+      "id": "p09j11fp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:00:00.000Z",
+        "end": "2021-06-02T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h55",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T05:00:00.000Z",
+        "end": "2021-06-02T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h56",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn16"
+      },
+      "episode": {
+        "id": "m000wn17",
+        "title": "Violette Stiall-earballach"
+      },
+      "brand": {
+        "title": "Su Pic (Peek Zoo)"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:00:00.000Z",
+        "end": "2021-06-02T16:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h57",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m00071tp"
+      },
+      "episode": {
+        "id": "m00071tq",
+        "title": "Faileas"
+      },
+      "brand": {
+        "title": "Bing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:10:00.000Z",
+        "end": "2021-06-02T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h58",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000lcb0"
+      },
+      "episode": {
+        "id": "m000lcb1",
+        "title": "Plàstan"
+      },
+      "brand": {
+        "title": "Bing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:15:00.000Z",
+        "end": "2021-06-02T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h59",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09dby94"
+      },
+      "episode": {
+        "id": "b09dby9h",
+        "title": "Episode 18 - Deòrsa Fuamhaireil"
+      },
+      "brand": {
+        "title": "Tree Fu Tom"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:25:00.000Z",
+        "end": "2021-06-02T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5b",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08n12gj"
+      },
+      "episode": {
+        "id": "b08n12gl",
+        "title": "Episode 13 - An Trèan aig Witzy"
+      },
+      "brand": {
+        "title": "Sù Shiùsaidh/Little Suzy's Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:50:00.000Z",
+        "end": "2021-06-02T16:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5c",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn18"
+      },
+      "episode": {
+        "id": "m000wn19",
+        "title": "Na Bi Draghail, a Chrùbaig Bhig"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:55:00.000Z",
+        "end": "2021-06-02T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5d",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000slb"
+      },
+      "episode": {
+        "id": "m0000slc",
+        "title": "Danns nan Corragan Dìochuimhneach"
+      },
+      "brand": {
+        "title": "Kung Fu Panda"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:00:00.000Z",
+        "end": "2021-06-02T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5g",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000lcbg"
+      },
+      "episode": {
+        "id": "m000lcbh",
+        "title": "Carachd Sumo"
+      },
+      "brand": {
+        "title": "Geamaichean Gorach "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:30:00.000Z",
+        "end": "2021-06-02T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5k",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00yc37f"
+      },
+      "episode": {
+        "id": "b00yc37t",
+        "title": "Episode 5 - Episode 5"
+      },
+      "brand": {
+        "title": "Saidheans Sporsail"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:35:00.000Z",
+        "end": "2021-06-02T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5m",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09pkp97"
+      },
+      "episode": {
+        "id": "b09pkpdb",
+        "title": "Episode 4 - Coigeach"
+      },
+      "brand": {
+        "title": "Kerry is Kirsty"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:00:00.000Z",
+        "end": "2021-06-02T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5q",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00j187g"
+      },
+      "episode": {
+        "id": "b00j1883",
+        "title": "Episode 8 - Episode 8"
+      },
+      "brand": {
+        "title": "Speaking Our Language"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:30:00.000Z",
+        "end": "2021-06-02T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5t",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b04fyjcq"
+      },
+      "episode": {
+        "id": "b04fyjhn",
+        "title": "Episode 8 - Episode 8"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:55:00.000Z",
+        "end": "2021-06-02T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5w",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn1b"
+      },
+      "episode": {
+        "id": "m000wn1c",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T19:00:00.000Z",
+        "end": "2021-06-02T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h5y",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08fd4y7"
+      },
+      "episode": {
+        "id": "b08fd506",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Taigheadas Dùthchail/Rural Housing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T19:30:00.000Z",
+        "end": "2021-06-02T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h61",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000qsmh"
+      },
+      "episode": {
+        "id": "m000qsmj",
+        "title": "God Save The Quine"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T20:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h64",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000dmy9"
+      },
+      "episode": {
+        "id": "m000dmyb",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Mach a Seo!"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-02T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h66",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jl8p"
+      },
+      "episode": {
+        "id": "m000jl8q",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Julie Fowlis | Ceòl aig Baile"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:30:00.000Z",
+        "end": "2021-06-02T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h68",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b03j9s71"
+      },
+      "episode": {
+        "id": "b03j9sjx",
+        "title": "28/11/2013 - Ever Believe Me - Sgeulachd Madeleine Smith (The Madeleine Smith Story)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-02T22:00:00.000Z",
+        "end": "2021-06-02T23:00:00.000Z"
+      }
+    }
+  ]
+}

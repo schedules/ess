@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_somerset_sound"
+  },
+  "service": {
+    "id": "bbc_radio_somerset_sound",
+    "name": "BBC Somerset",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:20:17.617Z"
+  },
+  "items": [
+    {
+      "id": "p09h7zmz",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09h49dp"
+      },
+      "episode": {
+        "id": "p09h49dm",
+        "title": "Chris Baxter's Late Show"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zvt",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gxjmp"
+      },
+      "episode": {
+        "id": "p09gxjm7",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zw1",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gyd1y"
+      },
+      "episode": {
+        "id": "p09gxjn3",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:00:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zw6",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09h7zw4"
+      },
+      "episode": {
+        "id": "p09h7zw2",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zwc",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09h7zw9"
+      },
+      "episode": {
+        "id": "p09h7zw7",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-26T09:00:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zwj",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09h7zwg"
+      },
+      "episode": {
+        "id": "p09h7zwd",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zwq",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09h7zwn"
+      },
+      "episode": {
+        "id": "p09h7zwl",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7zwr",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09h4904"
+      },
+      "episode": {
+        "id": "p09h4902",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    }
+  ]
+}

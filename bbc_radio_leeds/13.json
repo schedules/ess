@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leeds"
+  },
+  "service": {
+    "id": "bbc_radio_leeds",
+    "name": "BBC Radio Leeds",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:46:47.650Z"
+  },
+  "items": [
+    {
+      "id": "p09k61z2",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k5xxj"
+      },
+      "episode": {
+        "id": "p09k5xxd",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62my",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jrx0v"
+      },
+      "episode": {
+        "id": "p09jrx0l",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k96v6",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k918y"
+      },
+      "episode": {
+        "id": "p09k90pt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62n4",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09js7vq"
+      },
+      "episode": {
+        "id": "p09js7vm",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:50:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62nq",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k62nj"
+      },
+      "episode": {
+        "id": "p09k62nc",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Andrew Edwards"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62p7",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k62p3"
+      },
+      "episode": {
+        "id": "p09k62nx",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Nick Ahad"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kvwn9",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k6t4m"
+      },
+      "episode": {
+        "id": "p09k6t4k",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Liz Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62q6",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k62pw"
+      },
+      "episode": {
+        "id": "p09k62pl",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Gul Nawaz Hussain"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62qz",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k62qv"
+      },
+      "episode": {
+        "id": "p09k62qm",
+        "title": "Leeds EDM Producer 'Nuphlo'"
+      },
+      "brand": {
+        "title": "SilverFinger Singh"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k62r4",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09k5y7g"
+      },
+      "episode": {
+        "id": "p09k5y78",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    }
+  ]
+}

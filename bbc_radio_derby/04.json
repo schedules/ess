@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_derby"
+  },
+  "service": {
+    "id": "bbc_radio_derby",
+    "name": "BBC Radio Derby",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:26:21.817Z"
+  },
+  "items": [
+    {
+      "id": "p09hswl5",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hstc3"
+      },
+      "episode": {
+        "id": "p09hstbz",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswlp",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hghtn"
+      },
+      "episode": {
+        "id": "p09hghth",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:00:00.000Z",
+        "end": "2021-06-04T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswly",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hl55j"
+      },
+      "episode": {
+        "id": "p09hghv6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:00:00.000Z",
+        "end": "2021-06-04T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswmg",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hl56v"
+      },
+      "episode": {
+        "id": "p09hl569",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:50:00.000Z",
+        "end": "2021-06-04T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswnt",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswnc"
+      },
+      "episode": {
+        "id": "p09hswmw",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Andy Twigge"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:00:00.000Z",
+        "end": "2021-06-04T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswpd",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswp8"
+      },
+      "episode": {
+        "id": "p09hswp3",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Ian Skye"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-04T09:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswq2",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswpv"
+      },
+      "episode": {
+        "id": "p09hswpm",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Steve Jordan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswqs",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswqm"
+      },
+      "episode": {
+        "id": "p09hswqc",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Sportscene At Six"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswrb",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswr7"
+      },
+      "episode": {
+        "id": "p09hswr0",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "The Top Floor"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:00:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hsws9",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hsws0"
+      },
+      "episode": {
+        "id": "p09hswrq",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dean Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    }
+  ]
+}

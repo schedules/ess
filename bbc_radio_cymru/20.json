@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-20T03:30:36.766Z"
+  },
+  "items": [
+    {
+      "id": "p09g75m9",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w35b"
+      },
+      "episode": {
+        "id": "m000w35c",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:00:00.000Z",
+        "end": "2021-05-20T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g75mb",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w35d"
+      },
+      "episode": {
+        "id": "m000w35f",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "John Hardy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T04:30:00.000Z",
+        "end": "2021-05-20T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3d",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5cs"
+      },
+      "episode": {
+        "id": "m000w5ct",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T06:00:00.000Z",
+        "end": "2021-05-20T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3f",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5cv"
+      },
+      "episode": {
+        "id": "m000w5cw",
+        "title": "Diwrnod Gwenyn y Byd"
+      },
+      "brand": {
+        "title": "Aled Hughes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T08:00:00.000Z",
+        "end": "2021-05-20T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3h",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5cx"
+      },
+      "episode": {
+        "id": "m000w5cy",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Bore Cothi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T10:00:00.000Z",
+        "end": "2021-05-20T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3k",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5cz"
+      },
+      "episode": {
+        "id": "m000w5d0",
+        "title": "Catrin Haf Jones"
+      },
+      "brand": {
+        "title": "Dros Ginio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T11:30:00.000Z",
+        "end": "2021-05-20T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3l",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5d1"
+      },
+      "episode": {
+        "id": "m000w5d2",
+        "title": "Ifan a'r Eurovision"
+      },
+      "brand": {
+        "title": "Ifan Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T13:00:00.000Z",
+        "end": "2021-05-20T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3m",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5d3"
+      },
+      "episode": {
+        "id": "m000w5d4",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Post Prynhawn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T16:00:00.000Z",
+        "end": "2021-05-20T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3n",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5d5"
+      },
+      "episode": {
+        "id": "m000w5d6",
+        "title": "Ianto a Bethan v Tomos ac Eurfyl"
+      },
+      "brand": {
+        "title": "Penben I Dimau"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:00:00.000Z",
+        "end": "2021-05-20T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3p",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5d7"
+      },
+      "episode": {
+        "id": "m000w5d8",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Byd Huw Stephens"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:30:00.000Z",
+        "end": "2021-05-20T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3r",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hh"
+      },
+      "episode": {
+        "id": "m000w3hj",
+        "title": "Sara Yassine"
+      },
+      "brand": {
+        "title": "Beti a'i Phobol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T20:00:00.000Z",
+        "end": "2021-05-20T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k3s",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w5d9"
+      },
+      "episode": {
+        "id": "m000w5db",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Geraint Lloyd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-20T23:00:00.000Z"
+      }
+    }
+  ]
+}

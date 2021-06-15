@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_london"
+  },
+  "service": {
+    "id": "bbc_london",
+    "name": "BBC Radio London",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:27:48.519Z"
+  },
+  "items": [
+    {
+      "id": "p09gxglc",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgl3"
+      },
+      "episode": {
+        "id": "p09gxgkt",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxgqp",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgqm"
+      },
+      "episode": {
+        "id": "p09gxgqk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxgqy",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgqv"
+      },
+      "episode": {
+        "id": "p09gxgqq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxgr3",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgr1"
+      },
+      "episode": {
+        "id": "p09gxgqz",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Inspirit with Jumoke Fashola"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxyzn",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hxyzd"
+      },
+      "episode": {
+        "id": "p09hxyz1",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxgr8",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgr6"
+      },
+      "episode": {
+        "id": "p09gxgr4",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Gaby Roslin"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxz16",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hxz0y"
+      },
+      "episode": {
+        "id": "p09hxz0d",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio London Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxz1q",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hxz1l"
+      },
+      "episode": {
+        "id": "p09hxz1g",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio London Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxz28",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hxz23"
+      },
+      "episode": {
+        "id": "p09hxz1w",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The Far Post"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxgsb",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgs5"
+      },
+      "episode": {
+        "id": "p09gxgs2",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxgsm",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxgsj"
+      },
+      "episode": {
+        "id": "p09gxgsd",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

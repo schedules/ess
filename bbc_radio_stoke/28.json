@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_stoke"
+  },
+  "service": {
+    "id": "bbc_radio_stoke",
+    "name": "BBC Radio Stoke",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:33:13.785Z"
+  },
+  "items": [
+    {
+      "id": "p09h82m4",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h4k2y"
+      },
+      "episode": {
+        "id": "p09h4k2s",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h832l",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h832t",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gycf8"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8331",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gycfg"
+      },
+      "episode": {
+        "id": "p09gycfd",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:50:00.000Z",
+        "end": "2021-05-28T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h833d",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h8339"
+      },
+      "episode": {
+        "id": "p09h8333",
+        "title": "with John Acres 28/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h833v",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h833r"
+      },
+      "episode": {
+        "id": "p09h833l",
+        "title": "with Stuart George 28/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h834j",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h834c"
+      },
+      "episode": {
+        "id": "p09h8347",
+        "title": "with Susan Hanks 28/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h834w",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h834r"
+      },
+      "episode": {
+        "id": "p09h834m",
+        "title": "with Lucas Yeomans 28/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8355",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h4l3x"
+      },
+      "episode": {
+        "id": "p09h4l3j",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

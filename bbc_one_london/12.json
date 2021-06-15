@@ -1,0 +1,518 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-12T03:46:25.232Z"
+  },
+  "items": [
+    {
+      "id": "p09jpfzt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww85"
+      },
+      "episode": {
+        "id": "m000ww87",
+        "title": "Replay: Turkey v Italy"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:40:00.000Z",
+        "end": "2021-06-12T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww89"
+      },
+      "episode": {
+        "id": "m000ww8c",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:20:00.000Z",
+        "end": "2021-06-12T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzw",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww8f"
+      },
+      "episode": {
+        "id": "m000ww8h",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:25:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8np",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x314"
+      },
+      "episode": {
+        "id": "m000x315",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T07:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8ns",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x317"
+      },
+      "episode": {
+        "id": "m000x319",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Saturday Kitchen"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:45:00.000Z",
+        "end": "2021-06-12T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8nt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x31c"
+      },
+      "episode": {
+        "id": "m000x31g",
+        "title": "2021"
+      },
+      "brand": {
+        "title": "Trooping the Colour"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:15:00.000Z",
+        "end": "2021-06-12T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8nx",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0bp68mx"
+      },
+      "episode": {
+        "id": "b0bp68n9",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Homes Under the Hammer"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:45:00.000Z",
+        "end": "2021-06-12T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8ny",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b092qfwq"
+      },
+      "episode": {
+        "id": "b092qg2y",
+        "title": "Episode 32 - Peterborough 31"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:15:00.000Z",
+        "end": "2021-06-12T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8nz",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x31k"
+      },
+      "episode": {
+        "id": "m000x31n",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:00:00.000Z",
+        "end": "2021-06-12T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8p1",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x31r"
+      },
+      "episode": {
+        "id": "m000x31v",
+        "title": "Wales v Switzerland"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:15:00.000Z",
+        "end": "2021-06-12T15:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8p3",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x31y"
+      },
+      "episode": {
+        "id": "m000x321",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:25:00.000Z",
+        "end": "2021-06-12T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8p4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x324"
+      },
+      "episode": {
+        "id": "m000x328",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:35:00.000Z",
+        "end": "2021-06-12T15:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8p5",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x32d"
+      },
+      "episode": {
+        "id": "m000x32j",
+        "title": "Denmark v Finland"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:45:00.000Z",
+        "end": "2021-06-12T18:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8p9",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ct5t"
+      },
+      "episode": {
+        "id": "m000ct5v",
+        "title": "Celebrity Special"
+      },
+      "brand": {
+        "title": "The Hit List"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:10:00.000Z",
+        "end": "2021-06-12T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pb",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x30f"
+      },
+      "episode": {
+        "id": "m000x30h",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "The Wall"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:55:00.000Z",
+        "end": "2021-06-12T19:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pc",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x32q"
+      },
+      "episode": {
+        "id": "m000x32t",
+        "title": "Special"
+      },
+      "brand": {
+        "title": "Pointless Celebrities"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:40:00.000Z",
+        "end": "2021-06-12T20:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pd",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x32y"
+      },
+      "episode": {
+        "id": "m000x333",
+        "title": "Episode 25"
+      },
+      "brand": {
+        "title": "Casualty"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:25:00.000Z",
+        "end": "2021-06-12T21:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pf",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x338"
+      },
+      "episode": {
+        "id": "m000x33f",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:10:00.000Z",
+        "end": "2021-06-12T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x33l"
+      },
+      "episode": {
+        "id": "m000x33w",
+        "title": "Highlights: Wales v Switzerland, Denmark v Finland, Russia v Belgium"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:30:00.000Z",
+        "end": "2021-06-12T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000kk2g"
+      },
+      "episode": {
+        "id": "b07g0znn",
+        "title": "07/06/2016 - Thierry Henry: My France, My Euros"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:15:00.000Z",
+        "end": "2021-06-12T23:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x343"
+      },
+      "episode": {
+        "id": "m000x349",
+        "title": "Replay: Wales v Switzerland"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:15:00.000Z",
+        "end": "2021-06-13T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x34h"
+      },
+      "episode": {
+        "id": "m000x34p",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:55:00.000Z",
+        "end": "2021-06-13T01:00:00.000Z"
+      }
+    }
+  ]
+}

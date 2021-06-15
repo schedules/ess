@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:37:56.373Z"
+  },
+  "items": [
+    {
+      "id": "p09gw64n",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc7f"
+      },
+      "episode": {
+        "id": "m000wc7g",
+        "title": "Bartok and Brahms"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:30:00.000Z",
+        "end": "2021-05-27T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqrw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcw2"
+      },
+      "episode": {
+        "id": "m000wcw3",
+        "title": "Thursday - Petroc's classical picks"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:30:00.000Z",
+        "end": "2021-05-27T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqrx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcw4"
+      },
+      "episode": {
+        "id": "m000wcw5",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T08:00:00.000Z",
+        "end": "2021-05-27T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqry",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000bg24"
+      },
+      "episode": {
+        "id": "m000bg25",
+        "title": "Music for the Soul"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T11:00:00.000Z",
+        "end": "2021-05-27T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqrz",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcw6"
+      },
+      "episode": {
+        "id": "m000wcw7",
+        "title": "Scotland Week (3/4)"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T12:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs0",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcw8"
+      },
+      "episode": {
+        "id": "m000wcw9",
+        "title": "Mozart's Mitridate, re di Ponto"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwb"
+      },
+      "episode": {
+        "id": "m000wcwc",
+        "title": "BBC Proms Special"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T16:00:00.000Z",
+        "end": "2021-05-27T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwd"
+      },
+      "episode": {
+        "id": "m000wcwf",
+        "title": "Your daily classical soundtrack"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:00:00.000Z",
+        "end": "2021-05-27T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs3",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwg"
+      },
+      "episode": {
+        "id": "m000wcwh",
+        "title": "Scotland Week - The Scottish Chamber Orchestra"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:30:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwj"
+      },
+      "episode": {
+        "id": "m000wcwk",
+        "title": "Wittgenstein's Tractatus at 100"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-27T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwl"
+      },
+      "episode": {
+        "id": "m000wcwm",
+        "title": "The Fonthill Vase"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:45:00.000Z",
+        "end": "2021-05-27T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs6",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwn"
+      },
+      "episode": {
+        "id": "m000wcwp",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The Night Tracks Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T22:00:00.000Z",
+        "end": "2021-05-27T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwqs7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcwq"
+      },
+      "episode": {
+        "id": "m000wcwr",
+        "title": "Laurie Anderson’s Listening Chair"
+      },
+      "brand": {
+        "title": "Unclassified"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T22:30:00.000Z",
+        "end": "2021-05-27T23:30:00.000Z"
+      }
+    }
+  ]
+}

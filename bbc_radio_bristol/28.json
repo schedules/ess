@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_bristol"
+  },
+  "service": {
+    "id": "bbc_radio_bristol",
+    "name": "BBC Radio Bristol",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:31:51.651Z"
+  },
+  "items": [
+    {
+      "id": "p09h49nl",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h49n6"
+      },
+      "episode": {
+        "id": "p09h49mm",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48tj",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48tm",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gycf8"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48tp",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gycfg"
+      },
+      "episode": {
+        "id": "p09gycfd",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:50:00.000Z",
+        "end": "2021-05-28T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48v1",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48ty"
+      },
+      "episode": {
+        "id": "p09h48tv",
+        "title": "James Hanson"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48vb",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48v7"
+      },
+      "episode": {
+        "id": "p09h48v3",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48vl",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48vh"
+      },
+      "episode": {
+        "id": "p09h48vf",
+        "title": "Steve Yabsley"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48vs",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48vq"
+      },
+      "episode": {
+        "id": "p09h48vm",
+        "title": "Ed Hadwin sits in (28/05/2021)"
+      },
+      "brand": {
+        "title": "Friday Night Sport with Geoff Twentyman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48w0",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48vy"
+      },
+      "episode": {
+        "id": "p09h48vw",
+        "title": "Sale Sharks v Bristol Bears"
+      },
+      "brand": {
+        "title": "Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48wh",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48w6"
+      },
+      "episode": {
+        "id": "p09h48w1",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

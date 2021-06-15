@@ -1,0 +1,518 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-01T03:43:08.741Z"
+  },
+  "items": [
+    {
+      "id": "p09j0h86",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:00:00.000Z",
+        "end": "2021-06-01T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11dz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:00:00.000Z",
+        "end": "2021-06-01T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000j8d"
+      },
+      "episode": {
+        "id": "m0000j8g",
+        "title": "Am Partan/The Shore Crab"
+      },
+      "brand": {
+        "title": "Gudrun - A' Bhana-phrionnsa Lochlannach"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:00:00.000Z",
+        "end": "2021-06-01T16:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0006wc8"
+      },
+      "episode": {
+        "id": "m0006wc9",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Peataichean/Pets"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:05:00.000Z",
+        "end": "2021-06-01T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn63"
+      },
+      "episode": {
+        "id": "m000wn64",
+        "title": "Co-ogha/Cousin"
+      },
+      "brand": {
+        "title": " Sionnach agus Maigheach (Fox & Hare) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:15:00.000Z",
+        "end": "2021-06-01T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000d3xb"
+      },
+      "episode": {
+        "id": "m000d3xc",
+        "title": "Trioblaid Tuk Tuk"
+      },
+      "brand": {
+        "title": "Shane an Chef"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:25:00.000Z",
+        "end": "2021-06-01T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b096p75t"
+      },
+      "episode": {
+        "id": "b096p75x",
+        "title": "Episode 5 - Ceapan"
+      },
+      "brand": {
+        "title": "Treud na Dlùth-choille - Grad-Naidheachd/Jungle Bunch"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:35:00.000Z",
+        "end": "2021-06-01T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b036x6tx"
+      },
+      "episode": {
+        "id": "b036x9tr",
+        "title": "Episode 22 - Bàt-aigeil/Submarine"
+      },
+      "brand": {
+        "title": "Abadas"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:40:00.000Z",
+        "end": "2021-06-01T16:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn65"
+      },
+      "episode": {
+        "id": "m000wn66",
+        "title": "Daisy Dha-rìribh, Dha-rìribh"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:55:00.000Z",
+        "end": "2021-06-01T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn67"
+      },
+      "episode": {
+        "id": "m000wn68",
+        "title": "Na Suinn a’ Sabaid"
+      },
+      "brand": {
+        "title": "Ronia, Nighean a' Mheirlich/Ronja, the Robber's Daughter "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:00:00.000Z",
+        "end": "2021-06-01T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000lcb2"
+      },
+      "episode": {
+        "id": "m000lcb3",
+        "title": "Leum-Fada"
+      },
+      "brand": {
+        "title": "Geamaichean Gorach "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:30:00.000Z",
+        "end": "2021-06-01T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11f9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn69"
+      },
+      "episode": {
+        "id": "m000wn6b",
+        "title": "Taobh Dorcha na Luchaige/Darkside of the Mouse"
+      },
+      "brand": {
+        "title": "Donnie Murdo/Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:35:00.000Z",
+        "end": "2021-06-01T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000j18"
+      },
+      "episode": {
+        "id": "m0000j19",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "An t-Eilean/From Skye with Love"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:00:00.000Z",
+        "end": "2021-06-01T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00j1bvx"
+      },
+      "episode": {
+        "id": "b01jlkl0",
+        "title": "Episode 9 - Episode 9"
+      },
+      "brand": {
+        "title": "Speaking Our Language"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:30:00.000Z",
+        "end": "2021-06-01T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b04fcdgt"
+      },
+      "episode": {
+        "id": "b04fcdj0",
+        "title": "Episode 7 - Episode 7"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:55:00.000Z",
+        "end": "2021-06-01T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn6c"
+      },
+      "episode": {
+        "id": "m000wn6d",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T19:00:00.000Z",
+        "end": "2021-06-01T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fh",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000h43z"
+      },
+      "episode": {
+        "id": "m000h440",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Dreach Ùr"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T19:30:00.000Z",
+        "end": "2021-06-01T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fj",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0976t73"
+      },
+      "episode": {
+        "id": "b097713j",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Talamh gu Truinnsear"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T20:00:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fk",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b19vm7"
+      },
+      "episode": {
+        "id": "b0b19vmx",
+        "title": "Episode 9 - An Tinneas Tuiteamach/Epilepsy"
+      },
+      "brand": {
+        "title": "Trusadh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-01T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000vktq"
+      },
+      "episode": {
+        "id": "m000vktr",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Dan"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:00:00.000Z",
+        "end": "2021-06-01T22:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00j1g54"
+      },
+      "episode": {
+        "id": "b00j1g5v",
+        "title": "Episode 8 - Episode 8"
+      },
+      "brand": {
+        "title": "Machair"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:05:00.000Z",
+        "end": "2021-06-01T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j11fn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00fwgql"
+      },
+      "episode": {
+        "id": "b00fwgvk",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Slighe Anndra"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:30:00.000Z",
+        "end": "2021-06-01T23:00:00.000Z"
+      }
+    }
+  ]
+}

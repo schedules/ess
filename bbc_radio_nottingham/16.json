@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_nottingham"
+  },
+  "service": {
+    "id": "bbc_radio_nottingham",
+    "name": "BBC Radio Nottingham",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:30:29.524Z"
+  },
+  "items": [
+    {
+      "id": "p09gnymq",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gkp5s"
+      },
+      "episode": {
+        "id": "p09gkp5n",
+        "title": "DJ Delights (15/05/2021)"
+      },
+      "brand": {
+        "title": "Devon Daley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnymx",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnyn1",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09g4c20"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnync",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09g4c2f"
+      },
+      "episode": {
+        "id": "p09g4c28",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:50:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnynw",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnynq"
+      },
+      "episode": {
+        "id": "p09gnynj",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Frances Finn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnyp8",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnyp2"
+      },
+      "episode": {
+        "id": "p09gnynz",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Arun Verma"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnypy",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnypr"
+      },
+      "episode": {
+        "id": "p09gnypg",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Alex Noble"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnyqm",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnyqh"
+      },
+      "episode": {
+        "id": "p09gnyq7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Hansa Dabee"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnyr0",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gnyqw"
+      },
+      "episode": {
+        "id": "p09gnyqq",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Hayley Compton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_nottingham"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnyr9",
+      "service": {
+        "id": "bbc_radio_nottingham"
+      },
+      "version": {
+        "id": "p09gknvt"
+      },
+      "episode": {
+        "id": "p09gknvm",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Summaya Mughal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

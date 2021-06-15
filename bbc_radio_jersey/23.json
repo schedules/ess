@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_jersey"
+  },
+  "service": {
+    "id": "bbc_radio_jersey",
+    "name": "BBC Radio Jersey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:27:48.459Z"
+  },
+  "items": [
+    {
+      "id": "p09h55dm",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h495b"
+      },
+      "episode": {
+        "id": "p09h494r",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55dn",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09gxgqm"
+      },
+      "episode": {
+        "id": "p09gxgqk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55dp",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09gxgqv"
+      },
+      "episode": {
+        "id": "p09gxgqq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55dy",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55dv"
+      },
+      "episode": {
+        "id": "p09h55dq",
+        "title": "Matthew Price  23/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55fc",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55f8"
+      },
+      "episode": {
+        "id": "p09h55f4",
+        "title": "Tony Gillham 23/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55fm",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55fj"
+      },
+      "episode": {
+        "id": "p09h55ff",
+        "title": "Robin Grey  23/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55fq",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h4g9s"
+      },
+      "episode": {
+        "id": "p09h4g9p",
+        "title": "1996 and 1982"
+      },
+      "brand": {
+        "title": "Richard Green’s Vintage Chart Show"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55fv",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h4gc1"
+      },
+      "episode": {
+        "id": "p09h4gbg",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Richard Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h55gb",
+      "service": {
+        "id": "bbc_radio_jersey"
+      },
+      "version": {
+        "id": "p09h55g0"
+      },
+      "episode": {
+        "id": "p09h55fx",
+        "title": "Jim Colvin 23/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Jersey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_jersey"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

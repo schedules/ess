@@ -1,0 +1,242 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-03T03:36:54.410Z"
+  },
+  "items": [
+    {
+      "id": "p09hjwk6",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wjrq"
+      },
+      "episode": {
+        "id": "m000wjrs",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:30:00.000Z",
+        "end": "2021-06-03T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjwk7",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wjb5"
+      },
+      "episode": {
+        "id": "m000wjb6",
+        "title": "Ospreys and Oat Milk"
+      },
+      "brand": {
+        "title": "Country Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T04:30:00.000Z",
+        "end": "2021-06-03T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gq",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9k"
+      },
+      "episode": {
+        "id": "m000wl9l",
+        "title": "Oliver Hides sits in"
+      },
+      "brand": {
+        "title": "Radio Wales Breakfast with Claire Summers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:00:00.000Z",
+        "end": "2021-06-03T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gr",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9m"
+      },
+      "episode": {
+        "id": "m000wl9n",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Dot Davies"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T07:30:00.000Z",
+        "end": "2021-06-03T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gs",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9p"
+      },
+      "episode": {
+        "id": "m000wl9q",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Wynne Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T10:00:00.000Z",
+        "end": "2021-06-03T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gt",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9r"
+      },
+      "episode": {
+        "id": "m000wl9s",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Behnaz Akhgar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:00:00.000Z",
+        "end": "2021-06-03T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gw",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9t"
+      },
+      "episode": {
+        "id": "m000wl9v",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Gareth Lewis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T16:00:00.000Z",
+        "end": "2021-06-03T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gx",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9w"
+      },
+      "episode": {
+        "id": "m000wl9x",
+        "title": "This Week at Hay"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:30:00.000Z",
+        "end": "2021-06-03T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gy",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9y"
+      },
+      "episode": {
+        "id": "m000wl9z",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Janice Long"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T18:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9h1",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wlb0"
+      },
+      "episode": {
+        "id": "m000wlb1",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "The Late Show with Eleri Sion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-03T23:30:00.000Z"
+      }
+    }
+  ]
+}

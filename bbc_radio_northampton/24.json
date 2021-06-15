@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_northampton"
+  },
+  "service": {
+    "id": "bbc_radio_northampton",
+    "name": "BBC Radio Northampton",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:21:08.873Z"
+  },
+  "items": [
+    {
+      "id": "p09h7jfy",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09h7jfw"
+      },
+      "episode": {
+        "id": "p09h7jft",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Northampton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jkm",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jkx",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jll",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09h7jld"
+      },
+      "episode": {
+        "id": "p09h7jkz",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Annabel Amos"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jmd",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09h7jm6"
+      },
+      "episode": {
+        "id": "p09h7jm3",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jmr",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09h7jmn"
+      },
+      "episode": {
+        "id": "p09h7jmg",
+        "title": "Liz Jeeves sits in (24/05/2021)"
+      },
+      "brand": {
+        "title": "Helen Blaby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jn0",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09h7jmx"
+      },
+      "episode": {
+        "id": "p09h7jmv",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Tim Wheeler"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7jn2",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09h4dwx"
+      },
+      "episode": {
+        "id": "p09h4dwt",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

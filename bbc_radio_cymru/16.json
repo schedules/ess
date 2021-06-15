@@ -1,0 +1,426 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:25:43.224Z"
+  },
+  "items": [
+    {
+      "id": "p09g73bn",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w4d6"
+      },
+      "episode": {
+        "id": "m000w4d8",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:00:00.000Z",
+        "end": "2021-05-16T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73bp",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w4db"
+      },
+      "episode": {
+        "id": "m000w4dd",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Linda Griffiths"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:30:00.000Z",
+        "end": "2021-05-16T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70w4",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3h3"
+      },
+      "episode": {
+        "id": "m000w3h4",
+        "title": "Siôn Eilir Roberts - yr arwerthwr o Landrillo"
+      },
+      "brand": {
+        "title": "Troi'r Tir"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:00:00.000Z",
+        "end": "2021-05-16T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70w5",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3h5"
+      },
+      "episode": {
+        "id": "m000w3h6",
+        "title": "C.O.R"
+      },
+      "brand": {
+        "title": "Caniadaeth y Cysegr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:30:00.000Z",
+        "end": "2021-05-16T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70w6",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3h7"
+      },
+      "episode": {
+        "id": "m000w3h8",
+        "title": "Tudur Owen yw'r gwestai penblwydd"
+      },
+      "brand": {
+        "title": "Dewi Llwyd ar Fore Sul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T07:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70w7",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3h9"
+      },
+      "episode": {
+        "id": "m000w3hb",
+        "title": "Elin Manahan Thomas"
+      },
+      "brand": {
+        "title": "Swyn y Sul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70w8",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hc"
+      },
+      "episode": {
+        "id": "m000w3hd",
+        "title": "Cas Meurig, Y Bala"
+      },
+      "brand": {
+        "title": "Yr Oedfa"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T11:00:00.000Z",
+        "end": "2021-05-16T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70w9",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hf"
+      },
+      "episode": {
+        "id": "m000w3hg",
+        "title": "Wythnos Cymorth Cristnogol, diwedd Ramadan, grym gwrando a chysegrfan St Alban"
+      },
+      "brand": {
+        "title": "Bwrw Golwg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T11:30:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wb",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hh"
+      },
+      "episode": {
+        "id": "m000w3hj",
+        "title": "Sara Yassine"
+      },
+      "brand": {
+        "title": "Beti a'i Phobol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wc",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hk"
+      },
+      "episode": {
+        "id": "m000w3hl",
+        "title": "Yr Wyddor Gymraeg - o L i Y"
+      },
+      "brand": {
+        "title": "Cofio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wd",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hm"
+      },
+      "episode": {
+        "id": "m000w3hn",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Hywel Gwynfryn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wf",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3h5"
+      },
+      "episode": {
+        "id": "m000w3h6",
+        "title": "C.O.R"
+      },
+      "brand": {
+        "title": "Caniadaeth y Cysegr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:30:00.000Z",
+        "end": "2021-05-16T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wg",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hp"
+      },
+      "episode": {
+        "id": "m000w3hq",
+        "title": "Dychmyga Hyn"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:00:00.000Z",
+        "end": "2021-05-16T16:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wh",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hr"
+      },
+      "episode": {
+        "id": "m000w3ht",
+        "title": "Y Guardian yn 200 oed, Coleg yr Iesu yn 450 oed a pherthynas Cymru ag Ewrop"
+      },
+      "brand": {
+        "title": "Dei Tomos"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:05:00.000Z",
+        "end": "2021-05-16T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wj",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w351"
+      },
+      "episode": {
+        "id": "m000w352",
+        "title": "Pwy ydyn ni erbyn hyn?"
+      },
+      "brand": {
+        "title": "Beth yw'r ots gennyf i am Brexit?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:30:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wk",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w356"
+      },
+      "episode": {
+        "id": "m000w357",
+        "title": "Tegeingl v Y Gwenoliaid"
+      },
+      "brand": {
+        "title": "Y Talwrn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wl",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3hw"
+      },
+      "episode": {
+        "id": "m000w3hy",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Ar Eich Cais"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g70wm",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000w3j0"
+      },
+      "episode": {
+        "id": "m000w3j2",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "John ac Alun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T23:00:00.000Z"
+      }
+    }
+  ]
+}

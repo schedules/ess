@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:34:00.983Z"
+  },
+  "items": [
+    {
+      "id": "p09hk9g9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wlm0"
+      },
+      "episode": {
+        "id": "m000wlm1",
+        "title": "Ravio 2"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:00:00.000Z",
+        "end": "2021-06-04T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wlm2"
+      },
+      "episode": {
+        "id": "m000wddj",
+        "title": "THE Beverley Craven joins Fearne for a 90s look back!"
+      },
+      "brand": {
+        "title": "Sounds of the 90s with Fearne Cotton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T02:00:00.000Z",
+        "end": "2021-06-04T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gc",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wlm3"
+      },
+      "episode": {
+        "id": "m000wlm4",
+        "title": "Classic Calvin Harris, Girls Aloud from the 00s and 70s KC & the Sunshine Band!"
+      },
+      "brand": {
+        "title": "A Dance Through The Decades"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T03:00:00.000Z",
+        "end": "2021-06-04T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9gd",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wlm5"
+      },
+      "episode": {
+        "id": "m000wlm6",
+        "title": "Ore Oduba sits in"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T03:30:00.000Z",
+        "end": "2021-06-04T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbf1",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm57"
+      },
+      "episode": {
+        "id": "m000wm58",
+        "title": "Stephen Graham, Hannah Walters and Live Music from James"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:30:00.000Z",
+        "end": "2021-06-04T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbf3",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm59"
+      },
+      "episode": {
+        "id": "m000wm5b",
+        "title": "Sir David Jason's Final Tracks of My Years"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T08:30:00.000Z",
+        "end": "2021-06-04T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbf8",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5c"
+      },
+      "episode": {
+        "id": "m000wm5d",
+        "title": "Victoria Derbyshire sits in"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T11:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5f"
+      },
+      "episode": {
+        "id": "m000wm5g",
+        "title": "With guest Gary Barlow and Serious Jockin'"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfc",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5h"
+      },
+      "episode": {
+        "id": "m000wm5j",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon - Serious Jockin'"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T15:15:00.000Z",
+        "end": "2021-06-04T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbff",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5k"
+      },
+      "episode": {
+        "id": "m000wm5l",
+        "title": "Anita Rani sits in... and it's All Request Friday"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T16:00:00.000Z",
+        "end": "2021-06-04T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfh",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5m"
+      },
+      "episode": {
+        "id": "m000wm5n",
+        "title": "Tony’s Not Scared"
+      },
+      "brand": {
+        "title": "Tony Blackburn's Golden Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:00:00.000Z",
+        "end": "2021-06-04T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfk",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5p"
+      },
+      "episode": {
+        "id": "m000wm5q",
+        "title": "Raw Like Sushi"
+      },
+      "brand": {
+        "title": "Sounds of the 80s with Gary Davies"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T19:00:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5r"
+      },
+      "episode": {
+        "id": "m000wm5s",
+        "title": "Peter Hooton of The Farm fame joins Fearne"
+      },
+      "brand": {
+        "title": "Sounds of the 90s with Fearne Cotton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-04T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8kh",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x2x5"
+      },
+      "episode": {
+        "id": "m000x2x6",
+        "title": "90s Slow Jamz Mixtape"
+      },
+      "brand": {
+        "title": "Sounds of the 90s with Fearne Cotton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:00:00.000Z",
+        "end": "2021-06-04T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8kj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000mrz4"
+      },
+      "episode": {
+        "id": "m000mrz5",
+        "title": "Bruce is joined by his wife Patti Scialfa"
+      },
+      "brand": {
+        "title": "Bruce Springsteen: From My Home To Yours"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wjcl"
+      },
+      "episode": {
+        "id": "m000wjcm",
+        "title": "Sonique, James Brown, The Sugarhill Gang, and more!"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfr",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wjcn"
+      },
+      "episode": {
+        "id": "m000wjcp",
+        "title": "The 'Questions' Mixtape?"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:30:00.000Z",
+        "end": "2021-06-05T02:00:00.000Z"
+      }
+    }
+  ]
+}

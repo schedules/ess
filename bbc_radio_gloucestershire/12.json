@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_gloucestershire"
+  },
+  "service": {
+    "id": "bbc_radio_gloucestershire",
+    "name": "BBC Radio Gloucestershire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:42:30.731Z"
+  },
+  "items": [
+    {
+      "id": "p09jfwq7",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09j8ffv"
+      },
+      "episode": {
+        "id": "p09j8ffn",
+        "title": "Special guest: Mal Pope"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy19l",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jrwc0"
+      },
+      "episode": {
+        "id": "p09jrwbx",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k93vj",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09k91cm"
+      },
+      "episode": {
+        "id": "p09k90nl",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy1bc",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jy1b5"
+      },
+      "episode": {
+        "id": "p09jy19w",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Nicky Price"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy1c4",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jy1by"
+      },
+      "episode": {
+        "id": "p09jy1bp",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Faye Hatcher"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy1ck",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jy1cd"
+      },
+      "episode": {
+        "id": "p09jy1c8",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Gloucestershire Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy1d1",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jwt81"
+      },
+      "episode": {
+        "id": "p09jwt7x",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "James Threlfall"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy1dj",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jwt88"
+      },
+      "episode": {
+        "id": "p09jwt85",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in the West"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jy1dr",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jwt8s"
+      },
+      "episode": {
+        "id": "p09jwt8n",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

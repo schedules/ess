@@ -1,0 +1,881 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:29:28.958Z"
+  },
+  "items": [
+    {
+      "id": "p09gbzk8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0007l5w"
+      },
+      "episode": {
+        "id": "b00j2j7k",
+        "title": "10. Death's Door"
+      },
+      "brand": {
+        "title": "Planet B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-21T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00p93d7"
+      },
+      "episode": {
+        "id": "b00p93sw",
+        "title": "How's My Driving?"
+      },
+      "brand": {
+        "title": "Off the Page"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:30:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005j80r"
+      },
+      "episode": {
+        "id": "b007jsrw",
+        "title": "5. The Empty Quarter"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gmfzd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w6lv"
+      },
+      "episode": {
+        "id": "m000w6lw",
+        "title": "5. The Comedy is Over"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:30:00.000Z",
+        "end": "2021-05-22T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08dwygw"
+      },
+      "episode": {
+        "id": "b08dwyh9",
+        "title": "Episode 5"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:00:00.000Z",
+        "end": "2021-05-22T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m00057rp"
+      },
+      "episode": {
+        "id": "m00057rq",
+        "title": "Sigrid"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:15:00.000Z",
+        "end": "2021-05-22T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b51zpg"
+      },
+      "episode": {
+        "id": "b0b520pj",
+        "title": "Patrick Cargill"
+      },
+      "brand": {
+        "title": "Be My Guest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:30:00.000Z",
+        "end": "2021-05-22T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkp",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b096fsl8"
+      },
+      "episode": {
+        "id": "b096fsmx",
+        "title": "Stardust by Ray Connolly"
+      },
+      "brand": {
+        "title": "Drama"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T02:00:00.000Z",
+        "end": "2021-05-22T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w5xb"
+      },
+      "episode": {
+        "id": "b00s7vtk",
+        "title": "2010 Heat 7"
+      },
+      "brand": {
+        "title": "Counterpoint"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:00:00.000Z",
+        "end": "2021-05-22T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000833w"
+      },
+      "episode": {
+        "id": "b007tdnn",
+        "title": "Episode 1 - Of Moles and Men"
+      },
+      "brand": {
+        "title": "Bristow"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:30:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07gf4rb"
+      },
+      "episode": {
+        "id": "b07gf4s6",
+        "title": "Sunday, Flipping Sunday"
+      },
+      "brand": {
+        "title": "The Break"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzkx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w3md"
+      },
+      "episode": {
+        "id": "m000w3mf",
+        "title": "The Confession of Marian Keyes"
+      },
+      "brand": {
+        "title": "The Confessional"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:30:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dl",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b012966y"
+      },
+      "episode": {
+        "id": "b0129678",
+        "title": "Terence Rattigan - The Winslow Boy"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07wbxjn"
+      },
+      "episode": {
+        "id": "b07wby0q",
+        "title": "Cyrus Todiwala on Dadabhai Naoroji"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:30:00.000Z",
+        "end": "2021-05-22T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0008hjf"
+      },
+      "episode": {
+        "id": "b007k2kg",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Whispers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:00:00.000Z",
+        "end": "2021-05-22T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dp",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006phy4"
+      },
+      "episode": {
+        "id": "b007k0d2",
+        "title": "Episode 5 - Survival of the Fittest"
+      },
+      "brand": {
+        "title": "Smelling of Roses"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:30:00.000Z",
+        "end": "2021-05-22T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0009byr"
+      },
+      "episode": {
+        "id": "m0009bys",
+        "title": "From Gorsemere to Gloomsbury: The Literary Lunacy of Sue Limb"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T08:00:00.000Z",
+        "end": "2021-05-22T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08h0b0g"
+      },
+      "episode": {
+        "id": "b08h0c9k",
+        "title": "10/03/2017 - The Neck"
+      },
+      "brand": {
+        "title": "A Trespasser's Guide to the Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:00:00.000Z",
+        "end": "2021-05-22T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1ds",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005hmqz"
+      },
+      "episode": {
+        "id": "b007jsfp",
+        "title": "Episode 1 - Endangered Species"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:30:00.000Z",
+        "end": "2021-05-22T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0006lvx"
+      },
+      "episode": {
+        "id": "m0006lvy",
+        "title": "The Jon Pertwee Files"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06grjmb"
+      },
+      "episode": {
+        "id": "b06grjn7",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b04wwnbc"
+      },
+      "episode": {
+        "id": "b04wwnh8",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Bridget Christie Minds the Gap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:30:00.000Z",
+        "end": "2021-05-22T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00k9d8s"
+      },
+      "episode": {
+        "id": "b00k9dc3",
+        "title": "Lust"
+      },
+      "brand": {
+        "title": "Mark Watson Makes the World Substantially Better"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:00:00.000Z",
+        "end": "2021-05-22T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dy",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b012qttv"
+      },
+      "episode": {
+        "id": "b012qtv1",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Lucy Montgomery's Variety Pack"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:30:00.000Z",
+        "end": "2021-05-22T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1dz",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b012966y"
+      },
+      "episode": {
+        "id": "b0129678",
+        "title": "Terence Rattigan - The Winslow Boy"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:00:00.000Z",
+        "end": "2021-05-22T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07wbxjn"
+      },
+      "episode": {
+        "id": "b07wby0q",
+        "title": "Cyrus Todiwala on Dadabhai Naoroji"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:30:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bfxjdh"
+      },
+      "episode": {
+        "id": "b0bfxjs5",
+        "title": "3 The Red Moon Mystery 1/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006y2zp"
+      },
+      "episode": {
+        "id": "b007k2w1",
+        "title": "Ray Bradbury - There Will Come Soft Rains"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:35:00.000Z",
+        "end": "2021-05-22T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0009byr"
+      },
+      "episode": {
+        "id": "m0009bys",
+        "title": "From Gorsemere to Gloomsbury: The Literary Lunacy of Sue Limb"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09bvvr6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000v1rb"
+      },
+      "episode": {
+        "id": "b007k419",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Rigor Mortis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-22T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b076nzzw"
+      },
+      "episode": {
+        "id": "b076p08g",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Josie Long: Romance and Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:30:00.000Z",
+        "end": "2021-05-22T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b03ws1m3"
+      },
+      "episode": {
+        "id": "b03ws221",
+        "title": "Dumping and Proposals"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:00:00.000Z",
+        "end": "2021-05-22T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b051089g"
+      },
+      "episode": {
+        "id": "b05108h0",
+        "title": "Dame Kelly Holmes"
+      },
+      "brand": {
+        "title": "I've Never Seen Star Wars"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:30:00.000Z",
+        "end": "2021-05-22T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0bfxjdh"
+      },
+      "episode": {
+        "id": "b0bfxjs5",
+        "title": "3 The Red Moon Mystery 1/2"
+      },
+      "brand": {
+        "title": "Dan Dare"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-22T23:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006y2zp"
+      },
+      "episode": {
+        "id": "b007k2w1",
+        "title": "Ray Bradbury - There Will Come Soft Rains"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:35:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1f9",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0006lvx"
+      },
+      "episode": {
+        "id": "m0006lvy",
+        "title": "The Jon Pertwee Files"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1fb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06grjmb"
+      },
+      "episode": {
+        "id": "b06grjn7",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:00:00.000Z",
+        "end": "2021-05-23T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1fc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b04wwnbc"
+      },
+      "episode": {
+        "id": "b04wwnh8",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Bridget Christie Minds the Gap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:30:00.000Z",
+        "end": "2021-05-23T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1fd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00k9d8s"
+      },
+      "episode": {
+        "id": "b00k9dc3",
+        "title": "Lust"
+      },
+      "brand": {
+        "title": "Mark Watson Makes the World Substantially Better"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-23T02:00:00.000Z",
+        "end": "2021-05-23T02:30:00.000Z"
+      }
+    }
+  ]
+}

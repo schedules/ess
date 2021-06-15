@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cornwall"
+  },
+  "service": {
+    "id": "bbc_radio_cornwall",
+    "name": "BBC Radio Cornwall",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-25T03:24:19.096Z"
+  },
+  "items": [
+    {
+      "id": "p09h4g5r",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4g5p"
+      },
+      "episode": {
+        "id": "p09h4g5m",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gyf",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09gxh90"
+      },
+      "episode": {
+        "id": "p09gxh8y",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gyn",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09gycb9"
+      },
+      "episode": {
+        "id": "p09gxh95",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:00:00.000Z",
+        "end": "2021-05-25T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gyy",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4gyv"
+      },
+      "episode": {
+        "id": "p09h4gyq",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "James Churchfield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:00:00.000Z",
+        "end": "2021-05-25T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gz4",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4gz2"
+      },
+      "episode": {
+        "id": "p09h4gz0",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "David White"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-25T09:00:00.000Z",
+        "end": "2021-05-25T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gzb",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4gz8"
+      },
+      "episode": {
+        "id": "p09h4gz5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Julie Skentelbery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-25T13:00:00.000Z",
+        "end": "2021-05-25T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gzm",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4gzj"
+      },
+      "episode": {
+        "id": "p09h4gzg",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Tiffany Truscott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cornwall"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:00:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4gzw",
+      "service": {
+        "id": "bbc_radio_cornwall"
+      },
+      "version": {
+        "id": "p09h4gzs"
+      },
+      "episode": {
+        "id": "p09h4gzp",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    }
+  ]
+}

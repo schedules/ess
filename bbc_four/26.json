@@ -1,0 +1,435 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-26T03:27:57.141Z"
+  },
+  "items": [
+    {
+      "id": "p09hc7y6",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0b5t2zc"
+      },
+      "episode": {
+        "id": "b03ccs7k",
+        "title": "Episode 2 - Pus"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:55:00.000Z",
+        "end": "2021-05-25T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7y7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04dzrk4"
+      },
+      "episode": {
+        "id": "b04dzrtr",
+        "title": "Episode 2 - Andreas Vesalius"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:55:00.000Z",
+        "end": "2021-05-26T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7y8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfdb"
+      },
+      "episode": {
+        "id": "m000wfdc",
+        "title": "Quiet Cove"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:25:00.000Z",
+        "end": "2021-05-26T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7y9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0682970"
+      },
+      "episode": {
+        "id": "b06829t1",
+        "title": "28/08/2015 - The Boat People"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:55:00.000Z",
+        "end": "2021-05-26T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7yb",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b044md6z"
+      },
+      "episode": {
+        "id": "b040rqjm",
+        "title": "Episode 1 - Heroes for All Times"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:25:00.000Z",
+        "end": "2021-05-26T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7yc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T02:25:00.000Z",
+        "end": "2021-05-26T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7yd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:30:00.000Z",
+        "end": "2021-05-26T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7w2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:58:00.000Z",
+        "end": "2021-05-26T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7w3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0685bjj"
+      },
+      "episode": {
+        "id": "b0685bp2",
+        "title": "28/08/2015 - The Workers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:00:00.000Z",
+        "end": "2021-05-26T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7w5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfdh"
+      },
+      "episode": {
+        "id": "m000wfdj",
+        "title": "River’s Peace"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:30:00.000Z",
+        "end": "2021-05-26T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7w8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07tj7m7"
+      },
+      "episode": {
+        "id": "b07tj8vp",
+        "title": "Episode 3 - Beneath the Clouds"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T19:00:00.000Z",
+        "end": "2021-05-26T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wb",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09hzrtq"
+      },
+      "episode": {
+        "id": "b09hzrvg",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T20:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b03j59qf"
+      },
+      "episode": {
+        "id": "b03j5cf8",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-26T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hy9j2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wmmk"
+      },
+      "episode": {
+        "id": "m000wfcw",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:00:00.000Z",
+        "end": "2021-05-26T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wh",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rbpg"
+      },
+      "episode": {
+        "id": "p099cq8s",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:00:00.000Z",
+        "end": "2021-05-26T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rd5b"
+      },
+      "episode": {
+        "id": "p099cqkw",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:45:00.000Z",
+        "end": "2021-05-27T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfdh"
+      },
+      "episode": {
+        "id": "m000wfdj",
+        "title": "River’s Peace"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:30:00.000Z",
+        "end": "2021-05-27T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0685bjj"
+      },
+      "episode": {
+        "id": "b0685bp2",
+        "title": "28/08/2015 - The Workers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:00:00.000Z",
+        "end": "2021-05-27T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jrdvx"
+      },
+      "episode": {
+        "id": "b09hzrvg",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:30:00.000Z",
+        "end": "2021-05-27T02:30:00.000Z"
+      }
+    }
+  ]
+}

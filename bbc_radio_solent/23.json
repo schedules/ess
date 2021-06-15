@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_solent"
+  },
+  "service": {
+    "id": "bbc_radio_solent",
+    "name": "BBC Radio Solent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:22:24.142Z"
+  },
+  "items": [
+    {
+      "id": "p09h7yd4",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gycpw"
+      },
+      "episode": {
+        "id": "p09gycps",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y72",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gxgqm"
+      },
+      "episode": {
+        "id": "p09gxgqk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y74",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gxgqv"
+      },
+      "episode": {
+        "id": "p09gxgqq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y7c",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09h7y77"
+      },
+      "episode": {
+        "id": "p09h7y75",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Lucy Ambache"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y7k",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09h7y7h"
+      },
+      "episode": {
+        "id": "p09h7y7f",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Rebecca Parker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hgdhb",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09hgdgy"
+      },
+      "episode": {
+        "id": "p09h7y7l",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jono Holmes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y7y",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09h7y7w"
+      },
+      "episode": {
+        "id": "p09h7y7t",
+        "title": "Online Jono Holmes (23/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Radio Solent Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:30:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y89",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09h7y83"
+      },
+      "episode": {
+        "id": "p09h7y80",
+        "title": "Online Jono Holmes (23/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Radio Solent Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y8k",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gyct5"
+      },
+      "episode": {
+        "id": "p09gycsy",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7y8z",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09h7y8x"
+      },
+      "episode": {
+        "id": "p09h7y8q",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

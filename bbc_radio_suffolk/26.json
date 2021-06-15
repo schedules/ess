@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_suffolk"
+  },
+  "service": {
+    "id": "bbc_radio_suffolk",
+    "name": "BBC Radio Suffolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:33:18.182Z"
+  },
+  "items": [
+    {
+      "id": "p09h84qg",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09h4f7f"
+      },
+      "episode": {
+        "id": "p09h4f74",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84gm",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09gxjmp"
+      },
+      "episode": {
+        "id": "p09gxjm7",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84gy",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09gyd1y"
+      },
+      "episode": {
+        "id": "p09gxjn3",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:00:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84h4",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09h84h2"
+      },
+      "episode": {
+        "id": "p09h84h0",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Mark Murphy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84h9",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09h84h7"
+      },
+      "episode": {
+        "id": "p09h84h5",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "James Hazell"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-05-26T09:00:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84hg",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09h84hd"
+      },
+      "episode": {
+        "id": "p09h84hb",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Lesley Dolphin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84hm",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09h84hk"
+      },
+      "episode": {
+        "id": "p09h84hh",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Georgy Jamieson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h84hv",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09h4fkm"
+      },
+      "episode": {
+        "id": "p09h4fkk",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    }
+  ]
+}

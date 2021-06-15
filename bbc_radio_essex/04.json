@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_essex"
+  },
+  "service": {
+    "id": "bbc_radio_essex",
+    "name": "BBC Essex",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:26:12.879Z"
+  },
+  "items": [
+    {
+      "id": "p09ht0xl",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht0xc"
+      },
+      "episode": {
+        "id": "p09ht0x8",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Tony Fisher"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1dk",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hghtn"
+      },
+      "episode": {
+        "id": "p09hghth",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:00:00.000Z",
+        "end": "2021-06-04T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1f8",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hl55j"
+      },
+      "episode": {
+        "id": "p09hghv6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:00:00.000Z",
+        "end": "2021-06-04T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1fv",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht1fq"
+      },
+      "episode": {
+        "id": "p09ht1fc",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Sonia Watson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:00:00.000Z",
+        "end": "2021-06-04T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1g6",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht1g4"
+      },
+      "episode": {
+        "id": "p09ht1g1",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Ben Fryer"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-04T09:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1gn",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht1gh"
+      },
+      "episode": {
+        "id": "p09ht1gc",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dave Monk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1h4",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09ht1h0"
+      },
+      "episode": {
+        "id": "p09ht1gr",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "John Leech's Big Essex Soul Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht1hb",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09hlgdc"
+      },
+      "episode": {
+        "id": "p09hlgd7",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    }
+  ]
+}

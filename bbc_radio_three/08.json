@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:41:56.805Z"
+  },
+  "items": [
+    {
+      "id": "p09j60pw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsn2"
+      },
+      "episode": {
+        "id": "m000wsn3",
+        "title": "I Barocchisti"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:30:00.000Z",
+        "end": "2021-06-08T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5gg4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrby"
+      },
+      "episode": {
+        "id": "m000wrbz",
+        "title": "Tuesday - Petroc's classical picks"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T05:30:00.000Z",
+        "end": "2021-06-08T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5gg5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrc0"
+      },
+      "episode": {
+        "id": "m000wrc1",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T08:00:00.000Z",
+        "end": "2021-06-08T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5gg6",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000706s"
+      },
+      "episode": {
+        "id": "m000706t",
+        "title": "The Reluctant Priest"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T11:00:00.000Z",
+        "end": "2021-06-08T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5gg7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "b09w6yg5"
+      },
+      "episode": {
+        "id": "b09w6yk5",
+        "title": "Debussy and Pizzetti at LSO St Luke's"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T12:00:00.000Z",
+        "end": "2021-06-08T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5gg8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrc2"
+      },
+      "episode": {
+        "id": "m000wrc3",
+        "title": "German Ensembles (2/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T13:00:00.000Z",
+        "end": "2021-06-08T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5gg9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrc4"
+      },
+      "episode": {
+        "id": "m000wrc5",
+        "title": "Edward Hawkins and Sergey Rybin, Caroline Pether"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T16:00:00.000Z",
+        "end": "2021-06-08T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09klbnp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0002ctd"
+      },
+      "episode": {
+        "id": "m0002ctf",
+        "title": "Power through classical music"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:00:00.000Z",
+        "end": "2021-06-08T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5ggc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrc8"
+      },
+      "episode": {
+        "id": "m000wrc9",
+        "title": "French and English music for choir and organ"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:30:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5ggd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrcb"
+      },
+      "episode": {
+        "id": "m000wrcc",
+        "title": "Women's Art"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-08T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5ggf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0006mj8"
+      },
+      "episode": {
+        "id": "m0006mj9",
+        "title": "Rochdale Town Hall"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:45:00.000Z",
+        "end": "2021-06-08T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5ggg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrcd"
+      },
+      "episode": {
+        "id": "m000wrcf",
+        "title": "Adventures in sound"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T22:00:00.000Z",
+        "end": "2021-06-08T23:30:00.000Z"
+      }
+    }
+  ]
+}

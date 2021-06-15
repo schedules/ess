@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_devon"
+  },
+  "service": {
+    "id": "bbc_radio_devon",
+    "name": "BBC Radio Devon",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:39:51.275Z"
+  },
+  "items": [
+    {
+      "id": "p09h4rtw",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4kqt"
+      },
+      "episode": {
+        "id": "p09h4kqk",
+        "title": "Jim Colvin sits in (28/05/2021)"
+      },
+      "brand": {
+        "title": "David Sheppard"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszb0",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszb1",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszb6",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hszb4"
+      },
+      "episode": {
+        "id": "p09hszb2",
+        "title": "with Angela Kalwaites (29/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Devon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszbc",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hszb9"
+      },
+      "episode": {
+        "id": "p09hszb7",
+        "title": "with Angela Kalwaites (29/05/2021)"
+      },
+      "brand": {
+        "title": "The Golden Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T08:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htj5t",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09htj5n"
+      },
+      "episode": {
+        "id": "p09htj5j",
+        "title": "Airwaves Festival (29/05/2021)"
+      },
+      "brand": {
+        "title": "Matt Woodley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszbq",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hszbm"
+      },
+      "episode": {
+        "id": "p09hszbk",
+        "title": "with James Vickery (29/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Radio Devon Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:00:00.000Z",
+        "end": "2021-05-29T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszbx",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hszbv"
+      },
+      "episode": {
+        "id": "p09hszbr",
+        "title": "Altrincham v Torquay United"
+      },
+      "brand": {
+        "title": "BBC Radio Devon Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:30:00.000Z",
+        "end": "2021-05-29T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszc5",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hszc3"
+      },
+      "episode": {
+        "id": "p09hszbz",
+        "title": "with James Vickery (29/05/2021)"
+      },
+      "brand": {
+        "title": "Extra Time"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:30:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszcc",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hszc9"
+      },
+      "episode": {
+        "id": "p09hszc7",
+        "title": "Airwaves Festival (29/05/2021)"
+      },
+      "brand": {
+        "title": "Richard Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszcg",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hlj2q"
+      },
+      "episode": {
+        "id": "p09hlj2b",
+        "title": "Airwaves Festival Special with Ally Reeve (29/05/2021)"
+      },
+      "brand": {
+        "title": "Sarah Gosling"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszck",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09hlj4p"
+      },
+      "episode": {
+        "id": "p09hlj49",
+        "title": "Griffin Robillard in session"
+      },
+      "brand": {
+        "title": "BBC Music Introducing In The South West"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hszcv",
+      "service": {
+        "id": "bbc_radio_devon"
+      },
+      "version": {
+        "id": "p09h4g8g"
+      },
+      "episode": {
+        "id": "p09h4g88",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

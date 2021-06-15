@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:31:00.924Z"
+  },
+  "items": [
+    {
+      "id": "p09hxm0s",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hstlx"
+      },
+      "episode": {
+        "id": "p09hstlv",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn5ys",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09j3jx7"
+      },
+      "episode": {
+        "id": "p09j3jx1",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9gr3",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09k910g"
+      },
+      "episode": {
+        "id": "p09k90f4",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn5z2",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09j7455"
+      },
+      "episode": {
+        "id": "p09j744z",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:50:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn5zd",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09jn5z9"
+      },
+      "episode": {
+        "id": "p09jn5z5",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Henry Liston"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn5zp",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09jn5zl"
+      },
+      "episode": {
+        "id": "p09jn5zh",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "John Fox"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn60b",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09jn600"
+      },
+      "episode": {
+        "id": "p09jn5zv",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Rakeem Omar"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn61d",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09jn612"
+      },
+      "episode": {
+        "id": "p09jn60n",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Mollie Green"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn627",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09jn622"
+      },
+      "episode": {
+        "id": "p09jn61r",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in the West Midlands"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn62c",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09jjrmr"
+      },
+      "episode": {
+        "id": "p09j85bw",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

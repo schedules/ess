@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_bristol"
+  },
+  "service": {
+    "id": "bbc_radio_bristol",
+    "name": "BBC Radio Bristol",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:25:17.409Z"
+  },
+  "items": [
+    {
+      "id": "p09gkc5w",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gkc5t"
+      },
+      "episode": {
+        "id": "p09gkc5n",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbvw",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09g40m8"
+      },
+      "episode": {
+        "id": "p09g40m4",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbvx",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09g4cvg"
+      },
+      "episode": {
+        "id": "p09g40mm",
+        "title": "Claira Hermet sits in (17/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:00:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbw2",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gkbw0"
+      },
+      "episode": {
+        "id": "p09gkbvy",
+        "title": "James Hanson"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbw8",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gkbw6"
+      },
+      "episode": {
+        "id": "p09gkbw3",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbwh",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gkbwd"
+      },
+      "episode": {
+        "id": "p09gkbwb",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbww",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gkbwt"
+      },
+      "episode": {
+        "id": "p09gkbwq",
+        "title": "Bristol Bears v Gloucester Rugby"
+      },
+      "brand": {
+        "title": "Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkbx4",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gkbx1"
+      },
+      "episode": {
+        "id": "p09gkbwy",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:30:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    }
+  ]
+}

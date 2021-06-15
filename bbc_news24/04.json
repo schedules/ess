@@ -1,0 +1,949 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-04T03:34:18.503Z"
+  },
+  "items": [
+    {
+      "id": "p09k9t1y",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqpb"
+      },
+      "episode": {
+        "id": "m000wqpc",
+        "title": "Tom Kerridge – Chef and restaurateur"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:30:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y86",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzj"
+      },
+      "episode": {
+        "id": "m000wqzk",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:00:00.000Z",
+        "end": "2021-06-04T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgwfm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf7"
+      },
+      "episode": {
+        "id": "m000wqf8",
+        "title": "George Floyd: One Year On"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:30:00.000Z",
+        "end": "2021-06-04T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y88",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzn"
+      },
+      "episode": {
+        "id": "m000wqzp",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T01:00:00.000Z",
+        "end": "2021-06-04T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y89",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq62"
+      },
+      "episode": {
+        "id": "m000wq63",
+        "title": "Strangest Places to Spend a Night"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T01:30:00.000Z",
+        "end": "2021-06-04T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y8b",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzq"
+      },
+      "episode": {
+        "id": "m000wqzr",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T02:00:00.000Z",
+        "end": "2021-06-04T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y8c",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq60"
+      },
+      "episode": {
+        "id": "m000wq61",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T02:30:00.000Z",
+        "end": "2021-06-04T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y8d",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzs"
+      },
+      "episode": {
+        "id": "m000wqzt",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T03:00:00.000Z",
+        "end": "2021-06-04T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9lcb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqpb"
+      },
+      "episode": {
+        "id": "m000wqpc",
+        "title": "Tom Kerridge – Chef and restaurateur"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T03:30:00.000Z",
+        "end": "2021-06-04T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y8g",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzv"
+      },
+      "episode": {
+        "id": "m000wqzw",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:00:00.000Z",
+        "end": "2021-06-04T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4y8j",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqzx"
+      },
+      "episode": {
+        "id": "m000wqzy",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "World Business Report"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:30:00.000Z",
+        "end": "2021-06-04T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pq8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrd1"
+      },
+      "episode": {
+        "id": "m000wnbh",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:00:00.000Z",
+        "end": "2021-06-04T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pq9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wntm"
+      },
+      "episode": {
+        "id": "m000wntn",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T08:00:00.000Z",
+        "end": "2021-06-04T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wntp"
+      },
+      "episode": {
+        "id": "m000wntq",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T09:00:00.000Z",
+        "end": "2021-06-04T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrd2"
+      },
+      "episode": {
+        "id": "m000wnbt",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T12:00:00.000Z",
+        "end": "2021-06-04T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrd3"
+      },
+      "episode": {
+        "id": "m000wrd4",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T12:30:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrd5"
+      },
+      "episode": {
+        "id": "m000wrd6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqg",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrd7"
+      },
+      "episode": {
+        "id": "m000wrd8",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T16:00:00.000Z",
+        "end": "2021-06-04T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrd9"
+      },
+      "episode": {
+        "id": "m000wrdb",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T16:45:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wnc5"
+      },
+      "episode": {
+        "id": "m000wnc6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdc"
+      },
+      "episode": {
+        "id": "m000wrdd",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:30:00.000Z",
+        "end": "2021-06-04T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pql",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdf"
+      },
+      "episode": {
+        "id": "m000wrdg",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:45:00.000Z",
+        "end": "2021-06-04T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdh"
+      },
+      "episode": {
+        "id": "m000wrdj",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:00:00.000Z",
+        "end": "2021-06-04T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqn",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdk"
+      },
+      "episode": {
+        "id": "m000wrdl",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:30:00.000Z",
+        "end": "2021-06-04T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdm"
+      },
+      "episode": {
+        "id": "m000wrdn",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T19:00:00.000Z",
+        "end": "2021-06-04T19:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqq",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdp"
+      },
+      "episode": {
+        "id": "m000wrdq",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Newswatch"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T19:45:00.000Z",
+        "end": "2021-06-04T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdr"
+      },
+      "episode": {
+        "id": "m000wrds",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T20:00:00.000Z",
+        "end": "2021-06-04T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jhj50",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wtyr"
+      },
+      "episode": {
+        "id": "m000wtys",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T20:30:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqv",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wnch"
+      },
+      "episode": {
+        "id": "m000wncj",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Ten"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-04T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqw",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdv"
+      },
+      "episode": {
+        "id": "m000wrdx",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:30:00.000Z",
+        "end": "2021-06-04T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqx",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrdz"
+      },
+      "episode": {
+        "id": "m000wrf1",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:45:00.000Z",
+        "end": "2021-06-04T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqy",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrf3"
+      },
+      "episode": {
+        "id": "m000wrf5",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:00:00.000Z",
+        "end": "2021-06-04T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pqz",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrf6"
+      },
+      "episode": {
+        "id": "m000wrf7",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:30:00.000Z",
+        "end": "2021-06-04T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pr0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrf8"
+      },
+      "episode": {
+        "id": "m000wrf9",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:00:00.000Z",
+        "end": "2021-06-04T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzv8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wvq2"
+      },
+      "episode": {
+        "id": "m000wvq3",
+        "title": "Detained in America"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:30:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pr1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrfb"
+      },
+      "episode": {
+        "id": "m000wrfc",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzvc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wvq4"
+      },
+      "episode": {
+        "id": "m000wvq5",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:30:00.000Z",
+        "end": "2021-06-05T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pr2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrfd"
+      },
+      "episode": {
+        "id": "m000wrff",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:00:00.000Z",
+        "end": "2021-06-05T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzvf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wvq6"
+      },
+      "episode": {
+        "id": "m000wvq7",
+        "title": "The New Faces of the Games"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:30:00.000Z",
+        "end": "2021-06-05T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pr3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wrfg"
+      },
+      "episode": {
+        "id": "m000wrfh",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-05T02:00:00.000Z",
+        "end": "2021-06-05T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzvl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wvq8"
+      },
+      "episode": {
+        "id": "m000wvq9",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Click - Short Edition"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-05T02:30:00.000Z",
+        "end": "2021-06-05T02:45:00.000Z"
+      }
+    }
+  ]
+}

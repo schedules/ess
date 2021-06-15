@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-25T03:26:43.113Z"
+  },
+  "items": [
+    {
+      "id": "p09gvwqn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8t"
+      },
+      "episode": {
+        "id": "m000wb8v",
+        "title": "Music for midnight"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T22:00:00.000Z",
+        "end": "2021-05-24T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8w"
+      },
+      "episode": {
+        "id": "m000wb8x",
+        "title": "Bach Weeks in Thun"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:30:00.000Z",
+        "end": "2021-05-25T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33k",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc36"
+      },
+      "episode": {
+        "id": "m000wc37",
+        "title": "Tuesday - Petroc's classical alternative"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:30:00.000Z",
+        "end": "2021-05-25T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33l",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc38"
+      },
+      "episode": {
+        "id": "m000wc39",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T08:00:00.000Z",
+        "end": "2021-05-25T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33m",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000bfn6"
+      },
+      "episode": {
+        "id": "m000bfn7",
+        "title": "The Lady Who Swings the Band"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T11:00:00.000Z",
+        "end": "2021-05-25T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33n",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3b"
+      },
+      "episode": {
+        "id": "m000wc3c",
+        "title": "Scotland Week (1/4)"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T12:00:00.000Z",
+        "end": "2021-05-25T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33p",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3d"
+      },
+      "episode": {
+        "id": "m000wc3f",
+        "title": "BBC National Orchestra of Wales (2/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T13:00:00.000Z",
+        "end": "2021-05-25T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33q",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3g"
+      },
+      "episode": {
+        "id": "m000wc3h",
+        "title": "Doric String Quartet, Simon Trpceski"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:00:00.000Z",
+        "end": "2021-05-25T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hzw2h",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0002523"
+      },
+      "episode": {
+        "id": "m0002524",
+        "title": "A 30-minute mix of delightful classical music"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:00:00.000Z",
+        "end": "2021-05-25T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33t",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3l"
+      },
+      "episode": {
+        "id": "m000wc3m",
+        "title": "Scotland Week - The Scottish Ensemble"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:30:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33v",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3n"
+      },
+      "episode": {
+        "id": "m000wc3p",
+        "title": "Novelist Tahmima Anam, plus was Nero a ruthless tyrant?"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-25T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33w",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3q"
+      },
+      "episode": {
+        "id": "m000wc3r",
+        "title": "Wedgwood"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:45:00.000Z",
+        "end": "2021-05-25T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33x",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3s"
+      },
+      "episode": {
+        "id": "m000wc3t",
+        "title": "The late zone"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:00:00.000Z",
+        "end": "2021-05-25T23:30:00.000Z"
+      }
+    }
+  ]
+}

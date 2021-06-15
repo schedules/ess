@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_guernsey"
+  },
+  "service": {
+    "id": "bbc_radio_guernsey",
+    "name": "BBC Radio Guernsey",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:27:30.884Z"
+  },
+  "items": [
+    {
+      "id": "p09gl0cx",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gkfbd"
+      },
+      "episode": {
+        "id": "p09gkfb2",
+        "title": "15/05/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0d4",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0df",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09g40cc"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0fb",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gl0f3"
+      },
+      "episode": {
+        "id": "p09gl0dm",
+        "title": "Matthew Price 16/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0gq",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gl0gf"
+      },
+      "episode": {
+        "id": "p09gl0g0",
+        "title": "Tony Gillham 16/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0hr",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gl0hf"
+      },
+      "episode": {
+        "id": "p09gl0h7",
+        "title": "Harry Barratt 16/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0j5",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gkffh"
+      },
+      "episode": {
+        "id": "p09gkff4",
+        "title": "1975 and 1988"
+      },
+      "brand": {
+        "title": "Richard Green’s Vintage Chart Show"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0j9",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gkfgw"
+      },
+      "episode": {
+        "id": "p09gkfgj",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Richard Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_devon"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gl0jt",
+      "service": {
+        "id": "bbc_radio_guernsey"
+      },
+      "version": {
+        "id": "p09gl0jk"
+      },
+      "episode": {
+        "id": "p09gl0jc",
+        "title": "Jim Colvin 16/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Guernsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_guernsey"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

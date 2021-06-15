@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cumbria"
+  },
+  "service": {
+    "id": "bbc_radio_cumbria",
+    "name": "BBC Radio Cumbria",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:37:12.843Z"
+  },
+  "items": [
+    {
+      "id": "p09h4lj0",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lhw"
+      },
+      "episode": {
+        "id": "p09h4lhr",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Solid Gold Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4llw",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lly",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lm4",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lm2"
+      },
+      "episode": {
+        "id": "p09h4llz",
+        "title": "Mike Zeller 24/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lmd",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lm9"
+      },
+      "episode": {
+        "id": "p09h4lm6",
+        "title": "Caroline Robertson 24/05/2021. Val Armstrong sits in"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lml",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lmj"
+      },
+      "episode": {
+        "id": "p09h4lmg",
+        "title": "Vicky Warham 24/05/2021. Simon Yaxley sits in"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lnl",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4ln5"
+      },
+      "episode": {
+        "id": "p09h4lmx",
+        "title": "Helen Millican 24/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lq7",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lpq"
+      },
+      "episode": {
+        "id": "p09h4lp8",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

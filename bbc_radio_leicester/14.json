@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leicester"
+  },
+  "service": {
+    "id": "bbc_radio_leicester",
+    "name": "BBC Radio Leicester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:42:33.028Z"
+  },
+  "items": [
+    {
+      "id": "p09k63tt",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jx85f"
+      },
+      "episode": {
+        "id": "p09jx850",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Summaya Mughal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63lt",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jrxj8"
+      },
+      "episode": {
+        "id": "p09jrxj3",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63lx",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09js980"
+      },
+      "episode": {
+        "id": "p09jrxjc",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-14T04:00:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63m3",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63m0"
+      },
+      "episode": {
+        "id": "p09k63ly",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Jimmy Carpenter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63mn",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63mb"
+      },
+      "episode": {
+        "id": "p09k63m7",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Leicester Special"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ld8tn",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09ld8tj"
+      },
+      "episode": {
+        "id": "p09ld8tb",
+        "title": "Ady Dayman sits in (14/06/2021)"
+      },
+      "brand": {
+        "title": "Ben Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63n2",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63my"
+      },
+      "episode": {
+        "id": "p09k63mt",
+        "title": "Jack Rafferty sits in (14/06/2021)"
+      },
+      "brand": {
+        "title": "Ady Dayman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-14T13:00:00.000Z",
+        "end": "2021-06-14T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63nb",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63n7"
+      },
+      "episode": {
+        "id": "p09k63n5",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Leicester City Football Forum"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:00:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63nj",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63nf"
+      },
+      "episode": {
+        "id": "p09k63nc",
+        "title": "Andy Pierce sits in (14/06/2021)"
+      },
+      "brand": {
+        "title": "Jack Rafferty"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63nr",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jx2fl"
+      },
+      "episode": {
+        "id": "p09jx2fb",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    }
+  ]
+}

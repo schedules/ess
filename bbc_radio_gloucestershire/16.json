@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_gloucestershire"
+  },
+  "service": {
+    "id": "bbc_radio_gloucestershire",
+    "name": "BBC Radio Gloucestershire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:22:07.103Z"
+  },
+  "items": [
+    {
+      "id": "p09gkz2w",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gkfbd"
+      },
+      "episode": {
+        "id": "p09gkfb2",
+        "title": "15/05/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkymn",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkymx",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09g40cc"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkyn3",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gkyn1"
+      },
+      "episode": {
+        "id": "p09gkymz",
+        "title": "With Richard Atkins 16/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkynj",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gkync"
+      },
+      "episode": {
+        "id": "p09gkyn4",
+        "title": "With Kate Clark 16/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkynz",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gkynv"
+      },
+      "episode": {
+        "id": "p09gkynn",
+        "title": "With Dominic Cotter 16/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkyp9",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gkyp7"
+      },
+      "episode": {
+        "id": "p09gkyp2",
+        "title": "With Manny Masih 16/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkyps",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09gkypm"
+      },
+      "episode": {
+        "id": "p09gkypf",
+        "title": "With Jim Colvin 16/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Gloucestershire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

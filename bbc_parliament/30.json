@@ -1,0 +1,518 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-30T03:21:29.228Z"
+  },
+  "items": [
+    {
+      "id": "p09jz1xq",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x17n"
+      },
+      "episode": {
+        "id": "m000x17p",
+        "title": "International Travel Debate"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:55:00.000Z",
+        "end": "2021-05-30T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz1xr",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzry"
+      },
+      "episode": {
+        "id": "m000wzrz",
+        "title": "Concussion in Sport Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:25:00.000Z",
+        "end": "2021-05-30T02:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz1xs",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj80"
+      },
+      "episode": {
+        "id": "m000wj81",
+        "title": "Covid-19 Vaccine Certification Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:50:00.000Z",
+        "end": "2021-05-30T04:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz1xt",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wjw0"
+      },
+      "episode": {
+        "id": "m000wjw1",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Welsh First Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:40:00.000Z",
+        "end": "2021-05-30T05:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ych",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr00"
+      },
+      "episode": {
+        "id": "m000wr01",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:50:00.000Z",
+        "end": "2021-05-30T09:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj86"
+      },
+      "episode": {
+        "id": "m000wj87",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:55:00.000Z",
+        "end": "2021-05-30T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yck",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj7y"
+      },
+      "episode": {
+        "id": "m000wj7z",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T10:30:00.000Z",
+        "end": "2021-05-30T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr02"
+      },
+      "episode": {
+        "id": "m000wr03",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "America this Week"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:00:00.000Z",
+        "end": "2021-05-30T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr04"
+      },
+      "episode": {
+        "id": "m000wr05",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Washington Journal"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:30:00.000Z",
+        "end": "2021-05-30T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w3pj"
+      },
+      "episode": {
+        "id": "m000w3pk",
+        "title": "Doug Gurr - Director, Natural History Museum, UK"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:00:00.000Z",
+        "end": "2021-05-30T14:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycp",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj7y"
+      },
+      "episode": {
+        "id": "m000wj7z",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:25:00.000Z",
+        "end": "2021-05-30T14:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycq",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk9m"
+      },
+      "episode": {
+        "id": "m000wk9n",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The View"
+      },
+      "masterbrand": {
+        "id": "bbc_one_northern_ireland"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:50:00.000Z",
+        "end": "2021-05-30T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycr",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wqh5"
+      },
+      "episode": {
+        "id": "m000wqh6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "The Sunday Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:35:00.000Z",
+        "end": "2021-05-30T16:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yd",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wqgd"
+      },
+      "episode": {
+        "id": "m000wqgf",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Sunday Politics Northern Ireland"
+      },
+      "masterbrand": {
+        "id": "bbc_one_northern_ireland"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:05:00.000Z",
+        "end": "2021-05-30T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yf",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1r"
+      },
+      "episode": {
+        "id": "m000wk1s",
+        "title": "Women and Equalities Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:35:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yct",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wgcw"
+      },
+      "episode": {
+        "id": "m000wgcz",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycw",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wn8j"
+      },
+      "episode": {
+        "id": "m000wn8k",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "The Andrew Marr Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:00:00.000Z",
+        "end": "2021-05-30T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yh",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000h1wb"
+      },
+      "episode": {
+        "id": "m000h1wc",
+        "title": "Supreme Court"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:55:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4ycx",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr08"
+      },
+      "episode": {
+        "id": "m000wr09",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x183"
+      },
+      "episode": {
+        "id": "m000x184",
+        "title": "Equalities Office Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:45:00.000Z",
+        "end": "2021-05-30T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x185"
+      },
+      "episode": {
+        "id": "m000x186",
+        "title": "Electoral Commission Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:15:00.000Z",
+        "end": "2021-05-31T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8ym",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqc"
+      },
+      "episode": {
+        "id": "m000wxqd",
+        "title": "Live Australian Trade Deal Urgent Question"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:50:00.000Z",
+        "end": "2021-05-31T01:40:00.000Z"
+      }
+    }
+  ]
+}

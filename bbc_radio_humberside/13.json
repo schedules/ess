@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_humberside"
+  },
+  "service": {
+    "id": "bbc_radio_humberside",
+    "name": "BBC Radio Humberside",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:39:07.809Z"
+  },
+  "items": [
+    {
+      "id": "p09k5xxn",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k5xxj"
+      },
+      "episode": {
+        "id": "p09k5xxd",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k5y62",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09jrx0v"
+      },
+      "episode": {
+        "id": "p09jrx0l",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k93w9",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k90px"
+      },
+      "episode": {
+        "id": "p09k90pt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k5y68",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k5y66"
+      },
+      "episode": {
+        "id": "p09k5y64",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Lizzie Rose"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k5y6j",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k5y6f"
+      },
+      "episode": {
+        "id": "p09k5y6b",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Fiona Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k5y6v",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k5y6s"
+      },
+      "episode": {
+        "id": "p09k5y6n",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Lucy Clark"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k5y73",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k5y6z"
+      },
+      "episode": {
+        "id": "p09k5y6x",
+        "title": "Songs by Christopher Cross, Yvonne Elliman, and Michael Bolton, plus musicals and Henry Ayrton's Jukebox (13/06/2021)"
+      },
+      "brand": {
+        "title": "Neil Foster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k5y7q",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09k5y7g"
+      },
+      "episode": {
+        "id": "p09k5y78",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    }
+  ]
+}

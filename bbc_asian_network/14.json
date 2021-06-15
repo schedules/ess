@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_asian_network"
+  },
+  "service": {
+    "id": "bbc_asian_network",
+    "name": "BBC Asian Network",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:43:20.047Z"
+  },
+  "items": [
+    {
+      "id": "p09jvf3n",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x07l"
+      },
+      "episode": {
+        "id": "m000x07m",
+        "title": "Hannah V"
+      },
+      "brand": {
+        "title": "Asian Network Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvf3p",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wrvq"
+      },
+      "episode": {
+        "id": "m000wrvr",
+        "title": "New Music Monday"
+      },
+      "brand": {
+        "title": "Bobby Friction"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvf3q",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x07n"
+      },
+      "episode": {
+        "id": "m000x07p",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Group Chat"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T03:00:00.000Z",
+        "end": "2021-06-14T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvf3r",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wlzx"
+      },
+      "episode": {
+        "id": "m000wlzy",
+        "title": "Chitra, Panjabi MC and Raghav"
+      },
+      "brand": {
+        "title": "Asian Network Certified"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T04:00:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq0",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0cr"
+      },
+      "episode": {
+        "id": "m000x0cs",
+        "title": "Ahmed Khan, Jasmin Walia and Sidhu Moose Wala"
+      },
+      "brand": {
+        "title": "Asian Network Certified"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq1",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0ct"
+      },
+      "episode": {
+        "id": "m000x0cv",
+        "title": "Monday Anthem!"
+      },
+      "brand": {
+        "title": "Asian Network Breakfast with Harpz Kaur"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T06:00:00.000Z",
+        "end": "2021-06-14T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq3",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0cw"
+      },
+      "episode": {
+        "id": "m000x0cx",
+        "title": "with Ankur Desai"
+      },
+      "brand": {
+        "title": "Asian Network's Big Debate"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq4",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wy3r"
+      },
+      "episode": {
+        "id": "m000wy3s",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T11:45:00.000Z",
+        "end": "2021-06-14T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq5",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0cy"
+      },
+      "episode": {
+        "id": "m000x0cz",
+        "title": "Euro Throwback"
+      },
+      "brand": {
+        "title": "Noreen Khan"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T12:00:00.000Z",
+        "end": "2021-06-14T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq6",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0d0"
+      },
+      "episode": {
+        "id": "m000x0d1",
+        "title": "Goal Alert!"
+      },
+      "brand": {
+        "title": "Yasser"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T15:00:00.000Z",
+        "end": "2021-06-14T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq7",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wy3y"
+      },
+      "episode": {
+        "id": "m000wy3z",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:45:00.000Z",
+        "end": "2021-06-14T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq8",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0d2"
+      },
+      "episode": {
+        "id": "m000x0d3",
+        "title": "Game Spinner"
+      },
+      "brand": {
+        "title": "Yasser"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:00:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlq9",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0d4"
+      },
+      "episode": {
+        "id": "m000x0d5",
+        "title": "New Music Monday!"
+      },
+      "brand": {
+        "title": "Bobby Friction"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlqb",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0d6"
+      },
+      "episode": {
+        "id": "m000x0d7",
+        "title": "Views on the News with Mobeen Azhar"
+      },
+      "brand": {
+        "title": "Group Chat"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlqc",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000x0d8"
+      },
+      "episode": {
+        "id": "m000x0db",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "The Shisha Lounge Mix with DJ Limelight"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:00:00.000Z",
+        "end": "2021-06-14T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlqd",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wrvv"
+      },
+      "episode": {
+        "id": "m000wrvw",
+        "title": "British Asian Rap"
+      },
+      "brand": {
+        "title": "The Shisha Lounge Mix with DJ Limelight"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:30:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    }
+  ]
+}

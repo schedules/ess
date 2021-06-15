@@ -1,0 +1,445 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-19T03:34:48.417Z"
+  },
+  "items": [
+    {
+      "id": "p09gq6f8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hj",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xp"
+      },
+      "episode": {
+        "id": "m000w6xr",
+        "title": "Beuc an Leòmhainn"
+      },
+      "brand": {
+        "title": "Su Pic (Peek Zoo)"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:00:00.000Z",
+        "end": "2021-05-19T16:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0006x56"
+      },
+      "episode": {
+        "id": "m0006x57",
+        "title": "Losgann"
+      },
+      "brand": {
+        "title": "Bing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:10:00.000Z",
+        "end": "2021-05-19T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000l3w8"
+      },
+      "episode": {
+        "id": "m000l3w9",
+        "title": "Bòtannan"
+      },
+      "brand": {
+        "title": "Bing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:15:00.000Z",
+        "end": "2021-05-19T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09bw61p"
+      },
+      "episode": {
+        "id": "b09bw699",
+        "title": "Episode 16 - Dàna-chuairt Mhìorbhaileach"
+      },
+      "brand": {
+        "title": "Tree Fu Tom"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:25:00.000Z",
+        "end": "2021-05-19T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hq",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08m8tzm"
+      },
+      "episode": {
+        "id": "b08m8v01",
+        "title": "Episode 11 - Faiceallach Patches"
+      },
+      "brand": {
+        "title": "Sù Shiùsaidh/Little Suzy's Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:50:00.000Z",
+        "end": "2021-05-19T16:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000c0l5"
+      },
+      "episode": {
+        "id": "m000c0l6",
+        "title": "Heidi am Falach"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:55:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6ht",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000j60"
+      },
+      "episode": {
+        "id": "m0000j61",
+        "title": "A' Bhana-Phrionnsa agus Am Po"
+      },
+      "brand": {
+        "title": "Kung Fu Panda"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T17:28:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000r1vb"
+      },
+      "episode": {
+        "id": "m000r1vc",
+        "title": "Episode 23"
+      },
+      "brand": {
+        "title": "Geamaichean Gorach "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:28:00.000Z",
+        "end": "2021-05-19T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6hx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00x9dfr"
+      },
+      "episode": {
+        "id": "b00x9dg6",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Saidheans Sporsail"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:30:00.000Z",
+        "end": "2021-05-19T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6j3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6yd"
+      },
+      "episode": {
+        "id": "m000w6yf",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:00:00.000Z",
+        "end": "2021-05-19T18:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6j2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b05wjrn5"
+      },
+      "episode": {
+        "id": "b05wjrnb",
+        "title": "Episode 46 - Episode 46"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:25:00.000Z",
+        "end": "2021-05-19T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gylqz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wd77"
+      },
+      "episode": {
+        "id": "m000wd78",
+        "title": "Hibernian v Rangers"
+      },
+      "brand": {
+        "title": "Scottish Women's Premier League"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:30:00.000Z",
+        "end": "2021-05-19T20:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09gylr0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000qpsb"
+      },
+      "episode": {
+        "id": "m000qpsc",
+        "title": "Na Tuinichean Mi-thoilichte"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T20:35:00.000Z",
+        "end": "2021-05-19T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gylr1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000vbvr"
+      },
+      "episode": {
+        "id": "m000vbvs",
+        "title": "Gu h-Ìosal ‘s gu h-Àrd/Low and High"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T20:45:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6j6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000d3y9"
+      },
+      "episode": {
+        "id": "m000d3yc",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Mach a Seo!"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-19T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gylr2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000kjph"
+      },
+      "episode": {
+        "id": "m000kjpj",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Julie Fowlis | Ceòl aig Baile"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:30:00.000Z",
+        "end": "2021-05-19T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6j9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b19q4k"
+      },
+      "episode": {
+        "id": "b0b19q81",
+        "title": "29/04/2018 - Call air Cladach Ile/The Loss on Islay's Shore"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-19T22:00:00.000Z",
+        "end": "2021-05-19T23:00:00.000Z"
+      }
+    }
+  ]
+}

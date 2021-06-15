@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_kent"
+  },
+  "service": {
+    "id": "bbc_radio_kent",
+    "name": "BBC Radio Kent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:35:51.428Z"
+  },
+  "items": [
+    {
+      "id": "p09jgfcg",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j75yk"
+      },
+      "episode": {
+        "id": "p09j75yg",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfpc",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j3n7d"
+      },
+      "episode": {
+        "id": "p09j3n76",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfpm",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j767j"
+      },
+      "episode": {
+        "id": "p09j3n7t",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfql",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfq1"
+      },
+      "episode": {
+        "id": "p09jgfpp",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Wake Up Call"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfst",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfs0"
+      },
+      "episode": {
+        "id": "p09jgfrj",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Julia George"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfv2",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgftr"
+      },
+      "episode": {
+        "id": "p09jgftd",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Pat Marsh"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfvn",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfvg"
+      },
+      "episode": {
+        "id": "p09jgfv9",
+        "title": "Duran Duran guitarist Dom Brown"
+      },
+      "brand": {
+        "title": "The Dominic King Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfw1",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09jgfvx"
+      },
+      "episode": {
+        "id": "p09jgfvs",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-06-09T20:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgfw6",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09j76c9"
+      },
+      "episode": {
+        "id": "p09j76by",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    }
+  ]
+}

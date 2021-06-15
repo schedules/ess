@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_shropshire"
+  },
+  "service": {
+    "id": "bbc_radio_shropshire",
+    "name": "BBC Radio Shropshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:28:18.992Z"
+  },
+  "items": [
+    {
+      "id": "p09h7v67",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09h4kcn"
+      },
+      "episode": {
+        "id": "p09h4kch",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vbj",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vbm",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vbs",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09h7vbq"
+      },
+      "episode": {
+        "id": "p09h7vbn",
+        "title": "Adam Green - 27/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vbz",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09h7vbx"
+      },
+      "episode": {
+        "id": "p09h7vbv",
+        "title": "Jim Hawkins - 27/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vc7",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09h7vc4"
+      },
+      "episode": {
+        "id": "p09h7vc1",
+        "title": "Paul Shuttleworth - 27/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vcl",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09h7vcf"
+      },
+      "episode": {
+        "id": "p09h7vcb",
+        "title": "Mark Elliott - 27/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7vd3",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09h4k2y"
+      },
+      "episode": {
+        "id": "p09h4k2s",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

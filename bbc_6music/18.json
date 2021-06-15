@@ -1,0 +1,334 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:10:52.499Z"
+  },
+  "items": [
+    {
+      "id": "p09g7b7j",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b00fnn55"
+      },
+      "episode": {
+        "id": "b00fnnwg",
+        "title": "Bob Dylan's Big Freeze"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7m",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000qp9k"
+      },
+      "episode": {
+        "id": "m000qp9l",
+        "title": "Episode 1: 1969 - Nashville Skyline"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7p",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b00pdhzd"
+      },
+      "episode": {
+        "id": "m000qp9m",
+        "title": "Episode 2: 1979 - Slow Train Coming"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:00:00.000Z",
+        "end": "2021-05-18T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7r",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b00pdjfd"
+      },
+      "episode": {
+        "id": "b011plnr",
+        "title": "Episode 3: 1989 - Oh Mercy"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T02:00:00.000Z",
+        "end": "2021-05-18T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7v",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4rh"
+      },
+      "episode": {
+        "id": "m000w4rj",
+        "title": "The Bob Dylan Playlist"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T03:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b80",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4rl"
+      },
+      "episode": {
+        "id": "m000w4rm",
+        "title": "Lost Love"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f64",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53c"
+      },
+      "episode": {
+        "id": "m000w53d",
+        "title": "Gruff Rhys"
+      },
+      "brand": {
+        "title": "Lauren Laverne"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T06:30:00.000Z",
+        "end": "2021-05-18T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f65",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53f"
+      },
+      "episode": {
+        "id": "m000w53g",
+        "title": "With Music From The Near Future"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:30:00.000Z",
+        "end": "2021-05-18T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f66",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53h"
+      },
+      "episode": {
+        "id": "m000w53j",
+        "title": "Ep 561 - Tony Allen is today's Album of the Day"
+      },
+      "brand": {
+        "title": "Shaun Keaveny"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T12:00:00.000Z",
+        "end": "2021-05-18T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f67",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53k"
+      },
+      "episode": {
+        "id": "m000w53l",
+        "title": "Tom Ravenscroft sits in"
+      },
+      "brand": {
+        "title": "Steve Lamacq"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T15:00:00.000Z",
+        "end": "2021-05-18T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f68",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53m"
+      },
+      "episode": {
+        "id": "m000w53n",
+        "title": "New Music From The William Loveday Intention"
+      },
+      "brand": {
+        "title": "Marc Riley"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:00:00.000Z",
+        "end": "2021-05-18T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6b",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53p"
+      },
+      "episode": {
+        "id": "m000w53q",
+        "title": "Happy Mondays in concert."
+      },
+      "brand": {
+        "title": "Gideon Coe"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T20:00:00.000Z",
+        "end": "2021-05-18T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6c",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w53r"
+      },
+      "episode": {
+        "id": "m000w53s",
+        "title": "Vol. 6: Music that makes me scream & shout"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6d",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0000xfn"
+      },
+      "episode": {
+        "id": "m0000xfq",
+        "title": "Slow Sunday with Ólafur Arnalds"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T02:00:00.000Z"
+      }
+    }
+  ]
+}

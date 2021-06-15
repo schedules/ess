@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:25:25.332Z"
+  },
+  "items": [
+    {
+      "id": "p09jn38r",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jn2ll"
+      },
+      "episode": {
+        "id": "p09jn2l1",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Linda McDermott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_merseyside"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66mv",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jrwc0"
+      },
+      "episode": {
+        "id": "p09jrwbx",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k98r6",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k91cm"
+      },
+      "episode": {
+        "id": "p09k90nl",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66n1",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09js752"
+      },
+      "episode": {
+        "id": "p09js750",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:50:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66n7",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k66n5"
+      },
+      "episode": {
+        "id": "p09k66n3",
+        "title": "World Sickle Cell Awareness Day"
+      },
+      "brand": {
+        "title": "Simone Riley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66nk",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k66nc"
+      },
+      "episode": {
+        "id": "p09k66n9",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Justin Moorhouse"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66pg",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k66p4"
+      },
+      "episode": {
+        "id": "p09k66nv",
+        "title": "Exeter Chiefs v Sale Sharks"
+      },
+      "brand": {
+        "title": "BBC Radio Manchester Sport: Big Match Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66pr",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k66pp"
+      },
+      "episode": {
+        "id": "p09k66pl",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "David Scott"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66px",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k66pv"
+      },
+      "episode": {
+        "id": "p09k66ps",
+        "title": "With Victoria Jane (12/06/2021)"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Manchester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k66pz",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k60p3"
+      },
+      "episode": {
+        "id": "p09k60p1",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

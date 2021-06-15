@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_oxford"
+  },
+  "service": {
+    "id": "bbc_radio_oxford",
+    "name": "BBC Radio Oxford",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:35:40.624Z"
+  },
+  "items": [
+    {
+      "id": "p09hbj3c",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hbhyy"
+      },
+      "episode": {
+        "id": "p09hbhyv",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pdj",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pdk",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pdz",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09h7pdt"
+      },
+      "episode": {
+        "id": "p09h7pdm",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Sophie Law"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pfj",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09h7pff"
+      },
+      "episode": {
+        "id": "p09h7pf7",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "James Watt"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pfv",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09h7pfs"
+      },
+      "episode": {
+        "id": "p09h7pfq",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Danny Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pfx",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gycl8"
+      },
+      "episode": {
+        "id": "p09gycl1",
+        "title": "Featured Artist: Public Image Ltd"
+      },
+      "brand": {
+        "title": "Stereo Underground"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pg2",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09h7pg0"
+      },
+      "episode": {
+        "id": "p09h7pfy",
+        "title": "Mr Haz + Nikki Ambers (22/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Oxfordshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pg5",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09g4ch3"
+      },
+      "episode": {
+        "id": "p09g4ch0",
+        "title": "What’s wrong with casting a black actor as Anne Boleyn?"
+      },
+      "brand": {
+        "title": "Bridgitte Tetteh"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T20:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pgd",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gycpw"
+      },
+      "episode": {
+        "id": "p09gycps",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

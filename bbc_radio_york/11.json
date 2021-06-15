@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:32:19.125Z"
+  },
+  "items": [
+    {
+      "id": "p09jn9sx",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jg9ht"
+      },
+      "episode": {
+        "id": "p09jg9hp",
+        "title": "Russell Walker: Songs for Toys"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9xx",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09j3p8w"
+      },
+      "episode": {
+        "id": "p09j3p8s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9yd",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09j77dk"
+      },
+      "episode": {
+        "id": "p09j3p93",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9z8",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jn9yw"
+      },
+      "episode": {
+        "id": "p09jn9yl",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Georgey Spanswick at Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn9zx",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jn9zr"
+      },
+      "episode": {
+        "id": "p09jn9zj",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jonathan Cowap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnb0j",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jnb0b"
+      },
+      "episode": {
+        "id": "p09jnb04",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Joanita Musisi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:00:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnb1w",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jnb1l"
+      },
+      "episode": {
+        "id": "p09jnb15",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC Radio York Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnb2d",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jnb22"
+      },
+      "episode": {
+        "id": "p09jh2zy",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "George Smith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnb2p",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jh30v"
+      },
+      "episode": {
+        "id": "p09jh30l",
+        "title": "Rock hits from the 2000s, with Muse, Coldplay and Paramore"
+      },
+      "brand": {
+        "title": "Let's Get Noughties"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-11T20:30:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnb2s",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jgb1m"
+      },
+      "episode": {
+        "id": "p09jgb1h",
+        "title": "Rich Williams sits in (11/06/2021)"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

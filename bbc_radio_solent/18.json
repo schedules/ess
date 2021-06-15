@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_solent"
+  },
+  "service": {
+    "id": "bbc_radio_solent",
+    "name": "BBC Radio Solent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:33:19.538Z"
+  },
+  "items": [
+    {
+      "id": "p09gnvhp",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09g4czk"
+      },
+      "episode": {
+        "id": "p09g4czh",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnvpw",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09g41f6"
+      },
+      "episode": {
+        "id": "p09g41f1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnvpy",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09g4czt"
+      },
+      "episode": {
+        "id": "p09g41fd",
+        "title": "Claira Hermet sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnvqg",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gnvq8"
+      },
+      "episode": {
+        "id": "p09gnvq1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Alun Newman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:00:00.000Z",
+        "end": "2021-05-18T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnvrc",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gnvr4"
+      },
+      "episode": {
+        "id": "p09gnvqv",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Pat Sissons"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:00:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2k2",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gnvs7"
+      },
+      "episode": {
+        "id": "p09gnvrs",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Louisa Hannan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2kd",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gt2k9"
+      },
+      "episode": {
+        "id": "p09gt2k5",
+        "title": "Southampton v Leeds United (18/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Radio Solent Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-18T16:30:00.000Z",
+        "end": "2021-05-18T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2kg",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gnvth"
+      },
+      "episode": {
+        "id": "p09gnvt2",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Solent Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:00:00.000Z",
+        "end": "2021-05-18T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2km",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09gt2kk"
+      },
+      "episode": {
+        "id": "p09gt2kh",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Solent Sport: The reaction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-18T19:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnvv8",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09g4d2s"
+      },
+      "episode": {
+        "id": "p09g4d2h",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    }
+  ]
+}

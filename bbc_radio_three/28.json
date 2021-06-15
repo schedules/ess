@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:31:21.270Z"
+  },
+  "items": [
+    {
+      "id": "p09gwqs8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wcws"
+      },
+      "episode": {
+        "id": "m000wcwt",
+        "title": "Norwegian Radio Orchestra at the Harstad Culture Centre"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:30:00.000Z",
+        "end": "2021-05-28T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdk2"
+      },
+      "episode": {
+        "id": "m000wdk3",
+        "title": "Friday - Kate's classical alarm call"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:30:00.000Z",
+        "end": "2021-05-28T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdk4"
+      },
+      "episode": {
+        "id": "m000wdk5",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T08:00:00.000Z",
+        "end": "2021-05-28T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gr",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000bgts"
+      },
+      "episode": {
+        "id": "m000bgtt",
+        "title": "The Priest and the Jazz Musician"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T11:00:00.000Z",
+        "end": "2021-05-28T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gt",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdk6"
+      },
+      "episode": {
+        "id": "m000wdk7",
+        "title": "Scotland Week (4/4)"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T12:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdk8"
+      },
+      "episode": {
+        "id": "m000wdk9",
+        "title": "BBC National Orchestra of Wales (4/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "b09dx7v9"
+      },
+      "episode": {
+        "id": "b09dxbfg",
+        "title": "The Synthesizer. Hannah Peel, Peter Zinovieff"
+      },
+      "brand": {
+        "title": "The Listening Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T15:30:00.000Z",
+        "end": "2021-05-28T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkb"
+      },
+      "episode": {
+        "id": "m000wdkc",
+        "title": "Kaleidoscope Chamber Collective, Eliza and Martin Carthy"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T16:00:00.000Z",
+        "end": "2021-05-28T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gy",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkd"
+      },
+      "episode": {
+        "id": "m000wdkf",
+        "title": "A blissful 30-minute classical mix"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:00:00.000Z",
+        "end": "2021-05-28T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06gz",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkg"
+      },
+      "episode": {
+        "id": "m000wdkh",
+        "title": "Scotland Week - The RSNO"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:30:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06h0",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkj"
+      },
+      "episode": {
+        "id": "m000wdkk",
+        "title": "The Hay Verb - Experiments in Living"
+      },
+      "brand": {
+        "title": "The Verb"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-28T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06h1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkl"
+      },
+      "episode": {
+        "id": "m000wdkm",
+        "title": "Magdalene Odundo"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:45:00.000Z",
+        "end": "2021-05-28T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06h2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkn"
+      },
+      "episode": {
+        "id": "m000wdkp",
+        "title": "Joshua Abrams and Phew in session"
+      },
+      "brand": {
+        "title": "Late Junction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

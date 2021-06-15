@@ -1,0 +1,558 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-05T03:45:52.837Z"
+  },
+  "items": [
+    {
+      "id": "p09j1bpg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000hbrr"
+      },
+      "episode": {
+        "id": "b00lrpfr",
+        "title": "19/05/2001 - A Fish Called Wanda"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:45:00.000Z",
+        "end": "2021-06-05T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bpk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wncp"
+      },
+      "episode": {
+        "id": "m000wncq",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:30:00.000Z",
+        "end": "2021-06-05T00:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bpp",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wncr"
+      },
+      "episode": {
+        "id": "m000wncs",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:35:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfng",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww70"
+      },
+      "episode": {
+        "id": "m000ww72",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww74"
+      },
+      "episode": {
+        "id": "m000ww76",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Saturday Kitchen"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b094hxxb"
+      },
+      "episode": {
+        "id": "b094hy38",
+        "title": "Episode 8 - Wales"
+      },
+      "brand": {
+        "title": "Nadiya's British Food Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:30:00.000Z",
+        "end": "2021-06-05T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0bt7c6j"
+      },
+      "episode": {
+        "id": "b0bt7c7w",
+        "title": "Episode 56 - Episode 56"
+      },
+      "brand": {
+        "title": "Homes Under the Hammer"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T11:00:00.000Z",
+        "end": "2021-06-05T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww78"
+      },
+      "episode": {
+        "id": "m000ww7b",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:00:00.000Z",
+        "end": "2021-06-05T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b09hllsq"
+      },
+      "episode": {
+        "id": "b09hllsv",
+        "title": "Episode 22 - Oswestry 23"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:15:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfns",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7d"
+      },
+      "episode": {
+        "id": "m000ww7g",
+        "title": "Semi-Final: Hull FC v St Helens"
+      },
+      "brand": {
+        "title": "Rugby League: Challenge Cup"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7j"
+      },
+      "episode": {
+        "id": "m000ww7m",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Money for Nothing"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:30:00.000Z",
+        "end": "2021-06-05T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnx",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7r"
+      },
+      "episode": {
+        "id": "m000ww7t",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:30:00.000Z",
+        "end": "2021-06-05T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfnz",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx23"
+      },
+      "episode": {
+        "id": "m000wx24",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:40:00.000Z",
+        "end": "2021-06-05T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfp2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000g71y"
+      },
+      "episode": {
+        "id": "m000g71z",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Celebrity Mastermind"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:50:00.000Z",
+        "end": "2021-06-05T17:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfp4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000pjwm"
+      },
+      "episode": {
+        "id": "m000pjwn",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "The Hit List"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:20:00.000Z",
+        "end": "2021-06-05T18:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfp7",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wvv8"
+      },
+      "episode": {
+        "id": "m000wvv9",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "The Wall"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:05:00.000Z",
+        "end": "2021-06-05T18:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrjxj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wxx8"
+      },
+      "episode": {
+        "id": "m000wxx9",
+        "title": "Presenters"
+      },
+      "brand": {
+        "title": "Pointless Celebrities"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:50:00.000Z",
+        "end": "2021-06-05T19:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpb",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww80"
+      },
+      "episode": {
+        "id": "m000ww82",
+        "title": "Episode 23"
+      },
+      "brand": {
+        "title": "Casualty"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:40:00.000Z",
+        "end": "2021-06-05T20:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpf",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww84"
+      },
+      "episode": {
+        "id": "m000ww86",
+        "title": "Episode 24"
+      },
+      "brand": {
+        "title": "Casualty"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:20:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww88"
+      },
+      "episode": {
+        "id": "m000ww8b",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-05T21:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9y1f",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x25k"
+      },
+      "episode": {
+        "id": "p09jjyrc",
+        "title": "Cristiano Ronaldo: Impossible to Ignore"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:20:00.000Z",
+        "end": "2021-06-05T22:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz2l9",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x17s"
+      },
+      "episode": {
+        "id": "m000vzs6",
+        "title": "Three Days That Shook Football"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:20:00.000Z",
+        "end": "2021-06-05T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000bhgv"
+      },
+      "episode": {
+        "id": "m000bhgw",
+        "title": "The Hurt Locker"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:45:00.000Z",
+        "end": "2021-06-06T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfpm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww8j"
+      },
+      "episode": {
+        "id": "m000ww8k",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:50:00.000Z",
+        "end": "2021-06-06T00:55:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_northampton"
+  },
+  "service": {
+    "id": "bbc_radio_northampton",
+    "name": "BBC Radio Northampton",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:45:40.167Z"
+  },
+  "items": [
+    {
+      "id": "p09hwnlv",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnls"
+      },
+      "episode": {
+        "id": "p09hwnlp",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Northampton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwn92",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hgdrd"
+      },
+      "episode": {
+        "id": "p09hgdrb",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwn95",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hl31g"
+      },
+      "episode": {
+        "id": "p09hgdrm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwn9g",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwn9b"
+      },
+      "episode": {
+        "id": "p09hwn97",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Annabel Amos"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwn9z",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwn9w"
+      },
+      "episode": {
+        "id": "p09hwn9m",
+        "title": "A 60s music special on Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnb4",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnb2"
+      },
+      "episode": {
+        "id": "p09hwnb0",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Helen Blaby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k1h1m",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hxgtg"
+      },
+      "episode": {
+        "id": "p09hxgtb",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Edward Adoo"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnb6",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hldjs"
+      },
+      "episode": {
+        "id": "p09hldjg",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    }
+  ]
+}

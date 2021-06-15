@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:27:10.383Z"
+  },
+  "items": [
+    {
+      "id": "p09j65nm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssn"
+      },
+      "episode": {
+        "id": "m000wssp",
+        "title": "Night music"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:00:00.000Z",
+        "end": "2021-06-09T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65np",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssq"
+      },
+      "episode": {
+        "id": "m000wssr",
+        "title": "Berio, Pärt and Schubert from Turin"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:30:00.000Z",
+        "end": "2021-06-10T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqq",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1k"
+      },
+      "episode": {
+        "id": "m000wt1l",
+        "title": "Thursday - Petroc's classical commute"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:30:00.000Z",
+        "end": "2021-06-10T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqr",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1m"
+      },
+      "episode": {
+        "id": "m000wt1n",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T08:00:00.000Z",
+        "end": "2021-06-10T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6qt1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x21n"
+      },
+      "episode": {
+        "id": "m00070cp",
+        "title": "A Fall from Dizzy Heights"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T11:00:00.000Z",
+        "end": "2021-06-10T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqt",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "b09w71xv"
+      },
+      "episode": {
+        "id": "b09w7cnk",
+        "title": "Debussy and Pizzetti at LSO St Luke's"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T12:00:00.000Z",
+        "end": "2021-06-10T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1p"
+      },
+      "episode": {
+        "id": "m000wt1q",
+        "title": "Das Rheingold"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T13:00:00.000Z",
+        "end": "2021-06-10T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1r"
+      },
+      "episode": {
+        "id": "m000wt1s",
+        "title": "Samson Tsoy, Nicolas Altstaedt"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T16:00:00.000Z",
+        "end": "2021-06-10T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1t"
+      },
+      "episode": {
+        "id": "m000wt1v",
+        "title": "Take 30 minutes out with a relaxing classical mix"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T18:00:00.000Z",
+        "end": "2021-06-10T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqy",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1w"
+      },
+      "episode": {
+        "id": "m000wt1x",
+        "title": "Centenary Simpson"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T18:30:00.000Z",
+        "end": "2021-06-10T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dqz",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt1y"
+      },
+      "episode": {
+        "id": "m000wt1z",
+        "title": "How anthropology helps us understand the world"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-10T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dr0",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0006m5d"
+      },
+      "episode": {
+        "id": "m0006m5f",
+        "title": "Trinity Theatre"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:45:00.000Z",
+        "end": "2021-06-10T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dr1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wt20"
+      },
+      "episode": {
+        "id": "m000wt21",
+        "title": "Music for late-night listening"
+      },
+      "brand": {
+        "title": "The Night Tracks Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T22:00:00.000Z",
+        "end": "2021-06-10T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6dr2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000tnpw"
+      },
+      "episode": {
+        "id": "m000tnpx",
+        "title": "Julia Holter’s Listening Chair"
+      },
+      "brand": {
+        "title": "Unclassified"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-10T22:30:00.000Z",
+        "end": "2021-06-10T23:30:00.000Z"
+      }
+    }
+  ]
+}

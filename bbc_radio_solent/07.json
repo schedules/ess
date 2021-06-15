@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_solent"
+  },
+  "service": {
+    "id": "bbc_radio_solent",
+    "name": "BBC Radio Solent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-07T03:41:09.414Z"
+  },
+  "items": [
+    {
+      "id": "p09jkh4r",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkh4h"
+      },
+      "episode": {
+        "id": "p09jkh4c",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgsb",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j3l9t"
+      },
+      "episode": {
+        "id": "p09j3l9q",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-07T00:00:00.000Z",
+        "end": "2021-06-07T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgsz",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j7596"
+      },
+      "episode": {
+        "id": "p09j3l9y",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-07T04:00:00.000Z",
+        "end": "2021-06-07T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgv2",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgtq"
+      },
+      "episode": {
+        "id": "p09jkgtb",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Alun Newman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-07T05:00:00.000Z",
+        "end": "2021-06-07T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgw2",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgvs"
+      },
+      "episode": {
+        "id": "p09jkgvj",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Pat Sissons"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-07T09:00:00.000Z",
+        "end": "2021-06-07T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgwj",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgwd"
+      },
+      "episode": {
+        "id": "p09jkgw8",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Louisa Hannan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-07T13:00:00.000Z",
+        "end": "2021-06-07T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgws",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jkgwp"
+      },
+      "episode": {
+        "id": "p09jkgwm",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-07T17:00:00.000Z",
+        "end": "2021-06-07T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkgxg",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09j75cp"
+      },
+      "episode": {
+        "id": "p09j75cg",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_essex"
+  },
+  "service": {
+    "id": "bbc_radio_essex",
+    "name": "BBC Essex",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:41:18.639Z"
+  },
+  "items": [
+    {
+      "id": "p09jfqk7",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09j7lsp"
+      },
+      "episode": {
+        "id": "p09j7lsf",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj16",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jrwc0"
+      },
+      "episode": {
+        "id": "p09jrwbx",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k93d9",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09k91cm"
+      },
+      "episode": {
+        "id": "p09k90nl",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj1w",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jxj1r"
+      },
+      "episode": {
+        "id": "p09jxj1j",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Kath Melandri"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj2j",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jxj2c"
+      },
+      "episode": {
+        "id": "p09jxj25",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "The Steve and Ian Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj3d",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jxj38"
+      },
+      "episode": {
+        "id": "p09jxj34",
+        "title": "Victoria Polley (12/06/2021)"
+      },
+      "brand": {
+        "title": "Around The Wicket"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj3w",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jxj3l"
+      },
+      "episode": {
+        "id": "p09jxj3h",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Emma Bullimore"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj4k",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jx2k0"
+      },
+      "episode": {
+        "id": "p09jx2jw",
+        "title": "Rock 'n' Roll Heaven (12/06/2021)"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj5c",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jxj55"
+      },
+      "episode": {
+        "id": "p09jxj4z",
+        "title": "Sam Ryder (12/06/2021)"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Essex"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxj5j",
+      "service": {
+        "id": "bbc_radio_essex"
+      },
+      "version": {
+        "id": "p09jx2kh"
+      },
+      "episode": {
+        "id": "p09jx2kd",
+        "title": "Robert Perrone sits in (12/06/2021)"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

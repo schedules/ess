@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_sheffield"
+  },
+  "service": {
+    "id": "bbc_radio_sheffield",
+    "name": "BBC Radio Sheffield",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:36:41.686Z"
+  },
+  "items": [
+    {
+      "id": "p09gp52h",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gl3tc"
+      },
+      "episode": {
+        "id": "p09gl3t8",
+        "title": "15/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp52m",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp52r",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09g40cc"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp530",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp52x"
+      },
+      "episode": {
+        "id": "p09gp52t",
+        "title": "Kat Cowan"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp536",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp534"
+      },
+      "episode": {
+        "id": "p09gp531",
+        "title": "Becky Measures"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp53j",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp53f"
+      },
+      "episode": {
+        "id": "p09gp53b",
+        "title": "Oly Woodcock"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp53q",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp53m"
+      },
+      "episode": {
+        "id": "p09gp53k",
+        "title": "Part one (16/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp54n",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp545"
+      },
+      "episode": {
+        "id": "p09gp53v",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Football Heaven"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:30:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp553",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09fxbgn"
+      },
+      "episode": {
+        "id": "p09fxbgk",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Football Heaven Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp558",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gp556"
+      },
+      "episode": {
+        "id": "p09gp554",
+        "title": "Part two (16/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Sheffield"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp559",
+      "service": {
+        "id": "bbc_radio_sheffield"
+      },
+      "version": {
+        "id": "p09gl42p"
+      },
+      "episode": {
+        "id": "p09gl42f",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

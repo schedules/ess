@@ -1,0 +1,610 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-11T03:40:33.420Z"
+  },
+  "items": [
+    {
+      "id": "p09jpg32",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wwd7"
+      },
+      "episode": {
+        "id": "m000wwd9",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Our Cops in the North"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:15:00.000Z",
+        "end": "2021-06-11T00:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpg33",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wwks"
+      },
+      "episode": {
+        "id": "m000wwkx",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:15:00.000Z",
+        "end": "2021-06-11T00:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpg34",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wwl1"
+      },
+      "episode": {
+        "id": "m000wwl5",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:20:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyp",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6k"
+      },
+      "episode": {
+        "id": "m000ww6l",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T08:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6m"
+      },
+      "episode": {
+        "id": "m000ww6n",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Morning Live"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T08:15:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0btym8z"
+      },
+      "episode": {
+        "id": "b0btym91",
+        "title": "Episode 57 - Episode 57"
+      },
+      "brand": {
+        "title": "Homes Under the Hammer"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfys",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6p"
+      },
+      "episode": {
+        "id": "m000ww6q",
+        "title": "Episode 10"
+      },
+      "brand": {
+        "title": "The Sheriffs Are Coming"
+      },
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-06-11T10:00:00.000Z",
+        "end": "2021-06-11T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000r0dc"
+      },
+      "episode": {
+        "id": "m000r0df",
+        "title": "The Trap"
+      },
+      "brand": {
+        "title": "The Moment of Proof"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T10:45:00.000Z",
+        "end": "2021-06-11T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6r"
+      },
+      "episode": {
+        "id": "m000ww6s",
+        "title": "Childhood Special"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T11:15:00.000Z",
+        "end": "2021-06-11T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyw",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6t"
+      },
+      "episode": {
+        "id": "m000ww6v",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:00:00.000Z",
+        "end": "2021-06-11T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfyy",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx2r"
+      },
+      "episode": {
+        "id": "m000wx2s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:30:00.000Z",
+        "end": "2021-06-11T12:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfz2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6w"
+      },
+      "episode": {
+        "id": "m000ww6x",
+        "title": "Sub 25"
+      },
+      "brand": {
+        "title": "Doctors"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:45:00.000Z",
+        "end": "2021-06-11T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfz6",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww6y"
+      },
+      "episode": {
+        "id": "m000ww6z",
+        "title": "Episode 25"
+      },
+      "brand": {
+        "title": "Unbeatable"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:15:00.000Z",
+        "end": "2021-06-11T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfz8",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b094jzwd"
+      },
+      "episode": {
+        "id": "b094jzwl",
+        "title": "Episode 64 - Shropshire"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T14:00:00.000Z",
+        "end": "2021-06-11T14:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzb",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww71"
+      },
+      "episode": {
+        "id": "m000ww73",
+        "title": "Great Glen"
+      },
+      "brand": {
+        "title": "Garden Rescue"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T14:45:00.000Z",
+        "end": "2021-06-11T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzc",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww75"
+      },
+      "episode": {
+        "id": "m000ww77",
+        "title": "Episode 25"
+      },
+      "brand": {
+        "title": "Antiques Road Trip"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T15:30:00.000Z",
+        "end": "2021-06-11T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzd",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww79"
+      },
+      "episode": {
+        "id": "m000ww7c",
+        "title": "Episode 48"
+      },
+      "brand": {
+        "title": "Pointless"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:15:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7f"
+      },
+      "episode": {
+        "id": "m000ww7h",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx2t"
+      },
+      "episode": {
+        "id": "m000wx2v",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:30:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7k"
+      },
+      "episode": {
+        "id": "m000ww7l",
+        "title": "Turkey v Italy"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T21:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7n"
+      },
+      "episode": {
+        "id": "m000ww7q",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Ten"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:10:00.000Z",
+        "end": "2021-06-11T21:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wx2w"
+      },
+      "episode": {
+        "id": "m000wx2x",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:40:00.000Z",
+        "end": "2021-06-11T21:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww7x"
+      },
+      "episode": {
+        "id": "m000ww7z",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Crouchy's Year-Late Euros: Live"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:55:00.000Z",
+        "end": "2021-06-11T22:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000k4vp"
+      },
+      "episode": {
+        "id": "b07dpvcl",
+        "title": "01/06/2016 - Alan Shearer's Euro 96: When Football Came Home"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:40:00.000Z",
+        "end": "2021-06-11T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww85"
+      },
+      "episode": {
+        "id": "m000ww87",
+        "title": "Replay: Turkey v Italy"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:40:00.000Z",
+        "end": "2021-06-12T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jpfzv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000ww89"
+      },
+      "episode": {
+        "id": "m000ww8c",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:20:00.000Z",
+        "end": "2021-06-12T01:25:00.000Z"
+      }
+    }
+  ]
+}

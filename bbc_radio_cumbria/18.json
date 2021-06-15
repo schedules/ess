@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cumbria"
+  },
+  "service": {
+    "id": "bbc_radio_cumbria",
+    "name": "BBC Radio Cumbria",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:26:00.409Z"
+  },
+  "items": [
+    {
+      "id": "p09gm23p",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gly9c"
+      },
+      "episode": {
+        "id": "p09gly92",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkk16",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09g41f6"
+      },
+      "episode": {
+        "id": "p09g41f1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkk1h",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09g4czt"
+      },
+      "episode": {
+        "id": "p09g41fd",
+        "title": "Claira Hermet sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkk23",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gkk1t"
+      },
+      "episode": {
+        "id": "p09gkk1m",
+        "title": "Mike Zeller 18/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:00:00.000Z",
+        "end": "2021-05-18T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkk34",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gkk2v"
+      },
+      "episode": {
+        "id": "p09gkk2h",
+        "title": "Caroline Robertson 18/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:00:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkk4r",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gkk42"
+      },
+      "episode": {
+        "id": "p09gkk3m",
+        "title": "Vicky Warham 18/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkk70",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gkk6h"
+      },
+      "episode": {
+        "id": "p09gkk61",
+        "title": "James Phillips 18/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gm254",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09glyhg"
+      },
+      "episode": {
+        "id": "p09glygz",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    }
+  ]
+}

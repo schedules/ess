@@ -1,0 +1,148 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_five_live_sports_extra"
+  },
+  "service": {
+    "id": "bbc_radio_five_live_sports_extra",
+    "name": "BBC Radio 5 live sports extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:25:16.314Z"
+  },
+  "items": [
+    {
+      "id": "p09hjlj0",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wkjx"
+      },
+      "episode": {
+        "id": "m000wkjy",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv2b",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wkjx"
+      },
+      "episode": {
+        "id": "m000wkjy",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0d0j",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wmzf"
+      },
+      "episode": {
+        "id": "m000wmzg",
+        "title": "French Open"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv2c",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wkjx"
+      },
+      "episode": {
+        "id": "m000wkjy",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0d0k",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wmzh"
+      },
+      "episode": {
+        "id": "m000wmzj",
+        "title": "French Open"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T19:00:00.000Z",
+        "end": "2021-05-31T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv2d",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wkjx"
+      },
+      "episode": {
+        "id": "m000wkjy",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T22:00:00.000Z",
+        "end": "2021-05-31T23:00:00.000Z"
+      }
+    }
+  ]
+}

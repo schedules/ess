@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_bristol"
+  },
+  "service": {
+    "id": "bbc_radio_bristol",
+    "name": "BBC Radio Bristol",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:28:25.091Z"
+  },
+  "items": [
+    {
+      "id": "p09h4906",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h4904"
+      },
+      "episode": {
+        "id": "p09h4902",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49dt",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49dw",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49f8",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h49f1"
+      },
+      "episode": {
+        "id": "p09h49dx",
+        "title": "James Hanson"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49fy",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h49fq"
+      },
+      "episode": {
+        "id": "p09h49fj",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49h2",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h49gq"
+      },
+      "episode": {
+        "id": "p09h49gb",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j04t2",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j04sz"
+      },
+      "episode": {
+        "id": "p09j04sr",
+        "title": "Jonathan Ray sits in (27/05/2021)"
+      },
+      "brand": {
+        "title": "The Road to Tokyo 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49lw",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h49lb"
+      },
+      "episode": {
+        "id": "p09h49kl",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h49nl",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h49n6"
+      },
+      "episode": {
+        "id": "p09h49mm",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

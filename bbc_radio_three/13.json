@@ -1,0 +1,403 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:33:34.989Z"
+  },
+  "items": [
+    {
+      "id": "p09jv9xn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyn"
+      },
+      "episode": {
+        "id": "m000wyyp",
+        "title": "Wide-Open Space"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jv9xp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wyyq"
+      },
+      "episode": {
+        "id": "m000wyyr",
+        "title": "Beethoven and Schubert from Switzerland"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdq8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x047"
+      },
+      "episode": {
+        "id": "m000x048",
+        "title": "Sunday - Martin Handley"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T06:00:00.000Z",
+        "end": "2021-06-13T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdq9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x049"
+      },
+      "episode": {
+        "id": "m000x04b",
+        "title": "Sarah Walker with an engrossing musical mix"
+      },
+      "brand": {
+        "title": "Sunday Morning"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:00:00.000Z",
+        "end": "2021-06-13T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqb",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0001wxq"
+      },
+      "episode": {
+        "id": "m0001wxr",
+        "title": "Clarke Peters"
+      },
+      "brand": {
+        "title": "Private Passions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T11:00:00.000Z",
+        "end": "2021-06-13T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmp"
+      },
+      "episode": {
+        "id": "m000wsmq",
+        "title": "Sophie Bevan sings Berlioz and Debussy"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:00:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04c"
+      },
+      "episode": {
+        "id": "m000x04d",
+        "title": "The Tallis Scholars"
+      },
+      "brand": {
+        "title": "The Early Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqh",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wss8"
+      },
+      "episode": {
+        "id": "m000wss9",
+        "title": "St George's, Windsor"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T14:00:00.000Z",
+        "end": "2021-06-13T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04f"
+      },
+      "episode": {
+        "id": "m000x04g",
+        "title": "Your Sunday jazz soundtrack"
+      },
+      "brand": {
+        "title": "Jazz Record Requests"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T15:00:00.000Z",
+        "end": "2021-06-13T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04h"
+      },
+      "episode": {
+        "id": "m000x04j",
+        "title": "How to listen to... Gilbert and Sullivan"
+      },
+      "brand": {
+        "title": "The Listening Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:00:00.000Z",
+        "end": "2021-06-13T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdql",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04k"
+      },
+      "episode": {
+        "id": "m000x04l",
+        "title": "Two Tone"
+      },
+      "brand": {
+        "title": "Words and Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:30:00.000Z",
+        "end": "2021-06-13T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7y2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0007r2q"
+      },
+      "episode": {
+        "id": "m0007r2r",
+        "title": "Madame Bertaux"
+      },
+      "brand": {
+        "title": "Between the Ears"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:45:00.000Z",
+        "end": "2021-06-13T18:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04p"
+      },
+      "episode": {
+        "id": "m000x04q",
+        "title": "The Puppet's Gaze"
+      },
+      "brand": {
+        "title": "Sunday Feature"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:15:00.000Z",
+        "end": "2021-06-13T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqq",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04r"
+      },
+      "episode": {
+        "id": "m000x04s",
+        "title": "Inheritors"
+      },
+      "brand": {
+        "title": "Drama on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:30:00.000Z",
+        "end": "2021-06-13T20:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqs",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04t"
+      },
+      "episode": {
+        "id": "m000x04v",
+        "title": "Orff's Carmina Burana"
+      },
+      "brand": {
+        "title": "Record Review Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:05:00.000Z",
+        "end": "2021-06-13T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqt",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000pf0r"
+      },
+      "episode": {
+        "id": "m000pf0s",
+        "title": "I Have Nothing to Say and I Am Saying It"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:00:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdqv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000x04w"
+      },
+      "episode": {
+        "id": "m000x04x",
+        "title": "Jeffrey Boakye"
+      },
+      "brand": {
+        "title": "Classical Fix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-13T23:30:00.000Z"
+      }
+    }
+  ]
+}

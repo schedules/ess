@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_northampton"
+  },
+  "service": {
+    "id": "bbc_radio_northampton",
+    "name": "BBC Radio Northampton",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:36:56.379Z"
+  },
+  "items": [
+    {
+      "id": "p09jk182",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09j7kfp"
+      },
+      "episode": {
+        "id": "p09j7kfj",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1ch",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09j3mgk"
+      },
+      "episode": {
+        "id": "p09j3mgc",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-08T00:00:00.000Z",
+        "end": "2021-06-08T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1cr",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09j75x5"
+      },
+      "episode": {
+        "id": "p09j3mgp",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-08T04:00:00.000Z",
+        "end": "2021-06-08T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1d0",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09jk1cy"
+      },
+      "episode": {
+        "id": "p09jk1cv",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Annabel Amos"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-06-08T05:00:00.000Z",
+        "end": "2021-06-08T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1db",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09jk1d8"
+      },
+      "episode": {
+        "id": "p09jk1d6",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-06-08T09:00:00.000Z",
+        "end": "2021-06-08T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1dp",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09jk1dh"
+      },
+      "episode": {
+        "id": "p09jk1dc",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Helen Blaby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-06-08T13:00:00.000Z",
+        "end": "2021-06-08T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1dz",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09jk1dw"
+      },
+      "episode": {
+        "id": "p09jk1dt",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Tim Wheeler"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-06-08T17:00:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jk1f3",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09j7ksq"
+      },
+      "episode": {
+        "id": "p09j7ksk",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    }
+  ]
+}

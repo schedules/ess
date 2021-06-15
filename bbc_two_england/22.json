@@ -1,0 +1,594 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-22T03:26:24.614Z"
+  },
+  "items": [
+    {
+      "id": "p09gqkns",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b06d6mz8"
+      },
+      "episode": {
+        "id": "b06j49gb",
+        "title": "26/08/2015 - Testament of Youth"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T22:20:00.000Z",
+        "end": "2021-05-22T00:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqknt",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mc1b4"
+      },
+      "episode": {
+        "id": "p08mc15c",
+        "title": "Sometimes a Great Notion"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:20:00.000Z",
+        "end": "2021-05-22T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqknv",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mc1pd"
+      },
+      "episode": {
+        "id": "p08mc1kf",
+        "title": "A Disquiet Follows My Soul"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:10:00.000Z",
+        "end": "2021-05-22T01:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqknx",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w77g"
+      },
+      "episode": {
+        "id": "m000vszb",
+        "title": "Marc and Peter"
+      },
+      "brand": {
+        "title": "Saved by a Stranger"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:50:00.000Z",
+        "end": "2021-05-22T02:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkny",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w77h"
+      },
+      "episode": {
+        "id": "m000vlh5",
+        "title": "Oxford to Abingdon"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T02:50:00.000Z",
+        "end": "2021-05-22T03:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqknz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:20:00.000Z",
+        "end": "2021-05-22T05:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2py",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b07tlrng"
+      },
+      "episode": {
+        "id": "b07tlv4b",
+        "title": "Episode 2 - Underwater Oddities"
+      },
+      "brand": {
+        "title": "Wild & Weird"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:45:00.000Z",
+        "end": "2021-05-22T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2pz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0001yv4"
+      },
+      "episode": {
+        "id": "b0brfhw0",
+        "title": "Episode 1 - Australia Den"
+      },
+      "brand": {
+        "title": "The Dengineers"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:00:00.000Z",
+        "end": "2021-05-22T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q0",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000rxnv"
+      },
+      "episode": {
+        "id": "m000rxnw",
+        "title": "Evie v Alfie"
+      },
+      "brand": {
+        "title": "The Dog Ate My Homework"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:30:00.000Z",
+        "end": "2021-05-22T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q1",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w6w3"
+      },
+      "episode": {
+        "id": "m000w6w4",
+        "title": "David Walliams and a Eurovision Party!"
+      },
+      "brand": {
+        "title": "Blue Peter"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:00:00.000Z",
+        "end": "2021-05-22T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q2",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b04hbyhs"
+      },
+      "episode": {
+        "id": "b04hz4q0",
+        "title": "Episode 11 - Antarctica"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:30:00.000Z",
+        "end": "2021-05-22T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q6",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bn8xsn"
+      },
+      "episode": {
+        "id": "p0276pc3",
+        "title": "Episode 1 - Apeman - Spaceman"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T08:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q7",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b00tkxnx"
+      },
+      "episode": {
+        "id": "b00tky2t",
+        "title": "Episode 1 - Kingdom in the Clouds"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b07n2gwk"
+      },
+      "episode": {
+        "id": "b07n2hmt",
+        "title": "Episode 3 - New Arrivals"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T10:00:00.000Z",
+        "end": "2021-05-22T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2q9",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w750"
+      },
+      "episode": {
+        "id": "m000w751",
+        "title": "The Finals: Starter"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:00:00.000Z",
+        "end": "2021-05-22T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qc",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wfm9"
+      },
+      "episode": {
+        "id": "m000w79z",
+        "title": "The Finals: Fish Course"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qd",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w7bj"
+      },
+      "episode": {
+        "id": "m000w7bl",
+        "title": "The Finals: Main Course"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qg",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08k9wps"
+      },
+      "episode": {
+        "id": "b08k9xbm",
+        "title": "Episode 1 - Puerto Rico: Island of Enchantment"
+      },
+      "brand": {
+        "title": "Natural World"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:00:00.000Z",
+        "end": "2021-05-22T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qh",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w76q"
+      },
+      "episode": {
+        "id": "m000w76s",
+        "title": "The Frozen North"
+      },
+      "brand": {
+        "title": "Our Wild Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:00:00.000Z",
+        "end": "2021-05-22T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qk",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w7b1"
+      },
+      "episode": {
+        "id": "m000w7b3",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "All That Glitters: Britain's Next Jewellery Star"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qm",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0007snr"
+      },
+      "episode": {
+        "id": "m0007snt",
+        "title": "The Octopus in My House"
+      },
+      "brand": {
+        "title": "Natural World"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qp",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b000hkbc"
+      },
+      "episode": {
+        "id": "b0077s8b",
+        "title": "Episode 1 - The Armoured Might of Lance Corporal Jones"
+      },
+      "brand": {
+        "title": "Dad's Army"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:00:00.000Z",
+        "end": "2021-05-22T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qq",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000hy2l"
+      },
+      "episode": {
+        "id": "m000hy2m",
+        "title": "The Guernsey Literary and Potato Peel Pie Society"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:30:00.000Z",
+        "end": "2021-05-22T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qr",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgw7"
+      },
+      "episode": {
+        "id": "m000wgw9",
+        "title": "Arena: African Apocalypse"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T20:30:00.000Z",
+        "end": "2021-05-22T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qs",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000nx4l"
+      },
+      "episode": {
+        "id": "m000nx4m",
+        "title": "Loving"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:00:00.000Z",
+        "end": "2021-05-22T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qx",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b01jvbpn"
+      },
+      "episode": {
+        "id": "b01mnxzd",
+        "title": "02/07/2012 - Margin Call"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:55:00.000Z",
+        "end": "2021-05-23T01:35:00.000Z"
+      }
+    }
+  ]
+}

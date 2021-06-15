@@ -1,0 +1,1234 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:43:45.811Z"
+  },
+  "items": [
+    {
+      "id": "p09j5k9x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m00060x6"
+      },
+      "episode": {
+        "id": "m00060x8",
+        "title": "Nature Documentaries"
+      },
+      "brand": {
+        "title": "Short Cuts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:30:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5k9y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s6449"
+      },
+      "episode": {
+        "id": "b01s647t",
+        "title": "6. Rough Justice"
+      },
+      "brand": {
+        "title": "Detective"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:00:00.000Z",
+        "end": "2021-06-10T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5k9z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b008kmgl"
+      },
+      "episode": {
+        "id": "b008kmgp",
+        "title": "3. Friends"
+      },
+      "brand": {
+        "title": "Falco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:30:00.000Z",
+        "end": "2021-06-10T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b092pgbp"
+      },
+      "episode": {
+        "id": "b092pgx0",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:00:00.000Z",
+        "end": "2021-06-10T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000syml"
+      },
+      "episode": {
+        "id": "m000symm",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:15:00.000Z",
+        "end": "2021-06-10T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01d12lk"
+      },
+      "episode": {
+        "id": "b01d12ny",
+        "title": "The Brontes' Piano"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:30:00.000Z",
+        "end": "2021-06-10T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08pdfhj"
+      },
+      "episode": {
+        "id": "b08pdfj3",
+        "title": "2. Alexander I: Into the Woods"
+      },
+      "brand": {
+        "title": "Tsar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T02:00:00.000Z",
+        "end": "2021-06-10T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0009481"
+      },
+      "episode": {
+        "id": "b007k356",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Whispers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T03:00:00.000Z",
+        "end": "2021-06-10T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00tqq5w"
+      },
+      "episode": {
+        "id": "b00tqqjc",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Snap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T03:30:00.000Z",
+        "end": "2021-06-10T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08k4rtq"
+      },
+      "episode": {
+        "id": "b08k4zw1",
+        "title": "The Auction"
+      },
+      "brand": {
+        "title": "A Trespasser's Guide to the Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T04:00:00.000Z",
+        "end": "2021-06-10T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kb7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08q61q0"
+      },
+      "episode": {
+        "id": "b08q62bx",
+        "title": "Taken at the Flood"
+      },
+      "brand": {
+        "title": "Shush!"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T04:30:00.000Z",
+        "end": "2021-06-10T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s697b"
+      },
+      "episode": {
+        "id": "b01s697j",
+        "title": "7. A Well Planned Job"
+      },
+      "brand": {
+        "title": "Detective"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:00:00.000Z",
+        "end": "2021-06-10T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5l",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b008kty8"
+      },
+      "episode": {
+        "id": "b008ktyq",
+        "title": "4. Party"
+      },
+      "brand": {
+        "title": "Falco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:30:00.000Z",
+        "end": "2021-06-10T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5m",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0543jvl"
+      },
+      "episode": {
+        "id": "b0543k0g",
+        "title": "3. Getting Stuck"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T06:00:00.000Z",
+        "end": "2021-06-10T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wlnq"
+      },
+      "episode": {
+        "id": "m000wlnr",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "John Finnemore's Souvenir Programme"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T06:30:00.000Z",
+        "end": "2021-06-10T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5p",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0113004"
+      },
+      "episode": {
+        "id": "b011301y",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "I'm Sorry, I'll Read That Again"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T07:00:00.000Z",
+        "end": "2021-06-10T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5q",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b1twrt"
+      },
+      "episode": {
+        "id": "b0b1txr3",
+        "title": "All Play and No Work Makes Jill an Unemployment Statistic"
+      },
+      "brand": {
+        "title": "The 27-Year Itch"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T07:30:00.000Z",
+        "end": "2021-06-10T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b001pf2s"
+      },
+      "episode": {
+        "id": "b00766zc",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Who Goes There?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T08:00:00.000Z",
+        "end": "2021-06-10T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wt0k"
+      },
+      "episode": {
+        "id": "b0080q77",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Double Income, No Kids Yet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T08:30:00.000Z",
+        "end": "2021-06-10T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5t",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08q3hq1"
+      },
+      "episode": {
+        "id": "b08q3j6p",
+        "title": "3. Alexander II: The People's Will"
+      },
+      "brand": {
+        "title": "Tsar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T09:00:00.000Z",
+        "end": "2021-06-10T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b05tr0tj"
+      },
+      "episode": {
+        "id": "b05tr0tl",
+        "title": "Michael Ball"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T10:00:00.000Z",
+        "end": "2021-06-10T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5w",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0106x1y"
+      },
+      "episode": {
+        "id": "b0106x58",
+        "title": "Identities"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T10:45:00.000Z",
+        "end": "2021-06-10T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0113004"
+      },
+      "episode": {
+        "id": "b011301y",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "I'm Sorry, I'll Read That Again"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T11:00:00.000Z",
+        "end": "2021-06-10T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b1twrt"
+      },
+      "episode": {
+        "id": "b0b1txr3",
+        "title": "All Play and No Work Makes Jill an Unemployment Statistic"
+      },
+      "brand": {
+        "title": "The 27-Year Itch"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T11:30:00.000Z",
+        "end": "2021-06-10T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f5z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s697b"
+      },
+      "episode": {
+        "id": "b01s697j",
+        "title": "7. A Well Planned Job"
+      },
+      "brand": {
+        "title": "Detective"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T12:00:00.000Z",
+        "end": "2021-06-10T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f60",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b008kty8"
+      },
+      "episode": {
+        "id": "b008ktyq",
+        "title": "4. Party"
+      },
+      "brand": {
+        "title": "Falco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T12:30:00.000Z",
+        "end": "2021-06-10T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f61",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b092r753"
+      },
+      "episode": {
+        "id": "b092r77w",
+        "title": "Episode 4"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T13:00:00.000Z",
+        "end": "2021-06-10T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f62",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000sz82"
+      },
+      "episode": {
+        "id": "m000sz83",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T13:15:00.000Z",
+        "end": "2021-06-10T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f63",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wt0l"
+      },
+      "episode": {
+        "id": "m000wt0m",
+        "title": "Runaway Lives - DH Lawrence and Frieda von Richthofen"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T13:30:00.000Z",
+        "end": "2021-06-10T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f64",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08q3hq1"
+      },
+      "episode": {
+        "id": "b08q3j6p",
+        "title": "3. Alexander II: The People's Will"
+      },
+      "brand": {
+        "title": "Tsar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T14:00:00.000Z",
+        "end": "2021-06-10T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f65",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b001pf2s"
+      },
+      "episode": {
+        "id": "b00766zc",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Who Goes There?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T15:00:00.000Z",
+        "end": "2021-06-10T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f66",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wt0k"
+      },
+      "episode": {
+        "id": "b0080q77",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Double Income, No Kids Yet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T15:30:00.000Z",
+        "end": "2021-06-10T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f67",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0543jvl"
+      },
+      "episode": {
+        "id": "b0543k0g",
+        "title": "3. Getting Stuck"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T16:00:00.000Z",
+        "end": "2021-06-10T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f68",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wlnq"
+      },
+      "episode": {
+        "id": "m000wlnr",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "John Finnemore's Souvenir Programme"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T16:30:00.000Z",
+        "end": "2021-06-10T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f69",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01qylxb"
+      },
+      "episode": {
+        "id": "b01qylzp",
+        "title": "The Liberated Tiger, by R Chetwynd-Hayes"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T17:00:00.000Z",
+        "end": "2021-06-10T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6b",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b085879r"
+      },
+      "episode": {
+        "id": "b08587nx",
+        "title": "Orlando Murrin on Dinu Lipatti"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T17:30:00.000Z",
+        "end": "2021-06-10T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0113004"
+      },
+      "episode": {
+        "id": "b011301y",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "I'm Sorry, I'll Read That Again"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T18:00:00.000Z",
+        "end": "2021-06-10T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6d",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b1twrt"
+      },
+      "episode": {
+        "id": "b0b1txr3",
+        "title": "All Play and No Work Makes Jill an Unemployment Statistic"
+      },
+      "brand": {
+        "title": "The 27-Year Itch"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T18:30:00.000Z",
+        "end": "2021-06-10T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s697b"
+      },
+      "episode": {
+        "id": "b01s697j",
+        "title": "7. A Well Planned Job"
+      },
+      "brand": {
+        "title": "Detective"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T19:00:00.000Z",
+        "end": "2021-06-10T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6g",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b008kty8"
+      },
+      "episode": {
+        "id": "b008ktyq",
+        "title": "4. Party"
+      },
+      "brand": {
+        "title": "Falco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T19:30:00.000Z",
+        "end": "2021-06-10T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6j",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b05tr0tj"
+      },
+      "episode": {
+        "id": "b05tr0tl",
+        "title": "Michael Ball"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T20:00:00.000Z",
+        "end": "2021-06-10T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0106x1y"
+      },
+      "episode": {
+        "id": "b0106x58",
+        "title": "Identities"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T20:45:00.000Z",
+        "end": "2021-06-10T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6l",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wlnq"
+      },
+      "episode": {
+        "id": "m000wlnr",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "John Finnemore's Souvenir Programme"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-10T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6m",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09czt1s"
+      },
+      "episode": {
+        "id": "b09czt2x",
+        "title": "A Nice Time with All the Family"
+      },
+      "brand": {
+        "title": "Little Lifetimes by Jenny Eclair"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:30:00.000Z",
+        "end": "2021-06-10T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00fvwbm"
+      },
+      "episode": {
+        "id": "b00fvwk6",
+        "title": "Kajaboohoo"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:45:00.000Z",
+        "end": "2021-06-10T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6p",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06cqzvg"
+      },
+      "episode": {
+        "id": "b06cqzvm",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "The In Crowd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T22:00:00.000Z",
+        "end": "2021-06-10T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6q",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b007ww8v"
+      },
+      "episode": {
+        "id": "b007wwf1",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Absolute Power"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T22:30:00.000Z",
+        "end": "2021-06-10T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01qylxb"
+      },
+      "episode": {
+        "id": "b01qylzp",
+        "title": "The Liberated Tiger, by R Chetwynd-Hayes"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:00:00.000Z",
+        "end": "2021-06-10T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6t",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b085879r"
+      },
+      "episode": {
+        "id": "b08587nx",
+        "title": "Orlando Murrin on Dinu Lipatti"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:30:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s697b"
+      },
+      "episode": {
+        "id": "b01s697j",
+        "title": "7. A Well Planned Job"
+      },
+      "brand": {
+        "title": "Detective"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6w",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b008kty8"
+      },
+      "episode": {
+        "id": "b008ktyq",
+        "title": "4. Party"
+      },
+      "brand": {
+        "title": "Falco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:30:00.000Z",
+        "end": "2021-06-11T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b092r753"
+      },
+      "episode": {
+        "id": "b092r77w",
+        "title": "Episode 4"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:00:00.000Z",
+        "end": "2021-06-11T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f6z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000sz82"
+      },
+      "episode": {
+        "id": "m000sz83",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:15:00.000Z",
+        "end": "2021-06-11T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6f70",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wt0l"
+      },
+      "episode": {
+        "id": "m000wt0m",
+        "title": "Runaway Lives - DH Lawrence and Frieda von Richthofen"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:30:00.000Z",
+        "end": "2021-06-11T02:00:00.000Z"
+      }
+    }
+  ]
+}

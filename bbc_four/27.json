@@ -1,0 +1,437 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-27T03:33:29.290Z"
+  },
+  "items": [
+    {
+      "id": "p09hc7wh",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rbpg"
+      },
+      "episode": {
+        "id": "p099cq8s",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:00:00.000Z",
+        "end": "2021-05-26T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rd5b"
+      },
+      "episode": {
+        "id": "p099cqkw",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:45:00.000Z",
+        "end": "2021-05-27T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfdh"
+      },
+      "episode": {
+        "id": "m000wfdj",
+        "title": "River’s Peace"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:30:00.000Z",
+        "end": "2021-05-27T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0685bjj"
+      },
+      "episode": {
+        "id": "b0685bp2",
+        "title": "28/08/2015 - The Workers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:00:00.000Z",
+        "end": "2021-05-27T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jrdvx"
+      },
+      "episode": {
+        "id": "b09hzrvg",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:30:00.000Z",
+        "end": "2021-05-27T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wn",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T02:30:00.000Z",
+        "end": "2021-05-27T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc7wp",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:30:00.000Z",
+        "end": "2021-05-27T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4n8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:58:00.000Z",
+        "end": "2021-05-27T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4n9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbp"
+      },
+      "episode": {
+        "id": "b0090cjt",
+        "title": "Episode 8 - The Great British Parakeet Invasion"
+      },
+      "brand": {
+        "title": "Wild"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:00:00.000Z",
+        "end": "2021-05-27T18:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nb",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08bbl1m"
+      },
+      "episode": {
+        "id": "b08bbmyb",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:10:00.000Z",
+        "end": "2021-05-27T18:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbq"
+      },
+      "episode": {
+        "id": "m000wfbr",
+        "title": "Wintertime Discovery"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:40:00.000Z",
+        "end": "2021-05-27T19:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbs"
+      },
+      "episode": {
+        "id": "p031d2qd",
+        "title": "Breath of Life"
+      },
+      "brand": {
+        "title": "All Creatures Great and Small"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T19:10:00.000Z",
+        "end": "2021-05-27T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4ng",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbt"
+      },
+      "episode": {
+        "id": "b00dvqpy",
+        "title": "17/06/2007 - Masked and Anonymous"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-27T20:00:00.000Z",
+        "end": "2021-05-27T21:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nh",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01174fg"
+      },
+      "episode": {
+        "id": "b01174k6",
+        "title": "20/05/2011 - Tangled Up with Dylan: The Ballad of AJ Weberman"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:40:00.000Z",
+        "end": "2021-05-27T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0003g0p"
+      },
+      "episode": {
+        "id": "m0003g0r",
+        "title": "Me, My Selfie and I with Ryan Gander"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04fmg50"
+      },
+      "episode": {
+        "id": "b04fmg8g",
+        "title": "Episode 3 - Rembrandt and Ruysch"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbq"
+      },
+      "episode": {
+        "id": "m000wfbr",
+        "title": "Wintertime Discovery"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:30:00.000Z",
+        "end": "2021-05-28T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nn",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08bbl1m"
+      },
+      "episode": {
+        "id": "b08bbmyb",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:00:00.000Z",
+        "end": "2021-05-28T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4np",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbv"
+      },
+      "episode": {
+        "id": "m000wfbw",
+        "title": "Medical Drugs"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:30:00.000Z",
+        "end": "2021-05-28T02:25:00.000Z"
+      }
+    }
+  ]
+}

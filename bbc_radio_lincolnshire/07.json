@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_lincolnshire"
+  },
+  "service": {
+    "id": "bbc_radio_lincolnshire",
+    "name": "BBC Radio Lincolnshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-07T03:47:19.932Z"
+  },
+  "items": [
+    {
+      "id": "p09jh2m7",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09j8gfw"
+      },
+      "episode": {
+        "id": "p09j8gfl",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Summaya Mughal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2gl",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09j3l9t"
+      },
+      "episode": {
+        "id": "p09j3l9q",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-07T00:00:00.000Z",
+        "end": "2021-06-07T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2gn",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09j7596"
+      },
+      "episode": {
+        "id": "p09j3l9y",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-07T04:00:00.000Z",
+        "end": "2021-06-07T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2h6",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09jh2h0"
+      },
+      "episode": {
+        "id": "p09jh2gt",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Sean Dunderdale"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T05:00:00.000Z",
+        "end": "2021-06-07T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2jb",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09jh2j1"
+      },
+      "episode": {
+        "id": "p09jh2hj",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Carla Greene"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T09:00:00.000Z",
+        "end": "2021-06-07T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2kh",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09jh2kb"
+      },
+      "episode": {
+        "id": "p09jh2jw",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Melvyn Prior"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T13:00:00.000Z",
+        "end": "2021-06-07T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn916",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09jn912"
+      },
+      "episode": {
+        "id": "p09jn90z",
+        "title": "George Smith sits in (07/06/2021)"
+      },
+      "brand": {
+        "title": "Laurie Dyche"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T17:00:00.000Z",
+        "end": "2021-06-07T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jh2kq",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09jg89m"
+      },
+      "episode": {
+        "id": "p09jg89k",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    }
+  ]
+}

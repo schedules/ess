@@ -1,0 +1,374 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:21:04.789Z"
+  },
+  "items": [
+    {
+      "id": "p09hjtrx",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wjkc"
+      },
+      "episode": {
+        "id": "m000wjkd",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-31T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjtry",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wjkf"
+      },
+      "episode": {
+        "id": "m000wjkg",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "John Hardy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:30:00.000Z",
+        "end": "2021-05-31T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr58",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj8g"
+      },
+      "episode": {
+        "id": "m000wj8j",
+        "title": "Caryl ac Alun"
+      },
+      "brand": {
+        "title": "Sioe Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru_2"
+      },
+      "published_time": {
+        "start": "2021-05-31T06:00:00.000Z",
+        "end": "2021-05-31T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5c",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj8l"
+      },
+      "episode": {
+        "id": "m000wj8n",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T07:00:00.000Z",
+        "end": "2021-05-31T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht493",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm84"
+      },
+      "episode": {
+        "id": "m000wm85",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Shelley a Rhydian"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:00:00.000Z",
+        "end": "2021-05-31T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5f",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj8q"
+      },
+      "episode": {
+        "id": "m000wj8s",
+        "title": "Bwrdd Crwn"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:00:00.000Z",
+        "end": "2021-05-31T11:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5h",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "b0916q2j"
+      },
+      "episode": {
+        "id": "b0916rnf",
+        "title": "Pêl"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:50:00.000Z",
+        "end": "2021-05-31T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5j",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj8v"
+      },
+      "episode": {
+        "id": "m000wj8x",
+        "title": "Y Bachwr Swynol"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:00:00.000Z",
+        "end": "2021-05-31T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5m",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj8z"
+      },
+      "episode": {
+        "id": "m000wj91",
+        "title": "Bethan, Osian ac Angela"
+      },
+      "brand": {
+        "title": "Fy Stori I"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:30:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5p",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj94"
+      },
+      "episode": {
+        "id": "m000wj97",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Eisteddfod T"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5q",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj9b"
+      },
+      "episode": {
+        "id": "m000wj9f",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Post Prynhawn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:00:00.000Z",
+        "end": "2021-05-31T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5r",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj9h"
+      },
+      "episode": {
+        "id": "m000wj9k",
+        "title": "Dai Davies"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:30:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5v",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj9m"
+      },
+      "episode": {
+        "id": "m000wj9p",
+        "title": "Llaeth, llefrith a mwy o laeth!"
+      },
+      "brand": {
+        "title": "Troi'r Tir"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5x",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj9r"
+      },
+      "episode": {
+        "id": "m000wj9s",
+        "title": "Y Diliau"
+      },
+      "brand": {
+        "title": "Recordiau Rhys Mwyn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:30:00.000Z",
+        "end": "2021-05-31T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr5y",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj9t"
+      },
+      "episode": {
+        "id": "m000wj9v",
+        "title": "The Lark Ascending, Raymond Williams, Ivor Novello a 'Cats' yn 40"
+      },
+      "brand": {
+        "title": "Stiwdio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T20:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr60",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wj9w"
+      },
+      "episode": {
+        "id": "m000wj9x",
+        "title": "Garddio hefo'r plant"
+      },
+      "brand": {
+        "title": "Geraint Lloyd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-05-31T23:00:00.000Z"
+      }
+    }
+  ]
+}

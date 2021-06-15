@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_derby"
+  },
+  "service": {
+    "id": "bbc_radio_derby",
+    "name": "BBC Radio Derby",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:25:19.969Z"
+  },
+  "items": [
+    {
+      "id": "p09gknvz",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09gknvt"
+      },
+      "episode": {
+        "id": "p09gknvm",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Summaya Mughal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp69",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09g40m8"
+      },
+      "episode": {
+        "id": "p09g40m4",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp6n",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09g4cvg"
+      },
+      "episode": {
+        "id": "p09g40mm",
+        "title": "Claira Hermet sits in (17/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:00:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp74",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09gkp6z"
+      },
+      "episode": {
+        "id": "p09gkp6r",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Derby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp7n",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09gkp7j"
+      },
+      "episode": {
+        "id": "p09gkp7d",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Daytime on BBC Radio Derby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp7y",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09gkp7v"
+      },
+      "episode": {
+        "id": "p09gkp7s",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Derby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hbv2x",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hbv2s"
+      },
+      "episode": {
+        "id": "p09hbv2p",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Sportscene At Six"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp84",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09gkp82"
+      },
+      "episode": {
+        "id": "p09gkp80",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Derby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:00:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gkp88",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09gkj0x"
+      },
+      "episode": {
+        "id": "p09gkj0j",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    }
+  ]
+}

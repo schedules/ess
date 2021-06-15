@@ -1,0 +1,1193 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:27:26.418Z"
+  },
+  "items": [
+    {
+      "id": "p09gwb8x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00279np"
+      },
+      "episode": {
+        "id": "b007jnpy",
+        "title": "2. Gifting"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:00:00.000Z",
+        "end": "2021-05-25T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb8y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005k4rn"
+      },
+      "episode": {
+        "id": "b0076mh5",
+        "title": "Like a Rolling Stone"
+      },
+      "brand": {
+        "title": "Soul Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:30:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb8z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vj21"
+      },
+      "episode": {
+        "id": "b007jvmh",
+        "title": "1. Armistice Night"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb90",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006k39"
+      },
+      "episode": {
+        "id": "b0b51vyr",
+        "title": "2. The Voice"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:30:00.000Z",
+        "end": "2021-05-26T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb91",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08dnryq"
+      },
+      "episode": {
+        "id": "b08dnrz2",
+        "title": "Episode 7"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:00:00.000Z",
+        "end": "2021-05-26T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb92",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005f0c"
+      },
+      "episode": {
+        "id": "m0005f0d",
+        "title": "Episode 7: Sigrid"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:15:00.000Z",
+        "end": "2021-05-26T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb93",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b017cg6y"
+      },
+      "episode": {
+        "id": "b017chpt",
+        "title": "Mastering the Art of the Kimono"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T01:30:00.000Z",
+        "end": "2021-05-26T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb94",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006dnh4"
+      },
+      "episode": {
+        "id": "b007jx2n",
+        "title": "I am Also Alexander"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T02:00:00.000Z",
+        "end": "2021-05-26T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb95",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b04ws3l2"
+      },
+      "episode": {
+        "id": "b04ws4hy",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "The Rest is History"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T03:00:00.000Z",
+        "end": "2021-05-26T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb96",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005c877"
+      },
+      "episode": {
+        "id": "b007jqmy",
+        "title": "April - All Hands to the Pump"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T03:30:00.000Z",
+        "end": "2021-05-26T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb97",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b010y04z"
+      },
+      "episode": {
+        "id": "b010y0sh",
+        "title": "Life in the UK"
+      },
+      "brand": {
+        "title": "Beauty of Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:00:00.000Z",
+        "end": "2021-05-26T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwb98",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w4sz"
+      },
+      "episode": {
+        "id": "m000w4t0",
+        "title": "America As It Is Now"
+      },
+      "brand": {
+        "title": "Alex Edelman's Peer Group"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:30:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgzm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vj5x"
+      },
+      "episode": {
+        "id": "b007jvmm",
+        "title": "2. The General's Last Evening"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgzq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006m03"
+      },
+      "episode": {
+        "id": "b0b51vyt",
+        "title": "3. The Ally"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:30:00.000Z",
+        "end": "2021-05-26T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgzs",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08hqdqs"
+      },
+      "episode": {
+        "id": "b08hqf5w",
+        "title": "The Nose"
+      },
+      "brand": {
+        "title": "A Trespasser's Guide to the Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T06:00:00.000Z",
+        "end": "2021-05-26T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgzv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08nq9m8"
+      },
+      "episode": {
+        "id": "b08nq9wk",
+        "title": "Dewey Decimal"
+      },
+      "brand": {
+        "title": "Shush!"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T06:30:00.000Z",
+        "end": "2021-05-26T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgzw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006nj4x"
+      },
+      "episode": {
+        "id": "b007jzg0",
+        "title": "The Monte Carlo Rally"
+      },
+      "brand": {
+        "title": "Hancock's Half Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T07:00:00.000Z",
+        "end": "2021-05-26T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgzx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0025d7f"
+      },
+      "episode": {
+        "id": "b007jmvz",
+        "title": "Bed and Breakfast"
+      },
+      "brand": {
+        "title": "No Commitments"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T07:30:00.000Z",
+        "end": "2021-05-26T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh00",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00b0hmb"
+      },
+      "episode": {
+        "id": "b00b0hml",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Whispers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:00:00.000Z",
+        "end": "2021-05-26T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7mtf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005g4x8"
+      },
+      "episode": {
+        "id": "b007jrrq",
+        "title": "A Good Cause"
+      },
+      "brand": {
+        "title": "Smelling of Roses"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:30:00.000Z",
+        "end": "2021-05-26T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh02",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006dxz5"
+      },
+      "episode": {
+        "id": "b007jx30",
+        "title": "Preparation of the Sacrifice"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T09:00:00.000Z",
+        "end": "2021-05-26T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh03",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wcjj"
+      },
+      "episode": {
+        "id": "m000wcjk",
+        "title": "2. Dusty Springfield, Spinal Tap, Beyoncé, Diana Ross & André 3000"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T10:00:00.000Z",
+        "end": "2021-05-26T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh06",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006nj4x"
+      },
+      "episode": {
+        "id": "b007jzg0",
+        "title": "The Monte Carlo Rally"
+      },
+      "brand": {
+        "title": "Hancock's Half Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T11:00:00.000Z",
+        "end": "2021-05-26T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh09",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0025d7f"
+      },
+      "episode": {
+        "id": "b007jmvz",
+        "title": "Bed and Breakfast"
+      },
+      "brand": {
+        "title": "No Commitments"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T11:30:00.000Z",
+        "end": "2021-05-26T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0b",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vj5x"
+      },
+      "episode": {
+        "id": "b007jvmm",
+        "title": "2. The General's Last Evening"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T12:00:00.000Z",
+        "end": "2021-05-26T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006m03"
+      },
+      "episode": {
+        "id": "b0b51vyt",
+        "title": "3. The Ally"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T12:30:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08dnwlp"
+      },
+      "episode": {
+        "id": "b08dnws0",
+        "title": "Episode 8"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0h",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005f41"
+      },
+      "episode": {
+        "id": "m0005f44",
+        "title": "Episode 8: Gudrun"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:15:00.000Z",
+        "end": "2021-05-26T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b047wnhx"
+      },
+      "episode": {
+        "id": "b047wnyp",
+        "title": "Charting the Border"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:30:00.000Z",
+        "end": "2021-05-26T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0m",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006dxz5"
+      },
+      "episode": {
+        "id": "b007jx30",
+        "title": "Preparation of the Sacrifice"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T14:00:00.000Z",
+        "end": "2021-05-26T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00b0hmb"
+      },
+      "episode": {
+        "id": "b00b0hml",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Whispers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T15:00:00.000Z",
+        "end": "2021-05-26T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7mth",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005g4x8"
+      },
+      "episode": {
+        "id": "b007jrrq",
+        "title": "A Good Cause"
+      },
+      "brand": {
+        "title": "Smelling of Roses"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T15:30:00.000Z",
+        "end": "2021-05-26T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0q",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08hqdqs"
+      },
+      "episode": {
+        "id": "b08hqf5w",
+        "title": "The Nose"
+      },
+      "brand": {
+        "title": "A Trespasser's Guide to the Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:00:00.000Z",
+        "end": "2021-05-26T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08nq9m8"
+      },
+      "episode": {
+        "id": "b08nq9wk",
+        "title": "Dewey Decimal"
+      },
+      "brand": {
+        "title": "Shush!"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:30:00.000Z",
+        "end": "2021-05-26T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0t",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0027kgn"
+      },
+      "episode": {
+        "id": "b007jnt5",
+        "title": "3. Anyone for Tennis?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:00:00.000Z",
+        "end": "2021-05-26T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh0w",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005mtt"
+      },
+      "episode": {
+        "id": "m0005mtw",
+        "title": "Mirror Image"
+      },
+      "brand": {
+        "title": "Short Cuts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:30:00.000Z",
+        "end": "2021-05-26T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh10",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006nj4x"
+      },
+      "episode": {
+        "id": "b007jzg0",
+        "title": "The Monte Carlo Rally"
+      },
+      "brand": {
+        "title": "Hancock's Half Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:00:00.000Z",
+        "end": "2021-05-26T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh11",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0025d7f"
+      },
+      "episode": {
+        "id": "b007jmvz",
+        "title": "Bed and Breakfast"
+      },
+      "brand": {
+        "title": "No Commitments"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:30:00.000Z",
+        "end": "2021-05-26T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh12",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vj5x"
+      },
+      "episode": {
+        "id": "b007jvmm",
+        "title": "2. The General's Last Evening"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T19:00:00.000Z",
+        "end": "2021-05-26T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh14",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006m03"
+      },
+      "episode": {
+        "id": "b0b51vyt",
+        "title": "3. The Ally"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T19:30:00.000Z",
+        "end": "2021-05-26T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh16",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wcjj"
+      },
+      "episode": {
+        "id": "m000wcjk",
+        "title": "2. Dusty Springfield, Spinal Tap, Beyoncé, Diana Ross & André 3000"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T20:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh18",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08nq9m8"
+      },
+      "episode": {
+        "id": "b08nq9wk",
+        "title": "Dewey Decimal"
+      },
+      "brand": {
+        "title": "Shush!"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-26T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh19",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00nyy5p"
+      },
+      "episode": {
+        "id": "b00nyy8s",
+        "title": "An Evil Life Sort of Explained"
+      },
+      "brand": {
+        "title": "Bleak Expectations"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:30:00.000Z",
+        "end": "2021-05-26T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b007r09v"
+      },
+      "episode": {
+        "id": "b007r0c7",
+        "title": "Lending Things"
+      },
+      "brand": {
+        "title": "The Problem With Adam Bloom"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:00:00.000Z",
+        "end": "2021-05-26T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1d",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01bm0ns"
+      },
+      "episode": {
+        "id": "b01bm0q4",
+        "title": "China"
+      },
+      "brand": {
+        "title": "Tina C"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:15:00.000Z",
+        "end": "2021-05-26T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01dlg0h"
+      },
+      "episode": {
+        "id": "b01dlg0k",
+        "title": "Ladies and Gentlemen"
+      },
+      "brand": {
+        "title": "Vent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:30:00.000Z",
+        "end": "2021-05-26T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1j",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0027kgn"
+      },
+      "episode": {
+        "id": "b007jnt5",
+        "title": "3. Anyone for Tennis?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:00:00.000Z",
+        "end": "2021-05-26T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005mtt"
+      },
+      "episode": {
+        "id": "m0005mtw",
+        "title": "Mirror Image"
+      },
+      "brand": {
+        "title": "Short Cuts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:30:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1m",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vj5x"
+      },
+      "episode": {
+        "id": "b007jvmm",
+        "title": "2. The General's Last Evening"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1p",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006m03"
+      },
+      "episode": {
+        "id": "b0b51vyt",
+        "title": "3. The Ally"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:30:00.000Z",
+        "end": "2021-05-27T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08dnwlp"
+      },
+      "episode": {
+        "id": "b08dnws0",
+        "title": "Episode 8"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:00:00.000Z",
+        "end": "2021-05-27T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1w",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005f41"
+      },
+      "episode": {
+        "id": "m0005f44",
+        "title": "Episode 8: Gudrun"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:15:00.000Z",
+        "end": "2021-05-27T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwh1y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b047wnhx"
+      },
+      "episode": {
+        "id": "b047wnyp",
+        "title": "Charting the Border"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:30:00.000Z",
+        "end": "2021-05-27T02:00:00.000Z"
+      }
+    }
+  ]
+}

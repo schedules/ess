@@ -1,0 +1,552 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-12T03:48:08.922Z"
+  },
+  "items": [
+    {
+      "id": "p09jp98h",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000qrz2"
+      },
+      "episode": {
+        "id": "m000qrz4",
+        "title": "Phantom Thread"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:20:00.000Z",
+        "end": "2021-06-12T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp98l",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mcd8z"
+      },
+      "episode": {
+        "id": "p08mcd7d",
+        "title": "Someone to Watch Over Me"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:25:00.000Z",
+        "end": "2021-06-12T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp98m",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mcds4"
+      },
+      "episode": {
+        "id": "p08mcdpn",
+        "title": "Islanded in a Stream of Stars"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:05:00.000Z",
+        "end": "2021-06-12T01:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp98q",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000ww5c"
+      },
+      "episode": {
+        "id": "m000vl4b",
+        "title": "Frozen Food"
+      },
+      "brand": {
+        "title": "Dom Digs In"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:50:00.000Z",
+        "end": "2021-06-12T02:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp98s",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:35:00.000Z",
+        "end": "2021-06-12T05:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc160",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bs2twb"
+      },
+      "episode": {
+        "id": "b0bs2wdv",
+        "title": "Episode 4 - Sweetie Den"
+      },
+      "brand": {
+        "title": "The Dengineers"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:15:00.000Z",
+        "end": "2021-06-12T05:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc162",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000slcb"
+      },
+      "episode": {
+        "id": "m000slcc",
+        "title": "Libby v Emerson"
+      },
+      "brand": {
+        "title": "The Dog Ate My Homework"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:45:00.000Z",
+        "end": "2021-06-12T06:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc164",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wx7n"
+      },
+      "episode": {
+        "id": "m000wx7p",
+        "title": "2021 Sport Badge Revealed!"
+      },
+      "brand": {
+        "title": "Blue Peter"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:15:00.000Z",
+        "end": "2021-06-12T06:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc167",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0b7hwt0"
+      },
+      "episode": {
+        "id": "b0b7hx6m",
+        "title": "Episode 2 - Deadly Defenders"
+      },
+      "brand": {
+        "title": "Deadly Dinosaurs with Steve Backshall"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:45:00.000Z",
+        "end": "2021-06-12T07:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc169",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b04mj7dd"
+      },
+      "episode": {
+        "id": "p0276pxp",
+        "title": "Episode 3 - Are We Alone?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:15:00.000Z",
+        "end": "2021-06-12T08:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16b",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b00tqnfd"
+      },
+      "episode": {
+        "id": "b00tqnwh",
+        "title": "Episode 3 - Safe in Our Hands"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T08:15:00.000Z",
+        "end": "2021-06-12T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sx",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b09j362m"
+      },
+      "episode": {
+        "id": "b09hcj4t",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Mary Berry's Country House Secrets"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:15:00.000Z",
+        "end": "2021-06-12T10:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16d",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000ww4m"
+      },
+      "episode": {
+        "id": "m000ww4q",
+        "title": "Episode 12"
+      },
+      "brand": {
+        "title": "Springwatch"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:15:00.000Z",
+        "end": "2021-06-12T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16g",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvxf"
+      },
+      "episode": {
+        "id": "m000wvxh",
+        "title": "Rainforests"
+      },
+      "brand": {
+        "title": "Our Wild Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:15:00.000Z",
+        "end": "2021-06-12T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16k",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0007f76"
+      },
+      "episode": {
+        "id": "b00ggpzy",
+        "title": "10/04/1998 - Oklahoma!"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:15:00.000Z",
+        "end": "2021-06-12T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16n",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2pz"
+      },
+      "episode": {
+        "id": "m000x2q2",
+        "title": "Marvellous Musicals"
+      },
+      "brand": {
+        "title": "Talking Pictures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:30:00.000Z",
+        "end": "2021-06-12T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16r",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvlb"
+      },
+      "episode": {
+        "id": "m000wvlc",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:15:00.000Z",
+        "end": "2021-06-12T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16v",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2q5"
+      },
+      "episode": {
+        "id": "m000frgx",
+        "title": "Episode 31"
+      },
+      "brand": {
+        "title": "Flog It!"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:15:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16x",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnk2"
+      },
+      "episode": {
+        "id": "m000wnk3",
+        "title": "Aliens: Are We Alone?"
+      },
+      "brand": {
+        "title": "Brian Cox's Adventures in Space and Time"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc16z",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2q9"
+      },
+      "episode": {
+        "id": "m000x2qd",
+        "title": "Second Test: Day Three Highlights"
+      },
+      "brand": {
+        "title": "Cricket: Today at the Test"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc171",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qh"
+      },
+      "episode": {
+        "id": "m000x2ql",
+        "title": "Highlights 2021"
+      },
+      "brand": {
+        "title": "Trooping the Colour"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc174",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qn"
+      },
+      "episode": {
+        "id": "m000x2qq",
+        "title": "Phil Collins at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc178",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qs"
+      },
+      "episode": {
+        "id": "b00lx3ps",
+        "title": "11/05/1998 - Buster"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-12T22:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc17b",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bjg001"
+      },
+      "episode": {
+        "id": "b00lvg70",
+        "title": "17/12/2006 - Kinky Boots"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:40:00.000Z",
+        "end": "2021-06-13T00:20:00.000Z"
+      }
+    }
+  ]
+}

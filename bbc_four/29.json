@@ -1,0 +1,351 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-29T03:20:43.272Z"
+  },
+  "items": [
+    {
+      "id": "p09hc5v7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08r828d"
+      },
+      "episode": {
+        "id": "b016300t",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Singer-Songwriters at the BBC"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5v8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b06nszgm"
+      },
+      "episode": {
+        "id": "b06nszhz",
+        "title": "06/11/2015 - ... Sings Dylan II"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5vc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0007vzd"
+      },
+      "episode": {
+        "id": "m0007tvf",
+        "title": "Don't Look Back"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:00:00.000Z",
+        "end": "2021-05-29T02:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5vf",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:35:00.000Z",
+        "end": "2021-05-29T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5vg",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:30:00.000Z",
+        "end": "2021-05-29T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h0t",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:58:00.000Z",
+        "end": "2021-05-29T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h0w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00kps6d"
+      },
+      "episode": {
+        "id": "b00kps7h",
+        "title": "Episode 1 - A New Civilisation"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h10",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0081khd"
+      },
+      "episode": {
+        "id": "b0081kj7",
+        "title": "Episode 4 - Danube to Dnieper"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h11",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rdw4"
+      },
+      "episode": {
+        "id": "p099cqzr",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T20:00:00.000Z",
+        "end": "2021-05-29T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h12",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rfnx"
+      },
+      "episode": {
+        "id": "p099crv1",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T20:45:00.000Z",
+        "end": "2021-05-29T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h13",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0000gv6"
+      },
+      "episode": {
+        "id": "b0074tdz",
+        "title": "26/12/2000 - Return to the Circus"
+      },
+      "brand": {
+        "title": "Tinker Tailor Soldier Spy"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:30:00.000Z",
+        "end": "2021-05-29T22:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h15",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b006ylbc"
+      },
+      "episode": {
+        "id": "b0074tg0",
+        "title": "26/02/2007 - Tarr Tells His Story"
+      },
+      "brand": {
+        "title": "Tinker Tailor Soldier Spy"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:20:00.000Z",
+        "end": "2021-05-29T23:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h17",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00z8tz4"
+      },
+      "episode": {
+        "id": "b00z8v1d",
+        "title": "Episode 14 - Episode 14"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:10:00.000Z",
+        "end": "2021-05-30T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h1b",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00zhcbv"
+      },
+      "episode": {
+        "id": "b00zhcf2",
+        "title": "Episode 15 - Episode 15"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:10:00.000Z",
+        "end": "2021-05-30T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h1d",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00zhcc3"
+      },
+      "episode": {
+        "id": "b00zhcf4",
+        "title": "Episode 16 - Episode 16"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:10:00.000Z",
+        "end": "2021-05-30T02:10:00.000Z"
+      }
+    }
+  ]
+}

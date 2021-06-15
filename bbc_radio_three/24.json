@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:20:34.548Z"
+  },
+  "items": [
+    {
+      "id": "p09gvr5h",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xt"
+      },
+      "episode": {
+        "id": "m000w9xv",
+        "title": "Part 11: Andrea Baker"
+      },
+      "brand": {
+        "title": "Sounds Connected"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-23T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr5k",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xw"
+      },
+      "episode": {
+        "id": "m000w9xx",
+        "title": "A Celebration of Bulgarian Culture and the Cyrillic Alphabet"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:30:00.000Z",
+        "end": "2021-05-24T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwq6",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb7x"
+      },
+      "episode": {
+        "id": "m000wb7z",
+        "title": "Monday - Petroc's classical commute"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:30:00.000Z",
+        "end": "2021-05-24T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwq7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb81"
+      },
+      "episode": {
+        "id": "m000wb83",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T08:00:00.000Z",
+        "end": "2021-05-24T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwq9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000bdwz"
+      },
+      "episode": {
+        "id": "m000bdx0",
+        "title": "The Little Piano Girl of East Liberty"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T11:00:00.000Z",
+        "end": "2021-05-24T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqb",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb85"
+      },
+      "episode": {
+        "id": "m000wb87",
+        "title": "Lara Melda plays Chopin and Rachmaninov"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T12:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb89"
+      },
+      "episode": {
+        "id": "m000wb8c",
+        "title": "BBC National Orchestra of Wales (1/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8d"
+      },
+      "episode": {
+        "id": "m000wb8f",
+        "title": "Rachel Podger plays Vivaldi"
+      },
+      "brand": {
+        "title": "Early Music Now"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T15:30:00.000Z",
+        "end": "2021-05-24T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8g"
+      },
+      "episode": {
+        "id": "m000wb8h",
+        "title": "Marian Consort, Tine Thing Helseth"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:00:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8j"
+      },
+      "episode": {
+        "id": "m000wb8k",
+        "title": "Take 30 minutes out with a relaxing classical mix"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8l"
+      },
+      "episode": {
+        "id": "m000wb8m",
+        "title": "George Enescu Philharmonic Orchestra"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:30:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwql",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8n"
+      },
+      "episode": {
+        "id": "m000wb8p",
+        "title": "Breaking rules, making new forms..."
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-24T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8q"
+      },
+      "episode": {
+        "id": "m000wb8r",
+        "title": "Hans Coper"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:45:00.000Z",
+        "end": "2021-05-24T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwqn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wb8t"
+      },
+      "episode": {
+        "id": "m000wb8v",
+        "title": "Music for midnight"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-24T22:00:00.000Z",
+        "end": "2021-05-24T23:30:00.000Z"
+      }
+    }
+  ]
+}

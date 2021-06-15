@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_shropshire"
+  },
+  "service": {
+    "id": "bbc_radio_shropshire",
+    "name": "BBC Radio Shropshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:39:17.313Z"
+  },
+  "items": [
+    {
+      "id": "p09hx0z3",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hsr9v"
+      },
+      "episode": {
+        "id": "p09hsr9r",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0nl",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0nt",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hgdjc"
+      },
+      "episode": {
+        "id": "p09hgdj6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0pd",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hx0p8"
+      },
+      "episode": {
+        "id": "p09hx0p1",
+        "title": "Ryan Kennedy - 30/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0q8",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hx0q2"
+      },
+      "episode": {
+        "id": "p09hx0pp",
+        "title": "Paul Shuttleworth - 30/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0qx",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hx0qs"
+      },
+      "episode": {
+        "id": "p09hx0qq",
+        "title": "Michaela Wylde - 30/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0rh",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hx0rc"
+      },
+      "episode": {
+        "id": "p09hx0r4",
+        "title": "Andrew Marston and Genevieve Tudor (30/05/2021)"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Shropshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx0ry",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09hsrqq"
+      },
+      "episode": {
+        "id": "p09hsrqn",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

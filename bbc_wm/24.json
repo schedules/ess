@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:33:22.550Z"
+  },
+  "items": [
+    {
+      "id": "p09h8jp4",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4k8l"
+      },
+      "episode": {
+        "id": "p09h4k8g",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qd4",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qd8",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qdn",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qdh"
+      },
+      "episode": {
+        "id": "p09h8qdd",
+        "title": "Elise Evans sits in (24/05/2021)"
+      },
+      "brand": {
+        "title": "Daz Hale"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qdy",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qdw"
+      },
+      "episode": {
+        "id": "p09h8qdt",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Caroline Martin"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qf8",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qf3"
+      },
+      "episode": {
+        "id": "p09h8qf0",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Paul Franks"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qfp",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qfj"
+      },
+      "episode": {
+        "id": "p09h8qfd",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "The West Midlands Football Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qg8",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qg1"
+      },
+      "episode": {
+        "id": "p09h8qft",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qg9",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4kxs"
+      },
+      "episode": {
+        "id": "p09h4kxm",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

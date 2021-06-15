@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_kent"
+  },
+  "service": {
+    "id": "bbc_radio_kent",
+    "name": "BBC Radio Kent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:33:10.928Z"
+  },
+  "items": [
+    {
+      "id": "p09htb5q",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hl2cc"
+      },
+      "episode": {
+        "id": "p09hl2c5",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbhp",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbht",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09gxkyh"
+      },
+      "episode": {
+        "id": "p09gxkyc",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbj1",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbhz"
+      },
+      "episode": {
+        "id": "p09htbhw",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbjn",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbjh"
+      },
+      "episode": {
+        "id": "p09htbj9",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbk3",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09htbk0"
+      },
+      "episode": {
+        "id": "p09htbjv",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Kent"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_kent"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbkn",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09ht170"
+      },
+      "episode": {
+        "id": "p09ht16m",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Ray Clark"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbkx",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09ht17p"
+      },
+      "episode": {
+        "id": "p09ht17f",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Mark Punter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htbl4",
+      "service": {
+        "id": "bbc_radio_kent"
+      },
+      "version": {
+        "id": "p09hl2lz"
+      },
+      "episode": {
+        "id": "p09hl2lv",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Harmony Night"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

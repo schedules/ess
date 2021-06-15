@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leeds"
+  },
+  "service": {
+    "id": "bbc_radio_leeds",
+    "name": "BBC Radio Leeds",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:34:20.169Z"
+  },
+  "items": [
+    {
+      "id": "p09jgkg4",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jg8lf"
+      },
+      "episode": {
+        "id": "p09jg8lc",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkgj",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09j3n7d"
+      },
+      "episode": {
+        "id": "p09j3n76",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkgs",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09j767j"
+      },
+      "episode": {
+        "id": "p09j3n7t",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkh7",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jgkh2"
+      },
+      "episode": {
+        "id": "p09jgkgx",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Richard Stead Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkhp",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jgkhh"
+      },
+      "episode": {
+        "id": "p09jgkhc",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Gayle Lofthouse"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkj8",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jgkj3"
+      },
+      "episode": {
+        "id": "p09jgkhw",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Rima Ahmed"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkjr",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jgkjn"
+      },
+      "episode": {
+        "id": "p09jgkjg",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "West Yorkshire Sport Daily"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkk8",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jgkjz"
+      },
+      "episode": {
+        "id": "p09jgkjs",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sanchez Payne"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jgkkv",
+      "service": {
+        "id": "bbc_radio_leeds"
+      },
+      "version": {
+        "id": "p09jg98k"
+      },
+      "episode": {
+        "id": "p09jg98g",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    }
+  ]
+}

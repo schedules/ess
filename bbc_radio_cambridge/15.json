@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cambridge"
+  },
+  "service": {
+    "id": "bbc_radio_cambridge",
+    "name": "BBC Radio Cambridgeshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:37:26.278Z"
+  },
+  "items": [
+    {
+      "id": "p09jx68m",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jx688"
+      },
+      "episode": {
+        "id": "p09jx681",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8gw",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jry0h"
+      },
+      "episode": {
+        "id": "p09jry09",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8hk",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jsb98"
+      },
+      "episode": {
+        "id": "p09jry0q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8jx",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jx8jg"
+      },
+      "episode": {
+        "id": "p09jx8hw",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotty McLeod"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8l8",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jx8kv"
+      },
+      "episode": {
+        "id": "p09jx8kf",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jeremy Sallis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8m4",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jx8lx"
+      },
+      "episode": {
+        "id": "p09jx8lh",
+        "title": "Ben Stevenson sits in (15/06/2021)"
+      },
+      "brand": {
+        "title": "Chris Mann"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8n7",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jx8mw"
+      },
+      "episode": {
+        "id": "p09jx8mh",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Thordis Fridriksson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx8pk",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09jx8ny"
+      },
+      "episode": {
+        "id": "p09jx8nt",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_gloucestershire"
+  },
+  "service": {
+    "id": "bbc_radio_gloucestershire",
+    "name": "BBC Radio Gloucestershire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:38:25.761Z"
+  },
+  "items": [
+    {
+      "id": "p09jfwg0",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09j8b23"
+      },
+      "episode": {
+        "id": "p09j8b21",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw5h",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09j3mgk"
+      },
+      "episode": {
+        "id": "p09j3mgc",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-08T00:00:00.000Z",
+        "end": "2021-06-08T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw5n",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09j75x5"
+      },
+      "episode": {
+        "id": "p09j3mgp",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-08T04:00:00.000Z",
+        "end": "2021-06-08T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw5w",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jfw5t"
+      },
+      "episode": {
+        "id": "p09jfw5r",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Mark Cummings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-08T05:00:00.000Z",
+        "end": "2021-06-08T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw68",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jfw65"
+      },
+      "episode": {
+        "id": "p09jfw62",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Anna King"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-08T09:00:00.000Z",
+        "end": "2021-06-08T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw6l",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jfw6f"
+      },
+      "episode": {
+        "id": "p09jfw6c",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Steve Kitchen"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-08T13:00:00.000Z",
+        "end": "2021-06-08T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw6w",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09jfw6t"
+      },
+      "episode": {
+        "id": "p09jfw6q",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Jon Smith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-08T17:00:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jfw6y",
+      "service": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "version": {
+        "id": "p09j8c9k"
+      },
+      "episode": {
+        "id": "p09j8c9c",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_shropshire"
+  },
+  "service": {
+    "id": "bbc_radio_shropshire",
+    "name": "BBC Radio Shropshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-07T03:36:55.669Z"
+  },
+  "items": [
+    {
+      "id": "p09jkc47",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j8656"
+      },
+      "episode": {
+        "id": "p09j8654",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkbzp",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j3l9t"
+      },
+      "episode": {
+        "id": "p09j3l9q",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-07T00:00:00.000Z",
+        "end": "2021-06-07T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkbzt",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j7596"
+      },
+      "episode": {
+        "id": "p09j3l9y",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-07T04:00:00.000Z",
+        "end": "2021-06-07T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkc02",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkbzy"
+      },
+      "episode": {
+        "id": "p09jkbzv",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Adam Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T05:00:00.000Z",
+        "end": "2021-06-07T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkc08",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkc06"
+      },
+      "episode": {
+        "id": "p09jkc03",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jim Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T09:00:00.000Z",
+        "end": "2021-06-07T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkc0f",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkc0c"
+      },
+      "episode": {
+        "id": "p09jkc09",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Ryan Kennedy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T13:00:00.000Z",
+        "end": "2021-06-07T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkc0w",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09jkc0q"
+      },
+      "episode": {
+        "id": "p09jkc0j",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Michaela Wylde"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_shropshire"
+      },
+      "published_time": {
+        "start": "2021-06-07T17:00:00.000Z",
+        "end": "2021-06-07T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkc13",
+      "service": {
+        "id": "bbc_radio_shropshire"
+      },
+      "version": {
+        "id": "p09j8796"
+      },
+      "episode": {
+        "id": "p09j8794",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cumbria"
+  },
+  "service": {
+    "id": "bbc_radio_cumbria",
+    "name": "BBC Radio Cumbria",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:32:27.921Z"
+  },
+  "items": [
+    {
+      "id": "p09gm268",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09glzcg"
+      },
+      "episode": {
+        "id": "p09glzbw",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Steffen Peddie"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lj3",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lj6",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ljk",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4ljc"
+      },
+      "episode": {
+        "id": "p09h4lj7",
+        "title": "Richard Corrie 22/05/2021. Darren Milby sits in"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ljz",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4ljx"
+      },
+      "episode": {
+        "id": "p09h4ljr",
+        "title": "Val Armstrong 22/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4lk8",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lk4"
+      },
+      "episode": {
+        "id": "p09h4lk0",
+        "title": "Helen Millican 22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Cumbria Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4ll0",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4lks"
+      },
+      "episode": {
+        "id": "p09h4lkl",
+        "title": "John Mann 22/05/2021. Joe Costin sits in"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4llf",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4ll8"
+      },
+      "episode": {
+        "id": "p09h4ll5",
+        "title": "Including Track of the Week from Michael Denny + Melanie Baker in conversation 22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Cumbria"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cumbria"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4llq",
+      "service": {
+        "id": "bbc_radio_cumbria"
+      },
+      "version": {
+        "id": "p09h4llm"
+      },
+      "episode": {
+        "id": "p09h4llj",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Simon's Fantastic 80s"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

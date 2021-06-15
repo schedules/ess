@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:37:06.493Z"
+  },
+  "items": [
+    {
+      "id": "p09h5wvd",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h59j4"
+      },
+      "episode": {
+        "id": "p09h59hy",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wzg",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wzk",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gycf8"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wzl",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gycfg"
+      },
+      "episode": {
+        "id": "p09gycfd",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:50:00.000Z",
+        "end": "2021-05-28T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wzy",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wzs"
+      },
+      "episode": {
+        "id": "p09h5wzn",
+        "title": "Champions League final preview"
+      },
+      "brand": {
+        "title": "Justin Moorhouse"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5x04",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5x02"
+      },
+      "episode": {
+        "id": "p09h5x00",
+        "title": "Stories of Care"
+      },
+      "brand": {
+        "title": "Stacey Copeland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5x09",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5x07"
+      },
+      "episode": {
+        "id": "p09h5x05",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Phil Trow"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-28T13:00:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5x0g",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5x0d"
+      },
+      "episode": {
+        "id": "p09h5x0b",
+        "title": "Champions League final preview"
+      },
+      "brand": {
+        "title": "Talking Balls"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5x0p",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5x0l"
+      },
+      "episode": {
+        "id": "p09h5x0j",
+        "title": "Asma Younus sits in (28/05/2021)"
+      },
+      "brand": {
+        "title": "Anna Jameson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5x18",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5x11"
+      },
+      "episode": {
+        "id": "p09h5x0t",
+        "title": "With Linda McDermott (28/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Manchester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

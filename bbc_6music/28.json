@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:40:23.407Z"
+  },
+  "items": [
+    {
+      "id": "p09gwv7t",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd1f"
+      },
+      "episode": {
+        "id": "m000wd1g",
+        "title": "with Steve Lamacq"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwv7v",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd1h"
+      },
+      "episode": {
+        "id": "m000wd1j",
+        "title": "with Lauren Laverne"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwv7w",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd1k"
+      },
+      "episode": {
+        "id": "m000wd1l",
+        "title": "with Mary Anne Hobbs"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:00:00.000Z",
+        "end": "2021-05-28T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwv7x",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd1m"
+      },
+      "episode": {
+        "id": "m000wd1n",
+        "title": "with Tom Ravenscroft"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T02:00:00.000Z",
+        "end": "2021-05-28T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwv7y",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd1p"
+      },
+      "episode": {
+        "id": "m000wd1q",
+        "title": "The New Music Playlist"
+      },
+      "brand": {
+        "title": "6 Music Recommends"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T03:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwv7z",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd1r"
+      },
+      "episode": {
+        "id": "m000wd1s",
+        "title": "The Awesome Segue"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fc",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdj9"
+      },
+      "episode": {
+        "id": "m000wdjb",
+        "title": "Desert Island Disco"
+      },
+      "brand": {
+        "title": "Lauren Laverne"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T06:30:00.000Z",
+        "end": "2021-05-28T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fd",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjc"
+      },
+      "episode": {
+        "id": "m000wdjd",
+        "title": "Full Force Friday Feelings"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:30:00.000Z",
+        "end": "2021-05-28T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06ff",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjf"
+      },
+      "episode": {
+        "id": "m000wdjg",
+        "title": "Juliet Fox's Guest Mix"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T11:00:00.000Z",
+        "end": "2021-05-28T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fg",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjh"
+      },
+      "episode": {
+        "id": "m000wdjj",
+        "title": "Full Force Friday Feelings"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T11:30:00.000Z",
+        "end": "2021-05-28T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fh",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjk"
+      },
+      "episode": {
+        "id": "m000wdjl",
+        "title": "Ep 569 - Funky Frank has a mix and black midi are today's Album of the Day"
+      },
+      "brand": {
+        "title": "Shaun Keaveny"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T12:00:00.000Z",
+        "end": "2021-05-28T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fj",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjm"
+      },
+      "episode": {
+        "id": "m000wdjn",
+        "title": "Friday Free For All"
+      },
+      "brand": {
+        "title": "Steve Lamacq"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T15:00:00.000Z",
+        "end": "2021-05-28T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fk",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjp"
+      },
+      "episode": {
+        "id": "m000wdjq",
+        "title": "Tom Robinson sits in"
+      },
+      "brand": {
+        "title": "Iggy Pop"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:00:00.000Z",
+        "end": "2021-05-28T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fl",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjr"
+      },
+      "episode": {
+        "id": "m000wdjs",
+        "title": "with Peter Broderick"
+      },
+      "brand": {
+        "title": "Tom Ravenscroft"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T20:00:00.000Z",
+        "end": "2021-05-28T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fm",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjt"
+      },
+      "episode": {
+        "id": "m000wdjv",
+        "title": "The Ravers Hour with Lorenzo BITW"
+      },
+      "brand": {
+        "title": "Tom Ravenscroft"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:00:00.000Z",
+        "end": "2021-05-28T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fn",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjw"
+      },
+      "episode": {
+        "id": "m000wdjx",
+        "title": "A handmade mixtape of beats for focus"
+      },
+      "brand": {
+        "title": "Focus Beats"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    }
+  ]
+}

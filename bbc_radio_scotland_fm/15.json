@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:51:36.178Z"
+  },
+  "items": [
+    {
+      "id": "p09jrkq8",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wxzn"
+      },
+      "episode": {
+        "id": "m000wxzp",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4d",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy7h"
+      },
+      "episode": {
+        "id": "m000wy7j",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4g",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy7k"
+      },
+      "episode": {
+        "id": "m000wy7l",
+        "title": "with Kaye Adams"
+      },
+      "brand": {
+        "title": "Mornings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T08:00:00.000Z",
+        "end": "2021-06-15T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4k",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy7m"
+      },
+      "episode": {
+        "id": "m000wy7n",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Lunchtime Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T11:00:00.000Z",
+        "end": "2021-06-15T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4l",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy7p"
+      },
+      "episode": {
+        "id": "m000wy7q",
+        "title": "Off The Ball at the Euros"
+      },
+      "brand": {
+        "title": "Off the Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T12:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4m",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy7r"
+      },
+      "episode": {
+        "id": "m000wy7s",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "The Afternoon Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4n",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy7v"
+      },
+      "episode": {
+        "id": "m000wy7x",
+        "title": "with John Beattie"
+      },
+      "brand": {
+        "title": "Drivetime"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T15:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4p",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy83"
+      },
+      "episode": {
+        "id": "m000wy85",
+        "title": "Songs About Your Phobias"
+      },
+      "brand": {
+        "title": "Get it On with Bryan Burnett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4q",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy86"
+      },
+      "episode": {
+        "id": "m000wy88",
+        "title": "Ashley Monroe"
+      },
+      "brand": {
+        "title": "Another Country with Ricky Ross"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T19:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt4r",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wy8b"
+      },
+      "episode": {
+        "id": "m000wy8d",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Roddy Hart"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-15T23:00:00.000Z"
+      }
+    }
+  ]
+}

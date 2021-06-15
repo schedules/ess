@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:15:42.488Z"
+  },
+  "items": [
+    {
+      "id": "p09glmnd",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09glmnb"
+      },
+      "episode": {
+        "id": "p09glmn8",
+        "title": "With Linda McDermott (21/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Manchester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wfh",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wfk",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wfm",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09gycjw"
+      },
+      "episode": {
+        "id": "p09gycjt",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:50:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wft",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wfq"
+      },
+      "episode": {
+        "id": "p09h5wfn",
+        "title": "Sandra Smith"
+      },
+      "brand": {
+        "title": "Simone Riley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3b9x",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wg6"
+      },
+      "episode": {
+        "id": "p09h5wfx",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Justin Moorhouse"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3bb4",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09j3bb2"
+      },
+      "episode": {
+        "id": "p09j3b9z",
+        "title": "Salford Red Devils v Wigan Warriors"
+      },
+      "brand": {
+        "title": "BBC Radio Manchester Sport: Big Match Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:00:00.000Z",
+        "end": "2021-05-22T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxzgy",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09hxzgw"
+      },
+      "episode": {
+        "id": "p09hxzgs",
+        "title": "Stockport County v Woking"
+      },
+      "brand": {
+        "title": "BBC Radio Manchester Sport: Big Match Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:00:00.000Z",
+        "end": "2021-05-22T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxzhn",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09hxzhc"
+      },
+      "episode": {
+        "id": "p09hxzh3",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Manchester Sport: Big Match - The Verdict"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5whx",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5whq"
+      },
+      "episode": {
+        "id": "p09h5whj",
+        "title": "With David Scott (22/05/2021)"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Manchester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wjm",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wjc"
+      },
+      "episode": {
+        "id": "p09h5wj5",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Manchester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5wl4",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09h5wkk"
+      },
+      "episode": {
+        "id": "p09h5wk8",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Connor Phillips"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

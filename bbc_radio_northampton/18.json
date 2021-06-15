@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_northampton"
+  },
+  "service": {
+    "id": "bbc_radio_northampton",
+    "name": "BBC Radio Northampton",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:32:32.651Z"
+  },
+  "items": [
+    {
+      "id": "p09gsysl",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gsysh"
+      },
+      "episode": {
+        "id": "p09gsysb",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Northampton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxw7",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09g41f6"
+      },
+      "episode": {
+        "id": "p09g41f1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxwf",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09g4czt"
+      },
+      "episode": {
+        "id": "p09g41fd",
+        "title": "Claira Hermet sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxwq",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gsxwn"
+      },
+      "episode": {
+        "id": "p09gsxwk",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Annabel Amos"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:00:00.000Z",
+        "end": "2021-05-18T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxx3",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gsxwz"
+      },
+      "episode": {
+        "id": "p09gsxws",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Bernie Keith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:00:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxxp",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gsxxh"
+      },
+      "episode": {
+        "id": "p09gsxxc",
+        "title": "Liz Jeeves sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Helen Blaby"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxxx",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gsxxv"
+      },
+      "episode": {
+        "id": "p09gsxxq",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Tim Wheeler"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gsxy8",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09gsxy5"
+      },
+      "episode": {
+        "id": "p09gsxy2",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Northampton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    }
+  ]
+}

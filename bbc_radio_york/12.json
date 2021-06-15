@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:44:25.169Z"
+  },
+  "items": [
+    {
+      "id": "p09jnb2s",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jgb1m"
+      },
+      "episode": {
+        "id": "p09jgb1h",
+        "title": "Rich Williams sits in (11/06/2021)"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xjv",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jrwc0"
+      },
+      "episode": {
+        "id": "p09jrwbx",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xk4",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k91cm"
+      },
+      "episode": {
+        "id": "p09k90nl",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xkn",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k9xkf"
+      },
+      "episode": {
+        "id": "p09k9xk6",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Adam Tomlinson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xl9",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k9xl4"
+      },
+      "episode": {
+        "id": "p09k9xkx",
+        "title": "Sarah Urwin sits in (12/06/2021)"
+      },
+      "brand": {
+        "title": "Harry Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:00:00.000Z",
+        "end": "2021-06-12T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xln",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k9xlh"
+      },
+      "episode": {
+        "id": "p09k61y0",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Liz Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xls",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k5xwx"
+      },
+      "episode": {
+        "id": "p09k5xwv",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "John Kane's Northern Soul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xmj",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k9xm3"
+      },
+      "episode": {
+        "id": "p09k9xly",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in York and North Yorkshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xnc",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09k5xxj"
+      },
+      "episode": {
+        "id": "p09k5xxd",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

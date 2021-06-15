@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:28:50.531Z"
+  },
+  "items": [
+    {
+      "id": "p09g6ytn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4hk"
+      },
+      "episode": {
+        "id": "m000w4hl",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:00:00.000Z",
+        "end": "2021-05-18T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "b05plbtl"
+      },
+      "episode": {
+        "id": "b05plch3",
+        "title": "When Frank Met Billie"
+      },
+      "brand": {
+        "title": "Radio 2 Celebrates Jazz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T02:00:00.000Z",
+        "end": "2021-05-18T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytr",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4hm"
+      },
+      "episode": {
+        "id": "m000w4hn",
+        "title": "Famous Last Words from Boxer Amir Khan!"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T03:00:00.000Z",
+        "end": "2021-05-18T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7c",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4zt"
+      },
+      "episode": {
+        "id": "m000w4zv",
+        "title": "Alex Kingston and Richie's Eurovision Challenge"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:30:00.000Z",
+        "end": "2021-05-18T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7g",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4zw"
+      },
+      "episode": {
+        "id": "m000w4zx",
+        "title": "PopMaster and James Newman"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T08:30:00.000Z",
+        "end": "2021-05-18T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7k",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4zy"
+      },
+      "episode": {
+        "id": "m000w4zz",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T11:00:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7l",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w500"
+      },
+      "episode": {
+        "id": "m000w501",
+        "title": "With guests Brian Conley and Scott Mills"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7n",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w502"
+      },
+      "episode": {
+        "id": "m000w503",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T16:00:00.000Z",
+        "end": "2021-05-18T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7q",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w504"
+      },
+      "episode": {
+        "id": "m000w505",
+        "title": "Prince, David Guetta feat. Sia, Joan Jett and more - 30 minutes of banging tunes!"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:30:00.000Z",
+        "end": "2021-05-18T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7s",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w506"
+      },
+      "episode": {
+        "id": "m000w507",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley's Shiny Happy Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:00:00.000Z",
+        "end": "2021-05-18T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7x",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w508"
+      },
+      "episode": {
+        "id": "m000w509",
+        "title": "Culture Club: TV with Emma Bullimore"
+      },
+      "brand": {
+        "title": "Jo Whiley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:30:00.000Z",
+        "end": "2021-05-18T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b7z",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w50b"
+      },
+      "episode": {
+        "id": "m000w50c",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "The Jazz Show with Jamie Cullum"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T20:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b81",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w50d"
+      },
+      "episode": {
+        "id": "m000w50f",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-18T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7b83",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w50g"
+      },
+      "episode": {
+        "id": "m000w50h",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T02:00:00.000Z"
+      }
+    }
+  ]
+}

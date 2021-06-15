@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_humberside"
+  },
+  "service": {
+    "id": "bbc_radio_humberside",
+    "name": "BBC Radio Humberside",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:23:04.884Z"
+  },
+  "items": [
+    {
+      "id": "p09h5343",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09h5340"
+      },
+      "episode": {
+        "id": "p09h533y",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53z6",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gxgqm"
+      },
+      "episode": {
+        "id": "p09gxgqk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53z8",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09gxgqv"
+      },
+      "episode": {
+        "id": "p09gxgqq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53zf",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09h53zc"
+      },
+      "episode": {
+        "id": "p09h53z9",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53zm",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09h53zk"
+      },
+      "episode": {
+        "id": "p09h53zh",
+        "title": "23/05/2021 Fiona Mills"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Humberside"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53zp",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09fsxdc"
+      },
+      "episode": {
+        "id": "p09fsxd2",
+        "title": "Wakefield Trinity v Hull KR"
+      },
+      "brand": {
+        "title": "Humberside Sport: Rugby League"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53zr",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09b2x5j"
+      },
+      "episode": {
+        "id": "p099z8ql",
+        "title": "Beverley Knight"
+      },
+      "brand": {
+        "title": "Make a Difference Heroes meet..."
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h53zz",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09h53zx"
+      },
+      "episode": {
+        "id": "p09h53zt",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Neil Foster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5405",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09h5402"
+      },
+      "episode": {
+        "id": "p09h5400",
+        "title": "Leeds Rhinos v Hull FC"
+      },
+      "brand": {
+        "title": "Humberside Sport: Rugby League"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_humberside"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h540f",
+      "service": {
+        "id": "bbc_radio_humberside"
+      },
+      "version": {
+        "id": "p09h540c"
+      },
+      "episode": {
+        "id": "p09h5408",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

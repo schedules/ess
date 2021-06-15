@@ -1,0 +1,265 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:27:01.027Z"
+  },
+  "items": [
+    {
+      "id": "p09j5snz",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wrgs"
+      },
+      "episode": {
+        "id": "m000wrgv",
+        "title": "Anna Ryder Richardson sits in"
+      },
+      "brand": {
+        "title": "The Late Show with Eleri Sion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-08T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sp2",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wrgx"
+      },
+      "episode": {
+        "id": "m000wrgz",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:30:00.000Z",
+        "end": "2021-06-09T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8gmg",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wtfx"
+      },
+      "episode": {
+        "id": "m000wtfy",
+        "title": "Bonnie Tyler: Never Eclipsed"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:30:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65zv",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqpy"
+      },
+      "episode": {
+        "id": "m000wqpz",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Radio Wales Breakfast with Claire Summers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65zw",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqq0"
+      },
+      "episode": {
+        "id": "m000wqq1",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Mohammad"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T07:30:00.000Z",
+        "end": "2021-06-09T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6601",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqq2"
+      },
+      "episode": {
+        "id": "m000wqq3",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Wynne Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T10:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6602",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqq4"
+      },
+      "episode": {
+        "id": "m000wqq5",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Behnaz Akhgar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6605",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqq6"
+      },
+      "episode": {
+        "id": "m000wqq7",
+        "title": "With Wyre Davies"
+      },
+      "brand": {
+        "title": "Gareth Lewis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T16:00:00.000Z",
+        "end": "2021-06-09T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6609",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqq8"
+      },
+      "episode": {
+        "id": "m000wqq9",
+        "title": "Tackling the Climate Emergency"
+      },
+      "brand": {
+        "title": "Country Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:30:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j660b",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqqb"
+      },
+      "episode": {
+        "id": "m000wqqc",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Janice Long"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j660c",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqqd"
+      },
+      "episode": {
+        "id": "m000wqqf",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Late Show with Eleri Sion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-09T23:30:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leicester"
+  },
+  "service": {
+    "id": "bbc_radio_leicester",
+    "name": "BBC Radio Leicester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:37:21.000Z"
+  },
+  "items": [
+    {
+      "id": "p09k63nr",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jx2fl"
+      },
+      "episode": {
+        "id": "p09jx2fb",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63v1",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jry0h"
+      },
+      "episode": {
+        "id": "p09jry09",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63v3",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jsb98"
+      },
+      "episode": {
+        "id": "p09jry0q",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63v9",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63v7"
+      },
+      "episode": {
+        "id": "p09k63v4",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Jimmy Carpenter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-15T05:00:00.000Z",
+        "end": "2021-06-15T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63vj",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63vg"
+      },
+      "episode": {
+        "id": "p09k63vc",
+        "title": "Ady Dayman sits in (15/06/2021)"
+      },
+      "brand": {
+        "title": "Ben Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:00:00.000Z",
+        "end": "2021-06-15T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63vx",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09k63vt"
+      },
+      "episode": {
+        "id": "p09k63vn",
+        "title": "Jack Rafferty sits in (15/06/2021)"
+      },
+      "brand": {
+        "title": "Ady Dayman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-15T13:00:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ld9p7",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09ld9p5"
+      },
+      "episode": {
+        "id": "p09ld9p3",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Leicester Sport: Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k63xn",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09jx2vz"
+      },
+      "episode": {
+        "id": "p09jx2vw",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-16T00:00:00.000Z"
+      }
+    }
+  ]
+}

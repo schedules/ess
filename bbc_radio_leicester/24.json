@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leicester"
+  },
+  "service": {
+    "id": "bbc_radio_leicester",
+    "name": "BBC Radio Leicester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:28:55.100Z"
+  },
+  "items": [
+    {
+      "id": "p09h5h07",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h4pw9"
+      },
+      "episode": {
+        "id": "p09h4pw7",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Summaya Mughal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h0h",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h0x",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h1q",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h5h1g"
+      },
+      "episode": {
+        "id": "p09h5h15",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jimmy Carpenter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h2h",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h5h29"
+      },
+      "episode": {
+        "id": "p09h5h1y",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Ben Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h36",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h5h30"
+      },
+      "episode": {
+        "id": "p09h5h2p",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Ady Dayman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h45",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h5h3w"
+      },
+      "episode": {
+        "id": "p09h5h3l",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Leicester City Football Forum"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h4t",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h5h4l"
+      },
+      "episode": {
+        "id": "p09h5h4d",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jack Rafferty"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5h56",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h4kxs"
+      },
+      "episode": {
+        "id": "p09h4kxm",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

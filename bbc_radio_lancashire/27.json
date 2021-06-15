@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_lancashire"
+  },
+  "service": {
+    "id": "bbc_radio_lancashire",
+    "name": "BBC Radio Lancashire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:40:29.715Z"
+  },
+  "items": [
+    {
+      "id": "p09h5bhb",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h5bgt"
+      },
+      "episode": {
+        "id": "p09h5bg6",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59c8",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59cv",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59fk",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h59f5"
+      },
+      "episode": {
+        "id": "p09h59dg",
+        "title": "With Graham Liver - 27/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59gk",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h59g9"
+      },
+      "episode": {
+        "id": "p09h59g0",
+        "title": "With Sharon Hartley - 27/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59h1",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h59gy"
+      },
+      "episode": {
+        "id": "p09h59gq",
+        "title": "With Nishma Hindocha - 27/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59hk",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h59hb"
+      },
+      "episode": {
+        "id": "p09h59h6",
+        "title": "With Dan Jewell - 27/05/2021"
+      },
+      "brand": {
+        "title": "Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59hx",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h59ht"
+      },
+      "episode": {
+        "id": "p09h59hp",
+        "title": "With John Gillmore - 27/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h59j7",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h59j4"
+      },
+      "episode": {
+        "id": "p09h59hy",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

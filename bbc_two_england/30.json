@@ -1,0 +1,558 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-30T03:32:27.427Z"
+  },
+  "items": [
+    {
+      "id": "p09j1990",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0007zh6"
+      },
+      "episode": {
+        "id": "m0007zh7",
+        "title": "20th Century Women"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:40:00.000Z",
+        "end": "2021-05-30T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1991",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08skprp"
+      },
+      "episode": {
+        "id": "b08skpzg",
+        "title": "02/06/2017 - 1984 - Big Hits"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:30:00.000Z",
+        "end": "2021-05-30T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1992",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:30:00.000Z",
+        "end": "2021-05-30T05:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j193s",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0b221cl"
+      },
+      "episode": {
+        "id": "b0b222gk",
+        "title": "Episode 11 - Tewkesbury"
+      },
+      "brand": {
+        "title": "Britain in Bloom"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:25:00.000Z",
+        "end": "2021-05-30T05:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j193t",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgzy"
+      },
+      "episode": {
+        "id": "m000wh00",
+        "title": "Episode 11"
+      },
+      "brand": {
+        "title": "Gardeners' World"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:55:00.000Z",
+        "end": "2021-05-30T06:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j193v",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnjv"
+      },
+      "episode": {
+        "id": "m000wg2g",
+        "title": "Plant Britain Spring Special"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:55:00.000Z",
+        "end": "2021-05-30T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j193x",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000whzg"
+      },
+      "episode": {
+        "id": "m000whzh",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Landward"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:00:00.000Z",
+        "end": "2021-05-30T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j193y",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000whzd"
+      },
+      "episode": {
+        "id": "m000whzf",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Beechgrove"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:30:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j193z",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnjw"
+      },
+      "episode": {
+        "id": "m000wnjx",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Saturday Kitchen Best Bites"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1940",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b037mxgb"
+      },
+      "episode": {
+        "id": "b037mxgf",
+        "title": "Episode 6 - Episode 6"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T10:30:00.000Z",
+        "end": "2021-05-30T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1941",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b09gv0ls"
+      },
+      "episode": {
+        "id": "b09gv0m3",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Mary Berry's Country House Secrets"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:30:00.000Z",
+        "end": "2021-05-30T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1942",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnjy"
+      },
+      "episode": {
+        "id": "m000wnjz",
+        "title": "War Stories"
+      },
+      "brand": {
+        "title": "Talking Pictures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:30:00.000Z",
+        "end": "2021-05-30T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1943",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b000vnqh"
+      },
+      "episode": {
+        "id": "b0077r7h",
+        "title": "10/04/1999 - Dunkirk"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:15:00.000Z",
+        "end": "2021-05-30T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1944",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0005wwz"
+      },
+      "episode": {
+        "id": "p0198pxz",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "D-Day: The Last Heroes"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:30:00.000Z",
+        "end": "2021-05-30T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1945",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000cqn5"
+      },
+      "episode": {
+        "id": "b06p033k",
+        "title": "Episode 6 - Bowes Museum 21"
+      },
+      "brand": {
+        "title": "Flog It!"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:30:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1946",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000pb6r"
+      },
+      "episode": {
+        "id": "m000pb6s",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Cornwall with Simon Reeve"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1947",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m00071lh"
+      },
+      "episode": {
+        "id": "m00071lj",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "This Farming Life"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:00:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1948",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnk0"
+      },
+      "episode": {
+        "id": "m000wnk1",
+        "title": "Asia"
+      },
+      "brand": {
+        "title": "Our Wild Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7g7z",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wtdh"
+      },
+      "episode": {
+        "id": "m000wtdj",
+        "title": "Space: How Far Can We Go?"
+      },
+      "brand": {
+        "title": "Brian Cox's Adventures in Space and Time"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8d91",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b00x9b6q"
+      },
+      "episode": {
+        "id": "b00x9b82",
+        "title": "Episode 1 - Siberia"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-30T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j194c",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p09gkdj7"
+      },
+      "episode": {
+        "id": "p09gkd4x",
+        "title": "Through a Glass, Darkly"
+      },
+      "brand": {
+        "title": "Snowfall"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:00:00.000Z",
+        "end": "2021-05-30T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j194d",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p09gkf1w"
+      },
+      "episode": {
+        "id": "p09gkf10",
+        "title": "Betrayal"
+      },
+      "brand": {
+        "title": "Snowfall"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:45:00.000Z",
+        "end": "2021-05-30T23:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j194f",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnk7"
+      },
+      "episode": {
+        "id": "m000wgcz",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:35:00.000Z",
+        "end": "2021-05-31T00:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j194g",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnk8"
+      },
+      "episode": {
+        "id": "m000wg18",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Holby City"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:35:00.000Z",
+        "end": "2021-05-31T01:15:00.000Z"
+      }
+    }
+  ]
+}

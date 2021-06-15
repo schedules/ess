@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_bristol"
+  },
+  "service": {
+    "id": "bbc_radio_bristol",
+    "name": "BBC Radio Bristol",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:37:14.225Z"
+  },
+  "items": [
+    {
+      "id": "p09h492r",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h492n"
+      },
+      "episode": {
+        "id": "p09h492g",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48s8",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48s9",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48sg",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48sd"
+      },
+      "episode": {
+        "id": "p09h48sb",
+        "title": "James Hanson"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48sm",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48sk"
+      },
+      "episode": {
+        "id": "p09h48sh",
+        "title": "John Darvall"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48st",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48sr"
+      },
+      "episode": {
+        "id": "p09h48sp",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j047s",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09j047k"
+      },
+      "episode": {
+        "id": "p09j047g",
+        "title": "Ed Hadwin sits in (24/05/2021)"
+      },
+      "brand": {
+        "title": "The Pavilion with Geoff Twentyman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48t5",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09fs5bv"
+      },
+      "episode": {
+        "id": "p09fs5bs",
+        "title": "Adam Crowther"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Bristol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_bristol"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h48tb",
+      "service": {
+        "id": "bbc_radio_bristol"
+      },
+      "version": {
+        "id": "p09h48t8"
+      },
+      "episode": {
+        "id": "p09h48t6",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

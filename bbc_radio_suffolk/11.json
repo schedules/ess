@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_suffolk"
+  },
+  "service": {
+    "id": "bbc_radio_suffolk",
+    "name": "BBC Radio Suffolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:21:57.063Z"
+  },
+  "items": [
+    {
+      "id": "p09jks68",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09j7lkk"
+      },
+      "episode": {
+        "id": "p09j7lkg",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jks6m",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09j3p8w"
+      },
+      "episode": {
+        "id": "p09j3p8s",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jks6s",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09j77dk"
+      },
+      "episode": {
+        "id": "p09j3p93",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-11T04:00:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jks79",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09jks74"
+      },
+      "episode": {
+        "id": "p09jks6w",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Mark Murphy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jks7w",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09jks7n"
+      },
+      "episode": {
+        "id": "p09jks7h",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "James Hazell"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jks91",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09jks8l"
+      },
+      "episode": {
+        "id": "p09jks89",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Lesley Dolphin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:00:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jksc1",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09jksbb"
+      },
+      "episode": {
+        "id": "p09jks9q",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Jon Wright"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jksd2",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09jkscv"
+      },
+      "episode": {
+        "id": "p09jksck",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Belongings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_suffolk"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:00:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jksd8",
+      "service": {
+        "id": "bbc_radio_suffolk"
+      },
+      "version": {
+        "id": "p09j7lsp"
+      },
+      "episode": {
+        "id": "p09j7lsf",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

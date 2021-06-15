@@ -1,0 +1,975 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:47:24.349Z"
+  },
+  "items": [
+    {
+      "id": "p09jrndd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wy4n"
+      },
+      "episode": {
+        "id": "m000wy4p",
+        "title": "The Treasure in the Forest"
+      },
+      "brand": {
+        "title": "HG Wells"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:35:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09y6wfz"
+      },
+      "episode": {
+        "id": "b09y6wg3",
+        "title": "The Ultimate Trip: Stanley Kubrick's Space Odyssey"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0161500"
+      },
+      "episode": {
+        "id": "b01616lj",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Elvenquest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:00:00.000Z",
+        "end": "2021-06-13T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00z5hqh"
+      },
+      "episode": {
+        "id": "b00z5hrv",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Helen Keen's It Is Rocket Science"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:30:00.000Z",
+        "end": "2021-06-13T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00fcbc4"
+      },
+      "episode": {
+        "id": "b00fcbgm",
+        "title": "Episode 1 - 1. Pubs"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:45:00.000Z",
+        "end": "2021-06-13T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndl",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06pbwrb"
+      },
+      "episode": {
+        "id": "b06pbwzh",
+        "title": "Broadband on the Run"
+      },
+      "brand": {
+        "title": "Tom Wrigglesworth's Hang-Ups"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:00:00.000Z",
+        "end": "2021-06-13T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01s4g14"
+      },
+      "episode": {
+        "id": "b041y1n3",
+        "title": "Eleanor and Mr Woodfield"
+      },
+      "brand": {
+        "title": "Isy Suttie's Love Letters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:30:00.000Z",
+        "end": "2021-06-13T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01697dj"
+      },
+      "episode": {
+        "id": "b01697h2",
+        "title": "23/10/2011 - Len Deighton - The Ipcress File"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T03:00:00.000Z",
+        "end": "2021-06-13T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrndp",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b085879r"
+      },
+      "episode": {
+        "id": "b08587nx",
+        "title": "Orlando Murrin on Dinu Lipatti"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:30:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09484kx"
+      },
+      "episode": {
+        "id": "b094865z",
+        "title": "Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T06:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4p",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0670fpq"
+      },
+      "episode": {
+        "id": "b0670fpv",
+        "title": "Michael Morpurgo"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T06:10:00.000Z",
+        "end": "2021-06-13T06:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4q",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wycb"
+      },
+      "episode": {
+        "id": "m000wycc",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Lucy Catherine - Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T06:20:00.000Z",
+        "end": "2021-06-13T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07pwybp"
+      },
+      "episode": {
+        "id": "b07pwyhm",
+        "title": "The Parrot"
+      },
+      "brand": {
+        "title": "We're in Business"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T07:30:00.000Z",
+        "end": "2021-06-13T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00zl50j"
+      },
+      "episode": {
+        "id": "b00zl7rv",
+        "title": "From 23/06/1963"
+      },
+      "brand": {
+        "title": "The Arthur Haynes Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:00:00.000Z",
+        "end": "2021-06-13T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4t",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wt0k"
+      },
+      "episode": {
+        "id": "b0080q77",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Double Income, No Kids Yet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:30:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08ltmxv"
+      },
+      "episode": {
+        "id": "b08ltmyt",
+        "title": "Mark Rylance"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T09:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4w",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b010y0lt"
+      },
+      "episode": {
+        "id": "b010y0r7",
+        "title": "Chimps"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:45:00.000Z",
+        "end": "2021-06-13T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wycd"
+      },
+      "episode": {
+        "id": "p09fy2tx",
+        "title": "5. The Birth of Cool"
+      },
+      "brand": {
+        "title": "Sneakernomics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T10:00:00.000Z",
+        "end": "2021-06-13T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wycf"
+      },
+      "episode": {
+        "id": "m000wycg",
+        "title": "The Echo Chamber - Sam Riviere & Emily Berry"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T11:00:00.000Z",
+        "end": "2021-06-13T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry4z",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09tclxr"
+      },
+      "episode": {
+        "id": "b09tcnm7",
+        "title": "Fourth in Show"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T11:30:00.000Z",
+        "end": "2021-06-13T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry50",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b083h72n"
+      },
+      "episode": {
+        "id": "b083h75t",
+        "title": "Fear by Sir Ranulph Fiennes (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:00:00.000Z",
+        "end": "2021-06-13T13:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry51",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08hr76v"
+      },
+      "episode": {
+        "id": "b08hr771",
+        "title": "Michaela Strachan"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:10:00.000Z",
+        "end": "2021-06-13T13:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry53",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b090wc3n"
+      },
+      "episode": {
+        "id": "b090wdl6",
+        "title": "Series 10"
+      },
+      "brand": {
+        "title": "A Small Town Murder (Omnibus)"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:20:00.000Z",
+        "end": "2021-06-13T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry55",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b040lt2m"
+      },
+      "episode": {
+        "id": "b040lthj",
+        "title": "Caribbean Domino Club"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T14:30:00.000Z",
+        "end": "2021-06-13T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry56",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00k01cv"
+      },
+      "episode": {
+        "id": "b00k08lg",
+        "title": "24/04/2009 - Bruce Bedford - Mire Farm"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T15:00:00.000Z",
+        "end": "2021-06-13T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry57",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wycf"
+      },
+      "episode": {
+        "id": "m000wycg",
+        "title": "The Echo Chamber - Sam Riviere & Emily Berry"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:00:00.000Z",
+        "end": "2021-06-13T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry58",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09tclxr"
+      },
+      "episode": {
+        "id": "b09tcnm7",
+        "title": "Fourth in Show"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:30:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry59",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wych"
+      },
+      "episode": {
+        "id": "m000wycj",
+        "title": "Gary Owen - Freedom"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5b",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06yk87t"
+      },
+      "episode": {
+        "id": "b06yk87w",
+        "title": "28/01/2016 - James Follett - The Devil to Pay"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:45:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wycd"
+      },
+      "episode": {
+        "id": "p09fy2tx",
+        "title": "5. The Birth of Cool"
+      },
+      "brand": {
+        "title": "Sneakernomics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5d",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00k01cv"
+      },
+      "episode": {
+        "id": "b00k08lg",
+        "title": "24/04/2009 - Bruce Bedford - Mire Farm"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T19:00:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08ltmxv"
+      },
+      "episode": {
+        "id": "b08ltmyt",
+        "title": "Mark Rylance"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5j",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b010y0lt"
+      },
+      "episode": {
+        "id": "b010y0r7",
+        "title": "Chimps"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:45:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09tclxr"
+      },
+      "episode": {
+        "id": "b09tcnm7",
+        "title": "Fourth in Show"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-13T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5l",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b001wx2j"
+      },
+      "episode": {
+        "id": "b00769ql",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:30:00.000Z",
+        "end": "2021-06-13T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00zf32l"
+      },
+      "episode": {
+        "id": "b00zf34s",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Helen Keen's It Is Rocket Science"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:00:00.000Z",
+        "end": "2021-06-13T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5p",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00fgq38"
+      },
+      "episode": {
+        "id": "b00fgq45",
+        "title": "2. Bank Hols"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:15:00.000Z",
+        "end": "2021-06-13T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5q",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01l1djn"
+      },
+      "episode": {
+        "id": "b01l1dlg",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Alice's Wunderland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:30:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wych"
+      },
+      "episode": {
+        "id": "m000wycj",
+        "title": "Gary Owen - Freedom"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-13T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06yk87t"
+      },
+      "episode": {
+        "id": "b06yk87w",
+        "title": "28/01/2016 - James Follett - The Devil to Pay"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:45:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5t",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b083h72n"
+      },
+      "episode": {
+        "id": "b083h75t",
+        "title": "Fear by Sir Ranulph Fiennes (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08hr76v"
+      },
+      "episode": {
+        "id": "b08hr771",
+        "title": "Michaela Strachan"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:10:00.000Z",
+        "end": "2021-06-14T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry5x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b090wc3n"
+      },
+      "episode": {
+        "id": "b090wdl6",
+        "title": "Series 10"
+      },
+      "brand": {
+        "title": "A Small Town Murder (Omnibus)"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:20:00.000Z",
+        "end": "2021-06-14T02:30:00.000Z"
+      }
+    }
+  ]
+}

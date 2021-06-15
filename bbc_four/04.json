@@ -1,0 +1,420 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-04T03:42:26.141Z"
+  },
+  "items": [
+    {
+      "id": "p09j0z60",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5n"
+      },
+      "episode": {
+        "id": "b007hzg9",
+        "title": "Episode 4"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:40:00.000Z",
+        "end": "2021-06-04T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z61",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04gvbcm"
+      },
+      "episode": {
+        "id": "b04gvbdt",
+        "title": "Episode 5 - Gray's Anatomy"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:10:00.000Z",
+        "end": "2021-06-04T00:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z63",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01pjlgc"
+      },
+      "episode": {
+        "id": "b01pjlhv",
+        "title": "22/12/2012 - Screen Goddesses"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:40:00.000Z",
+        "end": "2021-06-04T01:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z69",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5s"
+      },
+      "episode": {
+        "id": "m000wn21",
+        "title": "Data"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T01:40:00.000Z",
+        "end": "2021-06-04T02:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z6b",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T02:35:00.000Z",
+        "end": "2021-06-04T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z6c",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:30:00.000Z",
+        "end": "2021-06-04T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z22",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:58:00.000Z",
+        "end": "2021-06-04T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z23",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00cw0ls"
+      },
+      "episode": {
+        "id": "b00cw0pf",
+        "title": "Episode 4 - Procol Harum"
+      },
+      "brand": {
+        "title": "Pop Go the Sixties"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:00:00.000Z",
+        "end": "2021-06-04T18:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z25",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0007pmx"
+      },
+      "episode": {
+        "id": "b00tzpbq",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Singer-Songwriters at the BBC"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:05:00.000Z",
+        "end": "2021-06-04T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z26",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3c"
+      },
+      "episode": {
+        "id": "m000wn3f",
+        "title": "31/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-04T19:00:00.000Z",
+        "end": "2021-06-04T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z27",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3h"
+      },
+      "episode": {
+        "id": "m000wn3k",
+        "title": "07/02/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-04T19:30:00.000Z",
+        "end": "2021-06-04T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2b",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3m"
+      },
+      "episode": {
+        "id": "m000wn3p",
+        "title": "Once Were Brothers: Robbie Robertson and The Band"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T20:00:00.000Z",
+        "end": "2021-06-04T21:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2d",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m00026zz"
+      },
+      "episode": {
+        "id": "m0002700",
+        "title": "On Guitar... Lenny Kaye!"
+      },
+      "brand": {
+        "title": "Guitar, Drum and Bass"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:35:00.000Z",
+        "end": "2021-06-04T22:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2f",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000kjmn"
+      },
+      "episode": {
+        "id": "m000kjmp",
+        "title": "Brazil"
+      },
+      "brand": {
+        "title": "Huey Morgan's Latin Music Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:35:00.000Z",
+        "end": "2021-06-04T23:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000kjms"
+      },
+      "episode": {
+        "id": "m000kjmt",
+        "title": "Bossacucanova and Roberto Menescal"
+      },
+      "brand": {
+        "title": "Latin Music: A Session with"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:35:00.000Z",
+        "end": "2021-06-05T00:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3c"
+      },
+      "episode": {
+        "id": "m000wn3f",
+        "title": "31/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:05:00.000Z",
+        "end": "2021-06-05T00:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2k",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3h"
+      },
+      "episode": {
+        "id": "m000wn3k",
+        "title": "07/02/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:35:00.000Z",
+        "end": "2021-06-05T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2m",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3m"
+      },
+      "episode": {
+        "id": "m000wn3p",
+        "title": "Once Were Brothers: Robbie Robertson and The Band"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:05:00.000Z",
+        "end": "2021-06-05T02:40:00.000Z"
+      }
+    }
+  ]
+}

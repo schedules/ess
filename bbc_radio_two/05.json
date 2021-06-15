@@ -1,0 +1,451 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:32:26.645Z"
+  },
+  "items": [
+    {
+      "id": "p09kc8kj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000mrz4"
+      },
+      "episode": {
+        "id": "m000mrz5",
+        "title": "Bruce is joined by his wife Patti Scialfa"
+      },
+      "brand": {
+        "title": "Bruce Springsteen: From My Home To Yours"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wjcl"
+      },
+      "episode": {
+        "id": "m000wjcm",
+        "title": "Sonique, James Brown, The Sugarhill Gang, and more!"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbfr",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wjcn"
+      },
+      "episode": {
+        "id": "m000wjcp",
+        "title": "The 'Questions' Mixtape?"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:30:00.000Z",
+        "end": "2021-06-05T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k7qws",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x226"
+      },
+      "episode": {
+        "id": "m000x227",
+        "title": "Huey Morgan's Latin Playlist - No.1"
+      },
+      "brand": {
+        "title": "Huey Morgan's Latin Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T02:00:00.000Z",
+        "end": "2021-06-05T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnbg0",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm5w"
+      },
+      "episode": {
+        "id": "m000wm5x",
+        "title": "1 hour of massive party tunes and some huge Number One singles!"
+      },
+      "brand": {
+        "title": "Sophie Ellis-Bextor's Kitchen Disco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T03:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76lm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wtcb"
+      },
+      "episode": {
+        "id": "m000wtcc",
+        "title": "Elvis Costello"
+      },
+      "brand": {
+        "title": "Radio 2 In Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5ml9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwh"
+      },
+      "episode": {
+        "id": "m000wrwj",
+        "title": "Captain Of Your Ship"
+      },
+      "brand": {
+        "title": "Sounds of the 60s with Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwk"
+      },
+      "episode": {
+        "id": "m000wrwl",
+        "title": "The One Where... David Schwimmer calls in to the show"
+      },
+      "brand": {
+        "title": "Dermot O'Leary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T07:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlc",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwm"
+      },
+      "episode": {
+        "id": "m000wrwn",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Claudia Winkleman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mld",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwp"
+      },
+      "episode": {
+        "id": "m000wrwq",
+        "title": "1985"
+      },
+      "brand": {
+        "title": "Pick of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:00:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwr"
+      },
+      "episode": {
+        "id": "m000wrws",
+        "title": "2000"
+      },
+      "brand": {
+        "title": "Pick of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlg",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwt"
+      },
+      "episode": {
+        "id": "m000wrwv",
+        "title": "Oti Mabuse chats to Davina McCall & Shayne Ward"
+      },
+      "brand": {
+        "title": "Rylan On Saturday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T14:00:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlh",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrww"
+      },
+      "episode": {
+        "id": "m000wrwx",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Liza Tarbuck"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7nnf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wtdv"
+      },
+      "episode": {
+        "id": "m000wtdw",
+        "title": "Tim McIlrath from Rise Against"
+      },
+      "brand": {
+        "title": "The Rock Show with Johnnie Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7d3b",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wtd3"
+      },
+      "episode": {
+        "id": "m000wtd4",
+        "title": "Fania and Salsoul"
+      },
+      "brand": {
+        "title": "Huey Morgan's Latin Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwy"
+      },
+      "episode": {
+        "id": "m000wrwz",
+        "title": "Dua Lipa, M People, Prince, and more!"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-05T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlk",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrx0"
+      },
+      "episode": {
+        "id": "m000wrx1",
+        "title": "The 'Kanye' Mixtape"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:30:00.000Z",
+        "end": "2021-06-05T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mll",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrx2"
+      },
+      "episode": {
+        "id": "m000wrx3",
+        "title": "All Request Dance Tunes!"
+      },
+      "brand": {
+        "title": "Ana Matronic's Dance Devotion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrx4"
+      },
+      "episode": {
+        "id": "m000wrx5",
+        "title": "Beatles Stories: An hour of amazing Beatles covers"
+      },
+      "brand": {
+        "title": "Patrick Kielty's Cover Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:00:00.000Z",
+        "end": "2021-06-06T02:00:00.000Z"
+      }
+    }
+  ]
+}

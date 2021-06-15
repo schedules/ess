@@ -1,0 +1,374 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-12T03:38:16.340Z"
+  },
+  "items": [
+    {
+      "id": "p09jnq9f",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000kqqd"
+      },
+      "episode": {
+        "id": "m000kqqf",
+        "title": "Cuba"
+      },
+      "brand": {
+        "title": "Huey Morgan's Latin Music Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000kqqg"
+      },
+      "episode": {
+        "id": "m000kqqh",
+        "title": "Daymé Arocena"
+      },
+      "brand": {
+        "title": "Latin Music: A Session with"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:00:00.000Z",
+        "end": "2021-06-12T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9h",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvlw"
+      },
+      "episode": {
+        "id": "m000wvlx",
+        "title": "14/02/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T00:30:00.000Z",
+        "end": "2021-06-12T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvly"
+      },
+      "episode": {
+        "id": "m000wvlz",
+        "title": "21/02/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:00:00.000Z",
+        "end": "2021-06-12T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq76q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b054v23n"
+      },
+      "episode": {
+        "id": "b054v27d",
+        "title": "06/03/2015 - Boy George and Culture Club: Karma to Calamity"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T01:30:00.000Z",
+        "end": "2021-06-12T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9l",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T02:30:00.000Z",
+        "end": "2021-06-12T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9m",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:30:00.000Z",
+        "end": "2021-06-12T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5d",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:58:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01llqrt"
+      },
+      "episode": {
+        "id": "b01llqrw",
+        "title": "Episode 2 - The New Forest"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5h",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0084knm"
+      },
+      "episode": {
+        "id": "b0084kpm",
+        "title": "Episode 6 - From Pole to Pole"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:00:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08f3vyh"
+      },
+      "episode": {
+        "id": "b0702vmm",
+        "title": "Episode 6 - An Apricot"
+      },
+      "brand": {
+        "title": "The Young Montalbano"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5m",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0103plz"
+      },
+      "episode": {
+        "id": "b0103pnb",
+        "title": "Episode 8 - Crime and Punishment - The Story of Corporal Punishment"
+      },
+      "brand": {
+        "title": "Timeshift"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:45:00.000Z",
+        "end": "2021-06-12T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p09dvkd6"
+      },
+      "episode": {
+        "id": "b017h80m",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:45:00.000Z",
+        "end": "2021-06-12T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p09dvkf3"
+      },
+      "episode": {
+        "id": "b038hd12",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:45:00.000Z",
+        "end": "2021-06-13T00:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p09dvkf5"
+      },
+      "episode": {
+        "id": "b0391fc7",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:45:00.000Z",
+        "end": "2021-06-13T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0084knm"
+      },
+      "episode": {
+        "id": "b0084kpm",
+        "title": "Episode 6 - From Pole to Pole"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:45:00.000Z",
+        "end": "2021-06-13T02:45:00.000Z"
+      }
+    }
+  ]
+}

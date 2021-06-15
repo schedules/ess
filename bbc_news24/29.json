@@ -1,0 +1,1219 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-29T03:27:45.295Z"
+  },
+  "items": [
+    {
+      "id": "p09hjcwl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk7l"
+      },
+      "episode": {
+        "id": "m000wk7m",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-28T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5t"
+      },
+      "episode": {
+        "id": "m000wq5v",
+        "title": "What next for the BBC after the Bashir scandal?"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:30:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjcwm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk7n"
+      },
+      "episode": {
+        "id": "m000wk7p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5w"
+      },
+      "episode": {
+        "id": "m000wq5x",
+        "title": "Go, Go, Go!"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:30:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjcwp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk7q"
+      },
+      "episode": {
+        "id": "m000wk7r",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:00:00.000Z",
+        "end": "2021-05-29T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wj7y"
+      },
+      "episode": {
+        "id": "m000wj7z",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:30:00.000Z",
+        "end": "2021-05-29T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjcwq",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk7s"
+      },
+      "episode": {
+        "id": "m000wk7t",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:00:00.000Z",
+        "end": "2021-05-29T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5y"
+      },
+      "episode": {
+        "id": "m000wq5z",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Click - Short Edition"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:30:00.000Z",
+        "end": "2021-05-29T02:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk76"
+      },
+      "episode": {
+        "id": "m000wk77",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Newswatch"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:45:00.000Z",
+        "end": "2021-05-29T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjcwr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk7v"
+      },
+      "episode": {
+        "id": "m000wk7w",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T03:00:00.000Z",
+        "end": "2021-05-29T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq60"
+      },
+      "episode": {
+        "id": "m000wq61",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T03:30:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxb87",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000vl0c"
+      },
+      "episode": {
+        "id": "m000vl0d",
+        "title": "Anarchy in the Amazon?"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T03:30:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjcws",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk7x"
+      },
+      "episode": {
+        "id": "m000wk7y",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j37v8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq62"
+      },
+      "episode": {
+        "id": "m000wq63",
+        "title": "Strangest Places to Spend a Night"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:30:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yhs",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqdm"
+      },
+      "episode": {
+        "id": "m000wqdn",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast (BBC News Channel)"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yht",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqdp"
+      },
+      "episode": {
+        "id": "m000wqdq",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yhv",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq62"
+      },
+      "episode": {
+        "id": "m000wq63",
+        "title": "Strangest Places to Spend a Night"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:30:00.000Z",
+        "end": "2021-05-29T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yhx",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqdr"
+      },
+      "episode": {
+        "id": "m000wqds",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T10:00:00.000Z",
+        "end": "2021-05-29T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yhy",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk72"
+      },
+      "episode": {
+        "id": "m000wk73",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T10:30:00.000Z",
+        "end": "2021-05-29T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yj0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqdt"
+      },
+      "episode": {
+        "id": "m000wqdv",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:00:00.000Z",
+        "end": "2021-05-29T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yj3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5w"
+      },
+      "episode": {
+        "id": "m000wq5x",
+        "title": "Go, Go, Go!"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:30:00.000Z",
+        "end": "2021-05-29T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yj4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqdw"
+      },
+      "episode": {
+        "id": "m000wqdx",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:00:00.000Z",
+        "end": "2021-05-29T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yj6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whll"
+      },
+      "episode": {
+        "id": "m000whlm",
+        "title": "If You Love Your Baby… The Story of Forced Adoptions"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:30:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yj7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqdy"
+      },
+      "episode": {
+        "id": "m000wqdz",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yj9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf0"
+      },
+      "episode": {
+        "id": "m000w9kf",
+        "title": "Rugby - The Cost of Concussion"
+      },
+      "brand": {
+        "title": "BBC Wales Investigates"
+      },
+      "masterbrand": {
+        "id": "bbc_one_wales"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:30:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf1"
+      },
+      "episode": {
+        "id": "m000wqf2",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5w"
+      },
+      "episode": {
+        "id": "m000wq5x",
+        "title": "Go, Go, Go!"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:30:00.000Z",
+        "end": "2021-05-29T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf3"
+      },
+      "episode": {
+        "id": "m000wqf4",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T15:00:00.000Z",
+        "end": "2021-05-29T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjg",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5t"
+      },
+      "episode": {
+        "id": "m000wq5v",
+        "title": "What next for the BBC after the Bashir scandal?"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T15:30:00.000Z",
+        "end": "2021-05-29T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf5"
+      },
+      "episode": {
+        "id": "m000wqf6",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T16:00:00.000Z",
+        "end": "2021-05-29T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf7"
+      },
+      "episode": {
+        "id": "m000wqf8",
+        "title": "George Floyd: One Year On"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T16:30:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf9"
+      },
+      "episode": {
+        "id": "m000wqfb",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjn",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfc"
+      },
+      "episode": {
+        "id": "m000wqfd",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:30:00.000Z",
+        "end": "2021-05-29T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq5y"
+      },
+      "episode": {
+        "id": "m000wq5z",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Click - Short Edition"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:45:00.000Z",
+        "end": "2021-05-29T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjq",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqff"
+      },
+      "episode": {
+        "id": "m000wqfg",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:00:00.000Z",
+        "end": "2021-05-29T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk6t"
+      },
+      "episode": {
+        "id": "m000wk6v",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:30:00.000Z",
+        "end": "2021-05-29T18:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjs",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfh"
+      },
+      "episode": {
+        "id": "m000wqfj",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:45:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjt",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfk"
+      },
+      "episode": {
+        "id": "m000wqfl",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjv",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000whll"
+      },
+      "episode": {
+        "id": "m000whlm",
+        "title": "If You Love Your Baby… The Story of Forced Adoptions"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:30:00.000Z",
+        "end": "2021-05-29T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjw",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfm"
+      },
+      "episode": {
+        "id": "m000wqfn",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T20:00:00.000Z",
+        "end": "2021-05-29T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxcgb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000vl0c"
+      },
+      "episode": {
+        "id": "m000vl0d",
+        "title": "Anarchy in the Amazon?"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T20:30:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yjz",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfp"
+      },
+      "episode": {
+        "id": "m000wqfq",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-29T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfr"
+      },
+      "episode": {
+        "id": "m000wqfs",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:30:00.000Z",
+        "end": "2021-05-29T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqft"
+      },
+      "episode": {
+        "id": "m000wqfv",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:00:00.000Z",
+        "end": "2021-05-29T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfw"
+      },
+      "episode": {
+        "id": "m000wqfx",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:30:00.000Z",
+        "end": "2021-05-29T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk6t"
+      },
+      "episode": {
+        "id": "m000wk6v",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:45:00.000Z",
+        "end": "2021-05-29T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqfy"
+      },
+      "episode": {
+        "id": "m000wqfz",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-29T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqf7"
+      },
+      "episode": {
+        "id": "m000wqf8",
+        "title": "George Floyd: One Year On"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:30:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqg0"
+      },
+      "episode": {
+        "id": "m000wqg1",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3yk9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wq62"
+      },
+      "episode": {
+        "id": "m000wq63",
+        "title": "Strangest Places to Spend a Night"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:30:00.000Z",
+        "end": "2021-05-30T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3ykb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqg2"
+      },
+      "episode": {
+        "id": "m000wqg3",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:00:00.000Z",
+        "end": "2021-05-30T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3ykc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wk72"
+      },
+      "episode": {
+        "id": "m000wk73",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:30:00.000Z",
+        "end": "2021-05-30T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3ykd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wqg4"
+      },
+      "episode": {
+        "id": "m000wqg5",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:00:00.000Z",
+        "end": "2021-05-30T02:30:00.000Z"
+      }
+    }
+  ]
+}

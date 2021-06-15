@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:34:29.709Z"
+  },
+  "items": [
+    {
+      "id": "p09j5xpm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6x"
+      },
+      "episode": {
+        "id": "m000ws6y",
+        "title": "Punderland XI"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09klhcz",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000qjt2"
+      },
+      "episode": {
+        "id": "m000qjt3",
+        "title": "One Hour Mega Mastermix Special!"
+      },
+      "brand": {
+        "title": "Sounds of the 80s Mastermix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T02:00:00.000Z",
+        "end": "2021-06-09T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6z"
+      },
+      "episode": {
+        "id": "m000ws70",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T03:00:00.000Z",
+        "end": "2021-06-09T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4938",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wql0"
+      },
+      "episode": {
+        "id": "m000wql1",
+        "title": "Emma Bunton and Peter Crouch"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:30:00.000Z",
+        "end": "2021-06-09T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4939",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wql2"
+      },
+      "episode": {
+        "id": "m000wql3",
+        "title": "Scott Mills sits in with Jade Thirlwall choosing Tracks Of My Years"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:30:00.000Z",
+        "end": "2021-06-09T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493b",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wql4"
+      },
+      "episode": {
+        "id": "m000wql5",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493c",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wql6"
+      },
+      "episode": {
+        "id": "m000wql7",
+        "title": "With guests Michael Ball and Jack Savoretti"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493d",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wql8"
+      },
+      "episode": {
+        "id": "m000wql9",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T16:00:00.000Z",
+        "end": "2021-06-09T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493g",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wqlb"
+      },
+      "episode": {
+        "id": "m000wqlc",
+        "title": "Whitney Houston, Supergrass, Culture Beat and more - 30 minutes of banging tunes!"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:30:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493h",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wqld"
+      },
+      "episode": {
+        "id": "m000wqlf",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley's Shiny Happy Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493j",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wqlg"
+      },
+      "episode": {
+        "id": "m000wqlh",
+        "title": "Sofa Session: easy life"
+      },
+      "brand": {
+        "title": "Jo Whiley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:30:00.000Z",
+        "end": "2021-06-09T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493k",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wqlj"
+      },
+      "episode": {
+        "id": "m000wqlk",
+        "title": "Kings of Convenience in Norway"
+      },
+      "brand": {
+        "title": "The Folk Show with Mark Radcliffe"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T20:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493l",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wqll"
+      },
+      "episode": {
+        "id": "m000wqlm",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-09T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j493m",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wqln"
+      },
+      "episode": {
+        "id": "m000wqlp",
+        "title": "Midnight Mastermind, Wish You Were There and Yawn Chorus"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:00:00.000Z",
+        "end": "2021-06-10T02:00:00.000Z"
+      }
+    }
+  ]
+}

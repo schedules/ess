@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_solent"
+  },
+  "service": {
+    "id": "bbc_radio_solent",
+    "name": "BBC Radio Solent",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:39:24.129Z"
+  },
+  "items": [
+    {
+      "id": "p09k6y20",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09js778"
+      },
+      "episode": {
+        "id": "p09js773",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6y9m",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09jrx0v"
+      },
+      "episode": {
+        "id": "p09jrx0l",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9cp5",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09k90px"
+      },
+      "episode": {
+        "id": "p09k90pt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6ycv",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09k6ycd"
+      },
+      "episode": {
+        "id": "p09k6ybw",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Lucy Ambache"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6yf3",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09k6ydq"
+      },
+      "episode": {
+        "id": "p09k6yd8",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Rebecca Parker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6yfq",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09k6yfk"
+      },
+      "episode": {
+        "id": "p09k6yfg",
+        "title": "Neil Sackley sits in (13/06/2021)"
+      },
+      "brand": {
+        "title": "Jono Holmes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6yg2",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09js7yg"
+      },
+      "episode": {
+        "id": "p09js7yc",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kf77c",
+      "service": {
+        "id": "bbc_radio_solent"
+      },
+      "version": {
+        "id": "p09kf778"
+      },
+      "episode": {
+        "id": "p09kf774",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    }
+  ]
+}

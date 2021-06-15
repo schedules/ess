@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_berkshire"
+  },
+  "service": {
+    "id": "bbc_radio_berkshire",
+    "name": "BBC Radio Berkshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:22:24.062Z"
+  },
+  "items": [
+    {
+      "id": "p09gnw4p",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gnvpq"
+      },
+      "episode": {
+        "id": "p09gnvpm",
+        "title": "15/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c1w",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c23",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c20"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c2k",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c2f"
+      },
+      "episode": {
+        "id": "p09g4c28",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:50:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c36",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c2z"
+      },
+      "episode": {
+        "id": "p09g4c2q",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Paul Coia"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c3k",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c3g"
+      },
+      "episode": {
+        "id": "p09g4c3b",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Bill Buckley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c3w",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c3s"
+      },
+      "episode": {
+        "id": "p09g4c3q",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Andy Jones"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c43",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c41"
+      },
+      "episode": {
+        "id": "p09g4c3z",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g4c4d",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09g4c49"
+      },
+      "episode": {
+        "id": "p09g4c46",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Harmony Night"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

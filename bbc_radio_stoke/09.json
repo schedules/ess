@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_stoke"
+  },
+  "service": {
+    "id": "bbc_radio_stoke",
+    "name": "BBC Radio Stoke",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:39:03.008Z"
+  },
+  "items": [
+    {
+      "id": "p09jmq6g",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09j881m"
+      },
+      "episode": {
+        "id": "p09j881j",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmpth",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09j3n7d"
+      },
+      "episode": {
+        "id": "p09j3n76",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmptp",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09j767j"
+      },
+      "episode": {
+        "id": "p09j3n7t",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmptz",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09jmptw"
+      },
+      "episode": {
+        "id": "p09jmpts",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "John Acres"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmpvs",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09jmpvj"
+      },
+      "episode": {
+        "id": "p09jmpv5",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Stuart George"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmpw4",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09jmpw1"
+      },
+      "episode": {
+        "id": "p09jmpvx",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Liz Ellis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmpwh",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09jmpwc"
+      },
+      "episode": {
+        "id": "p09jmpw7",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Perry Spiller"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jmpwq",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09j88zk"
+      },
+      "episode": {
+        "id": "p09j88zc",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    }
+  ]
+}

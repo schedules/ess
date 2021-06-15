@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:39:25.885Z"
+  },
+  "items": [
+    {
+      "id": "p09hxmfq",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hstc3"
+      },
+      "episode": {
+        "id": "p09hstbz",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxlzk",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hghtn"
+      },
+      "episode": {
+        "id": "p09hghth",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:00:00.000Z",
+        "end": "2021-06-04T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxlzl",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hl55j"
+      },
+      "episode": {
+        "id": "p09hghv6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:00:00.000Z",
+        "end": "2021-06-04T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxlzq",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hl56v"
+      },
+      "episode": {
+        "id": "p09hl569",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Muslim Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:50:00.000Z",
+        "end": "2021-06-04T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxm02",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxlzy"
+      },
+      "episode": {
+        "id": "p09hxlzt",
+        "title": "Elise Evans sits in (04/06/2021)"
+      },
+      "brand": {
+        "title": "Daz Hale"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:00:00.000Z",
+        "end": "2021-06-04T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxm07",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxm05"
+      },
+      "episode": {
+        "id": "p09hxm03",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Danny Kelly"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-04T09:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxm0d",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxm0b"
+      },
+      "episode": {
+        "id": "p09hxm08",
+        "title": "Paul Franks sits in (04/06/2021)"
+      },
+      "brand": {
+        "title": "Kathryn Stanczyszyn"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxm0k",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hxm0h"
+      },
+      "episode": {
+        "id": "p09hxm0f",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "John Fox"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxm0s",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09hstlx"
+      },
+      "episode": {
+        "id": "p09hstlv",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    }
+  ]
+}

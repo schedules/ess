@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_leicester"
+  },
+  "service": {
+    "id": "bbc_radio_leicester",
+    "name": "BBC Radio Leicester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:30:55.977Z"
+  },
+  "items": [
+    {
+      "id": "p09h5j04",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09h4qc6"
+      },
+      "episode": {
+        "id": "p09h4qc3",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dean Jackson"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk7n",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09hgc6r"
+      },
+      "episode": {
+        "id": "p09hgc6p",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk7p",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09hl288"
+      },
+      "episode": {
+        "id": "p09hgc6v",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk7s",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09hl28n"
+      },
+      "episode": {
+        "id": "p09hl28f",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:50:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk8g",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09htk89"
+      },
+      "episode": {
+        "id": "p09htk7y",
+        "title": "Liam Gibbs sits in (29/05/2021)"
+      },
+      "brand": {
+        "title": "Rupal Rajani"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk91",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09htk8w"
+      },
+      "episode": {
+        "id": "p09htk8s",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Andy Pierce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk9b",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09htk95"
+      },
+      "episode": {
+        "id": "p09htk93",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio Leicester Sport: Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htk9w",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09hsw3g"
+      },
+      "episode": {
+        "id": "p09hsw3b",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "The Beat"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htkbr",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09htkbj"
+      },
+      "episode": {
+        "id": "p09htkb7",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Leicestershire and Rutland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leicester"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htkc4",
+      "service": {
+        "id": "bbc_radio_leicester"
+      },
+      "version": {
+        "id": "p09hsw58"
+      },
+      "episode": {
+        "id": "p09hsw4y",
+        "title": "DJ Delights (29/05/2021)"
+      },
+      "brand": {
+        "title": "Devon Daley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

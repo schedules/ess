@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-01T03:30:50.368Z"
+  },
+  "items": [
+    {
+      "id": "p09hhn01",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wjhb"
+      },
+      "episode": {
+        "id": "m000wjhd",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:30:00.000Z",
+        "end": "2021-06-01T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn02",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wjbf"
+      },
+      "episode": {
+        "id": "m000wjbh",
+        "title": "Hay Festival 2021"
+      },
+      "brand": {
+        "title": "All Things Considered"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T04:30:00.000Z",
+        "end": "2021-06-01T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmz8",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj8h"
+      },
+      "episode": {
+        "id": "m000wj8k",
+        "title": "Tom Phipps sits in"
+      },
+      "brand": {
+        "title": "Radio Wales Breakfast with Claire Summers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:00:00.000Z",
+        "end": "2021-06-01T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzb",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj8m"
+      },
+      "episode": {
+        "id": "m000wj8p",
+        "title": "Steffan Powell sits in"
+      },
+      "brand": {
+        "title": "Jason Mohammad"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T07:30:00.000Z",
+        "end": "2021-06-01T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzc",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj8r"
+      },
+      "episode": {
+        "id": "m000wj8t",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Wynne Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T10:00:00.000Z",
+        "end": "2021-06-01T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzd",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj8w"
+      },
+      "episode": {
+        "id": "m000wj8y",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Behnaz Akhgar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T13:00:00.000Z",
+        "end": "2021-06-01T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzf",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj90"
+      },
+      "episode": {
+        "id": "m000wj92",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Gareth Lewis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:00:00.000Z",
+        "end": "2021-06-01T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzg",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj95"
+      },
+      "episode": {
+        "id": "m000wj98",
+        "title": "Viruses"
+      },
+      "brand": {
+        "title": "Uninvited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:30:00.000Z",
+        "end": "2021-06-01T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzh",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj9c"
+      },
+      "episode": {
+        "id": "m000wj9g",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Janice Long"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:00:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhmzk",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj9j"
+      },
+      "episode": {
+        "id": "m000wj9l",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "The Late Show with Eleri Sion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-01T23:30:00.000Z"
+      }
+    }
+  ]
+}

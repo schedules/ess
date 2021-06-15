@@ -1,0 +1,491 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-14T03:30:56.447Z"
+  },
+  "items": [
+    {
+      "id": "p09kbqf0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwxq",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwxs",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x2jh"
+      },
+      "episode": {
+        "id": "m000x2jj",
+        "title": "Luchd-tadhail Cudromach"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:00:00.000Z",
+        "end": "2021-06-14T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwxw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08ndmk8"
+      },
+      "episode": {
+        "id": "b08ndt1w",
+        "title": "Episode 15 - Sgeulachd nan Sgòth"
+      },
+      "brand": {
+        "title": "Sù Shiùsaidh/Little Suzy's Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:15:00.000Z",
+        "end": "2021-06-14T16:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwxy",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvrn"
+      },
+      "episode": {
+        "id": "m000wvrq",
+        "title": "Caidrean Piseig"
+      },
+      "brand": {
+        "title": "Su Pic (Peek Zoo)"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:20:00.000Z",
+        "end": "2021-06-14T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwy0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00dps5g"
+      },
+      "episode": {
+        "id": "b00dps74",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:30:00.000Z",
+        "end": "2021-06-14T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwy4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000c7fw"
+      },
+      "episode": {
+        "id": "m000c7fx",
+        "title": "Put & Slaod"
+      },
+      "brand": {
+        "title": "Piseag agus Cuilean/Kit and Pup"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:40:00.000Z",
+        "end": "2021-06-14T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwy6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000ghq1"
+      },
+      "episode": {
+        "id": "m000ghq2",
+        "title": "Clòimh"
+      },
+      "brand": {
+        "title": "Piseag agus Cuilean/Kit and Pup"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:45:00.000Z",
+        "end": "2021-06-14T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwy8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x2jk"
+      },
+      "episode": {
+        "id": "m000x2jl",
+        "title": "Tractar-teasairginn"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:50:00.000Z",
+        "end": "2021-06-14T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fzpm"
+      },
+      "episode": {
+        "id": "m000fzpn",
+        "title": "Pàiste Do-fhaicsinneach"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:00:00.000Z",
+        "end": "2021-06-14T17:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyf",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x2jm"
+      },
+      "episode": {
+        "id": "m000x2jn",
+        "title": "Marisa am Madadh-allaidh/A (Pre) Teen Wolf Girl"
+      },
+      "brand": {
+        "title": "Port Paipeir"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:25:00.000Z",
+        "end": "2021-06-14T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00yzfh1"
+      },
+      "episode": {
+        "id": "b00yzfhp",
+        "title": "Episode 8 - Episode 8"
+      },
+      "brand": {
+        "title": "Saidheans Sporsail"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:35:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09qvqv6"
+      },
+      "episode": {
+        "id": "b09qvqwx",
+        "title": "Episode 6 - Asainnte"
+      },
+      "brand": {
+        "title": "Kerry is Kirsty"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00jc3vv"
+      },
+      "episode": {
+        "id": "b00jc3yj",
+        "title": "Episode 12 - Episode 12"
+      },
+      "brand": {
+        "title": "Speaking Our Language"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:30:00.000Z",
+        "end": "2021-06-14T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyt",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b04dqt45"
+      },
+      "episode": {
+        "id": "b04dqtyq",
+        "title": "Episode 6 - Episode 6"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:55:00.000Z",
+        "end": "2021-06-14T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwyw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x2jp"
+      },
+      "episode": {
+        "id": "m000x2jq",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T19:00:00.000Z",
+        "end": "2021-06-14T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwz0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000lc2m"
+      },
+      "episode": {
+        "id": "m000lc2n",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "An Lot/The Croft"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T19:30:00.000Z",
+        "end": "2021-06-14T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwz2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09pkt86"
+      },
+      "episode": {
+        "id": "b09pkt8g",
+        "title": "Episode 5 - Clann-nighean nan Taighean-òsda/Highland Hotel Ladies"
+      },
+      "brand": {
+        "title": "Trusadh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T20:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwz5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jyfl"
+      },
+      "episode": {
+        "id": "m000jyfm",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Julie Fowlis | Ceòl aig Baile"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwz7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b087lz4z"
+      },
+      "episode": {
+        "id": "b087lz54",
+        "title": "01/01/2017 - Bha mi Latha Samhraidh/When Stornoway Was Dancing"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:30:00.000Z",
+        "end": "2021-06-14T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwzb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08lgc0d"
+      },
+      "episode": {
+        "id": "b08lgc0p",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Seòid a' Chidsin - The Kitchen Coves"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-14T22:30:00.000Z",
+        "end": "2021-06-14T23:00:00.000Z"
+      }
+    }
+  ]
+}

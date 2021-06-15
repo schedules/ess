@@ -1,0 +1,518 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-25T03:41:32.463Z"
+  },
+  "items": [
+    {
+      "id": "p09hcdkl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:00:00.000Z",
+        "end": "2021-05-25T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdgv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:00:00.000Z",
+        "end": "2021-05-25T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdgw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000gps"
+      },
+      "episode": {
+        "id": "m0000gpt",
+        "title": "Am Fitheach/The Raven"
+      },
+      "brand": {
+        "title": "Gudrun - A' Bhana-phrionnsa Lochlannach"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:00:00.000Z",
+        "end": "2021-05-25T16:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdgx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0006q1j"
+      },
+      "episode": {
+        "id": "m0006q1k",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Peataichean/Pets"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:05:00.000Z",
+        "end": "2021-05-25T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdgy",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wffz"
+      },
+      "episode": {
+        "id": "m000wfg0",
+        "title": "Rùn-dìomhair/Secret"
+      },
+      "brand": {
+        "title": " Sionnach agus Maigheach (Fox & Hare) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:15:00.000Z",
+        "end": "2021-05-25T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000csxv"
+      },
+      "episode": {
+        "id": "m000csxw",
+        "title": "Latha Doirbh an Fhuilt"
+      },
+      "brand": {
+        "title": "Shane an Chef"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:25:00.000Z",
+        "end": "2021-05-25T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b096p589"
+      },
+      "episode": {
+        "id": "b096p58c",
+        "title": "Episode 4 - Coinneamh le Gibidh"
+      },
+      "brand": {
+        "title": "Treud na Dlùth-choille - Grad-Naidheachd/Jungle Bunch"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:35:00.000Z",
+        "end": "2021-05-25T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b036lt9v"
+      },
+      "episode": {
+        "id": "b036lxk5",
+        "title": "Episode 21 - Carabhan/Caravan"
+      },
+      "brand": {
+        "title": "Abadas"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:40:00.000Z",
+        "end": "2021-05-25T16:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfg1"
+      },
+      "episode": {
+        "id": "m000wfg2",
+        "title": "Pom Pom Stùirceach"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:55:00.000Z",
+        "end": "2021-05-25T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfg3"
+      },
+      "episode": {
+        "id": "m000wfg4",
+        "title": "Dhachaigh dhan Dùn"
+      },
+      "brand": {
+        "title": "Ronia, Nighean a' Mheirlich/Ronja, the Robber's Daughter "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:00:00.000Z",
+        "end": "2021-05-25T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000ghq5"
+      },
+      "episode": {
+        "id": "m000ghq6",
+        "title": "Tonn Mharia"
+      },
+      "brand": {
+        "title": "Clann Na Cruinne"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:30:00.000Z",
+        "end": "2021-05-25T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfg5"
+      },
+      "episode": {
+        "id": "m000wfg6",
+        "title": "Tha An Saoghal Làn Stuth/The World is Full of Stuff"
+      },
+      "brand": {
+        "title": "Donnie Murdo/Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:45:00.000Z",
+        "end": "2021-05-25T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6ds",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08vxhqc"
+      },
+      "episode": {
+        "id": "b08vxhqf",
+        "title": "Episode 8 - Episode 8"
+      },
+      "brand": {
+        "title": "Fuine"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:00:00.000Z",
+        "end": "2021-05-25T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6dv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00htbtk"
+      },
+      "episode": {
+        "id": "b00htbx2",
+        "title": "Episode 5 - Episode 5"
+      },
+      "brand": {
+        "title": "Speaking Our Language"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:30:00.000Z",
+        "end": "2021-05-25T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b06061q8"
+      },
+      "episode": {
+        "id": "b06061xr",
+        "title": "Episode 50 - Episode 50"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:55:00.000Z",
+        "end": "2021-05-25T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfg8"
+      },
+      "episode": {
+        "id": "m000wfgc",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T19:00:00.000Z",
+        "end": "2021-05-25T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdh9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gxp5"
+      },
+      "episode": {
+        "id": "m000gxp6",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Dreach Ùr"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T19:30:00.000Z",
+        "end": "2021-05-25T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdhb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0966pkh"
+      },
+      "episode": {
+        "id": "b0966qdg",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Talamh gu Truinnsear"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T20:00:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdhd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfgg"
+      },
+      "episode": {
+        "id": "m000c088",
+        "title": "Bill Lawson - Sar Shloinntear (The Genealogist)"
+      },
+      "brand": {
+        "title": "Trusadh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-25T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdhg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jy57"
+      },
+      "episode": {
+        "id": "m000jy58",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:00:00.000Z",
+        "end": "2021-05-25T22:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdhj",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00hxs6y"
+      },
+      "episode": {
+        "id": "b00hxsb3",
+        "title": "Episode 7 - Episode 7"
+      },
+      "brand": {
+        "title": "Machair"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:05:00.000Z",
+        "end": "2021-05-25T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdhk",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfft"
+      },
+      "episode": {
+        "id": "m000wffv",
+        "title": "Alleluia Naomh Calum Cille (Columba)"
+      },
+      "brand": {
+        "title": "Alleluia!"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:30:00.000Z",
+        "end": "2021-05-25T23:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,909 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-18T03:19:52.519Z"
+  },
+  "items": [
+    {
+      "id": "p09gtz9z",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9g5"
+      },
+      "episode": {
+        "id": "m000w9g6",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:00:00.000Z",
+        "end": "2021-05-17T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9g7"
+      },
+      "episode": {
+        "id": "m000w9g8",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:30:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv4py",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w96g"
+      },
+      "episode": {
+        "id": "m000w96h",
+        "title": "Kaja Kallas - Prime Minister of Estonia"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:30:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9g9"
+      },
+      "episode": {
+        "id": "m000w9gb",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w6yy"
+      },
+      "episode": {
+        "id": "m000w6yz",
+        "title": "Riding the news cycle"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:30:00.000Z",
+        "end": "2021-05-18T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9gc"
+      },
+      "episode": {
+        "id": "m000w9gd",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:00:00.000Z",
+        "end": "2021-05-18T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9gf"
+      },
+      "episode": {
+        "id": "m000w9gg",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Monday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:30:00.000Z",
+        "end": "2021-05-18T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9gh"
+      },
+      "episode": {
+        "id": "m000w9gj",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T02:00:00.000Z",
+        "end": "2021-05-18T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w6z6"
+      },
+      "episode": {
+        "id": "m000w6z7",
+        "title": "15/05/2021"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T02:30:00.000Z",
+        "end": "2021-05-18T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9gk"
+      },
+      "episode": {
+        "id": "m000w9gl",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T03:00:00.000Z",
+        "end": "2021-05-18T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9g7"
+      },
+      "episode": {
+        "id": "m000w9g8",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T03:30:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv4pz",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w96g"
+      },
+      "episode": {
+        "id": "m000w96h",
+        "title": "Kaja Kallas - Prime Minister of Estonia"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T03:30:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzb9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9gm"
+      },
+      "episode": {
+        "id": "m000w9gn",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gtzbb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w9gp"
+      },
+      "episode": {
+        "id": "m000w9gq",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "World Business Report"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:30:00.000Z",
+        "end": "2021-05-18T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w982"
+      },
+      "episode": {
+        "id": "m000w7jc",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:00:00.000Z",
+        "end": "2021-05-18T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w799"
+      },
+      "episode": {
+        "id": "m000w79b",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T08:00:00.000Z",
+        "end": "2021-05-18T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w983"
+      },
+      "episode": {
+        "id": "m000w79g",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:00:00.000Z",
+        "end": "2021-05-18T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w984"
+      },
+      "episode": {
+        "id": "m000w7jm",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T12:00:00.000Z",
+        "end": "2021-05-18T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w985"
+      },
+      "episode": {
+        "id": "m000w986",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T12:30:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w987"
+      },
+      "episode": {
+        "id": "m000w988",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w989"
+      },
+      "episode": {
+        "id": "m000w98b",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T16:00:00.000Z",
+        "end": "2021-05-18T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w7k2"
+      },
+      "episode": {
+        "id": "m000w7k3",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:00:00.000Z",
+        "end": "2021-05-18T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98c"
+      },
+      "episode": {
+        "id": "m000w98d",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:30:00.000Z",
+        "end": "2021-05-18T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfk9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98f"
+      },
+      "episode": {
+        "id": "m000w98g",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:45:00.000Z",
+        "end": "2021-05-18T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98h"
+      },
+      "episode": {
+        "id": "m000w98j",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Outside Source"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:00:00.000Z",
+        "end": "2021-05-18T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98k"
+      },
+      "episode": {
+        "id": "m000w98l",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T19:00:00.000Z",
+        "end": "2021-05-18T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkd",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98m"
+      },
+      "episode": {
+        "id": "m000w98n",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T20:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w7ks"
+      },
+      "episode": {
+        "id": "m000w7kv",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News at Ten"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-18T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkg",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98p"
+      },
+      "episode": {
+        "id": "m000w98q",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:30:00.000Z",
+        "end": "2021-05-18T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98r"
+      },
+      "episode": {
+        "id": "m000w98s",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:45:00.000Z",
+        "end": "2021-05-18T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98t"
+      },
+      "episode": {
+        "id": "m000w98v",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T22:00:00.000Z",
+        "end": "2021-05-18T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98w"
+      },
+      "episode": {
+        "id": "m000w98x",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T22:30:00.000Z",
+        "end": "2021-05-18T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkl",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w98y"
+      },
+      "episode": {
+        "id": "m000w98z",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-18T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w990"
+      },
+      "episode": {
+        "id": "m000w991",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:30:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkn",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w992"
+      },
+      "episode": {
+        "id": "m000w993",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w6z0"
+      },
+      "episode": {
+        "id": "m000w6z1",
+        "title": "Hacking Your Health"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:30:00.000Z",
+        "end": "2021-05-19T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkq",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w994"
+      },
+      "episode": {
+        "id": "m000w995",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:00:00.000Z",
+        "end": "2021-05-19T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfkr",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w996"
+      },
+      "episode": {
+        "id": "m000w997",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Tuesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:30:00.000Z",
+        "end": "2021-05-19T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfks",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000w998"
+      },
+      "episode": {
+        "id": "m000w999",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-19T02:00:00.000Z",
+        "end": "2021-05-19T02:30:00.000Z"
+      }
+    }
+  ]
+}

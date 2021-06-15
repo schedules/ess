@@ -1,0 +1,414 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-28T03:37:14.374Z"
+  },
+  "items": [
+    {
+      "id": "p09hc4nj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0003g0p"
+      },
+      "episode": {
+        "id": "m0003g0r",
+        "title": "Me, My Selfie and I with Ryan Gander"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04fmg50"
+      },
+      "episode": {
+        "id": "b04fmg8g",
+        "title": "Episode 3 - Rembrandt and Ruysch"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbq"
+      },
+      "episode": {
+        "id": "m000wfbr",
+        "title": "Wintertime Discovery"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:30:00.000Z",
+        "end": "2021-05-28T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nn",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08bbl1m"
+      },
+      "episode": {
+        "id": "b08bbmyb",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:00:00.000Z",
+        "end": "2021-05-28T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4np",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfbv"
+      },
+      "episode": {
+        "id": "m000wfbw",
+        "title": "Medical Drugs"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:30:00.000Z",
+        "end": "2021-05-28T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nq",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T02:25:00.000Z",
+        "end": "2021-05-28T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4nr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:30:00.000Z",
+        "end": "2021-05-28T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5tt",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:58:00.000Z",
+        "end": "2021-05-28T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5tv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0088nyq"
+      },
+      "episode": {
+        "id": "b0088nyx",
+        "title": "The Kinks"
+      },
+      "brand": {
+        "title": "Pop Go the Sixties"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:00:00.000Z",
+        "end": "2021-05-28T18:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5tw",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b06nszgm"
+      },
+      "episode": {
+        "id": "b06nszhz",
+        "title": "06/11/2015 - ... Sings Dylan II"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:05:00.000Z",
+        "end": "2021-05-28T19:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5ty",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfdm"
+      },
+      "episode": {
+        "id": "m000wfdn",
+        "title": "19/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T19:05:00.000Z",
+        "end": "2021-05-28T19:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrqqr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wy91"
+      },
+      "episode": {
+        "id": "m000wfdq",
+        "title": "24/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T19:35:00.000Z",
+        "end": "2021-05-28T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5v2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0007vzd"
+      },
+      "episode": {
+        "id": "m0007tvf",
+        "title": "Don't Look Back"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-28T20:00:00.000Z",
+        "end": "2021-05-28T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5v4",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfdr"
+      },
+      "episode": {
+        "id": "m000wfds",
+        "title": "Getting to Dylan"
+      },
+      "brand": {
+        "title": "Omnibus"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:30:00.000Z",
+        "end": "2021-05-28T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5v6",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09zgtj9"
+      },
+      "episode": {
+        "id": "b09x60g3",
+        "title": "30/03/2018 - Bob Dylan – Trouble No More"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:00:00.000Z",
+        "end": "2021-05-28T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5v7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08r828d"
+      },
+      "episode": {
+        "id": "b016300t",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Singer-Songwriters at the BBC"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5v8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b06nszgm"
+      },
+      "episode": {
+        "id": "b06nszhz",
+        "title": "06/11/2015 - ... Sings Dylan II"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc5vc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0007vzd"
+      },
+      "episode": {
+        "id": "m0007tvf",
+        "title": "Don't Look Back"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:00:00.000Z",
+        "end": "2021-05-29T02:35:00.000Z"
+      }
+    }
+  ]
+}

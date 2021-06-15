@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:28:44.620Z"
+  },
+  "items": [
+    {
+      "id": "p09h06fn",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjw"
+      },
+      "episode": {
+        "id": "m000wdjx",
+        "title": "Switch off distraction with handpicked beats"
+      },
+      "brand": {
+        "title": "Focus Beats"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-28T23:00:00.000Z",
+        "end": "2021-05-29T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fp",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdjy"
+      },
+      "episode": {
+        "id": "m000wdjz",
+        "title": "Anchorsong (aka Masaaki Yoshida) curates and mixes two hours of beautiful music"
+      },
+      "brand": {
+        "title": "Ambient Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:00:00.000Z",
+        "end": "2021-05-29T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fq",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000vnns"
+      },
+      "episode": {
+        "id": "m000vnny",
+        "title": "Vol. 4: The new(ish)music that I’m loving"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T03:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06fr",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wdk0"
+      },
+      "episode": {
+        "id": "m000wdk1",
+        "title": "Original Pirate Material"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9d8",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk3v"
+      },
+      "episode": {
+        "id": "m000wk3w",
+        "title": "Chrissie Hynde"
+      },
+      "brand": {
+        "title": "Radcliffe and Maconie"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T06:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9d9",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk3x"
+      },
+      "episode": {
+        "id": "m000wk3y",
+        "title": "Children of Zeus Block Party"
+      },
+      "brand": {
+        "title": "The Huey Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9db",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk3z"
+      },
+      "episode": {
+        "id": "m000wk40",
+        "title": "2011 the best year in music"
+      },
+      "brand": {
+        "title": "Jamz Supernova on 6"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:00:00.000Z",
+        "end": "2021-05-29T13:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dc",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk41"
+      },
+      "episode": {
+        "id": "m000wk42",
+        "title": "The Weekend Warm Up Mix"
+      },
+      "brand": {
+        "title": "Jamz Supernova on 6"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:32:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dd",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk43"
+      },
+      "episode": {
+        "id": "m000wk44",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Gilles Peterson"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9df",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk45"
+      },
+      "episode": {
+        "id": "m000wk46",
+        "title": "Joel Culpepper Trunk of Funk"
+      },
+      "brand": {
+        "title": "The Craig Charles Funk and Soul Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:00:00.000Z",
+        "end": "2021-05-29T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dg",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk47"
+      },
+      "episode": {
+        "id": "m000wk48",
+        "title": "You Can Dance"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T20:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dh",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk49"
+      },
+      "episode": {
+        "id": "m000wk4b",
+        "title": "Salsoul Records"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-29T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dj",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4c"
+      },
+      "episode": {
+        "id": "m000wk4d",
+        "title": "Chrissy In The Mix"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:00:00.000Z",
+        "end": "2021-05-29T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dk",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4f"
+      },
+      "episode": {
+        "id": "m000wk4g",
+        "title": "Honey Dijon - Episode 4"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dl",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4h"
+      },
+      "episode": {
+        "id": "m000wk4j",
+        "title": "Neneh Cherry's Tour of LA"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dm",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000tw50"
+      },
+      "episode": {
+        "id": "m000tw51",
+        "title": "Vol 6: Music I’m listening to now"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:00:00.000Z",
+        "end": "2021-05-30T02:00:00.000Z"
+      }
+    }
+  ]
+}

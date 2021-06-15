@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:30:51.736Z"
+  },
+  "items": [
+    {
+      "id": "p09gt2bp",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gl5c9"
+      },
+      "episode": {
+        "id": "p09gl5c1",
+        "title": "Russell Walker: Songs for Ice Cream."
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1s7",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09g428f"
+      },
+      "episode": {
+        "id": "p09g4288",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1sl",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09g4c5c"
+      },
+      "episode": {
+        "id": "p09g428z",
+        "title": "Claira Hermet sits in (19/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1tt",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1tg"
+      },
+      "episode": {
+        "id": "p09gt1t1",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Georgey Spanswick at Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1wg",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1vq"
+      },
+      "episode": {
+        "id": "p09gt1vg",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Jonathan Cowap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:00:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1y1",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1xq"
+      },
+      "episode": {
+        "id": "p09gt1x9",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Joanita Musisi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1ys",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1yl"
+      },
+      "episode": {
+        "id": "p09gt1yf",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Harry Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1z3",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1z0"
+      },
+      "episode": {
+        "id": "p09gt1yx",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio York"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:00:00.000Z",
+        "end": "2021-05-19T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1zb",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1z8"
+      },
+      "episode": {
+        "id": "p09gt1z5",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Harry Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:00:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt1zp",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gl72q"
+      },
+      "episode": {
+        "id": "p09gl72g",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    }
+  ]
+}

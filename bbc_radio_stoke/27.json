@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_stoke"
+  },
+  "service": {
+    "id": "bbc_radio_stoke",
+    "name": "BBC Radio Stoke",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:17:23.428Z"
+  },
+  "items": [
+    {
+      "id": "p09h832h",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h4kcn"
+      },
+      "episode": {
+        "id": "p09h4kch",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82h5",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82h9",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82hs",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h82hl"
+      },
+      "episode": {
+        "id": "p09h82hf",
+        "title": "with John Acres 27/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82j5",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h82j1"
+      },
+      "episode": {
+        "id": "p09h82hv",
+        "title": "with Stuart George 27/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82jt",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h82jk"
+      },
+      "episode": {
+        "id": "p09h82jb",
+        "title": "with Susan Hanks 27/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82kn",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h82kf"
+      },
+      "episode": {
+        "id": "p09h82k3",
+        "title": "with Lee Blakeman 27/05/2021"
+      },
+      "brand": {
+        "title": "Sport at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82lp",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h82ld"
+      },
+      "episode": {
+        "id": "p09h82l2",
+        "title": "with Perry Spiller 27/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-27T18:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82m4",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h4k2y"
+      },
+      "episode": {
+        "id": "p09h4k2s",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

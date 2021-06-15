@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_lincolnshire"
+  },
+  "service": {
+    "id": "bbc_radio_lincolnshire",
+    "name": "BBC Radio Lincolnshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-01T03:32:01.549Z"
+  },
+  "items": [
+    {
+      "id": "p09htmrk",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09ht8zx"
+      },
+      "episode": {
+        "id": "p09ht8zs",
+        "title": "Russell Walker: Songs for Bin Day!"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htmzs",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09hgf9l"
+      },
+      "episode": {
+        "id": "p09hgf9c",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": "2021-06-01T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htmzz",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09hl3f8"
+      },
+      "episode": {
+        "id": "p09hgfb2",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T04:00:00.000Z",
+        "end": "2021-06-01T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htn0c",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09htn05"
+      },
+      "episode": {
+        "id": "p09htn00",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Sean Dunderdale"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:00:00.000Z",
+        "end": "2021-06-01T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htn0z",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09htn0q"
+      },
+      "episode": {
+        "id": "p09htn0k",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Carla Greene"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-01T09:00:00.000Z",
+        "end": "2021-06-01T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htn2n",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09htn22"
+      },
+      "episode": {
+        "id": "p09htn1l",
+        "title": "Scott Dalton sits in (01/06/2021)"
+      },
+      "brand": {
+        "title": "Melvyn Prior"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-01T13:00:00.000Z",
+        "end": "2021-06-01T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn8fx",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09jn8fq"
+      },
+      "episode": {
+        "id": "p09jn8fg",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Laurie Dyche"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:00:00.000Z",
+        "end": "2021-06-01T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htn38",
+      "service": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "version": {
+        "id": "p09ht9zb"
+      },
+      "episode": {
+        "id": "p09ht9z4",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    }
+  ]
+}

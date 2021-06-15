@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_stoke"
+  },
+  "service": {
+    "id": "bbc_radio_stoke",
+    "name": "BBC Radio Stoke",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-01T03:46:24.114Z"
+  },
+  "items": [
+    {
+      "id": "p09hx623",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hss35"
+      },
+      "episode": {
+        "id": "p09hss33",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx67t",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hgf9l"
+      },
+      "episode": {
+        "id": "p09hgf9c",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": "2021-06-01T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx67x",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hl3f8"
+      },
+      "episode": {
+        "id": "p09hgfb2",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T04:00:00.000Z",
+        "end": "2021-06-01T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx684",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hx682"
+      },
+      "episode": {
+        "id": "p09hx67y",
+        "title": "with Lee Blakeman 01/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:00:00.000Z",
+        "end": "2021-06-01T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx68h",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hx68c"
+      },
+      "episode": {
+        "id": "p09hx687",
+        "title": "with Stuart George 01/06/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-01T09:00:00.000Z",
+        "end": "2021-06-01T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx68r",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hx68n"
+      },
+      "episode": {
+        "id": "p09hx68j",
+        "title": "with Letitia George 01/06/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-01T13:00:00.000Z",
+        "end": "2021-06-01T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx691",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hx68w"
+      },
+      "episode": {
+        "id": "p09hx68t",
+        "title": "with Lucas Yeomans 01/06/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:00:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hx69d",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09hssbc"
+      },
+      "episode": {
+        "id": "p09hssb4",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    }
+  ]
+}

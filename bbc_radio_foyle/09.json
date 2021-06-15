@@ -1,0 +1,497 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_foyle"
+  },
+  "service": {
+    "id": "bbc_radio_foyle",
+    "name": "BBC Radio Foyle",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:21:24.693Z"
+  },
+  "items": [
+    {
+      "id": "p09j5xzl",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000h8yl"
+      },
+      "episode": {
+        "id": "m000h8ym",
+        "title": "As BBC Radio 5 live"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyq",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws71"
+      },
+      "episode": {
+        "id": "m000ws72",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Good Morning Ulster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:30:00.000Z",
+        "end": "2021-06-09T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyr",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000wsdg"
+      },
+      "episode": {
+        "id": "m000wsdh",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-06-09T06:00:00.000Z",
+        "end": "2021-06-09T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jys",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws73"
+      },
+      "episode": {
+        "id": "m000ws74",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Nolan Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:00:00.000Z",
+        "end": "2021-06-09T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyt",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws76"
+      },
+      "episode": {
+        "id": "m000ws78",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Connor Phillips Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:30:00.000Z",
+        "end": "2021-06-09T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyv",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws7b"
+      },
+      "episode": {
+        "id": "m000ws7d",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Talkback"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:00:00.000Z",
+        "end": "2021-06-09T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyw",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000wsdj"
+      },
+      "episode": {
+        "id": "m000wsdk",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-06-09T12:00:00.000Z",
+        "end": "2021-06-09T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyx",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000wsdl"
+      },
+      "episode": {
+        "id": "m000wsdm",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Mark Patterson Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-06-09T12:30:00.000Z",
+        "end": "2021-06-09T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyy",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000wsdn"
+      },
+      "episode": {
+        "id": "m000wsdp",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Radio Foyle News"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-06-09T14:00:00.000Z",
+        "end": "2021-06-09T14:04:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jyz",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000wsdq"
+      },
+      "episode": {
+        "id": "m000wsdr",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Sean Coyle"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-06-09T14:04:00.000Z",
+        "end": "2021-06-09T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz0",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws81"
+      },
+      "episode": {
+        "id": "m000ws84",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Evening Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T15:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz1",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws87"
+      },
+      "episode": {
+        "id": "m000ws8b",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T17:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz2",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws8f"
+      },
+      "episode": {
+        "id": "m000wr9j",
+        "title": "School Meals, Insurance, Volunteers, Savings"
+      },
+      "brand": {
+        "title": "On Your Behalf"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:05:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz3",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws8j"
+      },
+      "episode": {
+        "id": "m000ws8m",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T18:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz4",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws8q"
+      },
+      "episode": {
+        "id": "m000ws8t",
+        "title": "Máire Bhreathnach"
+      },
+      "brand": {
+        "title": "Blas"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:03:00.000Z",
+        "end": "2021-06-09T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz5",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws8w"
+      },
+      "episode": {
+        "id": "m000ws8y",
+        "title": "Wednesday Club"
+      },
+      "brand": {
+        "title": "The Stephen McCauley Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:30:00.000Z",
+        "end": "2021-06-09T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz6",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws90"
+      },
+      "episode": {
+        "id": "m000ws92",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Ralph McLean - Rock and Soul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T20:30:00.000Z",
+        "end": "2021-06-09T21:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz7",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws94"
+      },
+      "episode": {
+        "id": "m000ws96",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Wah Yan Jee Sing"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:55:00.000Z",
+        "end": "2021-06-09T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz8",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws97"
+      },
+      "episode": {
+        "id": "m000ws98",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:00:00.000Z",
+        "end": "2021-06-09T22:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jz9",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws99"
+      },
+      "episode": {
+        "id": "m000ws9b",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Late Show with Eve Blair"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:03:00.000Z",
+        "end": "2021-06-09T22:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jzb",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000ws9c"
+      },
+      "episode": {
+        "id": "m000ws9d",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:55:00.000Z",
+        "end": "2021-06-09T23:00:00.000Z"
+      }
+    }
+  ]
+}

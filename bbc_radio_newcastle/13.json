@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_newcastle"
+  },
+  "service": {
+    "id": "bbc_radio_newcastle",
+    "name": "BBC Newcastle",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:41:15.709Z"
+  },
+  "items": [
+    {
+      "id": "p09k6bhc",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jx3qb"
+      },
+      "episode": {
+        "id": "p09jx3pv",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Simon's Fantastic 80s"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bwc",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jrx0v"
+      },
+      "episode": {
+        "id": "p09jrx0l",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k997r",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k918y"
+      },
+      "episode": {
+        "id": "p09k90pt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bwp",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09js7vq"
+      },
+      "episode": {
+        "id": "p09js7vm",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:50:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bwv",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bws"
+      },
+      "episode": {
+        "id": "p09k6bwq",
+        "title": "Kelly Scott 13/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Newcastle"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bx3",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bx1"
+      },
+      "episode": {
+        "id": "p09k6bwx",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Simon Logan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bxb",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bx7"
+      },
+      "episode": {
+        "id": "p09k6bx5",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Tamsin Robson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bxk",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09k6bxh"
+      },
+      "episode": {
+        "id": "p09k6bxf",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Michael Poulter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6bxm",
+      "service": {
+        "id": "bbc_radio_newcastle"
+      },
+      "version": {
+        "id": "p09jx4b9"
+      },
+      "episode": {
+        "id": "p09jx49x",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Solid Gold Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_newcastle"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    }
+  ]
+}

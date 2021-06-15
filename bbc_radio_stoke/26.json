@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_stoke"
+  },
+  "service": {
+    "id": "bbc_radio_stoke",
+    "name": "BBC Radio Stoke",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:22:24.254Z"
+  },
+  "items": [
+    {
+      "id": "p09h82px",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h4kkc"
+      },
+      "episode": {
+        "id": "p09h4kk5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82yq",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gxjmp"
+      },
+      "episode": {
+        "id": "p09gxjm7",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h82z8",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09gyd1y"
+      },
+      "episode": {
+        "id": "p09gxjn3",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-26T04:00:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8300",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h82zr"
+      },
+      "episode": {
+        "id": "p09h82zh",
+        "title": "with John Acres 26/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8313",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h830t"
+      },
+      "episode": {
+        "id": "p09h830d",
+        "title": "with Stuart George 26/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-26T09:00:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h831t",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h831m"
+      },
+      "episode": {
+        "id": "p09h831d",
+        "title": "with Liz Ellis 26/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8321",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h831y"
+      },
+      "episode": {
+        "id": "p09h831w",
+        "title": "with Perry Spiller 26/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Stoke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_stoke"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h832h",
+      "service": {
+        "id": "bbc_radio_stoke"
+      },
+      "version": {
+        "id": "p09h4kcn"
+      },
+      "episode": {
+        "id": "p09h4kch",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    }
+  ]
+}

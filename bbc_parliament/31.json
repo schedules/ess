@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-31T03:39:53.603Z"
+  },
+  "items": [
+    {
+      "id": "p09jz8yl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x185"
+      },
+      "episode": {
+        "id": "m000x186",
+        "title": "Electoral Commission Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:15:00.000Z",
+        "end": "2021-05-31T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8ym",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqc"
+      },
+      "episode": {
+        "id": "m000wxqd",
+        "title": "Live Australian Trade Deal Urgent Question"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:50:00.000Z",
+        "end": "2021-05-31T01:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yn",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr08"
+      },
+      "episode": {
+        "id": "m000wr09",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:40:00.000Z",
+        "end": "2021-05-31T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jz8yp",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x183"
+      },
+      "episode": {
+        "id": "m000x184",
+        "title": "Equalities Office Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T03:30:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yf2",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr0d"
+      },
+      "episode": {
+        "id": "m000wr0f",
+        "title": "Press Freedom"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jzhrg",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x18f"
+      },
+      "episode": {
+        "id": "m000x18g",
+        "title": "Child Food Poverty"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T06:30:00.000Z",
+        "end": "2021-05-31T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yf3",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj7y"
+      },
+      "episode": {
+        "id": "m000wj7z",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:00:00.000Z",
+        "end": "2021-05-31T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yf7",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr0g"
+      },
+      "episode": {
+        "id": "m000wr0h",
+        "title": "Greensill Capital Committee with Alexander Greensill"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:30:00.000Z",
+        "end": "2021-05-31T11:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yf9",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr0j"
+      },
+      "episode": {
+        "id": "m000wr0k",
+        "title": "Greensill Capital Committee with David Cameron"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:40:00.000Z",
+        "end": "2021-05-31T14:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4yfc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr0l"
+      },
+      "episode": {
+        "id": "m000wr0m",
+        "title": "Greensill Capital Committee with David Cameron"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T14:05:00.000Z",
+        "end": "2021-05-31T15:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq81v",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqf"
+      },
+      "episode": {
+        "id": "m000wxqg",
+        "title": "Dominic Cummings and Covid-19 Committee - Part 1"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T15:25:00.000Z",
+        "end": "2021-05-31T17:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jzhrk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqh"
+      },
+      "episode": {
+        "id": "m000wxqj",
+        "title": "Dominic Cummings and Covid-19 Committee - Part 2"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:55:00.000Z",
+        "end": "2021-05-31T20:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jzhrl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqk"
+      },
+      "episode": {
+        "id": "m000wxql",
+        "title": "Dominic Cummings and Covid-19 Committee - Part 3"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T20:25:00.000Z",
+        "end": "2021-05-31T21:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jzhrm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxq9"
+      },
+      "episode": {
+        "id": "m000wxqb",
+        "title": "NHS and Covid-19 Urgent Question"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:50:00.000Z",
+        "end": "2021-05-31T22:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jzhrp",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wr0g"
+      },
+      "episode": {
+        "id": "m000wr0h",
+        "title": "Greensill Capital Committee with Alexander Greensill"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-31T22:50:00.000Z",
+        "end": "2021-06-01T02:00:00.000Z"
+      }
+    }
+  ]
+}

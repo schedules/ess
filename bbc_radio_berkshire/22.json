@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_berkshire"
+  },
+  "service": {
+    "id": "bbc_radio_berkshire",
+    "name": "BBC Radio Berkshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:27:49.857Z"
+  },
+  "items": [
+    {
+      "id": "p09hbj2j",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09hbhyy"
+      },
+      "episode": {
+        "id": "p09hbhyv",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gycjm",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gycjs",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyck0",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gycjw"
+      },
+      "episode": {
+        "id": "p09gycjt",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:50:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyck7",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gyck5"
+      },
+      "episode": {
+        "id": "p09gyck2",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Bridgitte Tetteh"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b71",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j8b6t"
+      },
+      "episode": {
+        "id": "p09j8b6g",
+        "title": "Live from Binfield (22/05/2021)"
+      },
+      "brand": {
+        "title": "Andrew Peach"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyckf",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gyckc"
+      },
+      "episode": {
+        "id": "p09gyck9",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Bill Buckley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gycks",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gyckm"
+      },
+      "episode": {
+        "id": "p09gyckj",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Sport on BBC Radio Berkshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyclh",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gycl8"
+      },
+      "episode": {
+        "id": "p09gycl1",
+        "title": "Featured Artist: Public Image Ltd"
+      },
+      "brand": {
+        "title": "Stereo Underground"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gycmx",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gycm9"
+      },
+      "episode": {
+        "id": "p09gyclw",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Berkshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gycpk",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gycp4"
+      },
+      "episode": {
+        "id": "p09gycnk",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Bridgitte Tetteh"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-22T20:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gycpz",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09gycpw"
+      },
+      "episode": {
+        "id": "p09gycps",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

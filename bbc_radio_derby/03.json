@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_derby"
+  },
+  "service": {
+    "id": "bbc_radio_derby",
+    "name": "BBC Radio Derby",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-03T03:22:27.373Z"
+  },
+  "items": [
+    {
+      "id": "p09hsw9w",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hsssj"
+      },
+      "episode": {
+        "id": "p09hsssf",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswgw",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hgh67"
+      },
+      "episode": {
+        "id": "p09hgh5s",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:00:00.000Z",
+        "end": "2021-06-03T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswhj",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hl4jx"
+      },
+      "episode": {
+        "id": "p09hgh6y",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T04:00:00.000Z",
+        "end": "2021-06-03T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswjg",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswj7"
+      },
+      "episode": {
+        "id": "p09hswhx",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Andy Twigge"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:00:00.000Z",
+        "end": "2021-06-03T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswjs",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswjp"
+      },
+      "episode": {
+        "id": "p09hswjl",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Ian Skye"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-03T09:00:00.000Z",
+        "end": "2021-06-03T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswk3",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswjx"
+      },
+      "episode": {
+        "id": "p09hswjv",
+        "title": "Steve Jordan sits in (03/06/2021)"
+      },
+      "brand": {
+        "title": "Sally Pepper"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:00:00.000Z",
+        "end": "2021-06-03T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswkh",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswkb"
+      },
+      "episode": {
+        "id": "p09hswk6",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Sportscene At Six"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:00:00.000Z",
+        "end": "2021-06-03T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswl1",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hswky"
+      },
+      "episode": {
+        "id": "p09hswkq",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "The Top Floor"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_derby"
+      },
+      "published_time": {
+        "start": "2021-06-03T18:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hswl5",
+      "service": {
+        "id": "bbc_radio_derby"
+      },
+      "version": {
+        "id": "p09hstc3"
+      },
+      "episode": {
+        "id": "p09hstbz",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    }
+  ]
+}

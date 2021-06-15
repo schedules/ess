@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_norfolk"
+  },
+  "service": {
+    "id": "bbc_radio_norfolk",
+    "name": "BBC Radio Norfolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:21:31.542Z"
+  },
+  "items": [
+    {
+      "id": "p09gnt5f",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gkcx9"
+      },
+      "episode": {
+        "id": "p09gkcx2",
+        "title": "Callers from all across the east"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsgg",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsgm",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09g40cc"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsgs",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsgq"
+      },
+      "episode": {
+        "id": "p09gnsgn",
+        "title": "Synagogue renovation"
+      },
+      "brand": {
+        "title": "Matthew Gudgin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsgz",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsgx"
+      },
+      "episode": {
+        "id": "p09gnsgt",
+        "title": "With Sophie Little and Julie Reinger"
+      },
+      "brand": {
+        "title": "Treasure Quest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsh7",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsh5"
+      },
+      "episode": {
+        "id": "p09gnsh2",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Treasure Quest: Extra Time"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnshn",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gkd5c"
+      },
+      "episode": {
+        "id": "p09gkd4z",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "The Big Country Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:00:00.000Z",
+        "end": "2021-05-16T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsj2",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gktnf"
+      },
+      "episode": {
+        "id": "p09gkd5s",
+        "title": "The John Leech Soul Show (16/05/2021)"
+      },
+      "brand": {
+        "title": "John Leech"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:00:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsj4",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gkwst"
+      },
+      "episode": {
+        "id": "p09gkwsn",
+        "title": "Ray Clark (16/05/2021)"
+      },
+      "brand": {
+        "title": "Ray Clark"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsj6",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09fwqj3"
+      },
+      "episode": {
+        "id": "p09fwqhp",
+        "title": "Vintage Vinyl (16/05/2021)"
+      },
+      "brand": {
+        "title": "Mark Punter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gnsjg",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09gnsjb"
+      },
+      "episode": {
+        "id": "p09gnsj7",
+        "title": "With David Clayton (16/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

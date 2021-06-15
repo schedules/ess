@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cambridge"
+  },
+  "service": {
+    "id": "bbc_radio_cambridge",
+    "name": "BBC Radio Cambridgeshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:36:20.049Z"
+  },
+  "items": [
+    {
+      "id": "p09hlcnv",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hlcnq"
+      },
+      "episode": {
+        "id": "p09hlcnl",
+        "title": "Can sniffer dogs be used to detect Covid-19?"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld1b",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld1p",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hgdjc"
+      },
+      "episode": {
+        "id": "p09hgdj6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld21",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld1v"
+      },
+      "episode": {
+        "id": "p09hld1r",
+        "title": "Louise Hulland 30/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld2h",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld2b"
+      },
+      "episode": {
+        "id": "p09hld25",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Chris South Gardening"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld2v",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld2q"
+      },
+      "episode": {
+        "id": "p09hld2l",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Walk Right Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld39",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld35"
+      },
+      "episode": {
+        "id": "p09hld31",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "The Big Country Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld3q",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld3l"
+      },
+      "episode": {
+        "id": "p09hld3f",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "John Leech"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld4b",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld45"
+      },
+      "episode": {
+        "id": "p09hld3x",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Naked Scientists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld4v",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld4p"
+      },
+      "episode": {
+        "id": "p09hld4k",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "The Folk Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hld5l",
+      "service": {
+        "id": "bbc_radio_cambridge"
+      },
+      "version": {
+        "id": "p09hld5b"
+      },
+      "episode": {
+        "id": "p09hld53",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Cambridgeshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cambridge"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

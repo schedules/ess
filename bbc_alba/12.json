@@ -1,0 +1,472 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-12T03:37:23.373Z"
+  },
+  "items": [
+    {
+      "id": "p09jp0nn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwq6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwq7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000j8j"
+      },
+      "episode": {
+        "id": "m0000j8l",
+        "title": "An Gobhar/The Goat"
+      },
+      "brand": {
+        "title": "Gudrun - A' Bhana-phrionnsa Lochlannach"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:00:00.000Z",
+        "end": "2021-06-12T15:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwq8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvpt"
+      },
+      "episode": {
+        "id": "m000wvpv",
+        "title": "Am Mèirleach Dìomhair"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:10:00.000Z",
+        "end": "2021-06-12T15:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwq9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09f309k"
+      },
+      "episode": {
+        "id": "b09f30bd",
+        "title": "Episode 19 - Dùbhlan a' Gheug Chrìonach"
+      },
+      "brand": {
+        "title": "Tree Fu Tom"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:25:00.000Z",
+        "end": "2021-06-12T15:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09r2kbw"
+      },
+      "episode": {
+        "id": "b09r2ks8",
+        "title": "Episode 6 - Pàdraig Post agus An Uidheam-smachd Cèin Seachranach"
+      },
+      "brand": {
+        "title": "Padraig Post: Seirbheis Deis agus Sonraichte"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:45:00.000Z",
+        "end": "2021-06-12T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fswy"
+      },
+      "episode": {
+        "id": "m000fswz",
+        "title": "Sgeul Taibhs"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:00:00.000Z",
+        "end": "2021-06-12T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x257"
+      },
+      "episode": {
+        "id": "m000x258",
+        "title": "Behind the scenes"
+      },
+      "brand": {
+        "title": "A’ Chùil"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:25:00.000Z",
+        "end": "2021-06-12T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqf",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvr1"
+      },
+      "episode": {
+        "id": "m000wvr2",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "A’ Chùil"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:30:00.000Z",
+        "end": "2021-06-12T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000g1tt"
+      },
+      "episode": {
+        "id": "m000g1tv",
+        "title": "Episode 18"
+      },
+      "brand": {
+        "title": "An Rud As Fhearr Leam"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:35:00.000Z",
+        "end": "2021-06-12T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqh",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x2f3"
+      },
+      "episode": {
+        "id": "m000x2f4",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:45:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqj",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08byjgr"
+      },
+      "episode": {
+        "id": "b08byjjj",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Farpaisean Chon-Chaorach"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kl0jl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0001p9c"
+      },
+      "episode": {
+        "id": "m0001p9d",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Slighean Sgoile an t-Saoghail/Most Dangerous Ways to School"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T18:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kl0jm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000js61"
+      },
+      "episode": {
+        "id": "m000js62",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:50:00.000Z",
+        "end": "2021-06-12T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b006bgk1"
+      },
+      "episode": {
+        "id": "b007hwx7",
+        "title": "Episode 5 - Perthshire"
+      },
+      "brand": {
+        "title": "Tir Is Teanga"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:55:00.000Z",
+        "end": "2021-06-12T19:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvrw"
+      },
+      "episode": {
+        "id": "m000csy6",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Sgoil nan Sagart/Priest School "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T19:25:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0801b6r"
+      },
+      "episode": {
+        "id": "b0801bfy",
+        "title": "Episode 5 - Episode 5"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwql",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00f7jxb"
+      },
+      "episode": {
+        "id": "b00f7jxs",
+        "title": "30/10/2008 - Ar Dobhair Fhein"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:00:00.000Z",
+        "end": "2021-06-12T21:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000x2f5"
+      },
+      "episode": {
+        "id": "m000x2f6",
+        "title": "Aig Ceann a’ Ghlinne/At Glen’s End"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:55:00.000Z",
+        "end": "2021-06-12T22:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbwqs",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000r9dv"
+      },
+      "episode": {
+        "id": "m000kjq9",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Ceòl Dùthchasach/Ken Burns's Country Music "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:05:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    }
+  ]
+}

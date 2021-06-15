@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_norfolk"
+  },
+  "service": {
+    "id": "bbc_radio_norfolk",
+    "name": "BBC Radio Norfolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:33:08.062Z"
+  },
+  "items": [
+    {
+      "id": "p09hv0lk",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hldwb"
+      },
+      "episode": {
+        "id": "p09hldw6",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0fr",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hggd1"
+      },
+      "episode": {
+        "id": "p09hggcy",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:00:00.000Z",
+        "end": "2021-06-02T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0gc",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hl3yg"
+      },
+      "episode": {
+        "id": "p09hggd5",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:00:00.000Z",
+        "end": "2021-06-02T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0h2",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0gy"
+      },
+      "episode": {
+        "id": "p09hv0gp",
+        "title": "Rob Butler sits in"
+      },
+      "brand": {
+        "title": "Chris Goreham"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-02T05:00:00.000Z",
+        "end": "2021-06-02T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0h7",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0h5"
+      },
+      "episode": {
+        "id": "p09hv0h3",
+        "title": "With Angie George (02/06/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-02T09:00:00.000Z",
+        "end": "2021-06-02T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0hg",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0hd"
+      },
+      "episode": {
+        "id": "p09hv0hb",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Stephen Bumfrey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-02T13:00:00.000Z",
+        "end": "2021-06-02T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0hm",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0hk"
+      },
+      "episode": {
+        "id": "p09hv0hh",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "The Scrimmage"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:00:00.000Z",
+        "end": "2021-06-02T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0hs",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0hq"
+      },
+      "episode": {
+        "id": "p09hv0hn",
+        "title": "Sophie Little sits in"
+      },
+      "brand": {
+        "title": "Rob Butler"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0ht",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hlfpp"
+      },
+      "episode": {
+        "id": "p09hlfpk",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    }
+  ]
+}

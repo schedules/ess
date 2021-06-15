@@ -1,0 +1,617 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-29T03:21:41.732Z"
+  },
+  "items": [
+    {
+      "id": "p09hd37b",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b065s1jb"
+      },
+      "episode": {
+        "id": "b06km7fb",
+        "title": "07/10/2015 - Effie Gray"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:20:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd37d",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mc2cp"
+      },
+      "episode": {
+        "id": "p08mc29j",
+        "title": "The Oath"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T00:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd37g",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08mccxp"
+      },
+      "episode": {
+        "id": "p08mcct7",
+        "title": "Blood on the Scales"
+      },
+      "brand": {
+        "title": "Battlestar Galactica"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:45:00.000Z",
+        "end": "2021-05-29T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd37h",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wh0h"
+      },
+      "episode": {
+        "id": "m000w22w",
+        "title": "David and Darryl"
+      },
+      "brand": {
+        "title": "Saved by a Stranger"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T01:25:00.000Z",
+        "end": "2021-05-29T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd37j",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wh0k"
+      },
+      "episode": {
+        "id": "m000vljb",
+        "title": "Stoke Mandeville to Beaconsfield"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:25:00.000Z",
+        "end": "2021-05-29T02:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd37k",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-05-29T02:55:00.000Z",
+        "end": "2021-05-29T05:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1989",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b07tlsch"
+      },
+      "episode": {
+        "id": "b07tlwnz",
+        "title": "Episode 3 - The Solar Show"
+      },
+      "brand": {
+        "title": "Wild & Weird"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:45:00.000Z",
+        "end": "2021-05-29T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198c",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0brfhv6"
+      },
+      "episode": {
+        "id": "b0brjj23",
+        "title": "Episode 2 - Queen Victoria Den"
+      },
+      "brand": {
+        "title": "The Dengineers"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-29T06:00:00.000Z",
+        "end": "2021-05-29T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198f",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000s4ry"
+      },
+      "episode": {
+        "id": "m000s4rz",
+        "title": "Tara v Caleb"
+      },
+      "brand": {
+        "title": "The Dog Ate My Homework"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-29T06:30:00.000Z",
+        "end": "2021-05-29T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198g",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wfl3"
+      },
+      "episode": {
+        "id": "m000wfl4",
+        "title": "Out and About in Search of Wildlife!"
+      },
+      "brand": {
+        "title": "Blue Peter"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-29T07:00:00.000Z",
+        "end": "2021-05-29T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198j",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b04kn2vr"
+      },
+      "episode": {
+        "id": "b04kn2vw",
+        "title": "Episode 12 - Best Of"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-29T07:30:00.000Z",
+        "end": "2021-05-29T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198k",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b04ly7bh"
+      },
+      "episode": {
+        "id": "p0276ppy",
+        "title": "Episode 2 - Why Are We Here?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T08:00:00.000Z",
+        "end": "2021-05-29T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198l",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b00tnddv"
+      },
+      "episode": {
+        "id": "b00tndwz",
+        "title": "Episode 2 - Last Stand of the Silverback King"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T09:00:00.000Z",
+        "end": "2021-05-29T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198m",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnm9"
+      },
+      "episode": {
+        "id": "b00780g1",
+        "title": "09/10/1999 - Tycoon"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T10:00:00.000Z",
+        "end": "2021-05-29T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198n",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b01qxpsy"
+      },
+      "episode": {
+        "id": "b01qxpv0",
+        "title": "16/02/2013 - John Wayne"
+      },
+      "brand": {
+        "title": "Talking Pictures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:00:00.000Z",
+        "end": "2021-05-29T12:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198p",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0959tyk"
+      },
+      "episode": {
+        "id": "b0959vtk",
+        "title": "Episode 19 - All at Sea 3"
+      },
+      "brand": {
+        "title": "Coast"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:45:00.000Z",
+        "end": "2021-05-29T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198q",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgzt"
+      },
+      "episode": {
+        "id": "m000wgzw",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Springwatch"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T13:00:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198r",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgxm"
+      },
+      "episode": {
+        "id": "m000wgxp",
+        "title": "Shelley and Steven"
+      },
+      "brand": {
+        "title": "Your Home Made Perfect"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198s",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wmmk"
+      },
+      "episode": {
+        "id": "m000wfcw",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T15:00:00.000Z",
+        "end": "2021-05-29T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198t",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0003ypn"
+      },
+      "episode": {
+        "id": "b0077l99",
+        "title": "23/08/1998 - The Battle of the River Plate"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T16:00:00.000Z",
+        "end": "2021-05-29T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198v",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnmf"
+      },
+      "episode": {
+        "id": "m000wnmk",
+        "title": "Park Royal to Westminster"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:00:00.000Z",
+        "end": "2021-05-29T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198w",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0002b96"
+      },
+      "episode": {
+        "id": "b007bkzj",
+        "title": "Episode 2 - Battle School"
+      },
+      "brand": {
+        "title": "Dad's Army"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-29T18:30:00.000Z",
+        "end": "2021-05-29T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198x",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08skpqn"
+      },
+      "episode": {
+        "id": "b08skpz5",
+        "title": "02/06/2017 - The Story of 1984"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:00:00.000Z",
+        "end": "2021-05-29T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198y",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnmp"
+      },
+      "episode": {
+        "id": "m000wnmt",
+        "title": "Cher at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T20:00:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j198z",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnmy"
+      },
+      "episode": {
+        "id": "m000wnn2",
+        "title": "Moonstruck"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-29T22:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1990",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0007zh6"
+      },
+      "episode": {
+        "id": "m0007zh7",
+        "title": "20th Century Women"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:40:00.000Z",
+        "end": "2021-05-30T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1991",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08skprp"
+      },
+      "episode": {
+        "id": "b08skpzg",
+        "title": "02/06/2017 - 1984 - Big Hits"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:30:00.000Z",
+        "end": "2021-05-30T01:30:00.000Z"
+      }
+    }
+  ]
+}

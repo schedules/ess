@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_norfolk"
+  },
+  "service": {
+    "id": "bbc_radio_norfolk",
+    "name": "BBC Radio Norfolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:39:58.362Z"
+  },
+  "items": [
+    {
+      "id": "p09hv033",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hlcnq"
+      },
+      "episode": {
+        "id": "p09hlcnl",
+        "title": "Can sniffer dogs be used to detect Covid-19?"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0bz",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0c3",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hgdjc"
+      },
+      "episode": {
+        "id": "p09hgdj6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0cb",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0c8"
+      },
+      "episode": {
+        "id": "p09hv0c5",
+        "title": "Mousehold Hub"
+      },
+      "brand": {
+        "title": "Matthew Gudgin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0cn",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0cg"
+      },
+      "episode": {
+        "id": "p09hv0cc",
+        "title": "With Sophie Little and Julie Reinger"
+      },
+      "brand": {
+        "title": "Treasure Quest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0df",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0d7"
+      },
+      "episode": {
+        "id": "p09hv0d1",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Treasure Quest: Extra Time"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0dg",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hld35"
+      },
+      "episode": {
+        "id": "p09hld31",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "The Big Country Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0dh",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hld3l"
+      },
+      "episode": {
+        "id": "p09hld3f",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "John Leech"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0dk",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09ht170"
+      },
+      "episode": {
+        "id": "p09ht16m",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Ray Clark"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0dm",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09ht17p"
+      },
+      "episode": {
+        "id": "p09ht17f",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Mark Punter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv0f1",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv0dw"
+      },
+      "episode": {
+        "id": "p09hv0dr",
+        "title": "With David Clayton (30/05/2021)"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_norfolk"
+  },
+  "service": {
+    "id": "bbc_radio_norfolk",
+    "name": "BBC Radio Norfolk",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-03T03:28:50.121Z"
+  },
+  "items": [
+    {
+      "id": "p09hv0ht",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hlfpp"
+      },
+      "episode": {
+        "id": "p09hlfpk",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv03n",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hgh67"
+      },
+      "episode": {
+        "id": "p09hgh5s",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:00:00.000Z",
+        "end": "2021-06-03T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv03x",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hl4jx"
+      },
+      "episode": {
+        "id": "p09hgh6y",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T04:00:00.000Z",
+        "end": "2021-06-03T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv045",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv041"
+      },
+      "episode": {
+        "id": "p09hv03y",
+        "title": "Rob Butler sits in"
+      },
+      "brand": {
+        "title": "Chris Goreham"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:00:00.000Z",
+        "end": "2021-06-03T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv04r",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv04m"
+      },
+      "episode": {
+        "id": "p09hv048",
+        "title": "With Angie George (03/06/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Norfolk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-03T09:00:00.000Z",
+        "end": "2021-06-03T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv057",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv054"
+      },
+      "episode": {
+        "id": "p09hv051",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Stephen Bumfrey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:00:00.000Z",
+        "end": "2021-06-03T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv05p",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hv05k"
+      },
+      "episode": {
+        "id": "p09hv05b",
+        "title": "With Kitty Perrin (03/06/2021)"
+      },
+      "brand": {
+        "title": "The Social"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_norfolk"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hv05t",
+      "service": {
+        "id": "bbc_radio_norfolk"
+      },
+      "version": {
+        "id": "p09hlfwp"
+      },
+      "episode": {
+        "id": "p09hlfwl",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Nick Risby"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    }
+  ]
+}

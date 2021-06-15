@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_hereford_worcester"
+  },
+  "service": {
+    "id": "bbc_radio_hereford_worcester",
+    "name": "BBC Hereford & Worcester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:28:26.319Z"
+  },
+  "items": [
+    {
+      "id": "p09ht52g",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09hsrqq"
+      },
+      "episode": {
+        "id": "p09hsrqn",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5ds",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09hgdrd"
+      },
+      "episode": {
+        "id": "p09hgdrb",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5f4",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09hl31g"
+      },
+      "episode": {
+        "id": "p09hgdrm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5fl",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09ht5fd"
+      },
+      "episode": {
+        "id": "p09ht5f8",
+        "title": "Elliott Webb at Breakfast (31/05/2021)"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5gj",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09ht5g4"
+      },
+      "episode": {
+        "id": "p09ht5fx",
+        "title": "Malcolm Boyden (31/05/2021)"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5h3",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09ht5gx"
+      },
+      "episode": {
+        "id": "p09ht5gr",
+        "title": "Andrew Easton (31/05/2021)"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5hz",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09ht5hp"
+      },
+      "episode": {
+        "id": "p09ht5hc",
+        "title": "Airwaves Festival: Day Four"
+      },
+      "brand": {
+        "title": "Evenings on BBC Hereford & Worcester"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09ht5jr",
+      "service": {
+        "id": "bbc_radio_hereford_worcester"
+      },
+      "version": {
+        "id": "p09hss35"
+      },
+      "episode": {
+        "id": "p09hss33",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    }
+  ]
+}

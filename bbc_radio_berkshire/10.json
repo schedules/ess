@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_berkshire"
+  },
+  "service": {
+    "id": "bbc_radio_berkshire",
+    "name": "BBC Radio Berkshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:43:28.551Z"
+  },
+  "items": [
+    {
+      "id": "p09j76cg",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76c9"
+      },
+      "episode": {
+        "id": "p09j76by",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76l1",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j3nzy"
+      },
+      "episode": {
+        "id": "p09j3nzt",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:00:00.000Z",
+        "end": "2021-06-10T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76ld",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76lb"
+      },
+      "episode": {
+        "id": "p09j3p03",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-10T04:00:00.000Z",
+        "end": "2021-06-10T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76lw",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76lq"
+      },
+      "episode": {
+        "id": "p09j76lh",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Andrew Peach"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:00:00.000Z",
+        "end": "2021-06-10T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76md",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76m8"
+      },
+      "episode": {
+        "id": "p09j76m4",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Bill Buckley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-06-10T09:00:00.000Z",
+        "end": "2021-06-10T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76mw",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76mp"
+      },
+      "episode": {
+        "id": "p09j76mk",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Phil Kennedy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-06-10T13:00:00.000Z",
+        "end": "2021-06-10T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76np",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76nf"
+      },
+      "episode": {
+        "id": "p09j76n6",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Michelle Jordan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-06-10T17:00:00.000Z",
+        "end": "2021-06-10T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j76pr",
+      "service": {
+        "id": "bbc_radio_berkshire"
+      },
+      "version": {
+        "id": "p09j76pd"
+      },
+      "episode": {
+        "id": "p09j76p7",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    }
+  ]
+}

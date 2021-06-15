@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:33:20.905Z"
+  },
+  "items": [
+    {
+      "id": "p09hnb6w",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm1g"
+      },
+      "episode": {
+        "id": "m000wm1h",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:00:00.000Z",
+        "end": "2021-06-05T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6x",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm1j"
+      },
+      "episode": {
+        "id": "m000wm1k",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Richard Rees"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:30:00.000Z",
+        "end": "2021-06-05T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sbw",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000ws0g"
+      },
+      "episode": {
+        "id": "m000ws0h",
+        "title": "Bryn Tomos yn cyflwyno"
+      },
+      "brand": {
+        "title": "Galwad Cynnar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:00:00.000Z",
+        "end": "2021-06-05T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sbz",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000ws0j"
+      },
+      "episode": {
+        "id": "m000ws0k",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T07:00:00.000Z",
+        "end": "2021-06-05T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sc0",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000ws0l"
+      },
+      "episode": {
+        "id": "m000ws0m",
+        "title": "Cymru yn erbyn Albania"
+      },
+      "brand": {
+        "title": "Ar y Marc"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T07:30:00.000Z",
+        "end": "2021-06-05T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sc2",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr5r"
+      },
+      "episode": {
+        "id": "m000wr5s",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Tudur Owen"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T08:00:00.000Z",
+        "end": "2021-06-05T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sc4",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr5t"
+      },
+      "episode": {
+        "id": "m000wr5v",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Y Sioe Sadwrn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:00:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sc8",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr5w"
+      },
+      "episode": {
+        "id": "m000wr5x",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Pnawn Sadwrn Catrin Angharad"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5scb",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr5y"
+      },
+      "episode": {
+        "id": "m000wr5z",
+        "title": "Cymru v Albania"
+      },
+      "brand": {
+        "title": "Chwaraeon Radio Cymru"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:30:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5scd",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr60"
+      },
+      "episode": {
+        "id": "m000wr61",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Ewro Marc"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5scf",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr63"
+      },
+      "episode": {
+        "id": "m000wr64",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Marc Griffiths"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5scj",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wr65"
+      },
+      "episode": {
+        "id": "m000wr66",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Ffion Emyr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-05T23:00:00.000Z"
+      }
+    }
+  ]
+}

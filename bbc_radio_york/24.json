@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:16:51.031Z"
+  },
+  "items": [
+    {
+      "id": "p09h8k1d",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h540c"
+      },
+      "episode": {
+        "id": "p09h5408",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kj7",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gxh0l"
+      },
+      "episode": {
+        "id": "p09gxh0h",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kjl",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gycy7"
+      },
+      "episode": {
+        "id": "p09gxh0q",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kk3",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8kjx"
+      },
+      "episode": {
+        "id": "p09h8kjt",
+        "title": "Adam Tomlinson sits in (24/05/2021)"
+      },
+      "brand": {
+        "title": "Georgey Spanswick at Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kkq",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8kkh"
+      },
+      "episode": {
+        "id": "p09h8kk8",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Jonathan Cowap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kky",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8kkw"
+      },
+      "episode": {
+        "id": "p09h8kkt",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Joanita Musisi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kl6",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8kl2"
+      },
+      "episode": {
+        "id": "p09h8kl0",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Bek Homer"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kld",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h53w4"
+      },
+      "episode": {
+        "id": "p09h53w1",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    }
+  ]
+}

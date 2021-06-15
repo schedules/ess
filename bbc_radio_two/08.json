@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:33:45.098Z"
+  },
+  "items": [
+    {
+      "id": "p09j6g6b",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt6j"
+      },
+      "episode": {
+        "id": "m000wt6k",
+        "title": "Post Wild Boys Of Radio 2 Handover"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g6c",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwr"
+      },
+      "episode": {
+        "id": "m000wrws",
+        "title": "2000"
+      },
+      "brand": {
+        "title": "Pick of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T02:00:00.000Z",
+        "end": "2021-06-08T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g6d",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt6l"
+      },
+      "episode": {
+        "id": "m000wt6m",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T03:00:00.000Z",
+        "end": "2021-06-08T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xp2",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws61"
+      },
+      "episode": {
+        "id": "m000ws63",
+        "title": "Khadijah Mellah and Mark Wright"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T05:30:00.000Z",
+        "end": "2021-06-08T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xp4",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws65"
+      },
+      "episode": {
+        "id": "m000ws67",
+        "title": "Scott Mills sits in with Jade Thirlwall choosing Tracks Of My Years"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T08:30:00.000Z",
+        "end": "2021-06-08T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xp5",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws69"
+      },
+      "episode": {
+        "id": "m000ws6c",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T11:00:00.000Z",
+        "end": "2021-06-08T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xp7",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6f"
+      },
+      "episode": {
+        "id": "m000ws6h",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T13:00:00.000Z",
+        "end": "2021-06-08T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xp9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6j"
+      },
+      "episode": {
+        "id": "m000ws6k",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T16:00:00.000Z",
+        "end": "2021-06-08T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpc",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6l"
+      },
+      "episode": {
+        "id": "m000ws6m",
+        "title": "Glenn Frey, Ultra Nate, Vanilla Ice and more - 30 minutes of banging tunes!"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T17:30:00.000Z",
+        "end": "2021-06-08T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6n"
+      },
+      "episode": {
+        "id": "m000ws6p",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley's Shiny Happy Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:00:00.000Z",
+        "end": "2021-06-08T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xph",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6q"
+      },
+      "episode": {
+        "id": "m000ws6r",
+        "title": "Culture Club: film with James King"
+      },
+      "brand": {
+        "title": "Jo Whiley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:30:00.000Z",
+        "end": "2021-06-08T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6s"
+      },
+      "episode": {
+        "id": "m000ws6t",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "The Jazz Show with Jamie Cullum"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T20:00:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpl",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6v"
+      },
+      "episode": {
+        "id": "m000ws6w",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-08T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws6x"
+      },
+      "episode": {
+        "id": "m000ws6y",
+        "title": "Punderland XI"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T02:00:00.000Z"
+      }
+    }
+  ]
+}

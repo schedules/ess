@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-01T03:30:06.329Z"
+  },
+  "items": [
+    {
+      "id": "p09hjv3w",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyy"
+      },
+      "episode": {
+        "id": "m000wkyz",
+        "title": "Handel's Theodora"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:30:00.000Z",
+        "end": "2021-06-01T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlg9"
+      },
+      "episode": {
+        "id": "m000wlgb",
+        "title": "Tuesday - Petroc's classical commute"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:30:00.000Z",
+        "end": "2021-06-01T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgc"
+      },
+      "episode": {
+        "id": "m000wlgd",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T08:00:00.000Z",
+        "end": "2021-06-01T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgf"
+      },
+      "episode": {
+        "id": "m000wlgg",
+        "title": "A Man of Peace"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T11:00:00.000Z",
+        "end": "2021-06-01T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgh"
+      },
+      "episode": {
+        "id": "m000wlgj",
+        "title": "Consone Quartet plays Schumann's Piano Quintet with Paolo Zanzu"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T12:00:00.000Z",
+        "end": "2021-06-01T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5ph",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgk"
+      },
+      "episode": {
+        "id": "m000wlgl",
+        "title": "Celebrating the Ulster Orchestra and the BBC Concert Orchestra (2/5)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T13:00:00.000Z",
+        "end": "2021-06-01T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgm"
+      },
+      "episode": {
+        "id": "m000wlgn",
+        "title": "Gweneth Ann Rand and Simon Lepper, Lise de la Salle"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:00:00.000Z",
+        "end": "2021-06-01T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jl67h",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0002cdv"
+      },
+      "episode": {
+        "id": "m0002cdw",
+        "title": "Your invigorating classical playlist"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:00:00.000Z",
+        "end": "2021-06-01T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgr"
+      },
+      "episode": {
+        "id": "m000wlgs",
+        "title": "Navarra Quartet and James Gilchrist"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:30:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgt"
+      },
+      "episode": {
+        "id": "m000wlgv",
+        "title": "The Botanical Past"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-01T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgw"
+      },
+      "episode": {
+        "id": "m000wlgx",
+        "title": "Tirana"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:45:00.000Z",
+        "end": "2021-06-01T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgy"
+      },
+      "episode": {
+        "id": "m000wlgz",
+        "title": "Evening soundscape"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:00:00.000Z",
+        "end": "2021-06-01T23:30:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_northampton"
+  },
+  "service": {
+    "id": "bbc_radio_northampton",
+    "name": "BBC Radio Northampton",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:39:57.182Z"
+  },
+  "items": [
+    {
+      "id": "p09hwnpw",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hlcnq"
+      },
+      "episode": {
+        "id": "p09hlcnl",
+        "title": "Can sniffer dogs be used to detect Covid-19?"
+      },
+      "brand": {
+        "title": "Justin Dealey"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwngn",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwngs",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hgdjc"
+      },
+      "episode": {
+        "id": "p09hgdj6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnhb",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnh4"
+      },
+      "episode": {
+        "id": "p09hwngw",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Martin Heath"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnjk",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnj5"
+      },
+      "episode": {
+        "id": "p09hwnhp",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "John Griff"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnkq",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09ht15s"
+      },
+      "episode": {
+        "id": "p09ht15l",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Matt Mackay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnl2",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hld3l"
+      },
+      "episode": {
+        "id": "p09hld3f",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "John Leech"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_essex"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnld",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnlb"
+      },
+      "episode": {
+        "id": "p09hwnl6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Farzana Chaudry"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnln",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnll"
+      },
+      "episode": {
+        "id": "p09hwnlg",
+        "title": "Watford roller skating star, Britain’s first Black bus driver, The Big Guest Cleveland Watkiss"
+      },
+      "brand": {
+        "title": "Edward Adoo"
+      },
+      "masterbrand": {
+        "id": "bbc_three_counties_radio"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwnlv",
+      "service": {
+        "id": "bbc_radio_northampton"
+      },
+      "version": {
+        "id": "p09hwnls"
+      },
+      "episode": {
+        "id": "p09hwnlp",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Northampton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_northampton"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

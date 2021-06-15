@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:34:31.322Z"
+  },
+  "items": [
+    {
+      "id": "p09jvlry",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f5"
+      },
+      "episode": {
+        "id": "m000x0f6",
+        "title": "Weekend Boasts"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvls1",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f7"
+      },
+      "episode": {
+        "id": "m000x0f8",
+        "title": "Football Special: Cole, Gascoigne, Wright and Waddle"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:30:00.000Z",
+        "end": "2021-06-14T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvls4",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x03g"
+      },
+      "episode": {
+        "id": "m000x03h",
+        "title": "1975"
+      },
+      "brand": {
+        "title": "Pick of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T02:00:00.000Z",
+        "end": "2021-06-14T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvls6",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f9"
+      },
+      "episode": {
+        "id": "m000x0fb",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T03:00:00.000Z",
+        "end": "2021-06-14T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr32",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0ly"
+      },
+      "episode": {
+        "id": "m000x0lz",
+        "title": "Shaun Ryder and Dr Bee"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:30:00.000Z",
+        "end": "2021-06-14T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr33",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0m0"
+      },
+      "episode": {
+        "id": "m000x0m1",
+        "title": "Jon Fratelli chooses the Tracks of My Years"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T08:30:00.000Z",
+        "end": "2021-06-14T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr34",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0m2"
+      },
+      "episode": {
+        "id": "m000x0m3",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T11:00:00.000Z",
+        "end": "2021-06-14T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr35",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0m4"
+      },
+      "episode": {
+        "id": "m000x0m5",
+        "title": "With guests Peter Andre and Nick Robinson"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T13:00:00.000Z",
+        "end": "2021-06-14T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr36",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0m6"
+      },
+      "episode": {
+        "id": "m000x0m7",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:00:00.000Z",
+        "end": "2021-06-14T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr37",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0m8"
+      },
+      "episode": {
+        "id": "m000x0m9",
+        "title": "The Tramps, Republica, Bananarama and more - 30 minutes of banging tunes!"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:30:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr38",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0mb"
+      },
+      "episode": {
+        "id": "m000x0mc",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley's Shiny Happy Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr39",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0md"
+      },
+      "episode": {
+        "id": "m000x0mf",
+        "title": "Culture Club: books with Candice Brathwaite"
+      },
+      "brand": {
+        "title": "Jo Whiley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:30:00.000Z",
+        "end": "2021-06-14T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr3b",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0mg"
+      },
+      "episode": {
+        "id": "m000x0mh",
+        "title": "Buzzing Bee Blues"
+      },
+      "brand": {
+        "title": "The Blues Show with Cerys Matthews"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T20:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr3c",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0mj"
+      },
+      "episode": {
+        "id": "m000x0mk",
+        "title": "DJ Spoony sits in"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvr3d",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0ml"
+      },
+      "episode": {
+        "id": "m000x0mm",
+        "title": "Post Wild Boys Of Radio 2 Handover"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:00:00.000Z",
+        "end": "2021-06-15T02:00:00.000Z"
+      }
+    }
+  ]
+}

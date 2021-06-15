@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-03T03:37:56.868Z"
+  },
+  "items": [
+    {
+      "id": "p09hxndm",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09htbcp"
+      },
+      "episode": {
+        "id": "p09htbcg",
+        "title": "Russell Walker: Songs for Public Transport"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn8n",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hgh67"
+      },
+      "episode": {
+        "id": "p09hgh5s",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:00:00.000Z",
+        "end": "2021-06-03T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn8p",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hl4jx"
+      },
+      "episode": {
+        "id": "p09hgh6y",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-03T04:00:00.000Z",
+        "end": "2021-06-03T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn8v",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn8s"
+      },
+      "episode": {
+        "id": "p09hxn8q",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Georgey Spanswick at Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-03T05:00:00.000Z",
+        "end": "2021-06-03T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn93",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn90"
+      },
+      "episode": {
+        "id": "p09hxn8w",
+        "title": "Julia Lewis sits in (03/06/2021)"
+      },
+      "brand": {
+        "title": "Jonathan Cowap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-03T09:00:00.000Z",
+        "end": "2021-06-03T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn9d",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn97"
+      },
+      "episode": {
+        "id": "p09hxn95",
+        "title": "Sarah Urwin sits in (03/06/2021)"
+      },
+      "brand": {
+        "title": "Joanita Musisi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-03T13:00:00.000Z",
+        "end": "2021-06-03T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn9p",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn9l"
+      },
+      "episode": {
+        "id": "p09hxn9h",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Beth McCarthy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:00:00.000Z",
+        "end": "2021-06-03T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn9q",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09htbzp"
+      },
+      "episode": {
+        "id": "p09htbzh",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-13T03:39:38.089Z"
+  },
+  "items": [
+    {
+      "id": "p09kbq5q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p09dvkd6"
+      },
+      "episode": {
+        "id": "b017h80m",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:45:00.000Z",
+        "end": "2021-06-12T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p09dvkf3"
+      },
+      "episode": {
+        "id": "b038hd12",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:45:00.000Z",
+        "end": "2021-06-13T00:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p09dvkf5"
+      },
+      "episode": {
+        "id": "b0391fc7",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:45:00.000Z",
+        "end": "2021-06-13T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0084knm"
+      },
+      "episode": {
+        "id": "b0084kpm",
+        "title": "Episode 6 - From Pole to Pole"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:45:00.000Z",
+        "end": "2021-06-13T02:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:45:00.000Z",
+        "end": "2021-06-13T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbq5z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:30:00.000Z",
+        "end": "2021-06-13T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:58:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhms",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b019c9rc"
+      },
+      "episode": {
+        "id": "b019c9t9",
+        "title": "13/01/2012 - The Lark Ascending"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmt",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x29y"
+      },
+      "episode": {
+        "id": "m000x29z",
+        "title": "Round 1"
+      },
+      "brand": {
+        "title": "BBC Cardiff Singer of the World"
+      },
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:30:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07l6b8s"
+      },
+      "episode": {
+        "id": "b07l6bd0",
+        "title": "19/07/2016 - The Search for the Lost Manuscript: Julian of Norwich"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmw",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x2b0"
+      },
+      "episode": {
+        "id": "m000x2b1",
+        "title": "Space Boom Britain"
+      },
+      "brand": {
+        "title": "The Sky at Night"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-13T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmx",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000m7j7"
+      },
+      "episode": {
+        "id": "m000m7j8",
+        "title": "Kenya"
+      },
+      "brand": {
+        "title": "African Renaissance: When Art Meets Power"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:30:00.000Z",
+        "end": "2021-06-13T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmy",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b095vnsd"
+      },
+      "episode": {
+        "id": "b095vp3p",
+        "title": "18/09/2017 - Goodbye Cassini - Hello Saturn"
+      },
+      "brand": {
+        "title": "Horizon"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:30:00.000Z",
+        "end": "2021-06-13T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhmz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01r3mmj"
+      },
+      "episode": {
+        "id": "b01r3n6r",
+        "title": "05/03/2013 - Treasures of the Louvre"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:30:00.000Z",
+        "end": "2021-06-14T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhn0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b019c9rc"
+      },
+      "episode": {
+        "id": "b019c9t9",
+        "title": "13/01/2012 - The Lark Ascending"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:00:00.000Z",
+        "end": "2021-06-14T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhn1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07ls9r0"
+      },
+      "episode": {
+        "id": "b07l6bd0",
+        "title": "19/07/2016 - The Search for the Lost Manuscript: Julian of Norwich"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:30:00.000Z",
+        "end": "2021-06-14T02:30:00.000Z"
+      }
+    }
+  ]
+}

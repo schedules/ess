@@ -1,0 +1,418 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-15T03:51:43.038Z"
+  },
+  "items": [
+    {
+      "id": "p09kbqp4",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x291"
+      },
+      "episode": {
+        "id": "m000x292",
+        "title": "A Mild Winter's Day"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:30:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00n1lvd"
+      },
+      "episode": {
+        "id": "b00n1lvz",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp6",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01n39kd"
+      },
+      "episode": {
+        "id": "b01n39kg",
+        "title": "Episode 2 - Turner: A Miscarriage of Justice?"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:30:00.000Z",
+        "end": "2021-06-15T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x298"
+      },
+      "episode": {
+        "id": "m000x294",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T01:30:00.000Z",
+        "end": "2021-06-15T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T02:30:00.000Z",
+        "end": "2021-06-15T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:30:00.000Z",
+        "end": "2021-06-15T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrt5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:58:00.000Z",
+        "end": "2021-06-15T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrt8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x2ff"
+      },
+      "episode": {
+        "id": "b00ndvtg",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-15T18:00:00.000Z",
+        "end": "2021-06-15T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrtd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x2fg"
+      },
+      "episode": {
+        "id": "m000x2fh",
+        "title": "Little Home in the Meadow"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T18:30:00.000Z",
+        "end": "2021-06-15T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrth",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b000d1lv"
+      },
+      "episode": {
+        "id": "b0074rh7",
+        "title": "Episode 6 - The Quality of Life"
+      },
+      "brand": {
+        "title": "Yes, Minister"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-15T19:00:00.000Z",
+        "end": "2021-06-15T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrtm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0004b05"
+      },
+      "episode": {
+        "id": "b0078mc8",
+        "title": "Episode 6 - Grape Vine"
+      },
+      "brand": {
+        "title": "To the Manor Born"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T19:30:00.000Z",
+        "end": "2021-06-15T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrtr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m00052bj"
+      },
+      "episode": {
+        "id": "m00052bl",
+        "title": "Reporting History: Mandela and a New South Africa"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T20:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrtx",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x2fj"
+      },
+      "episode": {
+        "id": "m000x2fk",
+        "title": "Round 3"
+      },
+      "brand": {
+        "title": "BBC Cardiff Singer of the World"
+      },
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-15T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrty",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00s6bcl"
+      },
+      "episode": {
+        "id": "b00s6bdh",
+        "title": "27/04/2010 - South Africa in Pictures"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T22:30:00.000Z",
+        "end": "2021-06-15T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrv2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01l8rf1"
+      },
+      "episode": {
+        "id": "b01l8vw7",
+        "title": "23/07/2012 - The Queen of Africa: The Miriam Makeba Story"
+      },
+      "brand": {
+        "title": "Storyville"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T23:30:00.000Z",
+        "end": "2021-06-16T00:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrv5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x2fg"
+      },
+      "episode": {
+        "id": "m000x2fh",
+        "title": "Little Home in the Meadow"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-16T00:45:00.000Z",
+        "end": "2021-06-16T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrv8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x2ff"
+      },
+      "episode": {
+        "id": "b00ndvtg",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-16T01:15:00.000Z",
+        "end": "2021-06-16T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbrvd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w752"
+      },
+      "episode": {
+        "id": "m000w753",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-16T01:45:00.000Z",
+        "end": "2021-06-16T02:15:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:32:42.311Z"
+  },
+  "items": [
+    {
+      "id": "p09h4jl0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdq7"
+      },
+      "episode": {
+        "id": "m000wdq8",
+        "title": "Twenty One Pilots"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:00:00.000Z",
+        "end": "2021-05-26T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4jl1",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqb"
+      },
+      "episode": {
+        "id": "m000wdqc",
+        "title": "Florence & The Machine"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:45:00.000Z",
+        "end": "2021-05-27T00:37:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4jl2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqd"
+      },
+      "episode": {
+        "id": "m000wdqf",
+        "title": "London Grammar"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:37:00.000Z",
+        "end": "2021-05-27T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4jl4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqg"
+      },
+      "episode": {
+        "id": "m000wdqh",
+        "title": "Anne-Marie"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:05:00.000Z",
+        "end": "2021-05-27T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4jl5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqj"
+      },
+      "episode": {
+        "id": "m000wdqk",
+        "title": "Mabel"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:30:00.000Z",
+        "end": "2021-05-27T01:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4jl7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdql"
+      },
+      "episode": {
+        "id": "m000wdqm",
+        "title": "Celeste"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T01:58:00.000Z",
+        "end": "2021-05-27T02:28:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4jl8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqn"
+      },
+      "episode": {
+        "id": "m000wdqp",
+        "title": "Wolf Alice"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T02:28:00.000Z",
+        "end": "2021-05-27T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgrz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wcnr"
+      },
+      "episode": {
+        "id": "m000wcns",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T03:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwgs0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wcnt"
+      },
+      "episode": {
+        "id": "m000wcnv",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd1w"
+      },
+      "episode": {
+        "id": "m000wd1x",
+        "title": "Big Weekend Of Live Music: One Day To Go!"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T06:00:00.000Z",
+        "end": "2021-05-27T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd1y"
+      },
+      "episode": {
+        "id": "m000wd1z",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:32:00.000Z",
+        "end": "2021-05-27T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wcsw"
+      },
+      "episode": {
+        "id": "m000wcsx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T11:45:00.000Z",
+        "end": "2021-05-27T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd20"
+      },
+      "episode": {
+        "id": "m000wd21",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T12:00:00.000Z",
+        "end": "2021-05-27T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd22"
+      },
+      "episode": {
+        "id": "m000wd23",
+        "title": "Going Home Anthems"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T14:32:00.000Z",
+        "end": "2021-05-27T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wct2"
+      },
+      "episode": {
+        "id": "m000wct3",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T16:45:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd24"
+      },
+      "episode": {
+        "id": "m000wd25",
+        "title": "Griff Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwws9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd26"
+      },
+      "episode": {
+        "id": "m000wd27",
+        "title": "Yasmin co-hosts with Charlie"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T19:00:00.000Z",
+        "end": "2021-05-27T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwwsb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd28"
+      },
+      "episode": {
+        "id": "m000wd29",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Club Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T20:30:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwwsc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd2b"
+      },
+      "episode": {
+        "id": "m000wd2c",
+        "title": "Lime Garden Next Wave"
+      },
+      "brand": {
+        "title": "Radio 1's Indie Show with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-27T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9b",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqq"
+      },
+      "episode": {
+        "id": "m000wdqr",
+        "title": "Coldplay"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:00:00.000Z",
+        "end": "2021-05-27T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9c",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqs"
+      },
+      "episode": {
+        "id": "m000wdqt",
+        "title": "Rex Orange County"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:45:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9d",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqv"
+      },
+      "episode": {
+        "id": "m000wdqw",
+        "title": "The 1975"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9f",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqx"
+      },
+      "episode": {
+        "id": "m000wdqy",
+        "title": "Ed Sheeran"
+      },
+      "brand": {
+        "title": "BBC Radio 1's Big Weekend"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:00:00.000Z",
+        "end": "2021-05-28T01:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4p9g",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wdqz"
+      },
+      "episode": {
+        "id": "m000wdr0",
+        "title": "Miley Cyrus"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-28T01:55:00.000Z",
+        "end": "2021-05-28T02:30:00.000Z"
+      }
+    }
+  ]
+}

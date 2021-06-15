@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:22:34.044Z"
+  },
+  "items": [
+    {
+      "id": "p09gt25h",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gl8fy"
+      },
+      "episode": {
+        "id": "p09gl8fs",
+        "title": "Russell Walker: Songs for Seafood"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8k8c",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8k8h",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8k8q",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8k8n"
+      },
+      "episode": {
+        "id": "p09h8k8l",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Adam Tomlinson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8k8z",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8k8w"
+      },
+      "episode": {
+        "id": "p09h8k8s",
+        "title": "Steve Bailey sits in (22/05/2021)"
+      },
+      "brand": {
+        "title": "Harry Whittaker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8k9v",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8k9c"
+      },
+      "episode": {
+        "id": "p09h5d02",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Liz Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kbl",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h533h"
+      },
+      "episode": {
+        "id": "p09h533c",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "John Kane's Northern Soul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_sheffield"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kc7",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h8k58"
+      },
+      "episode": {
+        "id": "p09h8k56",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in York and North Yorkshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8kcr",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09h5340"
+      },
+      "episode": {
+        "id": "p09h533y",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

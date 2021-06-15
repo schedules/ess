@@ -1,0 +1,127 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_five_live_sports_extra"
+  },
+  "service": {
+    "id": "bbc_radio_five_live_sports_extra",
+    "name": "BBC Radio 5 live sports extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:43:14.488Z"
+  },
+  "items": [
+    {
+      "id": "p09jrkzh",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy1w"
+      },
+      "episode": {
+        "id": "m000wy1x",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkty",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy1w"
+      },
+      "episode": {
+        "id": "m000wy1x",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09lcj0s",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000xg8t"
+      },
+      "episode": {
+        "id": "m000xg8v",
+        "title": "Coming Up On 5 Live Sports Extra"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T17:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkv1",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy20"
+      },
+      "episode": {
+        "id": "m000wy21",
+        "title": "Surrey v Glamorgan"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:15:00.000Z",
+        "end": "2021-06-14T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkv4",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy1w"
+      },
+      "episode": {
+        "id": "m000wy1x",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:30:00.000Z",
+        "end": "2021-06-14T23:00:00.000Z"
+      }
+    }
+  ]
+}

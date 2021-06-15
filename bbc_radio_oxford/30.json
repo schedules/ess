@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_oxford"
+  },
+  "service": {
+    "id": "bbc_radio_oxford",
+    "name": "BBC Radio Oxford",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:20:52.445Z"
+  },
+  "items": [
+    {
+      "id": "p09hwtr6",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl2cc"
+      },
+      "episode": {
+        "id": "p09hl2c5",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Alex Dyke"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_solent"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwsyt",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwsyy",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hgdjc"
+      },
+      "episode": {
+        "id": "p09hgdj6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwsz4",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwsz1"
+      },
+      "episode": {
+        "id": "p09hwsyz",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Lilley Mitchell"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwszt",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwszj"
+      },
+      "episode": {
+        "id": "p09hwsz6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Michelle Jordan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwt0g",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwt0c"
+      },
+      "episode": {
+        "id": "p09hwt06",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Al Ryan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwt0q",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl2lr"
+      },
+      "episode": {
+        "id": "p09hl2lp",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_berkshire"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwt0z",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl2lz"
+      },
+      "episode": {
+        "id": "p09hl2lv",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Harmony Night"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

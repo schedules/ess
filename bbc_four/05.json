@@ -1,0 +1,351 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-05T03:39:20.307Z"
+  },
+  "items": [
+    {
+      "id": "p09j0z2g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000kjms"
+      },
+      "episode": {
+        "id": "m000kjmt",
+        "title": "Bossacucanova and Roberto Menescal"
+      },
+      "brand": {
+        "title": "Latin Music: A Session with"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:35:00.000Z",
+        "end": "2021-06-05T00:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3c"
+      },
+      "episode": {
+        "id": "m000wn3f",
+        "title": "31/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:05:00.000Z",
+        "end": "2021-06-05T00:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2k",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3h"
+      },
+      "episode": {
+        "id": "m000wn3k",
+        "title": "07/02/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:35:00.000Z",
+        "end": "2021-06-05T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2m",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn3m"
+      },
+      "episode": {
+        "id": "m000wn3p",
+        "title": "Once Were Brothers: Robbie Robertson and The Band"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:05:00.000Z",
+        "end": "2021-06-05T02:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2p",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T02:40:00.000Z",
+        "end": "2021-06-05T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z2r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:30:00.000Z",
+        "end": "2021-06-05T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmjv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:58:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmjw",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00ktr8p"
+      },
+      "episode": {
+        "id": "b00ktrby",
+        "title": "Episode 2 - Salvation"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmjx",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0082h57"
+      },
+      "episode": {
+        "id": "b0082h5q",
+        "title": "Episode 5 - Baltic Summer"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmjy",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b06zdg1q"
+      },
+      "episode": {
+        "id": "b06zdgfg",
+        "title": "Episode 5 - The Honest Thief"
+      },
+      "brand": {
+        "title": "The Young Montalbano"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:00:00.000Z",
+        "end": "2021-06-05T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmjz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b062sgv1"
+      },
+      "episode": {
+        "id": "p02l4q38",
+        "title": "Episode 3 - Instruments of Murder"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:45:00.000Z",
+        "end": "2021-06-05T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmk0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00ztf3l"
+      },
+      "episode": {
+        "id": "b00ztf3s",
+        "title": "Episode 17 - Episode 17"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:45:00.000Z",
+        "end": "2021-06-05T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmk1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00ztgz2"
+      },
+      "episode": {
+        "id": "b00zth0c",
+        "title": "Episode 18 - Episode 18"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:45:00.000Z",
+        "end": "2021-06-06T00:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmk2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00zwk87"
+      },
+      "episode": {
+        "id": "b00zwlfg",
+        "title": "Episode 19 - Episode 19"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:45:00.000Z",
+        "end": "2021-06-06T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnmk3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00zwk8y"
+      },
+      "episode": {
+        "id": "b00zwlfj",
+        "title": "Episode 20 - Episode 20"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:45:00.000Z",
+        "end": "2021-06-06T02:45:00.000Z"
+      }
+    }
+  ]
+}

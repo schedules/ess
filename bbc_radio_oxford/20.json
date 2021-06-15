@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_oxford"
+  },
+  "service": {
+    "id": "bbc_radio_oxford",
+    "name": "BBC Radio Oxford",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-20T03:15:28.469Z"
+  },
+  "items": [
+    {
+      "id": "p09gp0wr",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09g4c9q"
+      },
+      "episode": {
+        "id": "p09g4c9l",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0ly",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09g42yh"
+      },
+      "episode": {
+        "id": "p09g42y6",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:00:00.000Z",
+        "end": "2021-05-20T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0mh",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09g4cqb"
+      },
+      "episode": {
+        "id": "p09g42yt",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-20T04:00:00.000Z",
+        "end": "2021-05-20T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0n8",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gp0mz"
+      },
+      "episode": {
+        "id": "p09gp0mn",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "David Prever's Breakfast Club"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-20T05:00:00.000Z",
+        "end": "2021-05-20T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0nx",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gp0nr"
+      },
+      "episode": {
+        "id": "p09gp0nl",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Kat Orman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-20T09:00:00.000Z",
+        "end": "2021-05-20T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0p8",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gp0p5"
+      },
+      "episode": {
+        "id": "p09gp0p1",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Adam Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-20T13:00:00.000Z",
+        "end": "2021-05-20T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0pm",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gp0ph"
+      },
+      "episode": {
+        "id": "p09gp0pb",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Fleur Ostojak"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:00:00.000Z",
+        "end": "2021-05-20T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0q5",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09gp0q1"
+      },
+      "episode": {
+        "id": "p09gp0pv",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Upload on BBC Radio Oxford"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-20T20:00:00.000Z",
+        "end": "2021-05-20T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp0q7",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09g4ct1"
+      },
+      "episode": {
+        "id": "p09g4cst",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-21T00:00:00.000Z"
+      }
+    }
+  ]
+}

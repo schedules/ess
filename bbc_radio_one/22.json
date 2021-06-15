@@ -1,0 +1,451 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:27:49.898Z"
+  },
+  "items": [
+    {
+      "id": "p09gbzd9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t2"
+      },
+      "episode": {
+        "id": "m000w5t4",
+        "title": "Nathan Micay"
+      },
+      "brand": {
+        "title": "Radio 1's Essential Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-22T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t5"
+      },
+      "episode": {
+        "id": "m000w5t6",
+        "title": "FFRR: Sam Gellaitry and SIDEPIECE"
+      },
+      "brand": {
+        "title": "Radio 1 Dance Presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:00:00.000Z",
+        "end": "2021-05-22T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t7"
+      },
+      "episode": {
+        "id": "m000w5t8",
+        "title": "MK Takeover!"
+      },
+      "brand": {
+        "title": "Annie Mac in the Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T02:00:00.000Z",
+        "end": "2021-05-22T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v9rl"
+      },
+      "episode": {
+        "id": "m000v9rm",
+        "title": "'80s Inspired!"
+      },
+      "brand": {
+        "title": "Annie Mac in the Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T02:30:00.000Z",
+        "end": "2021-05-22T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t9"
+      },
+      "episode": {
+        "id": "m000w5tb",
+        "title": "Cafe Del Mar: Gary B"
+      },
+      "brand": {
+        "title": "Radio 1's Wind Down Presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5tc"
+      },
+      "episode": {
+        "id": "m000w5td",
+        "title": "Unwind with Foals, Arlo Parks & more"
+      },
+      "brand": {
+        "title": "Radio 1 relax"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6dt",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8b"
+      },
+      "episode": {
+        "id": "m000wc8c",
+        "title": "Friends and Family!"
+      },
+      "brand": {
+        "title": "The Happy Hour from Radio 1"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6dy",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8d"
+      },
+      "episode": {
+        "id": "m000wc8f",
+        "title": "Saturday 22nd May"
+      },
+      "brand": {
+        "title": "Radio 1 Weekend Breakfast with Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6dz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8g"
+      },
+      "episode": {
+        "id": "m000wc8h",
+        "title": "with Adele Roberts"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6f0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8j"
+      },
+      "episode": {
+        "id": "m000wc8k",
+        "title": "with Vick and Katie"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:32:00.000Z",
+        "end": "2021-05-22T10:02:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6f2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8l"
+      },
+      "episode": {
+        "id": "m000wc8m",
+        "title": "Vick and Katie sit in for Jordan"
+      },
+      "brand": {
+        "title": "Vick Hope and Katie Thistleton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T10:02:00.000Z",
+        "end": "2021-05-22T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6f5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8n"
+      },
+      "episode": {
+        "id": "m000wc8p",
+        "title": "Dean sits in for Matt..."
+      },
+      "brand": {
+        "title": "Matt and Mollie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:00:00.000Z",
+        "end": "2021-05-22T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6f8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb1d"
+      },
+      "episode": {
+        "id": "m000wb1g",
+        "title": "Classic Dance Anthems with Charlie Hedges"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:00:00.000Z",
+        "end": "2021-05-22T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6fb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb1k"
+      },
+      "episode": {
+        "id": "m000wb1n",
+        "title": "Classic Dance Anthems with Charlie Hedges"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6ff",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb1r"
+      },
+      "episode": {
+        "id": "m000wb1v",
+        "title": "Today's Dance Anthems with Charlie Hedges"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6fj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8q"
+      },
+      "episode": {
+        "id": "m000wc8r",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "1Xtra's Takeover with DJ Target"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:00:00.000Z",
+        "end": "2021-05-22T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6fm",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wc8s"
+      },
+      "episode": {
+        "id": "m000wc8t",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "1Xtra's Rap Show with Tiffany Calver"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-05-22T20:00:00.000Z",
+        "end": "2021-05-22T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6fq",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb1y"
+      },
+      "episode": {
+        "id": "m000wb21",
+        "title": "Diplo in the mix!"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6fw",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb2b"
+      },
+      "episode": {
+        "id": "m000wb2f",
+        "title": "Cassy 2016"
+      },
+      "brand": {
+        "title": "Radio 1's Classic Essential Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T02:00:00.000Z"
+      }
+    }
+  ]
+}

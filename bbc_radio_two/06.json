@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:35:16.850Z"
+  },
+  "items": [
+    {
+      "id": "p09j5mll",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrx2"
+      },
+      "episode": {
+        "id": "m000wrx3",
+        "title": "All Request Dance Tunes!"
+      },
+      "brand": {
+        "title": "Ana Matronic's Dance Devotion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrx4"
+      },
+      "episode": {
+        "id": "m000wrx5",
+        "title": "Beatles Stories: An hour of amazing Beatles covers"
+      },
+      "brand": {
+        "title": "Patrick Kielty's Cover Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:00:00.000Z",
+        "end": "2021-06-06T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9xw8",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000rx1t"
+      },
+      "episode": {
+        "id": "m000rx1v",
+        "title": "Amanda Holden"
+      },
+      "brand": {
+        "title": "Sheridan's Showstoppers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T02:00:00.000Z",
+        "end": "2021-06-06T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k7r5l",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x228"
+      },
+      "episode": {
+        "id": "m000x229",
+        "title": "Huey Morgan's Latin Playlist - No.2"
+      },
+      "brand": {
+        "title": "Huey Morgan's Latin Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T03:00:00.000Z",
+        "end": "2021-06-06T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5mlp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrx8"
+      },
+      "episode": {
+        "id": "m000wrx9",
+        "title": "Jade Thirlwall shares her Tracks Of My Years with Scott Mills"
+      },
+      "brand": {
+        "title": "Tracks Of My Years"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:00:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws75"
+      },
+      "episode": {
+        "id": "m000ws77",
+        "title": "Jackie Weaver"
+      },
+      "brand": {
+        "title": "Good Morning Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpr",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws79"
+      },
+      "episode": {
+        "id": "m000ws7c",
+        "title": "Songs by Elton John, Spandau Ballet & Celeste!"
+      },
+      "brand": {
+        "title": "Steve Wright's Sunday Love Songs"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xps",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws7g"
+      },
+      "episode": {
+        "id": "m000ws7j",
+        "title": "E.L. James and Justin Currie of Del Amitri"
+      },
+      "brand": {
+        "title": "The Michael Ball Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T10:00:00.000Z",
+        "end": "2021-06-06T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpv",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws7m"
+      },
+      "episode": {
+        "id": "m000ws7q",
+        "title": "Popcorn Point!"
+      },
+      "brand": {
+        "title": "Elaine Paige on Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:00:00.000Z",
+        "end": "2021-06-06T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xpy",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws7t"
+      },
+      "episode": {
+        "id": "m000ws7x",
+        "title": "Special Guest: legendary music manager and label owner Miles Copeland."
+      },
+      "brand": {
+        "title": "Sounds of the 70s with Johnnie Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T14:00:00.000Z",
+        "end": "2021-06-06T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xq0",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws80"
+      },
+      "episode": {
+        "id": "m000ws83",
+        "title": "Triples: Grace Jones and Wilson Phillips"
+      },
+      "brand": {
+        "title": "Paul O'Grady"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:00:00.000Z",
+        "end": "2021-06-06T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xq2",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "b061nflb"
+      },
+      "episode": {
+        "id": "b061nfrj",
+        "title": "Swashbucklers!"
+      },
+      "brand": {
+        "title": "Sunday Night is Music Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:00:00.000Z",
+        "end": "2021-06-06T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xq5",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000fpsc"
+      },
+      "episode": {
+        "id": "m000fpsd",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Seth Lakeman's Folk Map of the British Isles"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T20:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xq7",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws86"
+      },
+      "episode": {
+        "id": "m000ws89",
+        "title": "Katie Piper sits in with Dr Ranj Singh"
+      },
+      "brand": {
+        "title": "Dr Rangan Chatterjee"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-06T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xq9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws8d"
+      },
+      "episode": {
+        "id": "m000ws8g",
+        "title": "Weekend Boasts"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:00:00.000Z",
+        "end": "2021-06-07T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xqb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws8k"
+      },
+      "episode": {
+        "id": "m000ws8n",
+        "title": "Animotion, Stakka Bo and Lunchmoney Lewis"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T01:30:00.000Z",
+        "end": "2021-06-07T02:00:00.000Z"
+      }
+    }
+  ]
+}

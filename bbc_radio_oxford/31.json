@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_oxford"
+  },
+  "service": {
+    "id": "bbc_radio_oxford",
+    "name": "BBC Radio Oxford",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:22:26.812Z"
+  },
+  "items": [
+    {
+      "id": "p09hwt0z",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl2lz"
+      },
+      "episode": {
+        "id": "p09hl2lv",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Harmony Night"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtcq",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hgdrd"
+      },
+      "episode": {
+        "id": "p09hgdrb",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtd1",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl31g"
+      },
+      "episode": {
+        "id": "p09hgdrm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtdd",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtd8"
+      },
+      "episode": {
+        "id": "p09hwtd6",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Adam Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtdl",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtdj"
+      },
+      "episode": {
+        "id": "p09hwtdg",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Fleur Ostojak"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtf4",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtdw"
+      },
+      "episode": {
+        "id": "p09hwtdm",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "James Watt"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtgg",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hwtfx"
+      },
+      "episode": {
+        "id": "p09hwtfj",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Will Reynolds"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_oxford"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwtgz",
+      "service": {
+        "id": "bbc_radio_oxford"
+      },
+      "version": {
+        "id": "p09hl32y"
+      },
+      "episode": {
+        "id": "p09hl32w",
+        "title": "Spring bank holiday (31/05/2021)"
+      },
+      "brand": {
+        "title": "Paul Miller"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-07T03:46:58.310Z"
+  },
+  "items": [
+    {
+      "id": "p09j5xq9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws8d"
+      },
+      "episode": {
+        "id": "m000ws8g",
+        "title": "Weekend Boasts"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:00:00.000Z",
+        "end": "2021-06-07T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xqb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws8k"
+      },
+      "episode": {
+        "id": "m000ws8n",
+        "title": "Animotion, Stakka Bo and Lunchmoney Lewis"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T01:30:00.000Z",
+        "end": "2021-06-07T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xqd",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wrwp"
+      },
+      "episode": {
+        "id": "m000wrwq",
+        "title": "1985"
+      },
+      "brand": {
+        "title": "Pick of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T02:00:00.000Z",
+        "end": "2021-06-07T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5xqg",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ws8r"
+      },
+      "episode": {
+        "id": "m000ws8v",
+        "title": "Lady V returns to Early Brekky!"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T03:00:00.000Z",
+        "end": "2021-06-07T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g60",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt5w"
+      },
+      "episode": {
+        "id": "m000wt5x",
+        "title": "Zoe launches an exciting new project for Radio 2"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T05:30:00.000Z",
+        "end": "2021-06-07T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g61",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt5y"
+      },
+      "episode": {
+        "id": "m000wt5z",
+        "title": "Scott Mills sits in"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T08:30:00.000Z",
+        "end": "2021-06-07T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g62",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt60"
+      },
+      "episode": {
+        "id": "m000wt61",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T11:00:00.000Z",
+        "end": "2021-06-07T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g63",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt62"
+      },
+      "episode": {
+        "id": "m000wt63",
+        "title": "With guests Big Zuu and Jo Brand"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T13:00:00.000Z",
+        "end": "2021-06-07T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g64",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt64"
+      },
+      "episode": {
+        "id": "m000wt65",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T16:00:00.000Z",
+        "end": "2021-06-07T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g65",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt66"
+      },
+      "episode": {
+        "id": "m000wt67",
+        "title": "Primal Scream, Chic, ZZ Top and more - 30 minutes of banging tunes!"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T17:30:00.000Z",
+        "end": "2021-06-07T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g66",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt68"
+      },
+      "episode": {
+        "id": "m000wt69",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley's Shiny Happy Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T18:00:00.000Z",
+        "end": "2021-06-07T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g67",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt6b"
+      },
+      "episode": {
+        "id": "m000wt6c",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T18:30:00.000Z",
+        "end": "2021-06-07T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g68",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt6d"
+      },
+      "episode": {
+        "id": "m000wt6f",
+        "title": "All Aboard the Blues Train!"
+      },
+      "brand": {
+        "title": "The Blues Show with Cerys Matthews"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T20:00:00.000Z",
+        "end": "2021-06-07T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g69",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt6g"
+      },
+      "episode": {
+        "id": "m000wt6h",
+        "title": "DJ Spoony sits in"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-07T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6g6b",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wt6j"
+      },
+      "episode": {
+        "id": "m000wt6k",
+        "title": "Post Wild Boys Of Radio 2 Handover"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_five_live"
+  },
+  "service": {
+    "id": "bbc_radio_five_live",
+    "name": "BBC Radio 5 live",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:36:07.921Z"
+  },
+  "items": [
+    {
+      "id": "p09jrkns",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wxxv"
+      },
+      "episode": {
+        "id": "m000wxxw",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Stephen Nolan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:30:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrknv",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wxxx"
+      },
+      "episode": {
+        "id": "m000wxxy",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrknw",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wxxz"
+      },
+      "episode": {
+        "id": "m000wxy0",
+        "title": "Pressing pause"
+      },
+      "brand": {
+        "title": "Wake Up to Money"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T04:00:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnk0",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wy58"
+      },
+      "episode": {
+        "id": "m000wy5b",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnk1",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wy5d"
+      },
+      "episode": {
+        "id": "m000wy5g",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T08:00:00.000Z",
+        "end": "2021-06-14T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnk2",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wy5h"
+      },
+      "episode": {
+        "id": "m000wy5j",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Adrian Chiles"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9yt8",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x25n"
+      },
+      "episode": {
+        "id": "m000x25p",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T12:00:00.000Z",
+        "end": "2021-06-14T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9yt9",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x25q"
+      },
+      "episode": {
+        "id": "m000x25r",
+        "title": "Scotland v Czech Republic"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T13:00:00.000Z",
+        "end": "2021-06-14T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9ytb",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x25s"
+      },
+      "episode": {
+        "id": "m000x25t",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T15:00:00.000Z",
+        "end": "2021-06-14T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9ytc",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x25v"
+      },
+      "episode": {
+        "id": "m000x25w",
+        "title": "Poland v Slovakia"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:00:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9ytd",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x25x"
+      },
+      "episode": {
+        "id": "m000x25y",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9ytf",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000x25z"
+      },
+      "episode": {
+        "id": "m000x260",
+        "title": "Spain v Sweden"
+      },
+      "brand": {
+        "title": "5 Live Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T19:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrnk4",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000wy5m"
+      },
+      "episode": {
+        "id": "m000wy5n",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "606"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjtv",
+      "service": {
+        "id": "bbc_radio_five_live"
+      },
+      "version": {
+        "id": "m000k3xy"
+      },
+      "episode": {
+        "id": "m000k3xz",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "As Heard On BBC Sounds"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:00:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    }
+  ]
+}

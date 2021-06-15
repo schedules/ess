@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_somerset_sound"
+  },
+  "service": {
+    "id": "bbc_radio_somerset_sound",
+    "name": "BBC Somerset",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:33:33.231Z"
+  },
+  "items": [
+    {
+      "id": "p09gp837",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gp835"
+      },
+      "episode": {
+        "id": "p09gp832",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp85r",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09g40m8"
+      },
+      "episode": {
+        "id": "p09g40m4",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp85s",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09g4cvg"
+      },
+      "episode": {
+        "id": "p09g40mm",
+        "title": "Claira Hermet sits in (17/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:00:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp863",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gp860"
+      },
+      "episode": {
+        "id": "p09gp85v",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp86g",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gp86c"
+      },
+      "episode": {
+        "id": "p09gp868",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp86m",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gp86k"
+      },
+      "episode": {
+        "id": "p09gp86h",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp86s",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gp86q"
+      },
+      "episode": {
+        "id": "p09gp86n",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gp86y",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09gp86w"
+      },
+      "episode": {
+        "id": "p09gp86t",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Somerset"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    }
+  ]
+}

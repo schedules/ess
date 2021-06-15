@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_somerset_sound"
+  },
+  "service": {
+    "id": "bbc_radio_somerset_sound",
+    "name": "BBC Somerset",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:36:51.648Z"
+  },
+  "items": [
+    {
+      "id": "p09jkn0j",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09j8c9k"
+      },
+      "episode": {
+        "id": "p09j8c9c",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn0r",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09j3n7d"
+      },
+      "episode": {
+        "id": "p09j3n76",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn0z",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09j767j"
+      },
+      "episode": {
+        "id": "p09j3n7t",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn1g",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09jkn18"
+      },
+      "episode": {
+        "id": "p09jkn13",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Claire Carter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn1x",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09jkn1r"
+      },
+      "episode": {
+        "id": "p09jkn1m",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Simon Parkin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-06-09T09:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn25",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09jkn22"
+      },
+      "episode": {
+        "id": "p09jkn1z",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Matt Faulkner"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn2n",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09jkn2g"
+      },
+      "episode": {
+        "id": "p09jkn29",
+        "title": "Trish Campbell sits in (09/06/2021)"
+      },
+      "brand": {
+        "title": "Charlie Taylor"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jkn31",
+      "service": {
+        "id": "bbc_radio_somerset_sound"
+      },
+      "version": {
+        "id": "p09j8d02"
+      },
+      "episode": {
+        "id": "p09j8d00",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Chris Baxter"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    }
+  ]
+}

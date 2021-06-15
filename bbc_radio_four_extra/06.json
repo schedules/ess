@@ -1,0 +1,910 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:35:54.475Z"
+  },
+  "items": [
+    {
+      "id": "p09j60ld",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006ybhz"
+      },
+      "episode": {
+        "id": "b007k2ws",
+        "title": "The Dead Hand by Wilkie Collins"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:30:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60lf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08x2zmw"
+      },
+      "episode": {
+        "id": "b08x2zn8",
+        "title": "Apocalypse Nigh"
+      },
+      "brand": {
+        "title": "Archive on 4"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60lg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b011jrjr"
+      },
+      "episode": {
+        "id": "b011jrmq",
+        "title": "Episode 1 - All Publicity Is Good Publicity"
+      },
+      "brand": {
+        "title": "Party"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:00:00.000Z",
+        "end": "2021-06-06T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60lh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09rx2bv"
+      },
+      "episode": {
+        "id": "b09rx3vt",
+        "title": "Last Chance Salon"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:30:00.000Z",
+        "end": "2021-06-06T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60lk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00p335w"
+      },
+      "episode": {
+        "id": "b00p3380",
+        "title": "Lives Lost, Ruined, Wrecked and Redeemed"
+      },
+      "brand": {
+        "title": "Bleak Expectations"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T02:00:00.000Z",
+        "end": "2021-06-06T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60ll",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b03s71bm"
+      },
+      "episode": {
+        "id": "b03s71cz",
+        "title": "Graham Linehan talks to Adam Buxton"
+      },
+      "brand": {
+        "title": "Chain Reaction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T02:30:00.000Z",
+        "end": "2021-06-06T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60lm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b041tgwf"
+      },
+      "episode": {
+        "id": "b041th7q",
+        "title": "Eric Pringle - Meeting Bea"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T03:00:00.000Z",
+        "end": "2021-06-06T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60ln",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b084x6lt"
+      },
+      "episode": {
+        "id": "b084x6m8",
+        "title": "Sir Ben Kingsley on Elie Wiesel"
+      },
+      "brand": {
+        "title": "Great Lives"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:30:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5phr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07nwx7g"
+      },
+      "episode": {
+        "id": "b07nwyf5",
+        "title": "Flâneuse: Women Who Walk the Cities by Lauren Elkin (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T06:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5phs",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b1q02z"
+      },
+      "episode": {
+        "id": "b0b1q03c",
+        "title": "Debbie Wiseman"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T06:10:00.000Z",
+        "end": "2021-06-06T06:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pht",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxb"
+      },
+      "episode": {
+        "id": "m000wrxc",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Lucy Catherine - Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T06:20:00.000Z",
+        "end": "2021-06-06T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5phv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07nwwqp"
+      },
+      "episode": {
+        "id": "b07nwwqt",
+        "title": "The Regimental Dinner"
+      },
+      "brand": {
+        "title": "We're in Business"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T07:30:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5phx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0177537"
+      },
+      "episode": {
+        "id": "b0177539",
+        "title": "From 03/12/1962"
+      },
+      "brand": {
+        "title": "The Arthur Haynes Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5phy",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wlkq"
+      },
+      "episode": {
+        "id": "b008043w",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Double Income, No Kids Yet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:30:00.000Z",
+        "end": "2021-06-06T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5phz",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b05tr0tj"
+      },
+      "episode": {
+        "id": "b05tr0tl",
+        "title": "Michael Ball"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:00:00.000Z",
+        "end": "2021-06-06T09:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0106x1y"
+      },
+      "episode": {
+        "id": "b0106x58",
+        "title": "Identities"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:45:00.000Z",
+        "end": "2021-06-06T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxf"
+      },
+      "episode": {
+        "id": "p09fy2qv",
+        "title": "4. A Fistful of Shoes"
+      },
+      "brand": {
+        "title": "Sneakernomics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T10:00:00.000Z",
+        "end": "2021-06-06T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxg"
+      },
+      "episode": {
+        "id": "m000wrxh",
+        "title": "Time For Verse: Charles Causley and Blithe Sprits: Pets"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T11:00:00.000Z",
+        "end": "2021-06-06T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09sn1h7"
+      },
+      "episode": {
+        "id": "b09sn1hl",
+        "title": "Stockholm Syndrome"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T11:30:00.000Z",
+        "end": "2021-06-06T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08cd673"
+      },
+      "episode": {
+        "id": "b08cd678",
+        "title": "The Novel of the Century: The Extraordinary Adventure of Les Miserables (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:00:00.000Z",
+        "end": "2021-06-06T13:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0760k84"
+      },
+      "episode": {
+        "id": "b0760k87",
+        "title": "Jung Chang"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:10:00.000Z",
+        "end": "2021-06-06T13:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pj8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08wwxby"
+      },
+      "episode": {
+        "id": "b08wwxc0",
+        "title": "Series 4 (Omnibus)"
+      },
+      "brand": {
+        "title": "How to Have a Perfect Marriage"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:20:00.000Z",
+        "end": "2021-06-06T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0457p81"
+      },
+      "episode": {
+        "id": "b0457rms",
+        "title": "D-Day Dames"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T14:30:00.000Z",
+        "end": "2021-06-06T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000z82p"
+      },
+      "episode": {
+        "id": "b0075s4x",
+        "title": "19/02/2000 - DH Lawrence - Daughters of the Vicar"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T15:00:00.000Z",
+        "end": "2021-06-06T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxg"
+      },
+      "episode": {
+        "id": "m000wrxh",
+        "title": "Time For Verse: Charles Causley and Blithe Sprits: Pets"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:00:00.000Z",
+        "end": "2021-06-06T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09sn1h7"
+      },
+      "episode": {
+        "id": "b09sn1hl",
+        "title": "Stockholm Syndrome"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:30:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxk"
+      },
+      "episode": {
+        "id": "m000wrxl",
+        "title": "Hans Christian Andersen - The Nightingale"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxf"
+      },
+      "episode": {
+        "id": "p09fy2qv",
+        "title": "4. A Fistful of Shoes"
+      },
+      "brand": {
+        "title": "Sneakernomics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:00:00.000Z",
+        "end": "2021-06-06T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000z82p"
+      },
+      "episode": {
+        "id": "b0075s4x",
+        "title": "19/02/2000 - DH Lawrence - Daughters of the Vicar"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T19:00:00.000Z",
+        "end": "2021-06-06T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b05tr0tj"
+      },
+      "episode": {
+        "id": "b05tr0tl",
+        "title": "Michael Ball"
+      },
+      "brand": {
+        "title": "Desert Island Discs Revisited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T20:00:00.000Z",
+        "end": "2021-06-06T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjl",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0106x1y"
+      },
+      "episode": {
+        "id": "b0106x58",
+        "title": "Identities"
+      },
+      "brand": {
+        "title": "David Attenborough's Life Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T20:45:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09sn1h7"
+      },
+      "episode": {
+        "id": "b09sn1hl",
+        "title": "Stockholm Syndrome"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-06T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06mft5w"
+      },
+      "episode": {
+        "id": "b06mft8b",
+        "title": "Episode 4"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:30:00.000Z",
+        "end": "2021-06-06T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjp",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00z5hqh"
+      },
+      "episode": {
+        "id": "b00z5hrv",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Helen Keen's It Is Rocket Science"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:00:00.000Z",
+        "end": "2021-06-06T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00fcbc4"
+      },
+      "episode": {
+        "id": "b00fcbgm",
+        "title": "Episode 1 - 1. Pubs"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:15:00.000Z",
+        "end": "2021-06-06T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01kt4c8"
+      },
+      "episode": {
+        "id": "b01kt4ck",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Alice's Wunderland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:30:00.000Z",
+        "end": "2021-06-06T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjs",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wrxk"
+      },
+      "episode": {
+        "id": "m000wrxl",
+        "title": "Hans Christian Andersen - The Nightingale"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08cd673"
+      },
+      "episode": {
+        "id": "b08cd678",
+        "title": "The Novel of the Century: The Extraordinary Adventure of Les Miserables (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-07T00:00:00.000Z",
+        "end": "2021-06-07T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0760k84"
+      },
+      "episode": {
+        "id": "b0760k87",
+        "title": "Jung Chang"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-07T01:10:00.000Z",
+        "end": "2021-06-07T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pjw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08wwxby"
+      },
+      "episode": {
+        "id": "b08wwxc0",
+        "title": "Series 4 (Omnibus)"
+      },
+      "brand": {
+        "title": "How to Have a Perfect Marriage"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-07T01:20:00.000Z",
+        "end": "2021-06-07T02:30:00.000Z"
+      }
+    }
+  ]
+}

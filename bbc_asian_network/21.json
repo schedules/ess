@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_asian_network"
+  },
+  "service": {
+    "id": "bbc_asian_network",
+    "name": "BBC Asian Network",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-21T03:20:01.188Z"
+  },
+  "items": [
+    {
+      "id": "p09g7glg",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w55h"
+      },
+      "episode": {
+        "id": "m000w55j",
+        "title": "Yasser is in the mix!"
+      },
+      "brand": {
+        "title": "Asian Network's Love Friday Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-20T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h60hq",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000tfp3"
+      },
+      "episode": {
+        "id": "m000tfp4",
+        "title": "Love Friday by DJ AKS!"
+      },
+      "brand": {
+        "title": "Asian Network Celebrates..."
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:30:00.000Z",
+        "end": "2021-05-21T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7glj",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000vz6m"
+      },
+      "episode": {
+        "id": "m000vz6n",
+        "title": "JJ Esko"
+      },
+      "brand": {
+        "title": "DJ Limelight & Kan D Man"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T00:00:00.000Z",
+        "end": "2021-05-21T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h60hr",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000txmd"
+      },
+      "episode": {
+        "id": "m000txmf",
+        "title": "SMASHBengali"
+      },
+      "brand": {
+        "title": "Asian Network Celebrates..."
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T03:00:00.000Z",
+        "end": "2021-05-21T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h60hs",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000txm8"
+      },
+      "episode": {
+        "id": "m000txm9",
+        "title": "Jernade Miah"
+      },
+      "brand": {
+        "title": "Asian Network Celebrates..."
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:00:00.000Z",
+        "end": "2021-05-21T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0sr",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5z3"
+      },
+      "episode": {
+        "id": "m000w5z4",
+        "title": "Hunterz, Imran Khan and Shreya Ghoshal"
+      },
+      "brand": {
+        "title": "Asian Network Certified"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T05:00:00.000Z",
+        "end": "2021-05-21T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0ss",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5z5"
+      },
+      "episode": {
+        "id": "m000w5z6",
+        "title": "Nadia is in for Harpz"
+      },
+      "brand": {
+        "title": "Asian Network Breakfast with Harpz Kaur"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T06:00:00.000Z",
+        "end": "2021-05-21T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0st",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5z7"
+      },
+      "episode": {
+        "id": "m000w5z8",
+        "title": "with Dil Neiyyar"
+      },
+      "brand": {
+        "title": "Asian Network's Big Debate"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T09:00:00.000Z",
+        "end": "2021-05-21T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0sv",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5r4"
+      },
+      "episode": {
+        "id": "m000w5r5",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T11:45:00.000Z",
+        "end": "2021-05-21T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0sw",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5z9"
+      },
+      "episode": {
+        "id": "m000w5zb",
+        "title": "Sports Round up and the Flashback Mix"
+      },
+      "brand": {
+        "title": "Noreen Khan"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T12:00:00.000Z",
+        "end": "2021-05-21T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0sx",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5zc"
+      },
+      "episode": {
+        "id": "m000w5zd",
+        "title": "with Nayha"
+      },
+      "brand": {
+        "title": "The Official Asian Music Chart"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T15:00:00.000Z",
+        "end": "2021-05-21T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0sy",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5rb"
+      },
+      "episode": {
+        "id": "m000w5rc",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:45:00.000Z",
+        "end": "2021-05-21T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0sz",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5zf"
+      },
+      "episode": {
+        "id": "m000w5zg",
+        "title": "2008 Bollywood Anthems and Singam"
+      },
+      "brand": {
+        "title": "Panjabi Hit Squad"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:00:00.000Z",
+        "end": "2021-05-21T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0t0",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5zh"
+      },
+      "episode": {
+        "id": "m000w5zj",
+        "title": "Original Memzee"
+      },
+      "brand": {
+        "title": "DJ Limelight & Kan D Man"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T20:00:00.000Z",
+        "end": "2021-05-21T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0t1",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5zk"
+      },
+      "episode": {
+        "id": "m000w5zl",
+        "title": "Party Anthems"
+      },
+      "brand": {
+        "title": "All Star Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-21T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gc0t2",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000vz6p"
+      },
+      "episode": {
+        "id": "m000vz6q",
+        "title": "Dancefloor Anthems"
+      },
+      "brand": {
+        "title": "All Star Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:30:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    }
+  ]
+}

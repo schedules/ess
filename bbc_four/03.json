@@ -1,0 +1,437 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-03T03:37:00.230Z"
+  },
+  "items": [
+    {
+      "id": "p09j0q2l",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rdw4"
+      },
+      "episode": {
+        "id": "p099cqzr",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:00:00.000Z",
+        "end": "2021-06-02T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2n",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rfnx"
+      },
+      "episode": {
+        "id": "p099crv1",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:45:00.000Z",
+        "end": "2021-06-03T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn44"
+      },
+      "episode": {
+        "id": "m000wn45",
+        "title": "Falls in the Glen"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:30:00.000Z",
+        "end": "2021-06-03T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2s",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn42"
+      },
+      "episode": {
+        "id": "b007hzfy",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:00:00.000Z",
+        "end": "2021-06-03T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b045hdm8"
+      },
+      "episode": {
+        "id": "b041dqp3",
+        "title": "Episode 2 - Forward into the Past"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:30:00.000Z",
+        "end": "2021-06-03T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T02:30:00.000Z",
+        "end": "2021-06-03T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T04:30:00.000Z",
+        "end": "2021-06-03T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5k",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T17:58:00.000Z",
+        "end": "2021-06-03T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5l",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5n"
+      },
+      "episode": {
+        "id": "b007hzg9",
+        "title": "Episode 4"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-03T18:00:00.000Z",
+        "end": "2021-06-03T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5n",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5q"
+      },
+      "episode": {
+        "id": "m000wn5r",
+        "title": "Frozen Beauty in Vignette"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T18:30:00.000Z",
+        "end": "2021-06-03T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5p",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01pjlgc"
+      },
+      "episode": {
+        "id": "b01pjlhv",
+        "title": "22/12/2012 - Screen Goddesses"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T19:00:00.000Z",
+        "end": "2021-06-03T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01lx1ls"
+      },
+      "episode": {
+        "id": "b01nx8kb",
+        "title": "05/10/2012 - My Week with Marilyn"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T20:00:00.000Z",
+        "end": "2021-06-03T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b06vp1x6"
+      },
+      "episode": {
+        "id": "b06vp212",
+        "title": "02/01/2016 - Sex Symbols"
+      },
+      "brand": {
+        "title": "Talking Pictures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:30:00.000Z",
+        "end": "2021-06-03T22:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08jgqql"
+      },
+      "episode": {
+        "id": "b08jgr3w",
+        "title": "16/03/2017 - On Camera: Photographers at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T22:10:00.000Z",
+        "end": "2021-06-03T23:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z5z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5q"
+      },
+      "episode": {
+        "id": "m000wn5r",
+        "title": "Frozen Beauty in Vignette"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:10:00.000Z",
+        "end": "2021-06-03T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z60",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5n"
+      },
+      "episode": {
+        "id": "b007hzg9",
+        "title": "Episode 4"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:40:00.000Z",
+        "end": "2021-06-04T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z61",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04gvbcm"
+      },
+      "episode": {
+        "id": "b04gvbdt",
+        "title": "Episode 5 - Gray's Anatomy"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:10:00.000Z",
+        "end": "2021-06-04T00:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z63",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01pjlgc"
+      },
+      "episode": {
+        "id": "b01pjlhv",
+        "title": "22/12/2012 - Screen Goddesses"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:40:00.000Z",
+        "end": "2021-06-04T01:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0z69",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn5s"
+      },
+      "episode": {
+        "id": "m000wn21",
+        "title": "Data"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-04T01:40:00.000Z",
+        "end": "2021-06-04T02:35:00.000Z"
+      }
+    }
+  ]
+}

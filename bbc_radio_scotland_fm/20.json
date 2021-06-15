@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-20T03:33:05.328Z"
+  },
+  "items": [
+    {
+      "id": "p09g75nx",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w2zn"
+      },
+      "episode": {
+        "id": "m000w2zp",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:30:00.000Z",
+        "end": "2021-05-20T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k1x",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w568"
+      },
+      "episode": {
+        "id": "m000w569",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T05:00:00.000Z",
+        "end": "2021-05-20T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k1y",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56b"
+      },
+      "episode": {
+        "id": "m000w56c",
+        "title": "with Stephen Jardine"
+      },
+      "brand": {
+        "title": "Mornings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T08:00:00.000Z",
+        "end": "2021-05-20T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k1z",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56d"
+      },
+      "episode": {
+        "id": "m000w56f",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Lunchtime Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T11:00:00.000Z",
+        "end": "2021-05-20T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k20",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56g"
+      },
+      "episode": {
+        "id": "m000w56h",
+        "title": "Sigourney Weaver, Film Reviews, and Val McDermid's collaborative graphic novel"
+      },
+      "brand": {
+        "title": "The Afternoon Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T12:30:00.000Z",
+        "end": "2021-05-20T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k21",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56j"
+      },
+      "episode": {
+        "id": "m000w56k",
+        "title": "with John Beattie"
+      },
+      "brand": {
+        "title": "Drivetime"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T15:00:00.000Z",
+        "end": "2021-05-20T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k22",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56n"
+      },
+      "episode": {
+        "id": "m000w56p",
+        "title": "Needy Night"
+      },
+      "brand": {
+        "title": "Get it On with Bryan Burnett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T17:00:00.000Z",
+        "end": "2021-05-20T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k23",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56q"
+      },
+      "episode": {
+        "id": "m000w56r",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Travelling Folk"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T19:00:00.000Z",
+        "end": "2021-05-20T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7k24",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000w56s"
+      },
+      "episode": {
+        "id": "m000w56t",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Natasha Raskin Sharp"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-20T21:00:00.000Z",
+        "end": "2021-05-20T23:00:00.000Z"
+      }
+    }
+  ]
+}

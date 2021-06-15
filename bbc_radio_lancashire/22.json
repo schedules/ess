@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_lancashire"
+  },
+  "service": {
+    "id": "bbc_radio_lancashire",
+    "name": "BBC Radio Lancashire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-22T03:16:34.389Z"
+  },
+  "items": [
+    {
+      "id": "p09gl9gm",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09gl9gk"
+      },
+      "episode": {
+        "id": "p09gl9gg",
+        "title": "With Linda McDermott - 21/05/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5951",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09gxgh8"
+      },
+      "episode": {
+        "id": "p09gxgh6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h595f",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09gycjp"
+      },
+      "episode": {
+        "id": "p09gxghl",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:00:00.000Z",
+        "end": "2021-05-22T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h595s",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09gycjw"
+      },
+      "episode": {
+        "id": "p09gycjt",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Hindu Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-22T04:50:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5969",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h5965"
+      },
+      "episode": {
+        "id": "p09h595w",
+        "title": "With John Gillmore & Shigufta Khan - 22/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h596s",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h596n"
+      },
+      "episode": {
+        "id": "p09h596j",
+        "title": "With Gary Hickson - 22/05/2021"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5973",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h596x"
+      },
+      "episode": {
+        "id": "p09h596v",
+        "title": "With Joe Wilson - 22/05/2021"
+      },
+      "brand": {
+        "title": "Afternoons on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:00:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h597j",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h597d"
+      },
+      "episode": {
+        "id": "p09h5978",
+        "title": "With Keith Fletcher - 22/05/2021"
+      },
+      "brand": {
+        "title": "Evenings on BBC Radio Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h597t",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h597p"
+      },
+      "episode": {
+        "id": "p09h597m",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in Lancashire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h598c",
+      "service": {
+        "id": "bbc_radio_lancashire"
+      },
+      "version": {
+        "id": "p09h5987"
+      },
+      "episode": {
+        "id": "p09h5981",
+        "title": "With Raees Khan - 22/05/2021"
+      },
+      "brand": {
+        "title": "Desi Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lancashire"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    }
+  ]
+}

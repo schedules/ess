@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:28:01.518Z"
+  },
+  "items": [
+    {
+      "id": "p09gw6c5",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wc84"
+      },
+      "episode": {
+        "id": "m000wc85",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:00:00.000Z",
+        "end": "2021-05-26T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6c6",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wc86"
+      },
+      "episode": {
+        "id": "m000wc87",
+        "title": "An hour of love songs!"
+      },
+      "brand": {
+        "title": "First Name Basis with Kelsea Ballerini"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T02:00:00.000Z",
+        "end": "2021-05-26T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw6c7",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wc88"
+      },
+      "episode": {
+        "id": "m000wc89",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T03:00:00.000Z",
+        "end": "2021-05-26T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmxv",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4w"
+      },
+      "episode": {
+        "id": "m000wb4y",
+        "title": "Gary Davies sits in and chats to Lesley Sharp"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:30:00.000Z",
+        "end": "2021-05-26T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmxw",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb50"
+      },
+      "episode": {
+        "id": "m000wb52",
+        "title": "The Love Song and Jenny Agutter"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:30:00.000Z",
+        "end": "2021-05-26T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmxx",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb54"
+      },
+      "episode": {
+        "id": "m000wb55",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T11:00:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmxy",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb56"
+      },
+      "episode": {
+        "id": "m000wb57",
+        "title": "Vernon Kay sits in, with guests Sindhu Vee and Gigi Salmon"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmxz",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb58"
+      },
+      "episode": {
+        "id": "m000wb59",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:00:00.000Z",
+        "end": "2021-05-26T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmy0",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb5b"
+      },
+      "episode": {
+        "id": "m000wb5c",
+        "title": "Michael Sembello, The Shamen, Bananarama and more - 30 minutes of banging tunes!"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:30:00.000Z",
+        "end": "2021-05-26T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmy1",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb5d"
+      },
+      "episode": {
+        "id": "m000wb5f",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Jo Whiley's Shiny Happy Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:00:00.000Z",
+        "end": "2021-05-26T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmy3",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb5g"
+      },
+      "episode": {
+        "id": "m000wb5h",
+        "title": "Sofa Session: Billie Marten"
+      },
+      "brand": {
+        "title": "Jo Whiley"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:30:00.000Z",
+        "end": "2021-05-26T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmy4",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb5j"
+      },
+      "episode": {
+        "id": "m000wb5k",
+        "title": "Bob Dylan by request"
+      },
+      "brand": {
+        "title": "The Folk Show with Mark Radcliffe"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T20:00:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmy5",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb5l"
+      },
+      "episode": {
+        "id": "m000wb5m",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-26T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvmy6",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb5n"
+      },
+      "episode": {
+        "id": "m000wb5p",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:00:00.000Z",
+        "end": "2021-05-27T02:00:00.000Z"
+      }
+    }
+  ]
+}

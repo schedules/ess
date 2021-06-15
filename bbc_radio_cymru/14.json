@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-14T03:53:19.074Z"
+  },
+  "items": [
+    {
+      "id": "p09jvhy7",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x090"
+      },
+      "episode": {
+        "id": "m000x091",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvhy8",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x092"
+      },
+      "episode": {
+        "id": "m000x093",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "John Hardy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T04:30:00.000Z",
+        "end": "2021-06-14T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdt8",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x05s"
+      },
+      "episode": {
+        "id": "m000x05t",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T06:00:00.000Z",
+        "end": "2021-06-14T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdt9",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x052"
+      },
+      "episode": {
+        "id": "m000x053",
+        "title": "Sut mae gwella grym ewyllys?"
+      },
+      "brand": {
+        "title": "Aled Hughes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T08:00:00.000Z",
+        "end": "2021-06-14T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtd",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x054"
+      },
+      "episode": {
+        "id": "m000x055",
+        "title": "Rownd 1af Canwr y Byd 2021"
+      },
+      "brand": {
+        "title": "Bore Cothi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T10:00:00.000Z",
+        "end": "2021-06-14T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtf",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x056"
+      },
+      "episode": {
+        "id": "m000x057",
+        "title": "Dewi Llwyd"
+      },
+      "brand": {
+        "title": "Dros Ginio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T11:30:00.000Z",
+        "end": "2021-06-14T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtg",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x058"
+      },
+      "episode": {
+        "id": "m000x059",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Ifan Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T13:00:00.000Z",
+        "end": "2021-06-14T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdth",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x05b"
+      },
+      "episode": {
+        "id": "m000x05c",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Post Prynhawn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T16:00:00.000Z",
+        "end": "2021-06-14T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtj",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x05d"
+      },
+      "episode": {
+        "id": "m000x05f",
+        "title": "James Davies - y pêl-droediwr sy'n ffermio"
+      },
+      "brand": {
+        "title": "Troi'r Tir"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:00:00.000Z",
+        "end": "2021-06-14T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtl",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x05g"
+      },
+      "episode": {
+        "id": "m000x05h",
+        "title": "Jiawl! Heather Jones"
+      },
+      "brand": {
+        "title": "Recordiau Rhys Mwyn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:30:00.000Z",
+        "end": "2021-06-14T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtn",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x05j"
+      },
+      "episode": {
+        "id": "m000x05k",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Stiwdio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T20:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvdtp",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x05l"
+      },
+      "episode": {
+        "id": "m000x05m",
+        "title": "Clera Ceredigion"
+      },
+      "brand": {
+        "title": "Geraint Lloyd"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T23:00:00.000Z"
+      }
+    }
+  ]
+}

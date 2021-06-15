@@ -1,0 +1,399 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-18T03:27:07.650Z"
+  },
+  "items": [
+    {
+      "id": "p09gq06x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sq"
+      },
+      "episode": {
+        "id": "m000w6sr",
+        "title": "Country Creek"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:10:00.000Z",
+        "end": "2021-05-17T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bksr"
+      },
+      "episode": {
+        "id": "m000bk6x",
+        "title": "Shardlow to Stoke-on-Trent"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:40:00.000Z",
+        "end": "2021-05-18T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m00077rr"
+      },
+      "episode": {
+        "id": "m00077rs",
+        "title": "Cosway or Lawrence?"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:10:00.000Z",
+        "end": "2021-05-18T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq070",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6ss"
+      },
+      "episode": {
+        "id": "m000w6sp",
+        "title": "Classic British Cars: Made in Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:10:00.000Z",
+        "end": "2021-05-18T02:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq071",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T02:10:00.000Z",
+        "end": "2021-05-18T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq072",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:30:00.000Z",
+        "end": "2021-05-18T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyrz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:58:00.000Z",
+        "end": "2021-05-18T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpys0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000blqm"
+      },
+      "episode": {
+        "id": "m000bk5m",
+        "title": "Froghall to Bugsworth Basin"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:00:00.000Z",
+        "end": "2021-05-18T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpys2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6rz"
+      },
+      "episode": {
+        "id": "m000w6s0",
+        "title": "Frosty Winter Morn"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:30:00.000Z",
+        "end": "2021-05-18T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpys3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6s1"
+      },
+      "episode": {
+        "id": "m000w6s2",
+        "title": "Semi-Final 1"
+      },
+      "brand": {
+        "title": "Eurovision Song Contest"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T19:00:00.000Z",
+        "end": "2021-05-18T21:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpys5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6s4"
+      },
+      "episode": {
+        "id": "m000w6s5",
+        "title": "Vaccines"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:05:00.000Z",
+        "end": "2021-05-18T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpys7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0bqn154"
+      },
+      "episode": {
+        "id": "b0bprdcn",
+        "title": "Episode 11 - Vitamin Pills: Miracle or Myth?"
+      },
+      "brand": {
+        "title": "Horizon"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T22:00:00.000Z",
+        "end": "2021-05-18T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpys9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0b5t2hw"
+      },
+      "episode": {
+        "id": "p01f51z4",
+        "title": "Episode 1 - Pain"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04dq8kh"
+      },
+      "episode": {
+        "id": "b04dq8kl",
+        "title": "Episode 1 - Galen and Leonardo"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysf",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6rz"
+      },
+      "episode": {
+        "id": "m000w6s0",
+        "title": "Frosty Winter Morn"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:30:00.000Z",
+        "end": "2021-05-19T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysh",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000blqm"
+      },
+      "episode": {
+        "id": "m000bk5m",
+        "title": "Froghall to Bugsworth Basin"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:00:00.000Z",
+        "end": "2021-05-19T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6s4"
+      },
+      "episode": {
+        "id": "m000w6s5",
+        "title": "Vaccines"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:30:00.000Z",
+        "end": "2021-05-19T02:25:00.000Z"
+      }
+    }
+  ]
+}

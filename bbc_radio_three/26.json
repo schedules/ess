@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-26T03:25:48.496Z"
+  },
+  "items": [
+    {
+      "id": "p09gw33x",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3s"
+      },
+      "episode": {
+        "id": "m000wc3t",
+        "title": "The late zone"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T22:00:00.000Z",
+        "end": "2021-05-25T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw33y",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc3v"
+      },
+      "episode": {
+        "id": "m000wc3w",
+        "title": "Copland, Mozart, Sibelius and Stravinsky"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:30:00.000Z",
+        "end": "2021-05-26T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw645",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc6n"
+      },
+      "episode": {
+        "id": "m000wc6p",
+        "title": "Wednesday - Petroc's classical mix"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:30:00.000Z",
+        "end": "2021-05-26T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw646",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc6q"
+      },
+      "episode": {
+        "id": "m000wc6r",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:00:00.000Z",
+        "end": "2021-05-26T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw647",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000bf6g"
+      },
+      "episode": {
+        "id": "m000bf6h",
+        "title": "Strikin' Out"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T11:00:00.000Z",
+        "end": "2021-05-26T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw648",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc6s"
+      },
+      "episode": {
+        "id": "m000wc6t",
+        "title": "Scotland Week (2/4)"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T12:00:00.000Z",
+        "end": "2021-05-26T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64b",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc6v"
+      },
+      "episode": {
+        "id": "m000wc6w",
+        "title": "BBC National Orchestra of Wales (3/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T13:00:00.000Z",
+        "end": "2021-05-26T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64c",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc6x"
+      },
+      "episode": {
+        "id": "m000wc6y",
+        "title": "Westminster Abbey"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T14:30:00.000Z",
+        "end": "2021-05-26T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64d",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc6z"
+      },
+      "episode": {
+        "id": "m000wc70",
+        "title": "Upon the Hills of Georgia"
+      },
+      "brand": {
+        "title": "New Generation Artists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T15:30:00.000Z",
+        "end": "2021-05-26T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64f",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc71"
+      },
+      "episode": {
+        "id": "m000wc72",
+        "title": "Elizabeth Llewellyn and Simon Lepper, Elizabeth Kenny, Mary Bevan"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:00:00.000Z",
+        "end": "2021-05-26T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64g",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc73"
+      },
+      "episode": {
+        "id": "m000wc74",
+        "title": "The eclectic classical mix"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:00:00.000Z",
+        "end": "2021-05-26T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64h",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc75"
+      },
+      "episode": {
+        "id": "m000wc76",
+        "title": "Colin Currie"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:30:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64j",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc77"
+      },
+      "episode": {
+        "id": "m000wc78",
+        "title": "Fashion, Art and the Body"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-26T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64l",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc79"
+      },
+      "episode": {
+        "id": "m000wc7b",
+        "title": "The Schindler House"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:45:00.000Z",
+        "end": "2021-05-26T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64m",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wc7c"
+      },
+      "episode": {
+        "id": "m000wc7d",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:00:00.000Z",
+        "end": "2021-05-26T23:30:00.000Z"
+      }
+    }
+  ]
+}

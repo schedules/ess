@@ -1,0 +1,309 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-12T03:26:33.557Z"
+  },
+  "items": [
+    {
+      "id": "p09j9q7l",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wtvx"
+      },
+      "episode": {
+        "id": "m000wtvy",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-12T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9q7n",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wtvz"
+      },
+      "episode": {
+        "id": "m000wtw0",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Richard Rees"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:30:00.000Z",
+        "end": "2021-06-12T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbqn",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02h"
+      },
+      "episode": {
+        "id": "m000x02j",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Galwad Cynnar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:00:00.000Z",
+        "end": "2021-06-12T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbqr",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02k"
+      },
+      "episode": {
+        "id": "m000x02l",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:00:00.000Z",
+        "end": "2021-06-12T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbqt",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02m"
+      },
+      "episode": {
+        "id": "m000x02n",
+        "title": "Ewro 2020!"
+      },
+      "brand": {
+        "title": "Ar y Marc"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:30:00.000Z",
+        "end": "2021-06-12T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbqw",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02p"
+      },
+      "episode": {
+        "id": "m000x02q",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Tudur Owen"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T08:00:00.000Z",
+        "end": "2021-06-12T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kfntn",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x478"
+      },
+      "episode": {
+        "id": "m000x479",
+        "title": "Ewro 2020 Manon Steffan Ros a Tudur Owen"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:30:00.000Z",
+        "end": "2021-06-12T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbqy",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02r"
+      },
+      "episode": {
+        "id": "m000x02s",
+        "title": "Edrych 'mlaen at gêm gyntaf Cymru yn Euro 2020"
+      },
+      "brand": {
+        "title": "Y Sioe Sadwrn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:00:00.000Z",
+        "end": "2021-06-12T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbr0",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02t"
+      },
+      "episode": {
+        "id": "m000x02v",
+        "title": "Cymru v Y Swistir"
+      },
+      "brand": {
+        "title": "Chwaraeon Radio Cymru"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:30:00.000Z",
+        "end": "2021-06-12T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbr2",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02w"
+      },
+      "episode": {
+        "id": "m000x02x",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Ewro Marc"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:00:00.000Z",
+        "end": "2021-06-12T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbr4",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x02y"
+      },
+      "episode": {
+        "id": "m000x02z",
+        "title": "Merched y Wal Goch"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:00:00.000Z",
+        "end": "2021-06-12T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbr7",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x030"
+      },
+      "episode": {
+        "id": "m000x031",
+        "title": "Shwmae te?"
+      },
+      "brand": {
+        "title": "Marc Griffiths"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:30:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbr9",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000x032"
+      },
+      "episode": {
+        "id": "m000x033",
+        "title": "Ewros!"
+      },
+      "brand": {
+        "title": "Ffion Emyr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T23:00:00.000Z"
+      }
+    }
+  ]
+}

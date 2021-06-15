@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:26:15.263Z"
+  },
+  "items": [
+    {
+      "id": "p09gpwzc",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gkj4v"
+      },
+      "episode": {
+        "id": "p09gkj4m",
+        "title": "15/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-15T21:00:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx02",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09g40c0"
+      },
+      "episode": {
+        "id": "p09g40bx",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx0g",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09g4c20"
+      },
+      "episode": {
+        "id": "p09g40c7",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx0r",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09g4c2f"
+      },
+      "episode": {
+        "id": "p09g4c28",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:50:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx1c",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx12"
+      },
+      "episode": {
+        "id": "p09gpx0w",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Grace Smith"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx2c",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx24"
+      },
+      "episode": {
+        "id": "p09gpx1v",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Danny Kelly"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx2s",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx2n"
+      },
+      "episode": {
+        "id": "p09gpx2k",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T10:45:00.000Z",
+        "end": "2021-05-16T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx36",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx33"
+      },
+      "episode": {
+        "id": "p09gpx2y",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T11:00:00.000Z",
+        "end": "2021-05-16T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx3j",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx3g"
+      },
+      "episode": {
+        "id": "p09gpx3c",
+        "title": "Reaction and build-up (16/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:00:00.000Z",
+        "end": "2021-05-16T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx3p",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx3m"
+      },
+      "episode": {
+        "id": "p09gpx3k",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:30:00.000Z",
+        "end": "2021-05-16T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx3t",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gpx3r"
+      },
+      "episode": {
+        "id": "p09gkj7q",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Gagan Grewal"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:30:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx3v",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gkj8n"
+      },
+      "episode": {
+        "id": "p09gkj87",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Sunday night with Nikki"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpx3w",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gkj9f"
+      },
+      "episode": {
+        "id": "p09gkj97",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

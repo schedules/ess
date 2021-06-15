@@ -1,0 +1,451 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-21T03:16:35.676Z"
+  },
+  "items": [
+    {
+      "id": "p09gq6mn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-21T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T05:00:00.000Z",
+        "end": "2021-05-21T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6y6"
+      },
+      "episode": {
+        "id": "m000w6y7",
+        "title": "Bileagan Blasta"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:00:00.000Z",
+        "end": "2021-05-21T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fq",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08skq9c"
+      },
+      "episode": {
+        "id": "b08skq9k",
+        "title": "Episode 10 - Frasan an Earraich"
+      },
+      "brand": {
+        "title": "Creag nam Buthaidean/Puffin Rock"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:15:00.000Z",
+        "end": "2021-05-21T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09mn8wz"
+      },
+      "episode": {
+        "id": "b09mn8z1",
+        "title": "Episode 3 - Pàdraig Post agus An Cearban-sgiathach"
+      },
+      "brand": {
+        "title": "Padraig Post: Seirbheis Deis agus Sonraichte"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:25:00.000Z",
+        "end": "2021-05-21T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6ft",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000st99"
+      },
+      "episode": {
+        "id": "m000st9b",
+        "title": "A’ bhana-phrionnsa /The princess "
+      },
+      "brand": {
+        "title": "Nannag a’ Noo/Huggleboo  "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:40:00.000Z",
+        "end": "2021-05-21T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b096p589"
+      },
+      "episode": {
+        "id": "b096p58c",
+        "title": "Episode 4 - Coinneamh le Gibidh"
+      },
+      "brand": {
+        "title": "Treud na Dlùth-choille - Grad-Naidheachd/Jungle Bunch"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:50:00.000Z",
+        "end": "2021-05-21T16:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fy",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000c0zk"
+      },
+      "episode": {
+        "id": "m000c0zl",
+        "title": "An Oidhche Mhìorbhaileach aig Bèibidh Broc"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:55:00.000Z",
+        "end": "2021-05-21T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6fz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b04009z0"
+      },
+      "episode": {
+        "id": "b0400b33",
+        "title": "Morris am Meer-cat/Morris the Meerkat"
+      },
+      "brand": {
+        "title": "Aithne air Ainmhidhean/All About Animals"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:00:00.000Z",
+        "end": "2021-05-21T17:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6g0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000csxx"
+      },
+      "episode": {
+        "id": "m000csxy",
+        "title": "Episode 15"
+      },
+      "brand": {
+        "title": "An Rud As Fhearr Leam"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:25:00.000Z",
+        "end": "2021-05-21T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6g4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000r1w3"
+      },
+      "episode": {
+        "id": "m000r1w4",
+        "title": "Episode 25"
+      },
+      "brand": {
+        "title": "Geamaichean Gorach "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:30:00.000Z",
+        "end": "2021-05-21T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6g5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000f3kl"
+      },
+      "episode": {
+        "id": "m000f3km",
+        "title": "Iasg Sgoinneil"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:35:00.000Z",
+        "end": "2021-05-21T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6g7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6y8"
+      },
+      "episode": {
+        "id": "m000w6yb",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T18:00:00.000Z",
+        "end": "2021-05-21T18:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gylxb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wd7h"
+      },
+      "episode": {
+        "id": "m000wd7j",
+        "title": "Championship Play-off Final 2021 - Second Leg: Morton v Airdrieonians"
+      },
+      "brand": {
+        "title": "Scottish Premiership"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T18:25:00.000Z",
+        "end": "2021-05-21T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gylxc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000kcld"
+      },
+      "episode": {
+        "id": "m000kclf",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Port"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T20:30:00.000Z",
+        "end": "2021-05-21T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6gk",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xk"
+      },
+      "episode": {
+        "id": "m000w6xl",
+        "title": "A’ Dol Fodha/Going Under"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T20:45:00.000Z",
+        "end": "2021-05-21T20:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6gm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gxp7"
+      },
+      "episode": {
+        "id": "m000gxp8",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Eadar na Dha: 1918-1935/Clash of Futures: 1918-1935"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T20:55:00.000Z",
+        "end": "2021-05-21T21:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6gp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b8ls8c"
+      },
+      "episode": {
+        "id": "b0b8ls9w",
+        "title": "Episode 7 - Lochindorb"
+      },
+      "brand": {
+        "title": "Dhan Uisge"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:50:00.000Z",
+        "end": "2021-05-21T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6gr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b07wswm3"
+      },
+      "episode": {
+        "id": "b07wsxmn",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-21T22:00:00.000Z",
+        "end": "2021-05-21T23:00:00.000Z"
+      }
+    }
+  ]
+}

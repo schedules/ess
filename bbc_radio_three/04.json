@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:40:17.704Z"
+  },
+  "items": [
+    {
+      "id": "p09hk5x9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlkl"
+      },
+      "episode": {
+        "id": "m000wlkm",
+        "title": "The Voyages of Love"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:30:00.000Z",
+        "end": "2021-06-04T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf90",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm6s"
+      },
+      "episode": {
+        "id": "m000wm6t",
+        "title": "Friday - Petroc's classical mix"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:30:00.000Z",
+        "end": "2021-06-04T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf91",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm6v"
+      },
+      "episode": {
+        "id": "m000wm6w",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T08:00:00.000Z",
+        "end": "2021-06-04T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf92",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm6x"
+      },
+      "episode": {
+        "id": "m000wm6y",
+        "title": "The End Is C Sharp"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T11:00:00.000Z",
+        "end": "2021-06-04T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf93",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm6z"
+      },
+      "episode": {
+        "id": "m000wm70",
+        "title": "Consone Quartet play Haydn and late Mendelssohn"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T12:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf94",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm71"
+      },
+      "episode": {
+        "id": "m000wm72",
+        "title": "Celebrating the Ulster Orchestra and the BBC Concert Orchestra (5/5)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf95",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0000r2z"
+      },
+      "episode": {
+        "id": "m0000r30",
+        "title": "The Cowpat Controversy"
+      },
+      "brand": {
+        "title": "The Listening Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T15:30:00.000Z",
+        "end": "2021-06-04T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf96",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm73"
+      },
+      "episode": {
+        "id": "m000wm74",
+        "title": "Mark Padmore"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T16:00:00.000Z",
+        "end": "2021-06-04T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf97",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm75"
+      },
+      "episode": {
+        "id": "m000wm76",
+        "title": "A 30-minute mix of delightful classical music"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:00:00.000Z",
+        "end": "2021-06-04T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf98",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm77"
+      },
+      "episode": {
+        "id": "m000wm78",
+        "title": "Esa -Pekka Salonen says goodbye to the Philharmonia Orchestra"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:30:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf99",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm79"
+      },
+      "episode": {
+        "id": "m000wm7b",
+        "title": "Time Scales - Experiments in Living"
+      },
+      "brand": {
+        "title": "The Verb"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-04T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf9b",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm7c"
+      },
+      "episode": {
+        "id": "m000wm7d",
+        "title": "King Zog - And Time to Leave"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:45:00.000Z",
+        "end": "2021-06-04T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnf9c",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wm7f"
+      },
+      "episode": {
+        "id": "m000wm7g",
+        "title": "Enter the Dream Machine"
+      },
+      "brand": {
+        "title": "Late Junction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    }
+  ]
+}

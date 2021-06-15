@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_manchester"
+  },
+  "service": {
+    "id": "bbc_radio_manchester",
+    "name": "BBC Radio Manchester",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:32:42.573Z"
+  },
+  "items": [
+    {
+      "id": "p09jjwfd",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwf7"
+      },
+      "episode": {
+        "id": "p09jjwf5",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwg1",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09j3ks3"
+      },
+      "episode": {
+        "id": "p09j3ks0",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k97yq",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09k90zk"
+      },
+      "episode": {
+        "id": "p09k90fp",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:00:00.000Z",
+        "end": "2021-06-06T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwhh",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09j74s5"
+      },
+      "episode": {
+        "id": "p09j74s3",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:50:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwjj",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwj8"
+      },
+      "episode": {
+        "id": "p09jjwhw",
+        "title": "Indoor choir rehearsals"
+      },
+      "brand": {
+        "title": "Mike Shaft"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwjs",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwjq"
+      },
+      "episode": {
+        "id": "p09jjwjm",
+        "title": "Billy Brown"
+      },
+      "brand": {
+        "title": "Mike Sweeney"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:00:00.000Z",
+        "end": "2021-06-06T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwk2",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwjw"
+      },
+      "episode": {
+        "id": "p09jjwjt",
+        "title": "Wakefield Trinity v Leigh Centurions"
+      },
+      "brand": {
+        "title": "BBC Radio Manchester Sport: Big Match Commentary"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:00:00.000Z",
+        "end": "2021-06-06T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwkr",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwkp"
+      },
+      "episode": {
+        "id": "p09jjwk8",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Rugby League Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:00:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwlb",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwl6"
+      },
+      "episode": {
+        "id": "p09jjwl0",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Indus"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwlw",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwls"
+      },
+      "episode": {
+        "id": "p09jjwlm",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "The People"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-06T19:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jjwm5",
+      "service": {
+        "id": "bbc_radio_manchester"
+      },
+      "version": {
+        "id": "p09jjwm2"
+      },
+      "episode": {
+        "id": "p09jjwlz",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Allan Beswick's Late Night Phone-In"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_manchester"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    }
+  ]
+}

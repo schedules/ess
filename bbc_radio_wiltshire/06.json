@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wiltshire"
+  },
+  "service": {
+    "id": "bbc_radio_wiltshire",
+    "name": "BBC Wiltshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:24:41.584Z"
+  },
+  "items": [
+    {
+      "id": "p09jrs8j",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09j7r68"
+      },
+      "episode": {
+        "id": "p09j7r63",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "David White's Boogie Wonderland"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrs9h",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09j3ks3"
+      },
+      "episode": {
+        "id": "p09j3ks0",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9gq6",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09k90fw"
+      },
+      "episode": {
+        "id": "p09k90fp",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:00:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrscx",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jrsck"
+      },
+      "episode": {
+        "id": "p09jrsc0",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Sue Kinnear"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsf5",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jrsds"
+      },
+      "episode": {
+        "id": "p09jrsdj",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Sue Davies"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:00:00.000Z",
+        "end": "2021-06-06T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsfm",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jfw4x"
+      },
+      "episode": {
+        "id": "p09jfw4v",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Dominic Cotter"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_gloucestershire"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:00:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsg1",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jfw52"
+      },
+      "episode": {
+        "id": "p09jfw50",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Manny Masih"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrsgk",
+      "service": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "version": {
+        "id": "p09jrsgd"
+      },
+      "episode": {
+        "id": "p09jrsg6",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Lates on BBC Radio Wiltshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wiltshire"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    }
+  ]
+}

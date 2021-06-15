@@ -1,0 +1,884 @@
+{
+  "filters": {
+    "serviceId": "cbbc"
+  },
+  "service": {
+    "id": "cbbc",
+    "name": "CBBC",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-22T03:23:18.007Z"
+  },
+  "items": [
+    {
+      "id": "p09gq2f5",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96h",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96k",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bt45wp"
+      },
+      "episode": {
+        "id": "b0bt7ptq",
+        "title": "Episode 13 - The Hallway Minotaur"
+      },
+      "brand": {
+        "title": "Arthur"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:00:00.000Z",
+        "end": "2021-05-22T06:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96m",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0blsnyn"
+      },
+      "episode": {
+        "id": "b0blsr6n",
+        "title": "Episode 31 - Daylight Savings Crime"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:10:00.000Z",
+        "end": "2021-05-22T06:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96n",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0blsp0w"
+      },
+      "episode": {
+        "id": "b0blss6l",
+        "title": "Episode 32 - The Law of Beverages"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:25:00.000Z",
+        "end": "2021-05-22T06:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96p",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000bxzf"
+      },
+      "episode": {
+        "id": "m000bxzg",
+        "title": "Cat Beard"
+      },
+      "brand": {
+        "title": "Boy Girl Dog Cat Mouse Cheese"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:35:00.000Z",
+        "end": "2021-05-22T06:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96q",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000wffh"
+      },
+      "episode": {
+        "id": "m000wffj",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Newsround"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:45:00.000Z",
+        "end": "2021-05-22T06:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96r",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b062sc8v"
+      },
+      "episode": {
+        "id": "b062w4ms",
+        "title": "Episode 18 - Totally Odd Squad"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T06:55:00.000Z",
+        "end": "2021-05-22T07:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96t",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000n7lh"
+      },
+      "episode": {
+        "id": "m000kxr4",
+        "title": "Blamjitsu Sensei"
+      },
+      "brand": {
+        "title": "Dennis & Gnasher Unleashed!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:10:00.000Z",
+        "end": "2021-05-22T07:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96v",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000n7lj"
+      },
+      "episode": {
+        "id": "m000l3xv",
+        "title": "Molar Power"
+      },
+      "brand": {
+        "title": "Dennis & Gnasher Unleashed!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:20:00.000Z",
+        "end": "2021-05-22T07:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96w",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000rgvb"
+      },
+      "episode": {
+        "id": "m000rgvc",
+        "title": "Cabaret Night"
+      },
+      "brand": {
+        "title": "Danny and Mick"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:35:00.000Z",
+        "end": "2021-05-22T07:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96x",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b091wtpb"
+      },
+      "episode": {
+        "id": "b091wygp",
+        "title": "Episode 1 - The Big Bang"
+      },
+      "brand": {
+        "title": "The Zoo"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:45:00.000Z",
+        "end": "2021-05-22T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96y",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000wffk"
+      },
+      "episode": {
+        "id": "m000wffl",
+        "title": "With Melvin Odoom and Darren Harriott"
+      },
+      "brand": {
+        "title": "Saturday Mash-Up! Live"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T08:00:00.000Z",
+        "end": "2021-05-22T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc96z",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000g86x"
+      },
+      "episode": {
+        "id": "m000g86y",
+        "title": "Norway"
+      },
+      "brand": {
+        "title": "Deadly 60"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T10:30:00.000Z",
+        "end": "2021-05-22T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc970",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000ftbw"
+      },
+      "episode": {
+        "id": "m000ftbx",
+        "title": "South Africa"
+      },
+      "brand": {
+        "title": "Deadly 60"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:00:00.000Z",
+        "end": "2021-05-22T11:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc971",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b063j3t6"
+      },
+      "episode": {
+        "id": "b063j3ts",
+        "title": "Episode 10 - Wily Winston Churchill Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:25:00.000Z",
+        "end": "2021-05-22T11:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc972",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06289mf"
+      },
+      "episode": {
+        "id": "b060pwn6",
+        "title": "Episode 7 - Crafty Cleopatra Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:55:00.000Z",
+        "end": "2021-05-22T12:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc973",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000qz84"
+      },
+      "episode": {
+        "id": "m000qz85",
+        "title": "Scooby Doo and the Goblin King"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:20:00.000Z",
+        "end": "2021-05-22T13:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc974",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000w705"
+      },
+      "episode": {
+        "id": "m000w706",
+        "title": "Across the Ditch"
+      },
+      "brand": {
+        "title": "Hardball"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:35:00.000Z",
+        "end": "2021-05-22T13:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc975",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000w709"
+      },
+      "episode": {
+        "id": "m000w70b",
+        "title": "Sorry Salwa"
+      },
+      "brand": {
+        "title": "Hardball"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:55:00.000Z",
+        "end": "2021-05-22T14:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc977",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bjg1cv"
+      },
+      "episode": {
+        "id": "b0bjg1g3",
+        "title": "Episode 3 - Where There's a Will"
+      },
+      "brand": {
+        "title": "So Awkward"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:15:00.000Z",
+        "end": "2021-05-22T14:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc978",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bk9fql"
+      },
+      "episode": {
+        "id": "b0bk9fzf",
+        "title": "Episode 4 - Breaking Up"
+      },
+      "brand": {
+        "title": "So Awkward"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:45:00.000Z",
+        "end": "2021-05-22T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97b",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06h8q9z"
+      },
+      "episode": {
+        "id": "b06h8vl4",
+        "title": "Episode 8 - The Other Day the Earth Stood Still"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:15:00.000Z",
+        "end": "2021-05-22T15:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97c",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06h8r22"
+      },
+      "episode": {
+        "id": "b06h8rp7",
+        "title": "Episode 9 - Welcome to Danger World!"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:25:00.000Z",
+        "end": "2021-05-22T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97d",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06h8rjw"
+      },
+      "episode": {
+        "id": "b06h939t",
+        "title": "Episode 10 - Jeopardy Mouse"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:35:00.000Z",
+        "end": "2021-05-22T15:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97g",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000gqlz"
+      },
+      "episode": {
+        "id": "m000gqm0",
+        "title": "The Phantom Toilet Blocker"
+      },
+      "brand": {
+        "title": "Class Dismissed"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:50:00.000Z",
+        "end": "2021-05-22T16:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97h",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b060fvqc"
+      },
+      "episode": {
+        "id": "b060fvs8",
+        "title": "Episode 6 - Horrid Henry VIII Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:05:00.000Z",
+        "end": "2021-05-22T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97j",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b064dqw9"
+      },
+      "episode": {
+        "id": "b0649kbr",
+        "title": "Episode 11 - Tricky Queen Vicky Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:30:00.000Z",
+        "end": "2021-05-22T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97l",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000rxwz"
+      },
+      "episode": {
+        "id": "m000rxx0",
+        "title": "End of the Road, Part 1"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:00:00.000Z",
+        "end": "2021-05-22T17:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97m",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000rxt5"
+      },
+      "episode": {
+        "id": "m000rxt6",
+        "title": "End of the Road, Part 2"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:10:00.000Z",
+        "end": "2021-05-22T17:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97n",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000sldn"
+      },
+      "episode": {
+        "id": "m000sldp",
+        "title": "Spell Crushers"
+      },
+      "brand": {
+        "title": "Summer Camp Island"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:25:00.000Z",
+        "end": "2021-05-22T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97p",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000slfr"
+      },
+      "episode": {
+        "id": "m000slfs",
+        "title": "The Library"
+      },
+      "brand": {
+        "title": "Summer Camp Island"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:35:00.000Z",
+        "end": "2021-05-22T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97r",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000jyb3"
+      },
+      "episode": {
+        "id": "m000jyb4",
+        "title": "Flower Power"
+      },
+      "brand": {
+        "title": "Little Big Awesome"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:45:00.000Z",
+        "end": "2021-05-22T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97t",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06jgxst"
+      },
+      "episode": {
+        "id": "b06jm6rk",
+        "title": "Episode 14 - Danger Fan"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:00:00.000Z",
+        "end": "2021-05-22T18:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97v",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b01rn6vf"
+      },
+      "episode": {
+        "id": "b039671v",
+        "title": "Episode 6 - Alvin and the Outcasts"
+      },
+      "brand": {
+        "title": "Dragons"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:10:00.000Z",
+        "end": "2021-05-22T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97x",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000t8c6"
+      },
+      "episode": {
+        "id": "m000t8c7",
+        "title": "Princess Scorpia"
+      },
+      "brand": {
+        "title": "She-Ra"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:30:00.000Z",
+        "end": "2021-05-22T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97y",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06ss1c5"
+      },
+      "episode": {
+        "id": "b04w7pgj",
+        "title": "26/12/2014 - The Boy in the Dress"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:55:00.000Z",
+        "end": "2021-05-22T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc97z",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-22T20:00:00.000Z",
+        "end": "2021-05-22T23:00:00.000Z"
+      }
+    }
+  ]
+}

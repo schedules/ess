@@ -1,0 +1,437 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-02T03:31:59.487Z"
+  },
+  "items": [
+    {
+      "id": "p09j0q65",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0b612hz"
+      },
+      "episode": {
+        "id": "p01f53b9",
+        "title": "Episode 3 - Poison"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:55:00.000Z",
+        "end": "2021-06-01T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q66",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04gbcp9"
+      },
+      "episode": {
+        "id": "b04gbdwt",
+        "title": "Episode 4 - The Hunter Brothers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:55:00.000Z",
+        "end": "2021-06-02T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q67",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn1x"
+      },
+      "episode": {
+        "id": "m000wn1y",
+        "title": "Toward Day's End"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:25:00.000Z",
+        "end": "2021-06-02T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q68",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn1v"
+      },
+      "episode": {
+        "id": "b007hzfj",
+        "title": "Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:55:00.000Z",
+        "end": "2021-06-02T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q69",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn22"
+      },
+      "episode": {
+        "id": "m000wn0w",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T01:25:00.000Z",
+        "end": "2021-06-02T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q6c",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T02:25:00.000Z",
+        "end": "2021-06-02T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q6d",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:30:00.000Z",
+        "end": "2021-06-02T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q25",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:58:00.000Z",
+        "end": "2021-06-02T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q27",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn42"
+      },
+      "episode": {
+        "id": "b007hzfy",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:00:00.000Z",
+        "end": "2021-06-02T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q29",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn44"
+      },
+      "episode": {
+        "id": "m000wn45",
+        "title": "Falls in the Glen"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:30:00.000Z",
+        "end": "2021-06-02T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2b",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07w1pnf"
+      },
+      "episode": {
+        "id": "b07v77jd",
+        "title": "Episode 4 - When Speed Counts"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-02T19:00:00.000Z",
+        "end": "2021-06-02T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2d",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jggx4"
+      },
+      "episode": {
+        "id": "b09jggy5",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-02T20:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00t0ywn"
+      },
+      "episode": {
+        "id": "b00t0yx9",
+        "title": "Episode 2 - A Jumbo Jet Engine"
+      },
+      "brand": {
+        "title": "How to Build..."
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-02T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn0v"
+      },
+      "episode": {
+        "id": "m000wn0w",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T22:00:00.000Z",
+        "end": "2021-06-02T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2l",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rdw4"
+      },
+      "episode": {
+        "id": "p099cqzr",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:00:00.000Z",
+        "end": "2021-06-02T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2n",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rfnx"
+      },
+      "episode": {
+        "id": "p099crv1",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:45:00.000Z",
+        "end": "2021-06-03T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn44"
+      },
+      "episode": {
+        "id": "m000wn45",
+        "title": "Falls in the Glen"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-03T00:30:00.000Z",
+        "end": "2021-06-03T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2s",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn42"
+      },
+      "episode": {
+        "id": "b007hzfy",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:00:00.000Z",
+        "end": "2021-06-03T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q2w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b045hdm8"
+      },
+      "episode": {
+        "id": "b041dqp3",
+        "title": "Episode 2 - Forward into the Past"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:30:00.000Z",
+        "end": "2021-06-03T02:30:00.000Z"
+      }
+    }
+  ]
+}

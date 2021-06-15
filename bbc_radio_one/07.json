@@ -1,0 +1,451 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-07T03:31:13.634Z"
+  },
+  "items": [
+    {
+      "id": "p09j57m5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wr5h"
+      },
+      "episode": {
+        "id": "m000wr5j",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "BBC Introducing Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:30:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j57m6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqt9"
+      },
+      "episode": {
+        "id": "m000wqtb",
+        "title": "Joy Orbison"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T00:00:00.000Z",
+        "end": "2021-06-07T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j57m7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqtc"
+      },
+      "episode": {
+        "id": "m000wqtd",
+        "title": "Anz"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T01:00:00.000Z",
+        "end": "2021-06-07T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j57m8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wr5k"
+      },
+      "episode": {
+        "id": "m000wr5l",
+        "title": "ENNY Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T02:00:00.000Z",
+        "end": "2021-06-07T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j57m9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vy80"
+      },
+      "episode": {
+        "id": "m000vy81",
+        "title": "Munya Chawawa Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T02:30:00.000Z",
+        "end": "2021-06-07T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j57mb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqt7"
+      },
+      "episode": {
+        "id": "m000wqt8",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T03:00:00.000Z",
+        "end": "2021-06-07T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j57mc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wr5m"
+      },
+      "episode": {
+        "id": "m000wr5n",
+        "title": "with Sam and Danni"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T04:00:00.000Z",
+        "end": "2021-06-07T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z1",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstk"
+      },
+      "episode": {
+        "id": "m000wstl",
+        "title": "Is It Just Us?"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T06:00:00.000Z",
+        "end": "2021-06-07T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstm"
+      },
+      "episode": {
+        "id": "m000wstn",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T09:32:00.000Z",
+        "end": "2021-06-07T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wrvd"
+      },
+      "episode": {
+        "id": "m000wrvf",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T11:45:00.000Z",
+        "end": "2021-06-07T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstp"
+      },
+      "episode": {
+        "id": "m000wstq",
+        "title": "Whoo Game"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T12:00:00.000Z",
+        "end": "2021-06-07T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstr"
+      },
+      "episode": {
+        "id": "m000wsts",
+        "title": "Arielle co-hosts with Grimmy"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T14:32:00.000Z",
+        "end": "2021-06-07T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wrvl"
+      },
+      "episode": {
+        "id": "m000wrvm",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T16:45:00.000Z",
+        "end": "2021-06-07T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstt"
+      },
+      "episode": {
+        "id": "m000wstv",
+        "title": "Tkay Maidza Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T17:00:00.000Z",
+        "end": "2021-06-07T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstw"
+      },
+      "episode": {
+        "id": "m000wstx",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Power Down Playlist with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T18:00:00.000Z",
+        "end": "2021-06-07T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68z9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsty"
+      },
+      "episode": {
+        "id": "m000wstz",
+        "title": "Out Of Sight, Out Of Mind"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T19:00:00.000Z",
+        "end": "2021-06-07T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsv0"
+      },
+      "episode": {
+        "id": "m000wsv1",
+        "title": "Sian Eleri sits in for Jack"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-07T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqrn"
+      },
+      "episode": {
+        "id": "m000wqrq",
+        "title": "Kleu DNB Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqtk"
+      },
+      "episode": {
+        "id": "m000wqtl",
+        "title": "Having An Attitude Of Gratitude"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T01:00:00.000Z",
+        "end": "2021-06-08T02:00:00.000Z"
+      }
+    }
+  ]
+}

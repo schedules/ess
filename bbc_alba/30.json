@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-30T03:23:08.825Z"
+  },
+  "items": [
+    {
+      "id": "p09j0gxr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000cdn"
+      },
+      "episode": {
+        "id": "m0000cdp",
+        "title": "2018"
+      },
+      "brand": {
+        "title": "Tatù Rìoghail Dhùn Èideann/Edinburgh Military Tattoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-29T22:05:00.000Z",
+        "end": "2021-05-29T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0gxs",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b8rf7d"
+      },
+      "episode": {
+        "id": "b0b8rfnl",
+        "title": "Episode 8 - Rubislaw Quarry"
+      },
+      "brand": {
+        "title": "Dhan Uisge"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:45:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0gxt",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h71",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h72",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn1d"
+      },
+      "episode": {
+        "id": "m000wn1f",
+        "title": "Spartans v Glasgow City"
+      },
+      "brand": {
+        "title": "Scottish Women's Premier League"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:00:00.000Z",
+        "end": "2021-05-30T17:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h73",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000k4ts"
+      },
+      "episode": {
+        "id": "m000k4tv",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:05:00.000Z",
+        "end": "2021-05-30T17:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h74",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn1g"
+      },
+      "episode": {
+        "id": "m000wn1h",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:15:00.000Z",
+        "end": "2021-05-30T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h75",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn1j"
+      },
+      "episode": {
+        "id": "m000wn1k",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Seachd Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:30:00.000Z",
+        "end": "2021-05-30T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h76",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00fwgql"
+      },
+      "episode": {
+        "id": "b00fwgvk",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Slighe Anndra"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:30:00.000Z",
+        "end": "2021-05-30T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h77",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000vktq"
+      },
+      "episode": {
+        "id": "m000vktr",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Dan"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:55:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h78",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000k4vk"
+      },
+      "episode": {
+        "id": "m000k4vl",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Leugh Mi/Book Show"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h7c",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gxp5"
+      },
+      "episode": {
+        "id": "m000gxp6",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Dreach Ùr"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:30:00.000Z",
+        "end": "2021-05-30T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h7f",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0966pkh"
+      },
+      "episode": {
+        "id": "b0966qdg",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Talamh gu Truinnsear"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h7h",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b07y6hd8"
+      },
+      "episode": {
+        "id": "b07y6hfb",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-30T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h7k",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000h4bt"
+      },
+      "episode": {
+        "id": "m000h4bw",
+        "title": "Brathadh/Betrayal"
+      },
+      "brand": {
+        "title": "Eadar na Dha: 1918-1935/Clash of Futures: 1918-1935"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:00:00.000Z",
+        "end": "2021-05-30T22:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h7m",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0b8rf7d"
+      },
+      "episode": {
+        "id": "b0b8rfnl",
+        "title": "Episode 8 - Rubislaw Quarry"
+      },
+      "brand": {
+        "title": "Dhan Uisge"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:50:00.000Z",
+        "end": "2021-05-30T23:00:00.000Z"
+      }
+    }
+  ]
+}

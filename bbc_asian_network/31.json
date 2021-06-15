@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_asian_network"
+  },
+  "service": {
+    "id": "bbc_asian_network",
+    "name": "BBC Asian Network",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:20:55.129Z"
+  },
+  "items": [
+    {
+      "id": "p09hjd35",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkbv"
+      },
+      "episode": {
+        "id": "m000wkbw",
+        "title": "Aneesha Kotwani - The IPL Through Music"
+      },
+      "brand": {
+        "title": "Asian Network Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjd36",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wbvj"
+      },
+      "episode": {
+        "id": "m000wbvl",
+        "title": "New Music Monday"
+      },
+      "brand": {
+        "title": "Bobby Friction"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjd37",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkbx"
+      },
+      "episode": {
+        "id": "m000wkby",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Group Chat"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T03:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjd38",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w5z3"
+      },
+      "episode": {
+        "id": "m000w5z4",
+        "title": "Hunterz, Imran Khan and Shreya Ghoshal"
+      },
+      "brand": {
+        "title": "Asian Network Certified"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nh",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkp7"
+      },
+      "episode": {
+        "id": "m000wkp8",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Asian Network Certified"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nj",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkp9"
+      },
+      "episode": {
+        "id": "m000wkpb",
+        "title": "Bank Holiday Breakfast!"
+      },
+      "brand": {
+        "title": "DJ Limelight & Kan D Man"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T06:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nk",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkpc"
+      },
+      "episode": {
+        "id": "m000wkpd",
+        "title": "Manara spices up your Monday!"
+      },
+      "brand": {
+        "title": "Pure Spice with DJ Manara"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nl",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkpf"
+      },
+      "episode": {
+        "id": "m000wkpg",
+        "title": "Bobby's Bank Holiday Beats!"
+      },
+      "brand": {
+        "title": "Bobby Friction"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:00:00.000Z",
+        "end": "2021-05-31T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nm",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkph"
+      },
+      "episode": {
+        "id": "m000wkpj",
+        "title": "Nayha's Bank Holiday Bonanza"
+      },
+      "brand": {
+        "title": "Nayha"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T15:00:00.000Z",
+        "end": "2021-05-31T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nn",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkpl"
+      },
+      "episode": {
+        "id": "m000wkpm",
+        "title": "Bank Holiday banter!"
+      },
+      "brand": {
+        "title": "Nikita Kanda & Mistah Islah"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2np",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkpn"
+      },
+      "episode": {
+        "id": "m000wkpq",
+        "title": "Back to back bank holiday bangers!"
+      },
+      "brand": {
+        "title": "AJD"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-05-31T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nq",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wkps"
+      },
+      "episode": {
+        "id": "m000wkpv",
+        "title": "Afrobeats VS Dancehall"
+      },
+      "brand": {
+        "title": "The Shisha Lounge Mix with DJ Limelight"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:00:00.000Z",
+        "end": "2021-05-31T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2nr",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wbvs"
+      },
+      "episode": {
+        "id": "m000wbvv",
+        "title": "Summer Lounge Vibes"
+      },
+      "brand": {
+        "title": "The Shisha Lounge Mix with DJ Limelight"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:30:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk2ns",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wb2t"
+      },
+      "episode": {
+        "id": "m000wb2v",
+        "title": "BBC Music Introducing Artist Ravy"
+      },
+      "brand": {
+        "title": "Bobby Friction"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": "2021-06-01T02:30:00.000Z"
+      }
+    }
+  ]
+}

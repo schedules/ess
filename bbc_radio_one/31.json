@@ -1,0 +1,612 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:34:21.342Z"
+  },
+  "items": [
+    {
+      "id": "p09hh6ns",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj5v"
+      },
+      "episode": {
+        "id": "m000wj5w",
+        "title": "Jacana People at Big Weekend!"
+      },
+      "brand": {
+        "title": "BBC Introducing Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:30:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6nw",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj61"
+      },
+      "episode": {
+        "id": "m000wj62",
+        "title": "Fatboy Eats Everything (2020)"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6ny",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj63"
+      },
+      "episode": {
+        "id": "m000wj64",
+        "title": "Solardo (2020)"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:00:00.000Z",
+        "end": "2021-05-31T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gym2g",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd7q"
+      },
+      "episode": {
+        "id": "m000wd7r",
+        "title": "Sam Smith"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:30:00.000Z",
+        "end": "2021-05-31T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6p0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000sqg0"
+      },
+      "episode": {
+        "id": "m000sqg1",
+        "title": "Black Coffee Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T02:30:00.000Z",
+        "end": "2021-05-31T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htd72",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4fh"
+      },
+      "episode": {
+        "id": "m000w4fj",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T03:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09htd73",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wcnr"
+      },
+      "episode": {
+        "id": "m000wcns",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6p2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj65"
+      },
+      "episode": {
+        "id": "m000wj66",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn0m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjh5"
+      },
+      "episode": {
+        "id": "m000wjh7",
+        "title": "Yesterday's Quiz"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T06:00:00.000Z",
+        "end": "2021-05-31T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzd8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmhm"
+      },
+      "episode": {
+        "id": "m000wmhn",
+        "title": "Coldplay, Mabel, Kings of Leon + more"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T07:00:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzdc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmhp"
+      },
+      "episode": {
+        "id": "m000wmhq",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzdd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmhr"
+      },
+      "episode": {
+        "id": "m000wmhs",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:32:00.000Z",
+        "end": "2021-05-31T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzdg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmht"
+      },
+      "episode": {
+        "id": "m000wmhv",
+        "title": "Celeste, + Vampire Weekend"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T10:00:00.000Z",
+        "end": "2021-05-31T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxpcs",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x168"
+      },
+      "episode": {
+        "id": "m000x169",
+        "title": "London Grammar + The Blessed Madonna"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:00:00.000Z",
+        "end": "2021-05-31T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzdj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmhw"
+      },
+      "episode": {
+        "id": "m000wmhx",
+        "title": "Sam Smith + Lana Del Rey"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxpcv",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x16b"
+      },
+      "episode": {
+        "id": "m000x16c",
+        "title": "Katy Perry + girl in red"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxpcw",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x16d"
+      },
+      "episode": {
+        "id": "m000x16f",
+        "title": "Foo Fighters + Clairo"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T14:00:00.000Z",
+        "end": "2021-05-31T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzdk",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmhy"
+      },
+      "episode": {
+        "id": "m000wmhz",
+        "title": "Miley Cyrus + Lianne La Havas"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T15:00:00.000Z",
+        "end": "2021-05-31T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxpcx",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x16g"
+      },
+      "episode": {
+        "id": "m000x16h",
+        "title": "Mumford & Sons + Thom Yorke"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:00:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxpcy",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x16j"
+      },
+      "episode": {
+        "id": "m000x16k",
+        "title": "Bring Me the Horizon + Mac DeMarco"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwzdl",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wmj0"
+      },
+      "episode": {
+        "id": "m000wmj1",
+        "title": "Royal Blood watchalong"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend 2021"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:00:00.000Z",
+        "end": "2021-05-31T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn0t",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjhv"
+      },
+      "episode": {
+        "id": "m000wjhy",
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T19:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn0v",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjj1"
+      },
+      "episode": {
+        "id": "m000wjj4",
+        "title": "Jess sits in for Jack"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-05-31T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn0w",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj4x"
+      },
+      "episode": {
+        "id": "m000wj4y",
+        "title": "Kanine Rinse Out Track!"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:00:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn0x",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjj7"
+      },
+      "episode": {
+        "id": "m000wjjb",
+        "title": "DNB60: Culture Shock"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": "2021-06-01T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhn0y",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj8d"
+      },
+      "episode": {
+        "id": "m000wj8f",
+        "title": "Mastering The Art Of Switching Off"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T01:00:00.000Z",
+        "end": "2021-06-01T02:00:00.000Z"
+      }
+    }
+  ]
+}

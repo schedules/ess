@@ -1,0 +1,428 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-12T03:28:15.434Z"
+  },
+  "items": [
+    {
+      "id": "p09l5cx7",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xc3g"
+      },
+      "episode": {
+        "id": "m000xc3h",
+        "title": "Health Secretary Matt Hancock Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:10:00.000Z",
+        "end": "2021-06-12T03:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx8",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14c"
+      },
+      "episode": {
+        "id": "m000x14d",
+        "title": "Live International Trade Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T03:25:00.000Z",
+        "end": "2021-06-12T04:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0kk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x152"
+      },
+      "episode": {
+        "id": "m000x153",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T04:20:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjf",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x5jp"
+      },
+      "episode": {
+        "id": "m000x5jq",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjg",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14m"
+      },
+      "episode": {
+        "id": "m000x14n",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Scottish First Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T09:15:00.000Z",
+        "end": "2021-06-12T10:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjh",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x5jr"
+      },
+      "episode": {
+        "id": "m000x5js",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:05:00.000Z",
+        "end": "2021-06-12T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x5jt"
+      },
+      "episode": {
+        "id": "m000x5jv",
+        "title": "Economy Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:50:00.000Z",
+        "end": "2021-06-12T13:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76ct",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xfqp"
+      },
+      "episode": {
+        "id": "m000xfqq",
+        "title": "Education Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:25:00.000Z",
+        "end": "2021-06-12T14:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12r"
+      },
+      "episode": {
+        "id": "m000x12s",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Welsh First Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:20:00.000Z",
+        "end": "2021-06-12T15:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76cv",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x8dk"
+      },
+      "episode": {
+        "id": "m000x8dl",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Senedd Cymru - Welsh Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:20:00.000Z",
+        "end": "2021-06-12T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x5jw"
+      },
+      "episode": {
+        "id": "m000x5jx",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Senedd Cymru - Welsh Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:00:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjn",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x5jy"
+      },
+      "episode": {
+        "id": "m000x5jz",
+        "title": "Northern Ireland Affairs Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T18:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76cw",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x87w"
+      },
+      "episode": {
+        "id": "m000x87x",
+        "title": "Decarbonising Heat in Homes Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:50:00.000Z",
+        "end": "2021-06-12T21:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76cx",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13g"
+      },
+      "episode": {
+        "id": "m000x13h",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T21:20:00.000Z",
+        "end": "2021-06-12T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khjjr",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzpg"
+      },
+      "episode": {
+        "id": "m000wzph",
+        "title": "Ben Rhodes - US Deputy National Security Advisor (2009-2017)"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:00:00.000Z",
+        "end": "2021-06-12T22:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76cy",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:25:00.000Z",
+        "end": "2021-06-12T22:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76cz",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xf7z"
+      },
+      "episode": {
+        "id": "m000xf80",
+        "title": "EU Visas for Creative Workers Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-12T22:50:00.000Z",
+        "end": "2021-06-13T00:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09l76d0",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x5jy"
+      },
+      "episode": {
+        "id": "m000x5jz",
+        "title": "Northern Ireland Affairs Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:35:00.000Z",
+        "end": "2021-06-13T02:30:00.000Z"
+      }
+    }
+  ]
+}

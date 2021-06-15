@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:34:28.695Z"
+  },
+  "items": [
+    {
+      "id": "p09g5pnr",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2yf"
+      },
+      "episode": {
+        "id": "m000w2yj",
+        "title": "Sinfonietta, Chamber Symphony and Symphony"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:30:00.000Z",
+        "end": "2021-05-19T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w56z"
+      },
+      "episode": {
+        "id": "m000w570",
+        "title": "Wednesday - Kate's classical commute"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:30:00.000Z",
+        "end": "2021-05-19T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w571"
+      },
+      "episode": {
+        "id": "m000w572",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T08:00:00.000Z",
+        "end": "2021-05-19T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w573"
+      },
+      "episode": {
+        "id": "m000w574",
+        "title": "Illustrious Circles"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T11:00:00.000Z",
+        "end": "2021-05-19T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjh",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w575"
+      },
+      "episode": {
+        "id": "m000w576",
+        "title": "Schumann Plus performed by Danny Driver"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T12:00:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w577"
+      },
+      "episode": {
+        "id": "m000w578",
+        "title": "Violinist Daniel Pioro and the BBC Philharmonic Orchestra"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w579"
+      },
+      "episode": {
+        "id": "m000w57b",
+        "title": "St Pancras Church, London"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T14:30:00.000Z",
+        "end": "2021-05-19T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w57c"
+      },
+      "episode": {
+        "id": "m000w57d",
+        "title": "Catriona Morison sings Schumann"
+      },
+      "brand": {
+        "title": "New Generation Artists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T15:30:00.000Z",
+        "end": "2021-05-19T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w57f"
+      },
+      "episode": {
+        "id": "m000w57g",
+        "title": "Angela Hewitt, Ailyn Pérez"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T16:00:00.000Z",
+        "end": "2021-05-19T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w57h"
+      },
+      "episode": {
+        "id": "m000w57j",
+        "title": "Your uplifting classical music playlist"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:00:00.000Z",
+        "end": "2021-05-19T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w57k"
+      },
+      "episode": {
+        "id": "m000w57l",
+        "title": "Strauss Songs and Brahms in Bath Abbey"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:30:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjq",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w57m"
+      },
+      "episode": {
+        "id": "m000w57n",
+        "title": "Ghosts of the Spanish Civil War"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-19T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjr",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000fmtk"
+      },
+      "episode": {
+        "id": "m000fmtl",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:45:00.000Z",
+        "end": "2021-05-19T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7gjs",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w57p"
+      },
+      "episode": {
+        "id": "m000w57q",
+        "title": "The music garden"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-19T22:00:00.000Z",
+        "end": "2021-05-19T23:30:00.000Z"
+      }
+    }
+  ]
+}

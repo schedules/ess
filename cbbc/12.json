@@ -1,0 +1,884 @@
+{
+  "filters": {
+    "serviceId": "cbbc"
+  },
+  "service": {
+    "id": "cbbc",
+    "name": "CBBC",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-12T03:31:38.237Z"
+  },
+  "items": [
+    {
+      "id": "p09jpjrn",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-11T23:00:00.000Z",
+        "end": "2021-06-12T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7r4",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T05:00:00.000Z",
+        "end": "2021-06-12T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7r5",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000jr0b"
+      },
+      "episode": {
+        "id": "m000jr0c",
+        "title": "Francine and the Soccer Spy"
+      },
+      "brand": {
+        "title": "Arthur"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:00:00.000Z",
+        "end": "2021-06-12T06:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7r6",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0002q49"
+      },
+      "episode": {
+        "id": "m0002q4b",
+        "title": "Danger-Thon"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:15:00.000Z",
+        "end": "2021-06-12T06:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7r7",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0002q6m"
+      },
+      "episode": {
+        "id": "m0002q6n",
+        "title": "Jam Session"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:25:00.000Z",
+        "end": "2021-06-12T06:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rb",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000gg89"
+      },
+      "episode": {
+        "id": "m000gg8b",
+        "title": "Crimes Against the Family"
+      },
+      "brand": {
+        "title": "Boy Girl Dog Cat Mouse Cheese"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:35:00.000Z",
+        "end": "2021-06-12T06:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rc",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000x276"
+      },
+      "episode": {
+        "id": "m000x277",
+        "title": "12/06/2021"
+      },
+      "brand": {
+        "title": "Newsround"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:45:00.000Z",
+        "end": "2021-06-12T06:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rd",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b063hzk3"
+      },
+      "episode": {
+        "id": "b063lxgz",
+        "title": "Episode 24 - Whatever Happened to Agent Oz?"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T06:55:00.000Z",
+        "end": "2021-06-12T07:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rf",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000p9ys"
+      },
+      "episode": {
+        "id": "m000p9yt",
+        "title": "Cat v Dog"
+      },
+      "brand": {
+        "title": "Dennis & Gnasher Unleashed!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:10:00.000Z",
+        "end": "2021-06-12T07:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rg",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000p9zl"
+      },
+      "episode": {
+        "id": "m000p9zm",
+        "title": "Boarding Beano"
+      },
+      "brand": {
+        "title": "Dennis & Gnasher Unleashed!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:20:00.000Z",
+        "end": "2021-06-12T07:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rh",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000rgxk"
+      },
+      "episode": {
+        "id": "m000rgxl",
+        "title": "Sports Day"
+      },
+      "brand": {
+        "title": "Danny and Mick"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:35:00.000Z",
+        "end": "2021-06-12T07:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rj",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b091wy2k"
+      },
+      "episode": {
+        "id": "b0923c3c",
+        "title": "Episode 4 - The Wegetarian"
+      },
+      "brand": {
+        "title": "The Zoo"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T07:45:00.000Z",
+        "end": "2021-06-12T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rk",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000x278"
+      },
+      "episode": {
+        "id": "m000x279",
+        "title": "With Adam B and The Dumping Ground"
+      },
+      "brand": {
+        "title": "Saturday Mash-Up! Live"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T08:00:00.000Z",
+        "end": "2021-06-12T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rl",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000hkvx"
+      },
+      "episode": {
+        "id": "m000hkvy",
+        "title": "Gabon Coast"
+      },
+      "brand": {
+        "title": "Deadly 60"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T10:30:00.000Z",
+        "end": "2021-06-12T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rm",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000hqyp"
+      },
+      "episode": {
+        "id": "m000hqyq",
+        "title": "Unseen"
+      },
+      "brand": {
+        "title": "Deadly 60"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:00:00.000Z",
+        "end": "2021-06-12T11:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rn",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0667q4y"
+      },
+      "episode": {
+        "id": "b0667q5c",
+        "title": "Episode 13 - Rotten Rulers Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:25:00.000Z",
+        "end": "2021-06-12T11:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rq",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b063j3t6"
+      },
+      "episode": {
+        "id": "b063j3ts",
+        "title": "Episode 10 - Wily Winston Churchill Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T11:55:00.000Z",
+        "end": "2021-06-12T12:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rr",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b03n2w7k"
+      },
+      "episode": {
+        "id": "b03n2w7m",
+        "title": "26/12/2013 - Gangsta Granny"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T12:25:00.000Z",
+        "end": "2021-06-12T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rs",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "p09gyrn9"
+      },
+      "episode": {
+        "id": "p09gyrbm",
+        "title": "Rush Hour"
+      },
+      "brand": {
+        "title": "Hardball"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:30:00.000Z",
+        "end": "2021-06-12T13:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rt",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bny5hb"
+      },
+      "episode": {
+        "id": "b0bny5mb",
+        "title": "Episode 9 - Practice Makes Perfect"
+      },
+      "brand": {
+        "title": "So Awkward"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T13:55:00.000Z",
+        "end": "2021-06-12T14:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rv",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bpr456"
+      },
+      "episode": {
+        "id": "b0bpr45c",
+        "title": "Episode 10 - Scary Movie"
+      },
+      "brand": {
+        "title": "So Awkward"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:20:00.000Z",
+        "end": "2021-06-12T14:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rw",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b06ss5hs"
+      },
+      "episode": {
+        "id": "b06ss5ph",
+        "title": "Episode 16 - The Snowman Cometh"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T14:50:00.000Z",
+        "end": "2021-06-12T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rx",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b071flsy"
+      },
+      "episode": {
+        "id": "b071fsn8",
+        "title": "Episode 17 - The Inventor Preventer"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:15:00.000Z",
+        "end": "2021-06-12T15:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7ry",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b071fms8"
+      },
+      "episode": {
+        "id": "b071fvgb",
+        "title": "Episode 18 - Never Say Clever Again"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:25:00.000Z",
+        "end": "2021-06-12T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7rz",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000gqk3"
+      },
+      "episode": {
+        "id": "m000gqk4",
+        "title": "Secret Agent"
+      },
+      "brand": {
+        "title": "Class Dismissed"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:35:00.000Z",
+        "end": "2021-06-12T15:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s0",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b062rhw5"
+      },
+      "episode": {
+        "id": "b062rhwx",
+        "title": "Episode 9 - Bolshy Boudica Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T15:50:00.000Z",
+        "end": "2021-06-12T16:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s1",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0676lz1"
+      },
+      "episode": {
+        "id": "b0676mfd",
+        "title": "Episode 14 - It's a Wicked World Special"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:20:00.000Z",
+        "end": "2021-06-12T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s2",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b09jldb0"
+      },
+      "episode": {
+        "id": "b09jldbl",
+        "title": "Episode 5 - Mid-Day in the Garden of Good and Odd"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T16:50:00.000Z",
+        "end": "2021-06-12T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s3",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b09jlml2"
+      },
+      "episode": {
+        "id": "b09jlmll",
+        "title": "Episode 6 - Failure to Lunch"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:00:00.000Z",
+        "end": "2021-06-12T17:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s4",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000rpqs"
+      },
+      "episode": {
+        "id": "m000rpqz",
+        "title": "Mr Softball"
+      },
+      "brand": {
+        "title": "Summer Camp Island"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:15:00.000Z",
+        "end": "2021-06-12T17:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s5",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000rppc"
+      },
+      "episode": {
+        "id": "m000rppd",
+        "title": "Fuzzy Pink Time Babies"
+      },
+      "brand": {
+        "title": "Summer Camp Island"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:25:00.000Z",
+        "end": "2021-06-12T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s6",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000fthd"
+      },
+      "episode": {
+        "id": "m000fthf",
+        "title": "What's the Trouble Bubble"
+      },
+      "brand": {
+        "title": "Little Big Awesome"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:35:00.000Z",
+        "end": "2021-06-12T17:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s8",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000fsxd"
+      },
+      "episode": {
+        "id": "m000fsxf",
+        "title": "Bed Follows"
+      },
+      "brand": {
+        "title": "Little Big Awesome"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T17:50:00.000Z",
+        "end": "2021-06-12T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7s9",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b071fms8"
+      },
+      "episode": {
+        "id": "b071fvgb",
+        "title": "Episode 18 - Never Say Clever Again"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:00:00.000Z",
+        "end": "2021-06-12T18:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7sc",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b071fn86"
+      },
+      "episode": {
+        "id": "b071fyfc",
+        "title": "Episode 19 - Sinister Mouse"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:10:00.000Z",
+        "end": "2021-06-12T18:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7sf",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b03txy8q"
+      },
+      "episode": {
+        "id": "b03tzfjc",
+        "title": "Episode 1 - Cones"
+      },
+      "brand": {
+        "title": "Shaun the Sheep"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:25:00.000Z",
+        "end": "2021-06-12T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kz7zd",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000x8ks"
+      },
+      "episode": {
+        "id": "b08lvcg1",
+        "title": "07/04/2017 - Bill"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-12T18:30:00.000Z",
+        "end": "2021-06-12T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb7sj",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-12T20:00:00.000Z",
+        "end": "2021-06-12T23:00:00.000Z"
+      }
+    }
+  ]
+}

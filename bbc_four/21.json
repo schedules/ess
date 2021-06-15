@@ -1,0 +1,397 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-21T03:22:51.017Z"
+  },
+  "items": [
+    {
+      "id": "p09gy5xf",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wd63"
+      },
+      "episode": {
+        "id": "m000w6tr",
+        "title": "Delia Derbyshire: The Myths and the Legendary Tapes"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-21T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0cz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6tf"
+      },
+      "episode": {
+        "id": "m000w6th",
+        "title": "Mountain Ridge Lake"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T00:30:00.000Z",
+        "end": "2021-05-21T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0d0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bpkj"
+      },
+      "episode": {
+        "id": "m000bk2g",
+        "title": "Sowerby Bridge to Manchester"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T01:00:00.000Z",
+        "end": "2021-05-21T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0d1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6ts"
+      },
+      "episode": {
+        "id": "m000w6s5",
+        "title": "Vaccines"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T01:30:00.000Z",
+        "end": "2021-05-21T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0d2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T02:25:00.000Z",
+        "end": "2021-05-21T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq0d3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:30:00.000Z",
+        "end": "2021-05-21T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq08x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:58:00.000Z",
+        "end": "2021-05-21T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq08y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0676bjl"
+      },
+      "episode": {
+        "id": "b01gxl5w",
+        "title": "27/04/2012 - ... Sings Bacharach and David!"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T18:00:00.000Z",
+        "end": "2021-05-21T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq08z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6t6"
+      },
+      "episode": {
+        "id": "m000w6t7",
+        "title": "03/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T19:00:00.000Z",
+        "end": "2021-05-21T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq090",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6t8"
+      },
+      "episode": {
+        "id": "m000w6t9",
+        "title": "10/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T19:30:00.000Z",
+        "end": "2021-05-21T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq092",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000jbbj"
+      },
+      "episode": {
+        "id": "m000jbbk",
+        "title": "The A-Z of Eurovision"
+      },
+      "brand": {
+        "title": "Eurovision Song Contest"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T20:00:00.000Z",
+        "end": "2021-05-21T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq093",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b05y0p9t"
+      },
+      "episode": {
+        "id": "b05vsm0d",
+        "title": "22/05/2015 - Eurovision at 60"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-21T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq094",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b03lyz8c"
+      },
+      "episode": {
+        "id": "b03lyzpr",
+        "title": "27/12/2013 - ABBA at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T22:30:00.000Z",
+        "end": "2021-05-21T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq095",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0676bjl"
+      },
+      "episode": {
+        "id": "b01gxl5w",
+        "title": "27/04/2012 - ... Sings Bacharach and David!"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:30:00.000Z",
+        "end": "2021-05-22T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq096",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000jbbj"
+      },
+      "episode": {
+        "id": "m000jbbk",
+        "title": "The A-Z of Eurovision"
+      },
+      "brand": {
+        "title": "Eurovision Song Contest"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:30:00.000Z",
+        "end": "2021-05-22T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq097",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6t6"
+      },
+      "episode": {
+        "id": "m000w6t7",
+        "title": "03/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:30:00.000Z",
+        "end": "2021-05-22T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq098",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6t8"
+      },
+      "episode": {
+        "id": "m000w6t9",
+        "title": "10/01/1991"
+      },
+      "brand": {
+        "title": "Top of the Pops"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T02:00:00.000Z",
+        "end": "2021-05-22T02:30:00.000Z"
+      }
+    }
+  ]
+}

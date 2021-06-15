@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-19T03:26:24.840Z"
+  },
+  "items": [
+    {
+      "id": "p09gt0gt",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gkjf1"
+      },
+      "episode": {
+        "id": "p09gkjdp",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0gw",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09g428f"
+      },
+      "episode": {
+        "id": "p09g4288",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0gz",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09g4c5c"
+      },
+      "episode": {
+        "id": "p09g428z",
+        "title": "Claira Hermet sits in (19/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:00:00.000Z",
+        "end": "2021-05-19T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0h9",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0h5"
+      },
+      "episode": {
+        "id": "p09gt0h1",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Daz Hale"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T05:00:00.000Z",
+        "end": "2021-05-19T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0hh",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0hf"
+      },
+      "episode": {
+        "id": "p09gt0hc",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Caroline Martin"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T09:00:00.000Z",
+        "end": "2021-05-19T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0hq",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0hn"
+      },
+      "episode": {
+        "id": "p09gt0hk",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Paul Franks"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T13:00:00.000Z",
+        "end": "2021-05-19T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0j2",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0hw"
+      },
+      "episode": {
+        "id": "p09gt0hs",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:00:00.000Z",
+        "end": "2021-05-19T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0jf",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0jb"
+      },
+      "episode": {
+        "id": "p09gt0j7",
+        "title": "Reaction and build-up (19/05/2021)"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:55:00.000Z",
+        "end": "2021-05-19T19:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0js",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0jp"
+      },
+      "episode": {
+        "id": "p09gt0jk",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:15:00.000Z",
+        "end": "2021-05-19T21:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt0jy",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gt0jv"
+      },
+      "episode": {
+        "id": "p09gkhkc",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:15:00.000Z",
+        "end": "2021-05-20T00:00:00.000Z"
+      }
+    }
+  ]
+}

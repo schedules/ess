@@ -1,0 +1,127 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_five_live_sports_extra"
+  },
+  "service": {
+    "id": "bbc_radio_five_live_sports_extra",
+    "name": "BBC Radio 5 live sports extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:34:28.728Z"
+  },
+  "items": [
+    {
+      "id": "p09jrn7k",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy24"
+      },
+      "episode": {
+        "id": "m000wy25",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkzb",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy24"
+      },
+      "episode": {
+        "id": "m000wy25",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkzf",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy26"
+      },
+      "episode": {
+        "id": "m000wy27",
+        "title": "England v New Zealand - Day 4"
+      },
+      "brand": {
+        "title": "Test Match Special"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:15:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kxjzd",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000x8df"
+      },
+      "episode": {
+        "id": "m000x8dg",
+        "title": "Kent Spitfires v Gloucestershire"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrkzg",
+      "service": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "version": {
+        "id": "m000wy24"
+      },
+      "episode": {
+        "id": "m000wy25",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Coming up on 5 Live Sports Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_five_live_sports_extra"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:30:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    }
+  ]
+}

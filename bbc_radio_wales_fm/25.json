@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-25T03:40:18.984Z"
+  },
+  "items": [
+    {
+      "id": "p09gwbqm",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wbsl"
+      },
+      "episode": {
+        "id": "m000wbsn",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:30:00.000Z",
+        "end": "2021-05-25T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hzvb6",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000r49p"
+      },
+      "episode": {
+        "id": "m000r49q",
+        "title": "Leroy Logan"
+      },
+      "brand": {
+        "title": "All Things Considered"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:30:00.000Z",
+        "end": "2021-05-25T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37j",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc3x"
+      },
+      "episode": {
+        "id": "m000wc3y",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Radio Wales Breakfast with Claire Summers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:00:00.000Z",
+        "end": "2021-05-25T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37k",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc3z"
+      },
+      "episode": {
+        "id": "m000wc40",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Jason Mohammad"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T07:30:00.000Z",
+        "end": "2021-05-25T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37l",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc41"
+      },
+      "episode": {
+        "id": "m000wc42",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Wynne Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T10:00:00.000Z",
+        "end": "2021-05-25T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37m",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc43"
+      },
+      "episode": {
+        "id": "m000wc44",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Behnaz Akhgar"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T13:00:00.000Z",
+        "end": "2021-05-25T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37n",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc45"
+      },
+      "episode": {
+        "id": "m000wc46",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Gareth Lewis"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T16:00:00.000Z",
+        "end": "2021-05-25T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37p",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc47"
+      },
+      "episode": {
+        "id": "m000wc48",
+        "title": "Bacteria"
+      },
+      "brand": {
+        "title": "Uninvited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:30:00.000Z",
+        "end": "2021-05-25T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37q",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc4b"
+      },
+      "episode": {
+        "id": "m000wc4c",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Janice Long"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T18:00:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw37r",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc4d"
+      },
+      "episode": {
+        "id": "m000wc4f",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "The Late Show with Eleri Sion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-25T23:30:00.000Z"
+      }
+    }
+  ]
+}

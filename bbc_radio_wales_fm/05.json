@@ -1,0 +1,219 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:33:52.367Z"
+  },
+  "items": [
+    {
+      "id": "p09hn98d",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wlzs"
+      },
+      "episode": {
+        "id": "m000wlzt",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:30:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hn98f",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wlzv"
+      },
+      "episode": {
+        "id": "m000wlzw",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Vicki Blight"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60fv",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws3l"
+      },
+      "episode": {
+        "id": "m000ws3m",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Radio Wales Breakfast with Oliver Hides"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:00:00.000Z",
+        "end": "2021-06-05T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60fx",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws3n"
+      },
+      "episode": {
+        "id": "m000ws3p",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Money for Nothing"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T08:00:00.000Z",
+        "end": "2021-06-05T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60fy",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws3q"
+      },
+      "episode": {
+        "id": "m000ws3r",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Carol Vorderman"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T10:30:00.000Z",
+        "end": "2021-06-05T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9y3b",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000x25l"
+      },
+      "episode": {
+        "id": "m000x25m",
+        "title": "H's Saturday Party"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:00:00.000Z",
+        "end": "2021-06-05T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60g2",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws3x"
+      },
+      "episode": {
+        "id": "m000ws3y",
+        "title": "Wales v Albania"
+      },
+      "brand": {
+        "title": "Radio Wales Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:00:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60g4",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws41"
+      },
+      "episode": {
+        "id": "m000ws42",
+        "title": "Huw Stephens sits in"
+      },
+      "brand": {
+        "title": "Bethan Elfyn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60g5",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws43"
+      },
+      "episode": {
+        "id": "m000ws44",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Introducing with Adam Walton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

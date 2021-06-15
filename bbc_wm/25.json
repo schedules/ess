@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-25T03:39:19.101Z"
+  },
+  "items": [
+    {
+      "id": "p09h8qg9",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4kxs"
+      },
+      "episode": {
+        "id": "p09h4kxm",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qk5",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gxh90"
+      },
+      "episode": {
+        "id": "p09gxh8y",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qkb",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gycb9"
+      },
+      "episode": {
+        "id": "p09gxh95",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:00:00.000Z",
+        "end": "2021-05-25T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qkj",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qkf"
+      },
+      "episode": {
+        "id": "p09h8qkc",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Daz Hale"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:00:00.000Z",
+        "end": "2021-05-25T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qkp",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qkm"
+      },
+      "episode": {
+        "id": "p09h8qkk",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Caroline Martin"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T09:00:00.000Z",
+        "end": "2021-05-25T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qkx",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qkt"
+      },
+      "episode": {
+        "id": "p09h8qkq",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Paul Franks"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T13:00:00.000Z",
+        "end": "2021-05-25T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qlp",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8qlh"
+      },
+      "episode": {
+        "id": "p09h8ql5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Rakeem Omar"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:00:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8qm3",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4kkc"
+      },
+      "episode": {
+        "id": "p09h4kk5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    }
+  ]
+}

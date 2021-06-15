@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:26:26.595Z"
+  },
+  "items": [
+    {
+      "id": "p09j68zc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqrn"
+      },
+      "episode": {
+        "id": "m000wqrq",
+        "title": "Kleu DNB Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqtk"
+      },
+      "episode": {
+        "id": "m000wqtl",
+        "title": "Having An Attitude Of Gratitude"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T01:00:00.000Z",
+        "end": "2021-06-08T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqr9"
+      },
+      "episode": {
+        "id": "m000wqrb",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Workout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T02:00:00.000Z",
+        "end": "2021-06-08T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqr7"
+      },
+      "episode": {
+        "id": "m000wqr8",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T03:00:00.000Z",
+        "end": "2021-06-08T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j68zh",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsv2"
+      },
+      "episode": {
+        "id": "m000wsv3",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T04:00:00.000Z",
+        "end": "2021-06-08T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9h"
+      },
+      "episode": {
+        "id": "m000ws9j",
+        "title": "Top Of The Shops"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T06:00:00.000Z",
+        "end": "2021-06-08T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9k"
+      },
+      "episode": {
+        "id": "m000ws9l",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T09:32:00.000Z",
+        "end": "2021-06-08T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqrr"
+      },
+      "episode": {
+        "id": "m000wqrt",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T11:45:00.000Z",
+        "end": "2021-06-08T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckk",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9m"
+      },
+      "episode": {
+        "id": "m000ws9n",
+        "title": "Blow Your Own Trumpet"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T12:00:00.000Z",
+        "end": "2021-06-08T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckl",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9p"
+      },
+      "episode": {
+        "id": "m000ws9q",
+        "title": "Arielle co-hosts with Grimmy"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T14:32:00.000Z",
+        "end": "2021-06-08T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckm",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqs2"
+      },
+      "episode": {
+        "id": "m000wqs3",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T16:45:00.000Z",
+        "end": "2021-06-08T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckn",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9r"
+      },
+      "episode": {
+        "id": "m000ws9s",
+        "title": "Nothing But Thieves Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T17:00:00.000Z",
+        "end": "2021-06-08T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9t"
+      },
+      "episode": {
+        "id": "m000ws9v",
+        "title": "Run RMC: Kanye West Edition"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T19:00:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckq",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000ws9w"
+      },
+      "episode": {
+        "id": "m000ws9x",
+        "title": "Sian Eleri sits in for Jack"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-08T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6cks",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wqrs"
+      },
+      "episode": {
+        "id": "m000wqrv",
+        "title": "Euro's Special"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6ckv",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vy77"
+      },
+      "episode": {
+        "id": "m000vy78",
+        "title": "London Grammar, James Blake, The 1975 and more"
+      },
+      "brand": {
+        "title": "Radio 1's Chillout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T01:00:00.000Z",
+        "end": "2021-06-09T02:00:00.000Z"
+      }
+    }
+  ]
+}

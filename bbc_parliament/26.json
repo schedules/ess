@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-26T03:22:36.413Z"
+  },
+  "items": [
+    {
+      "id": "p09hhtxp",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wgsm"
+      },
+      "episode": {
+        "id": "m000wgsn",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:15:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhtxq",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wjw2"
+      },
+      "episode": {
+        "id": "m000wjw3",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T00:00:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4z3",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1m"
+      },
+      "episode": {
+        "id": "m000wk1n",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T06:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09jln3x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wjvt"
+      },
+      "episode": {
+        "id": "m000wjvv",
+        "title": "Business, Energy and Industrial Strategy Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T06:10:00.000Z",
+        "end": "2021-05-26T07:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jln3y",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wvf5"
+      },
+      "episode": {
+        "id": "m000wvf6",
+        "title": "Northern Ireland Assembly Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T07:15:00.000Z",
+        "end": "2021-05-26T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4z4",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wjv4"
+      },
+      "episode": {
+        "id": "m000wjv5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Tuesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:00:00.000Z",
+        "end": "2021-05-26T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4z5",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1p"
+      },
+      "episode": {
+        "id": "m000wk1q",
+        "title": "Live Covid-19 Response Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T08:30:00.000Z",
+        "end": "2021-05-26T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4z6",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1r"
+      },
+      "episode": {
+        "id": "m000wk1s",
+        "title": "Live Women and Equalities Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T10:30:00.000Z",
+        "end": "2021-05-26T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4z8",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj86"
+      },
+      "episode": {
+        "id": "m000wj87",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T11:00:00.000Z",
+        "end": "2021-05-26T11:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zb",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1t"
+      },
+      "episode": {
+        "id": "m000wk1v",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T11:35:00.000Z",
+        "end": "2021-05-26T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1w"
+      },
+      "episode": {
+        "id": "m000wk1x",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:30:00.000Z",
+        "end": "2021-05-26T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zd",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1y"
+      },
+      "episode": {
+        "id": "m000wk1z",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Wednesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:00:00.000Z",
+        "end": "2021-05-26T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zg",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj86"
+      },
+      "episode": {
+        "id": "m000wj87",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:30:00.000Z",
+        "end": "2021-05-26T23:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wgrv"
+      },
+      "episode": {
+        "id": "m000wgrw",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:05:00.000Z",
+        "end": "2021-05-27T00:50:00.000Z"
+      }
+    }
+  ]
+}

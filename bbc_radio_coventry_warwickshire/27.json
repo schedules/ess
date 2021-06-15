@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_coventry_warwickshire"
+  },
+  "service": {
+    "id": "bbc_radio_coventry_warwickshire",
+    "name": "BBC Coventry & Warwickshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-27T03:26:10.490Z"
+  },
+  "items": [
+    {
+      "id": "p09h4kct",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kcn"
+      },
+      "episode": {
+        "id": "p09h4kch",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-27T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k0c",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09gxktz"
+      },
+      "episode": {
+        "id": "p09gxktx",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:00:00.000Z",
+        "end": "2021-05-27T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k0l",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09gyd5v"
+      },
+      "episode": {
+        "id": "p09gxkv9",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T04:00:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k0w",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4k0t"
+      },
+      "episode": {
+        "id": "p09h4k0q",
+        "title": "27/05/2021: CWR Breakfast with Phil Upton"
+      },
+      "brand": {
+        "title": "Breakfast on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k1d",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4k15"
+      },
+      "episode": {
+        "id": "p09h4k0y",
+        "title": "27/05/2021: Brody Swain"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:00:00.000Z",
+        "end": "2021-05-27T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k2c",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4k24"
+      },
+      "episode": {
+        "id": "p09h4k1t",
+        "title": "27/05/2021: Trish Adudu"
+      },
+      "brand": {
+        "title": "Afternoons on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T13:00:00.000Z",
+        "end": "2021-05-27T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k2p",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4k2m"
+      },
+      "episode": {
+        "id": "p09h4k2h",
+        "title": "27/05/2021: Letitia George"
+      },
+      "brand": {
+        "title": "Evenings on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-27T17:00:00.000Z",
+        "end": "2021-05-27T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4k34",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4k2y"
+      },
+      "episode": {
+        "id": "p09h4k2s",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    }
+  ]
+}

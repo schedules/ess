@@ -1,0 +1,441 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-19T03:17:33.117Z"
+  },
+  "items": [
+    {
+      "id": "p09gpys9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0b5t2hw"
+      },
+      "episode": {
+        "id": "p01f51z4",
+        "title": "Episode 1 - Pain"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04dq8kh"
+      },
+      "episode": {
+        "id": "b04dq8kl",
+        "title": "Episode 1 - Galen and Leonardo"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:00:00.000Z",
+        "end": "2021-05-19T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysf",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6rz"
+      },
+      "episode": {
+        "id": "m000w6s0",
+        "title": "Frosty Winter Morn"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T00:30:00.000Z",
+        "end": "2021-05-19T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysh",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000blqm"
+      },
+      "episode": {
+        "id": "m000bk5m",
+        "title": "Froghall to Bugsworth Basin"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:00:00.000Z",
+        "end": "2021-05-19T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6s4"
+      },
+      "episode": {
+        "id": "m000w6s5",
+        "title": "Vaccines"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:30:00.000Z",
+        "end": "2021-05-19T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T02:25:00.000Z",
+        "end": "2021-05-19T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpysl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T04:30:00.000Z",
+        "end": "2021-05-19T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyv6",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T17:58:00.000Z",
+        "end": "2021-05-19T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyv9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bktc"
+      },
+      "episode": {
+        "id": "m000bjyw",
+        "title": "Marple to Huddersfield"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:00:00.000Z",
+        "end": "2021-05-19T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sl"
+      },
+      "episode": {
+        "id": "m000w6sm",
+        "title": "Forest Edge"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T18:30:00.000Z",
+        "end": "2021-05-19T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07qrcwt"
+      },
+      "episode": {
+        "id": "b07qrd9t",
+        "title": "Episode 2 - Conquering the Skies"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-19T19:00:00.000Z",
+        "end": "2021-05-19T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvg",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09hctrw"
+      },
+      "episode": {
+        "id": "b09hcts2",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-19T20:00:00.000Z",
+        "end": "2021-05-19T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b03h8r3p"
+      },
+      "episode": {
+        "id": "b03h8r3y",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-19T21:00:00.000Z",
+        "end": "2021-05-19T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sn"
+      },
+      "episode": {
+        "id": "m000w6sp",
+        "title": "Classic British Cars: Made in Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T22:00:00.000Z",
+        "end": "2021-05-19T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099r9jz"
+      },
+      "episode": {
+        "id": "p099cpc4",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:00:00.000Z",
+        "end": "2021-05-19T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p099rb5f"
+      },
+      "episode": {
+        "id": "p099cq12",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Blinded: Those Who Kill"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-19T23:45:00.000Z",
+        "end": "2021-05-20T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvn",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sl"
+      },
+      "episode": {
+        "id": "m000w6sm",
+        "title": "Forest Edge"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T00:30:00.000Z",
+        "end": "2021-05-20T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvp",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bktc"
+      },
+      "episode": {
+        "id": "m000bjyw",
+        "title": "Marple to Huddersfield"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:00:00.000Z",
+        "end": "2021-05-20T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gpyvr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jgr35"
+      },
+      "episode": {
+        "id": "b09hcts2",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Blitz: The Bombs That Changed Britain"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-20T01:30:00.000Z",
+        "end": "2021-05-20T02:30:00.000Z"
+      }
+    }
+  ]
+}

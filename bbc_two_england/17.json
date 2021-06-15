@@ -1,0 +1,773 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-17T03:26:58.910Z"
+  },
+  "items": [
+    {
+      "id": "p09gqkfd",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w76z"
+      },
+      "episode": {
+        "id": "m000w1s6",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:25:00.000Z",
+        "end": "2021-05-17T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkff",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w771"
+      },
+      "episode": {
+        "id": "m000w10b",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Holby City"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:25:00.000Z",
+        "end": "2021-05-17T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfh",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-05-17T01:05:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfj",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w192"
+      },
+      "episode": {
+        "id": "m000w193",
+        "title": "Newark 19"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T05:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfl",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w19d"
+      },
+      "episode": {
+        "id": "m000w19f",
+        "title": "Episode 20"
+      },
+      "brand": {
+        "title": "Money for Nothing"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:45:00.000Z",
+        "end": "2021-05-17T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfn",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w74n"
+      },
+      "episode": {
+        "id": "m000nz8j",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Inside the Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-17T06:30:00.000Z",
+        "end": "2021-05-17T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfq",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000vvyl"
+      },
+      "episode": {
+        "id": "m000vvyp",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T07:30:00.000Z",
+        "end": "2021-05-17T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfr",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w74p"
+      },
+      "episode": {
+        "id": "m000w74q",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-17T08:00:00.000Z",
+        "end": "2021-05-17T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkft",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w74r"
+      },
+      "episode": {
+        "id": "m000w74s",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:00:00.000Z",
+        "end": "2021-05-17T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w74t"
+      },
+      "episode": {
+        "id": "m000w74v",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T11:15:00.000Z",
+        "end": "2021-05-17T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkfz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08zk79v"
+      },
+      "episode": {
+        "id": "b08zk7bh",
+        "title": "Episode 6 - Episode 6"
+      },
+      "brand": {
+        "title": "Letterbox"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T12:00:00.000Z",
+        "end": "2021-05-17T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkg0",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w74w"
+      },
+      "episode": {
+        "id": "m0003f9l",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Good Morning Dagenham"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T12:30:00.000Z",
+        "end": "2021-05-17T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkg3",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p06y1j8z"
+      },
+      "episode": {
+        "id": "p06y1j4k",
+        "title": "Episode 4 - Against the Tide"
+      },
+      "brand": {
+        "title": "A Place to Call Home"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:15:00.000Z",
+        "end": "2021-05-17T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gzdb8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000dv6q"
+      },
+      "episode": {
+        "id": "m000dv6r",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Best Home Cook"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T14:00:00.000Z",
+        "end": "2021-05-17T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkg8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b096g5w7"
+      },
+      "episode": {
+        "id": "b00k761k",
+        "title": "Episode 3 - Pies and Pasties"
+      },
+      "brand": {
+        "title": "The Hairy Bikers' Cookbook"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T15:00:00.000Z",
+        "end": "2021-05-17T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgc",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000fjq5"
+      },
+      "episode": {
+        "id": "m0003mh3",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Blue Planet UK"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T15:15:00.000Z",
+        "end": "2021-05-17T15:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlz0l",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b09yn5t9"
+      },
+      "episode": {
+        "id": "b09ynfnk",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Eggheads"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T15:45:00.000Z",
+        "end": "2021-05-17T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgh",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000blmp"
+      },
+      "episode": {
+        "id": "m000blmq",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Flog It!"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:15:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgk",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000g6qj"
+      },
+      "episode": {
+        "id": "m000g6qk",
+        "title": "Episode 96"
+      },
+      "brand": {
+        "title": "Richard Osman's House of Games"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgn",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w74x"
+      },
+      "episode": {
+        "id": "m000w74y",
+        "title": "Biggin Hill to Ashdown Forest"
+      },
+      "brand": {
+        "title": "Great British Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:30:00.000Z",
+        "end": "2021-05-17T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgp",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b01n6tcf"
+      },
+      "episode": {
+        "id": "b01n6tcp",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Nigellissima"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:00:00.000Z",
+        "end": "2021-05-17T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gv7gk",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w9my"
+      },
+      "episode": {
+        "id": "m000w9mz",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Between the Covers "
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:30:00.000Z",
+        "end": "2021-05-17T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgr",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w750"
+      },
+      "episode": {
+        "id": "m000w751",
+        "title": "The Finals: Starter"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T19:00:00.000Z",
+        "end": "2021-05-17T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgt",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w752"
+      },
+      "episode": {
+        "id": "m000w753",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T20:00:00.000Z",
+        "end": "2021-05-17T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p099tjbm"
+      },
+      "episode": {
+        "id": "p099tj56",
+        "title": "Simon Says"
+      },
+      "brand": {
+        "title": "Inside No. 9"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T20:30:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkgz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w754"
+      },
+      "episode": {
+        "id": "m000w755",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Have I Got a Bit More News for You"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-17T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkh1",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w756"
+      },
+      "episode": {
+        "id": "m000w757",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Newsnight"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:45:00.000Z",
+        "end": "2021-05-17T22:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkh2",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w758"
+      },
+      "episode": {
+        "id": "m000w759",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weather"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:25:00.000Z",
+        "end": "2021-05-17T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkh5",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08d5pkx"
+      },
+      "episode": {
+        "id": "p08d5mv0",
+        "title": "Octopus Situation"
+      },
+      "brand": {
+        "title": "The First Team"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:30:00.000Z",
+        "end": "2021-05-17T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkh6",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p08d5pq0"
+      },
+      "episode": {
+        "id": "p08d5n9s",
+        "title": "International Break"
+      },
+      "brand": {
+        "title": "The First Team"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:00:00.000Z",
+        "end": "2021-05-17T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkh8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w75b"
+      },
+      "episode": {
+        "id": "m000w0gf",
+        "title": "Cranborne Chase"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:30:00.000Z",
+        "end": "2021-05-18T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqkhc",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w75c"
+      },
+      "episode": {
+        "id": "m000w0nc",
+        "title": "Muhammad Ali"
+      },
+      "brand": {
+        "title": "A Life in Ten Pictures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:30:00.000Z",
+        "end": "2021-05-18T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8h21",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wf7p"
+      },
+      "episode": {
+        "id": "m000w730",
+        "title": "Stonor Park 2"
+      },
+      "brand": {
+        "title": "Antiques Roadshow"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:30:00.000Z",
+        "end": "2021-05-18T02:30:00.000Z"
+      }
+    }
+  ]
+}

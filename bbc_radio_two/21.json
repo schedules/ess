@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-21T03:20:01.567Z"
+  },
+  "items": [
+    {
+      "id": "p09g7jrn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w59m"
+      },
+      "episode": {
+        "id": "m000w59n",
+        "title": "A Date With Destiny"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-21T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7jrp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w59p"
+      },
+      "episode": {
+        "id": "m000vz27",
+        "title": "The Offspring's Dexter and Noodles join Fearne for the 90s mems!"
+      },
+      "brand": {
+        "title": "Sounds of the 90s with Fearne Cotton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T02:00:00.000Z",
+        "end": "2021-05-21T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7jrq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w59q"
+      },
+      "episode": {
+        "id": "m000w59r",
+        "title": "80s Whitney, classic Stevie Wonder and Gangnam Style!"
+      },
+      "brand": {
+        "title": "A Dance Through The Decades"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T03:00:00.000Z",
+        "end": "2021-05-21T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7jrr",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w59s"
+      },
+      "episode": {
+        "id": "m000w59t",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T03:30:00.000Z",
+        "end": "2021-05-21T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5xm"
+      },
+      "episode": {
+        "id": "m000w5xn",
+        "title": "Billie Piper and Smith & Burrows"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T05:30:00.000Z",
+        "end": "2021-05-21T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqd",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5xp"
+      },
+      "episode": {
+        "id": "m000w5xq",
+        "title": "Eurovision Preview Special"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T08:30:00.000Z",
+        "end": "2021-05-21T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5xr"
+      },
+      "episode": {
+        "id": "m000w5xs",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Jeremy Vine"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T11:00:00.000Z",
+        "end": "2021-05-21T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5xt"
+      },
+      "episode": {
+        "id": "m000w5xv",
+        "title": "With guest Ken Bruce, and Serious Jockin'"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T13:00:00.000Z",
+        "end": "2021-05-21T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5xw"
+      },
+      "episode": {
+        "id": "m000w5xx",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon - Serious Jockin'"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T15:15:00.000Z",
+        "end": "2021-05-21T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5xy"
+      },
+      "episode": {
+        "id": "m000w5xz",
+        "title": "All Request Friday"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:00:00.000Z",
+        "end": "2021-05-21T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5y0"
+      },
+      "episode": {
+        "id": "m000w5y1",
+        "title": "Howzat!"
+      },
+      "brand": {
+        "title": "Tony Blackburn's Golden Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T18:00:00.000Z",
+        "end": "2021-05-21T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5y2"
+      },
+      "episode": {
+        "id": "m000w5y3",
+        "title": "Antmusic"
+      },
+      "brand": {
+        "title": "Sounds of the 80s with Gary Davies"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T19:00:00.000Z",
+        "end": "2021-05-21T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqt",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5y4"
+      },
+      "episode": {
+        "id": "m000w5y5",
+        "title": "MN8's Kule T has got a little somethin’ for ya!"
+      },
+      "brand": {
+        "title": "Sounds of the 90s with Fearne Cotton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-21T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09glvrf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w6kx"
+      },
+      "episode": {
+        "id": "m000w6ky",
+        "title": "90s Feel Good Hits Mixtape"
+      },
+      "brand": {
+        "title": "Sounds of the 90s with Fearne Cotton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T22:00:00.000Z",
+        "end": "2021-05-21T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqw",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w5y6"
+      },
+      "episode": {
+        "id": "m000w5y7",
+        "title": "Kanye - the Diva who puts on a million dollar show on and off stage"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Divas"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-22T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzqz",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gh"
+      },
+      "episode": {
+        "id": "m000w4gj",
+        "title": "The O'Jays, Celeste, S'Express, and more!"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:00:00.000Z",
+        "end": "2021-05-22T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzr1",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gk"
+      },
+      "episode": {
+        "id": "m000w4gl",
+        "title": "The 'ReMixTape 3'"
+      },
+      "brand": {
+        "title": "The Craig Charles House Party Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:30:00.000Z",
+        "end": "2021-05-22T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:32:08.147Z"
+  },
+  "items": [
+    {
+      "id": "p09hj9dk",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4f"
+      },
+      "episode": {
+        "id": "m000wk4g",
+        "title": "Honey Dijon - Episode 4"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dl",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4h"
+      },
+      "episode": {
+        "id": "m000wk4j",
+        "title": "Neneh Cherry's Tour of LA"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dm",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000tw50"
+      },
+      "episode": {
+        "id": "m000tw51",
+        "title": "Vol 6: Music I’m listening to now"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:00:00.000Z",
+        "end": "2021-05-30T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dn",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4k"
+      },
+      "episode": {
+        "id": "m000wk4l",
+        "title": "Music to unclutter your head"
+      },
+      "brand": {
+        "title": "The Morning After Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dp",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4m"
+      },
+      "episode": {
+        "id": "m000wk4n",
+        "title": "More from The Streets"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dq",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4p"
+      },
+      "episode": {
+        "id": "m000wk4q",
+        "title": "Squarepusher"
+      },
+      "brand": {
+        "title": "Radcliffe and Maconie"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dr",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4r"
+      },
+      "episode": {
+        "id": "m000wk4s",
+        "title": "Marianne Faithfull and Warren Ellis"
+      },
+      "brand": {
+        "title": "Cerys Matthews"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9ds",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4t"
+      },
+      "episode": {
+        "id": "m000wk4v",
+        "title": "Billie Piper"
+      },
+      "brand": {
+        "title": "Sound and Vision"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dt",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4w"
+      },
+      "episode": {
+        "id": "m000wk4x",
+        "title": "Birthday's Ahoy Part Deux"
+      },
+      "brand": {
+        "title": "Guy Garvey's Finest Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dv",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4y"
+      },
+      "episode": {
+        "id": "m000wk4z",
+        "title": "Calling Occupants of Interplanetary Craft"
+      },
+      "brand": {
+        "title": "Amy Lamé"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dw",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk50"
+      },
+      "episode": {
+        "id": "m000wk51",
+        "title": "Guide To... Anna Calvi and Sunday Night Noir"
+      },
+      "brand": {
+        "title": "Now Playing @6Music"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dx",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk52"
+      },
+      "episode": {
+        "id": "m000wk53",
+        "title": "Funkadelic"
+      },
+      "brand": {
+        "title": "Stuart Maconie's Freak Zone"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dy",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk54"
+      },
+      "episode": {
+        "id": "m000wk55",
+        "title": "Crucial Art of Noise"
+      },
+      "brand": {
+        "title": "Don Letts' Culture Clash Radio"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-30T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9dz",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk4w"
+      },
+      "episode": {
+        "id": "m000wk4x",
+        "title": "Birthday's Ahoy Part Deux"
+      },
+      "brand": {
+        "title": "Guy Garvey's Finest Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-31T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9f0",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wcpr"
+      },
+      "episode": {
+        "id": "m000wcpt",
+        "title": "Laura Viers, Burial, Fleet Foxes, and more!"
+      },
+      "brand": {
+        "title": "6 Music's Jukebox"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:00:00.000Z",
+        "end": "2021-05-31T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj9f1",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wk56"
+      },
+      "episode": {
+        "id": "m000wk57",
+        "title": "Jen Brister & experimental Majorcan folk"
+      },
+      "brand": {
+        "title": "James Acaster's Perfect Sounds"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-05-31T02:00:00.000Z",
+        "end": "2021-05-31T02:30:00.000Z"
+      }
+    }
+  ]
+}

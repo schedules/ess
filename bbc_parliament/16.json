@@ -1,0 +1,679 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-16T03:21:33.002Z"
+  },
+  "items": [
+    {
+      "id": "p09hmvmj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlvz"
+      },
+      "episode": {
+        "id": "m000wlw0",
+        "title": "Covid-19 Update Statement"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:15:00.000Z",
+        "end": "2021-05-16T00:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmvmk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w43g"
+      },
+      "episode": {
+        "id": "m000w43h",
+        "title": "Ballymurphy Inquest Statement"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:35:00.000Z",
+        "end": "2021-05-16T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmvml",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wf96"
+      },
+      "episode": {
+        "id": "m000wf97",
+        "title": "Northern Ireland Affairs Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T01:30:00.000Z",
+        "end": "2021-05-16T02:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmvmm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9s8"
+      },
+      "episode": {
+        "id": "m000w9s9",
+        "title": "Scottish Affairs Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T02:55:00.000Z",
+        "end": "2021-05-16T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmvmn",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlvv"
+      },
+      "episode": {
+        "id": "m000wlvw",
+        "title": "MSPs Swearing In"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:30:00.000Z",
+        "end": "2021-05-16T06:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlvl"
+      },
+      "episode": {
+        "id": "m000wlvm",
+        "title": "Election of the Presiding Officer"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:05:00.000Z",
+        "end": "2021-05-16T06:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlvn"
+      },
+      "episode": {
+        "id": "m000wlvp",
+        "title": "Communities Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:20:00.000Z",
+        "end": "2021-05-16T07:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wf8j"
+      },
+      "episode": {
+        "id": "m000wf8k",
+        "title": "Economy Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T07:05:00.000Z",
+        "end": "2021-05-16T07:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbn",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlvq"
+      },
+      "episode": {
+        "id": "m000wlvr",
+        "title": "Education Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T07:50:00.000Z",
+        "end": "2021-05-16T08:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbp",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000whby"
+      },
+      "episode": {
+        "id": "m000whbz",
+        "title": "12/05/2021"
+      },
+      "brand": {
+        "title": "Senedd Cymru - Welsh Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T08:40:00.000Z",
+        "end": "2021-05-16T09:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbq",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wf94"
+      },
+      "episode": {
+        "id": "m000wf95",
+        "title": "Minister for Veterans Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:20:00.000Z",
+        "end": "2021-05-16T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhz5",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000vvyl"
+      },
+      "episode": {
+        "id": "m000vvyp",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T10:30:00.000Z",
+        "end": "2021-05-16T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhz6",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9zs"
+      },
+      "episode": {
+        "id": "m000w9zt",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "America this Week"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T11:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhz7",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9zv"
+      },
+      "episode": {
+        "id": "m000w9zw",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Washington Journal"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhz8",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w3sd"
+      },
+      "episode": {
+        "id": "m000w3sf",
+        "title": "Lt-General (Rtd) Ben Hodges – Former Commander, United States Army Europe"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T14:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhz9",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000vvyl"
+      },
+      "episode": {
+        "id": "m000vvyp",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:25:00.000Z",
+        "end": "2021-05-16T14:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzb",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w3z1"
+      },
+      "episode": {
+        "id": "m000w3z2",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "The View"
+      },
+      "masterbrand": {
+        "id": "bbc_one_northern_ireland"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:50:00.000Z",
+        "end": "2021-05-16T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9cp"
+      },
+      "episode": {
+        "id": "m000w9cq",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "The Sunday Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:30:00.000Z",
+        "end": "2021-05-16T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzd",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w92j"
+      },
+      "episode": {
+        "id": "m000w92k",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Sunday Politics Northern Ireland"
+      },
+      "masterbrand": {
+        "id": "bbc_one_northern_ireland"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:00:00.000Z",
+        "end": "2021-05-16T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzf",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w97w"
+      },
+      "episode": {
+        "id": "m000w97x",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Politics Wales"
+      },
+      "masterbrand": {
+        "id": "bbc_one_wales"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:30:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzg",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w1s5"
+      },
+      "episode": {
+        "id": "m000w1s6",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w72g"
+      },
+      "episode": {
+        "id": "m000w72h",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "The Andrew Marr Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbt",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000qctw"
+      },
+      "episode": {
+        "id": "m000qctx",
+        "title": "Parliamentary Firsts: Diversity"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:55:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbv",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000whky"
+      },
+      "episode": {
+        "id": "m000whkz",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T21:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9zx"
+      },
+      "episode": {
+        "id": "m000w9zy",
+        "title": "Independent Adviser on Ministerial Interests Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:25:00.000Z",
+        "end": "2021-05-16T22:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbw",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000dfbm"
+      },
+      "episode": {
+        "id": "m000ddyb",
+        "title": "Sir Robert Peel"
+      },
+      "brand": {
+        "title": "Prime Properties"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:25:00.000Z",
+        "end": "2021-05-16T22:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbx",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w3sd"
+      },
+      "episode": {
+        "id": "m000w3sf",
+        "title": "Lt-General (Rtd) Ben Hodges – Former Commander, United States Army Europe"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:35:00.000Z",
+        "end": "2021-05-16T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvhzl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w8dp"
+      },
+      "episode": {
+        "id": "m000w8dq",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Politics London"
+      },
+      "masterbrand": {
+        "id": "bbc_one_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:00:00.000Z",
+        "end": "2021-05-16T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsby",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wf8n"
+      },
+      "episode": {
+        "id": "m000wf8p",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:30:00.000Z",
+        "end": "2021-05-17T02:40:00.000Z"
+      }
+    }
+  ]
+}

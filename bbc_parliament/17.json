@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-17T03:32:31.909Z"
+  },
+  "items": [
+    {
+      "id": "p09hmsby",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wf8n"
+      },
+      "episode": {
+        "id": "m000wf8p",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:30:00.000Z",
+        "end": "2021-05-17T02:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsbz",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000whky"
+      },
+      "episode": {
+        "id": "m000whkz",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T02:40:00.000Z",
+        "end": "2021-05-17T05:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmstv",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9zx"
+      },
+      "episode": {
+        "id": "m000w9zy",
+        "title": "Independent Adviser on Ministerial Interests Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:05:00.000Z",
+        "end": "2021-05-17T06:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmstw",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk0p"
+      },
+      "episode": {
+        "id": "m000wk0q",
+        "title": "Private Notice Question on Hitachi High Speed Trains"
+      },
+      "brand": {
+        "title": "Lords Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T06:05:00.000Z",
+        "end": "2021-05-17T06:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmstx",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlvs"
+      },
+      "episode": {
+        "id": "m000wlvt",
+        "title": "Commons Loyal Address and Queen's Speech"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T06:25:00.000Z",
+        "end": "2021-05-17T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9p",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000vvyl"
+      },
+      "episode": {
+        "id": "m000vvyp",
+        "title": "13/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T08:00:00.000Z",
+        "end": "2021-05-17T08:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hmsty",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9s8"
+      },
+      "episode": {
+        "id": "m000w9s9",
+        "title": "Scottish Affairs Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T08:25:00.000Z",
+        "end": "2021-05-17T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9q",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0k"
+      },
+      "episode": {
+        "id": "m000wb0l",
+        "title": "Live Cabinet Manual Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T10:00:00.000Z",
+        "end": "2021-05-17T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9r",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0m"
+      },
+      "episode": {
+        "id": "m000wb0n",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T12:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9s",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0p"
+      },
+      "episode": {
+        "id": "m000wb0q",
+        "title": "Live Northern Ireland Assembly Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9t",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0r"
+      },
+      "episode": {
+        "id": "m000wb0s",
+        "title": "Live Work and Pensions Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:30:00.000Z",
+        "end": "2021-05-17T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9w",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0t"
+      },
+      "episode": {
+        "id": "m000wb0v",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T14:30:00.000Z",
+        "end": "2021-05-17T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9gf"
+      },
+      "episode": {
+        "id": "m000w9gg",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Monday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:00:00.000Z",
+        "end": "2021-05-17T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9y",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0w"
+      },
+      "episode": {
+        "id": "m000wb0x",
+        "title": "Northern Ireland Assembly Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:30:00.000Z",
+        "end": "2021-05-17T23:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvm9z",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w74t"
+      },
+      "episode": {
+        "id": "m000w74v",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:15:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    }
+  ]
+}

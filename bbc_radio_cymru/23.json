@@ -1,0 +1,426 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:32:03.605Z"
+  },
+  "items": [
+    {
+      "id": "p09gvzgr",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb6y"
+      },
+      "episode": {
+        "id": "m000wb72",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-23T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvzgs",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb76"
+      },
+      "episode": {
+        "id": "m000wb79",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Linda Griffiths"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:30:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zh",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb6b"
+      },
+      "episode": {
+        "id": "m000wb6c",
+        "title": "Ffermio yn Llydaw"
+      },
+      "brand": {
+        "title": "Troi'r Tir"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zl",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb2k"
+      },
+      "episode": {
+        "id": "m000wb2n",
+        "title": "C.O.R"
+      },
+      "brand": {
+        "title": "Caniadaeth y Cysegr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:30:00.000Z",
+        "end": "2021-05-23T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zn",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wbsr"
+      },
+      "episode": {
+        "id": "m000wbss",
+        "title": "Bethan Rhys Roberts yn cyflwyno"
+      },
+      "brand": {
+        "title": "Dewi Llwyd ar Fore Sul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T07:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zq",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb1c"
+      },
+      "episode": {
+        "id": "m000wb1h",
+        "title": "Elin Manahan Thomas"
+      },
+      "brand": {
+        "title": "Swyn y Sul"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zs",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb1l"
+      },
+      "episode": {
+        "id": "m000wb1p",
+        "title": "Oedfa Sul y Pentecost dan arweiniad Catholigion Cymraeg ardal Aberystwyth"
+      },
+      "brand": {
+        "title": "Yr Oedfa"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zt",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb1s"
+      },
+      "episode": {
+        "id": "m000wb1w",
+        "title": "Gwerth Incwm Sylfaenol, tlodi plant, pererindota a cherdd i'r Pentecost"
+      },
+      "brand": {
+        "title": "Bwrw Golwg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:30:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjtrf",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wjj9"
+      },
+      "episode": {
+        "id": "m000wjjd",
+        "title": "Maxine Hughes"
+      },
+      "brand": {
+        "title": "Beti a'i Phobol"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7zy",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb25"
+      },
+      "episode": {
+        "id": "m000wb28",
+        "title": "Sir Ddinbych"
+      },
+      "brand": {
+        "title": "Cofio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw800",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb2d"
+      },
+      "episode": {
+        "id": "m000wb2h",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Hywel Gwynfryn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:00:00.000Z",
+        "end": "2021-05-23T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw802",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb2k"
+      },
+      "episode": {
+        "id": "m000wb2n",
+        "title": "C.O.R"
+      },
+      "brand": {
+        "title": "Caniadaeth y Cysegr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:30:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw804",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb2q"
+      },
+      "episode": {
+        "id": "m000wb2s",
+        "title": "Dangos a Dweud"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T16:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw806",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb2w"
+      },
+      "episode": {
+        "id": "m000wb2y",
+        "title": "Cofio Waldo Williams"
+      },
+      "brand": {
+        "title": "Dei Tomos"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:05:00.000Z",
+        "end": "2021-05-23T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw807",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb31"
+      },
+      "episode": {
+        "id": "m000wb34",
+        "title": "Brexit – ydy e werth e i Gymru?"
+      },
+      "brand": {
+        "title": "Beth yw'r ots gennyf i am Brexit?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:30:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw808",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb37"
+      },
+      "episode": {
+        "id": "m000wb39",
+        "title": "Beirdd Myrddin a'r Gwylliaid Cochion"
+      },
+      "brand": {
+        "title": "Y Talwrn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw809",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb3d"
+      },
+      "episode": {
+        "id": "m000wb3f",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Ar Eich Cais"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw80b",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wb3h"
+      },
+      "episode": {
+        "id": "m000wb3k",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "John ac Alun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-08T03:38:13.420Z"
+  },
+  "items": [
+    {
+      "id": "p09jwv52",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wvxt"
+      },
+      "episode": {
+        "id": "m000wvxv",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:15:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwv54",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x147"
+      },
+      "episode": {
+        "id": "m000x148",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T00:00:00.000Z",
+        "end": "2021-06-08T07:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kv80f",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wqpb"
+      },
+      "episode": {
+        "id": "m000wqpc",
+        "title": "Tom Kerridge – Chef and Restaurateur"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-08T07:35:00.000Z",
+        "end": "2021-06-08T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6r",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wztl"
+      },
+      "episode": {
+        "id": "m000wztm",
+        "title": "07/06/2021"
+      },
+      "brand": {
+        "title": "Monday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T08:00:00.000Z",
+        "end": "2021-06-08T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6s",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12h"
+      },
+      "episode": {
+        "id": "m000x12j",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T08:30:00.000Z",
+        "end": "2021-06-08T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6t",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12k"
+      },
+      "episode": {
+        "id": "m000x12l",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T10:30:00.000Z",
+        "end": "2021-06-08T11:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kv80g",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x861"
+      },
+      "episode": {
+        "id": "m000x862",
+        "title": "Live Urgent Question on Defence"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T11:35:00.000Z",
+        "end": "2021-06-08T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kv80h",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x863"
+      },
+      "episode": {
+        "id": "m000x864",
+        "title": "Live Urgent Question British Council Closures"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T12:15:00.000Z",
+        "end": "2021-06-08T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kv80j",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x865"
+      },
+      "episode": {
+        "id": "m000x866",
+        "title": "Live Employment Rights Minister"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T12:50:00.000Z",
+        "end": "2021-06-08T13:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kv80k",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x867"
+      },
+      "episode": {
+        "id": "m000x868",
+        "title": "Live Official Development Assistance Target Debate"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T13:50:00.000Z",
+        "end": "2021-06-08T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6v",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12m"
+      },
+      "episode": {
+        "id": "m000x12n",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T16:50:00.000Z",
+        "end": "2021-06-08T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09klx85",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x7j6"
+      },
+      "episode": {
+        "id": "m000x7j7",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Lords Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:30:00.000Z",
+        "end": "2021-06-08T19:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6w",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12p"
+      },
+      "episode": {
+        "id": "m000x12q",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T19:15:00.000Z",
+        "end": "2021-06-08T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwv4t",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13v"
+      },
+      "episode": {
+        "id": "m000x13w",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T20:00:00.000Z",
+        "end": "2021-06-08T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzn5"
+      },
+      "episode": {
+        "id": "m000wzn6",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Tuesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T22:00:00.000Z",
+        "end": "2021-06-08T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6y",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x12r"
+      },
+      "episode": {
+        "id": "m000x12s",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Welsh First Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-08T22:30:00.000Z",
+        "end": "2021-06-08T23:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jwt6z",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wvzj"
+      },
+      "episode": {
+        "id": "m000wvzm",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:15:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    }
+  ]
+}

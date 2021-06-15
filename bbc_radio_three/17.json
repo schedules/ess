@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:22:38.188Z"
+  },
+  "items": [
+    {
+      "id": "p09g6ytw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jp"
+      },
+      "episode": {
+        "id": "m000w3jq",
+        "title": "Part 10: Andrea Baker"
+      },
+      "brand": {
+        "title": "Sounds Connected"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:00:00.000Z",
+        "end": "2021-05-16T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6ytx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3jr"
+      },
+      "episode": {
+        "id": "m000w3js",
+        "title": "Fatma Said in Barcelona"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:30:00.000Z",
+        "end": "2021-05-17T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79yw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4x1"
+      },
+      "episode": {
+        "id": "m000w4x2",
+        "title": "Monday - Kate's classical commute"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:30:00.000Z",
+        "end": "2021-05-17T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79yx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4x3"
+      },
+      "episode": {
+        "id": "m000w4x4",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T08:00:00.000Z",
+        "end": "2021-05-17T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79yy",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4x5"
+      },
+      "episode": {
+        "id": "m000w4x6",
+        "title": "A Broken Engagement"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T11:00:00.000Z",
+        "end": "2021-05-17T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79yz",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4x7"
+      },
+      "episode": {
+        "id": "m000w4x8",
+        "title": "Michael Collins and Michael McHale"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T12:00:00.000Z",
+        "end": "2021-05-17T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z0",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4x9"
+      },
+      "episode": {
+        "id": "m000w4xb",
+        "title": "BBC Scottish Symphony Orchestra"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T13:00:00.000Z",
+        "end": "2021-05-17T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xc"
+      },
+      "episode": {
+        "id": "m000w4xd",
+        "title": "Pyrenees Festival of Early Music"
+      },
+      "brand": {
+        "title": "Early Music Now"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T15:30:00.000Z",
+        "end": "2021-05-17T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xf"
+      },
+      "episode": {
+        "id": "m000w4xg",
+        "title": "Il Turco in Italia at Glyndebourne, Roxanna Panufnik"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:00:00.000Z",
+        "end": "2021-05-17T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z3",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xh"
+      },
+      "episode": {
+        "id": "m000w4xj",
+        "title": "Your invigorating classical playlist"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:00:00.000Z",
+        "end": "2021-05-17T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xk"
+      },
+      "episode": {
+        "id": "m000w4xl",
+        "title": "Beatrice Rana plays Mozart"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:30:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w3x0"
+      },
+      "episode": {
+        "id": "m000w3x1",
+        "title": "Rhythm and tone: Dennis Brain, Anthony Payne and music’s healing nature"
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-17T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z6",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000fnc9"
+      },
+      "episode": {
+        "id": "m000fncb",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:45:00.000Z",
+        "end": "2021-05-17T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xm"
+      },
+      "episode": {
+        "id": "m000w4xn",
+        "title": "Music for the evening"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:00:00.000Z",
+        "end": "2021-05-17T23:30:00.000Z"
+      }
+    }
+  ]
+}

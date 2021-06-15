@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:22:35.693Z"
+  },
+  "items": [
+    {
+      "id": "p09hjtlt",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wkkw"
+      },
+      "episode": {
+        "id": "m000wkkx",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-31T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjtlv",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wkky"
+      },
+      "episode": {
+        "id": "m000wkkz",
+        "title": "Whigfield, Lisa Loeb and It Bites"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:30:00.000Z",
+        "end": "2021-05-31T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrb6",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wjcx"
+      },
+      "episode": {
+        "id": "m000wjcy",
+        "title": "Sir David Jason chooses his Tracks Of My Years"
+      },
+      "brand": {
+        "title": "Tracks Of My Years"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T02:00:00.000Z",
+        "end": "2021-05-31T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjtlx",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wkl0"
+      },
+      "episode": {
+        "id": "m000wkl1",
+        "title": "Ore Oduba sits in"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T03:00:00.000Z",
+        "end": "2021-05-31T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw8x",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl0z"
+      },
+      "episode": {
+        "id": "m000wl10",
+        "title": "Gary Davies sits in with All Day PopMaster"
+      },
+      "brand": {
+        "title": "The Zoe Ball Breakfast Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:30:00.000Z",
+        "end": "2021-05-31T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw8y",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl11"
+      },
+      "episode": {
+        "id": "m000wl12",
+        "title": "All Day PopMaster with Richard Osman and more"
+      },
+      "brand": {
+        "title": "Ken Bruce"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:30:00.000Z",
+        "end": "2021-05-31T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3k76",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wq9c"
+      },
+      "episode": {
+        "id": "m000wq9d",
+        "title": "Patrick Kielty's stand out covers and All Day PopMaster"
+      },
+      "brand": {
+        "title": "Patrick Kielty's Cover Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw8z",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl13"
+      },
+      "episode": {
+        "id": "m000wl14",
+        "title": "Vernon Kay and All Day PopMaster"
+      },
+      "brand": {
+        "title": "Steve Wright in the Afternoon"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw90",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl15"
+      },
+      "episode": {
+        "id": "m000wl16",
+        "title": "All Day PopMaster - The Final"
+      },
+      "brand": {
+        "title": "Sara Cox"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:00:00.000Z",
+        "end": "2021-05-31T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw91",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl17"
+      },
+      "episode": {
+        "id": "m000wl18",
+        "title": "Bank Holiday bangers from The KLF with Tammy Wynette, Blur, Bobby Brown and more"
+      },
+      "brand": {
+        "title": "Sara Cox's Half Wower"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:30:00.000Z",
+        "end": "2021-05-31T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hsz3k",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wm7x"
+      },
+      "episode": {
+        "id": "m000wm7y",
+        "title": "Bank Holiday special"
+      },
+      "brand": {
+        "title": "Sophie Ellis-Bextor's Kitchen Disco"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:00:00.000Z",
+        "end": "2021-05-31T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw92",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl19"
+      },
+      "episode": {
+        "id": "m000wl1b",
+        "title": "Rocking and Rolling Blues"
+      },
+      "brand": {
+        "title": "The Blues Show with Cerys Matthews"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T20:00:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw93",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl1c"
+      },
+      "episode": {
+        "id": "m000wl1d",
+        "title": "31/05/2021"
+      },
+      "brand": {
+        "title": "Trevor Nelson's Rhythm Nation"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-05-31T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjw94",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wl1f"
+      },
+      "episode": {
+        "id": "m000wl1g",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:00:00.000Z",
+        "end": "2021-06-01T02:00:00.000Z"
+      }
+    }
+  ]
+}

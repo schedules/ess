@@ -1,0 +1,290 @@
+{
+  "filters": {
+    "serviceId": "bbc_wm"
+  },
+  "service": {
+    "id": "bbc_wm",
+    "name": "BBC WM 95.6",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:27:51.839Z"
+  },
+  "items": [
+    {
+      "id": "p09h8js6",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4jzk"
+      },
+      "episode": {
+        "id": "p09h4jz2",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jls",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gxgqm"
+      },
+      "episode": {
+        "id": "p09gxgqk",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jlv",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gycq3"
+      },
+      "episode": {
+        "id": "p09gxgqq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T04:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jlx",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09gycqp"
+      },
+      "episode": {
+        "id": "p09gycqd",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sikh Reflections"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:50:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jm4",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8jm1"
+      },
+      "episode": {
+        "id": "p09h8jly",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Grace Smith"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jmk",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8jmh"
+      },
+      "episode": {
+        "id": "p09h8jm8",
+        "title": "Rakeem Omar sits in (23/05/2021)"
+      },
+      "brand": {
+        "title": "Danny Kelly"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jms",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8jmq"
+      },
+      "episode": {
+        "id": "p09h8jml",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport: Pre-match"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jn4",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8jmz"
+      },
+      "episode": {
+        "id": "p09h8jmw",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jny",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8jnq"
+      },
+      "episode": {
+        "id": "p09h8jng",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Radio WM Sport: Post-match"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jp2",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h8jp0"
+      },
+      "episode": {
+        "id": "p09h4k70",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Gagan Grewal"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jp3",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4k80"
+      },
+      "episode": {
+        "id": "p09h4k7r",
+        "title": "Merisha Stevenson sits in (23/05/2021)"
+      },
+      "brand": {
+        "title": "Sunday night with Nikki"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h8jp4",
+      "service": {
+        "id": "bbc_wm"
+      },
+      "version": {
+        "id": "p09h4k8l"
+      },
+      "episode": {
+        "id": "p09h4k8g",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Natalie Graham"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-21T03:28:52.028Z"
+  },
+  "items": [
+    {
+      "id": "p09g7f6w",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w54l"
+      },
+      "episode": {
+        "id": "m000w54m",
+        "title": "Patrick Guest Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Soundsystem with Jeremiah Asiamah"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-20T23:00:00.000Z",
+        "end": "2021-05-21T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6x",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w54n"
+      },
+      "episode": {
+        "id": "m000w54p",
+        "title": "Response Guest Mix!"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T01:00:00.000Z",
+        "end": "2021-05-21T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09d6sk0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000s2w5"
+      },
+      "episode": {
+        "id": "m000s2w6",
+        "title": "Dossa & Locuzzed"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T01:30:00.000Z",
+        "end": "2021-05-21T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gwwsj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000tgtn"
+      },
+      "episode": {
+        "id": "m000tgtp",
+        "title": "Dermot Kennedy"
+      },
+      "brand": {
+        "title": "Radio 1's Motivate Me Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T02:00:00.000Z",
+        "end": "2021-05-21T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f6z",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w54q"
+      },
+      "episode": {
+        "id": "m000w54r",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T03:00:00.000Z",
+        "end": "2021-05-21T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g7f70",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w54s"
+      },
+      "episode": {
+        "id": "m000w54t",
+        "title": "with Rakeem Omar"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T04:00:00.000Z",
+        "end": "2021-05-21T05:33:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzcw",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sc"
+      },
+      "episode": {
+        "id": "m000w5sd",
+        "title": "Your weekly guide to the freshest and finest pop"
+      },
+      "brand": {
+        "title": "Radio 1's Best New Pop with Mollie King"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T05:33:00.000Z",
+        "end": "2021-05-21T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzcx",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sf"
+      },
+      "episode": {
+        "id": "m000w5sg",
+        "title": "Final round of Yesterday's Quiz"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T06:00:00.000Z",
+        "end": "2021-05-21T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzcy",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sh"
+      },
+      "episode": {
+        "id": "m000w5sj",
+        "title": "with Greg James"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T09:00:00.000Z",
+        "end": "2021-05-21T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzcz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sk"
+      },
+      "episode": {
+        "id": "m000w5sl",
+        "title": "with Vick and Katie"
+      },
+      "brand": {
+        "title": "Radio 1 Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T09:32:00.000Z",
+        "end": "2021-05-21T10:02:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sm"
+      },
+      "episode": {
+        "id": "m000w5sn",
+        "title": "Vick and Katie sit in for Jordan"
+      },
+      "brand": {
+        "title": "Vick Hope and Katie Thistleton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T10:02:00.000Z",
+        "end": "2021-05-21T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd1",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5r4"
+      },
+      "episode": {
+        "id": "m000w5r5",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T11:45:00.000Z",
+        "end": "2021-05-21T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sp"
+      },
+      "episode": {
+        "id": "m000w5sq",
+        "title": "Dean sits in for Matt..."
+      },
+      "brand": {
+        "title": "Matt and Mollie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T12:00:00.000Z",
+        "end": "2021-05-21T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sr"
+      },
+      "episode": {
+        "id": "m000w5ss",
+        "title": "with Mollie and Dean"
+      },
+      "brand": {
+        "title": "Radio 1's Party Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T14:00:00.000Z",
+        "end": "2021-05-21T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5st"
+      },
+      "episode": {
+        "id": "m000w5sv",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "The Official Chart on Radio 1 with Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T15:00:00.000Z",
+        "end": "2021-05-21T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5rb"
+      },
+      "episode": {
+        "id": "m000w5rc",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T16:45:00.000Z",
+        "end": "2021-05-21T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sw"
+      },
+      "episode": {
+        "id": "m000w5sx",
+        "title": "MK Hottest Record and Patrick Topping!"
+      },
+      "brand": {
+        "title": "Radio 1's Dance Party with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T17:00:00.000Z",
+        "end": "2021-05-21T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5sy"
+      },
+      "episode": {
+        "id": "m000w5sz",
+        "title": "21/05/2021"
+      },
+      "brand": {
+        "title": "Danny Howard"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T19:00:00.000Z",
+        "end": "2021-05-21T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t0"
+      },
+      "episode": {
+        "id": "m000w5t1",
+        "title": "Solomun"
+      },
+      "brand": {
+        "title": "Pete Tong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:00:00.000Z",
+        "end": "2021-05-21T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzd9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t2"
+      },
+      "episode": {
+        "id": "m000w5t4",
+        "title": "Nathan Micay"
+      },
+      "brand": {
+        "title": "Radio 1's Essential Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:00:00.000Z",
+        "end": "2021-05-22T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t5"
+      },
+      "episode": {
+        "id": "m000w5t6",
+        "title": "FFRR: Sam Gellaitry and SIDEPIECE"
+      },
+      "brand": {
+        "title": "Radio 1 Dance Presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:00:00.000Z",
+        "end": "2021-05-22T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gbzdc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w5t7"
+      },
+      "episode": {
+        "id": "m000w5t8",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Annie Mac in the Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T02:00:00.000Z",
+        "end": "2021-05-22T02:30:00.000Z"
+      }
+    }
+  ]
+}

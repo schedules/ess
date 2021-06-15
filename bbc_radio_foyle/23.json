@@ -1,0 +1,520 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_foyle"
+  },
+  "service": {
+    "id": "bbc_radio_foyle",
+    "name": "BBC Radio Foyle",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:29:23.077Z"
+  },
+  "items": [
+    {
+      "id": "p09gtphs",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000h8yl"
+      },
+      "episode": {
+        "id": "m000h8ym",
+        "title": "As BBC Radio 5 live"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw615",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9hn"
+      },
+      "episode": {
+        "id": "m000w9hp",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T06:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw616",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9hq"
+      },
+      "episode": {
+        "id": "m000w9hr",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Kim Lenaghan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:03:00.000Z",
+        "end": "2021-05-23T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw617",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9hs"
+      },
+      "episode": {
+        "id": "m000w9ht",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sunday Sequence"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T07:30:00.000Z",
+        "end": "2021-05-23T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw619",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9hv"
+      },
+      "episode": {
+        "id": "m000w9hw",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Morning Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:15:00.000Z",
+        "end": "2021-05-23T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61c",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9hx"
+      },
+      "episode": {
+        "id": "m000w9hy",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Radio Foyle News"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:00:00.000Z",
+        "end": "2021-05-23T10:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61d",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9hz"
+      },
+      "episode": {
+        "id": "m000w9j0",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sunday with Steven Rainey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:03:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61g",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9j1"
+      },
+      "episode": {
+        "id": "m000w9j2",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T12:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61j",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9j3"
+      },
+      "episode": {
+        "id": "m000w9j4",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sunday with Brian D'Arcy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:05:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61k",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9j5"
+      },
+      "episode": {
+        "id": "m000w9j6",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Radio Foyle News"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_foyle"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T13:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61m",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9j7"
+      },
+      "episode": {
+        "id": "m000w9j8",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Kerry McLean"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:03:00.000Z",
+        "end": "2021-05-23T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hlbk6",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000wlqv"
+      },
+      "episode": {
+        "id": "m000wlqw",
+        "title": "GAA National League: Down v Meath & Antrim v Sligo"
+      },
+      "brand": {
+        "title": "Sportsound"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:30:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61v",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9jk"
+      },
+      "episode": {
+        "id": "m000w9jl",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T17:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61x",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9jm"
+      },
+      "episode": {
+        "id": "m000w9jn",
+        "title": "Exploring written Ulster-Scots with author Angeline King and poet Roy Ferguson and Dunloy’s first band practice after lockdown."
+      },
+      "brand": {
+        "title": "Kintra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:03:00.000Z",
+        "end": "2021-05-23T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61y",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9jp"
+      },
+      "episode": {
+        "id": "m000w9jq",
+        "title": "Dancing"
+      },
+      "brand": {
+        "title": "Nathan Carter's Country Themes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:30:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw61z",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9jt"
+      },
+      "episode": {
+        "id": "m000w9jv",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T18:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw620",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9jw"
+      },
+      "episode": {
+        "id": "m000w9jx",
+        "title": "Craig Ogden, Greg Caffrey, Sarah Richmond and Ruth McGinley, Gustav Holst"
+      },
+      "brand": {
+        "title": "Classical Connections with John Toal"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:03:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw621",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9jy"
+      },
+      "episode": {
+        "id": "m000w9jz",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T20:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw623",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9k0"
+      },
+      "episode": {
+        "id": "m000w9k1",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Jazz Club with Walter Love"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:03:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw624",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9k2"
+      },
+      "episode": {
+        "id": "m000w9k3",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T21:03:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw625",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9k4"
+      },
+      "episode": {
+        "id": "m000w9k5",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sunday Club with John Bennett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:03:00.000Z",
+        "end": "2021-05-23T22:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw626",
+      "service": {
+        "id": "bbc_radio_foyle"
+      },
+      "version": {
+        "id": "m000w9k6"
+      },
+      "episode": {
+        "id": "m000w9k7",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:55:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    }
+  ]
+}

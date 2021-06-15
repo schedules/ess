@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:29:04.617Z"
+  },
+  "items": [
+    {
+      "id": "p09gy21n",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wd67"
+      },
+      "episode": {
+        "id": "m000wd68",
+        "title": "Richie Anderson's Eurovision After Party"
+      },
+      "brand": {
+        "title": "Radio 2 Celebrates Eurovision"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:30:00.000Z",
+        "end": "2021-05-23T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfsp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w9yg"
+      },
+      "episode": {
+        "id": "m000w9yh",
+        "title": "Pop Stories:  Iconic pop covers from music’s biggest stars"
+      },
+      "brand": {
+        "title": "Patrick Kielty's Cover Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:00:00.000Z",
+        "end": "2021-05-23T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvfsq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w9yj"
+      },
+      "episode": {
+        "id": "m000w9yk",
+        "title": "Marisha Wallace"
+      },
+      "brand": {
+        "title": "Sheridan's Showstoppers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T02:00:00.000Z",
+        "end": "2021-05-23T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09dycj3",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000v0t5"
+      },
+      "episode": {
+        "id": "m000v0t6",
+        "title": "Johnnie's Jukebox Celebrates Its 400th Entry!"
+      },
+      "brand": {
+        "title": "Sounds of the 70s with Johnnie Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T03:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb3q"
+      },
+      "episode": {
+        "id": "m000wb3t",
+        "title": "Pat Nevin and Owain Wyn Evans on Eurovision!"
+      },
+      "brand": {
+        "title": "Good Morning Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpk",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb3x"
+      },
+      "episode": {
+        "id": "m000wb40",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Steve Wright's Sunday Love Songs"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpl",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb42"
+      },
+      "episode": {
+        "id": "m000wb44",
+        "title": "Big Narstie and author Matt Cain"
+      },
+      "brand": {
+        "title": "The Michael Ball Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:00:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb46"
+      },
+      "episode": {
+        "id": "m000wb48",
+        "title": "More theatre reopenings!"
+      },
+      "brand": {
+        "title": "Elaine Paige on Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4b"
+      },
+      "episode": {
+        "id": "m000wb4d",
+        "title": "Special Guest: Eddy Grant"
+      },
+      "brand": {
+        "title": "Sounds of the 70s with Johnnie Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:00:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4g"
+      },
+      "episode": {
+        "id": "m000wb4j",
+        "title": "Triples: Manic Street Preachers, Jane McDonald"
+      },
+      "brand": {
+        "title": "Paul O'Grady"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpq",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4l"
+      },
+      "episode": {
+        "id": "m000wb4n",
+        "title": "Kings of Cool: Burt Bacharach, Michel Legrand and Henry Mancini"
+      },
+      "brand": {
+        "title": "Sunday Night is Music Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpt",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000ffjd"
+      },
+      "episode": {
+        "id": "m000ffjf",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Seth Lakeman's Folk Map of the British Isles"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpv",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4q"
+      },
+      "episode": {
+        "id": "m000wb4s",
+        "title": "Nature and Wellbeing with Simon Farnaby"
+      },
+      "brand": {
+        "title": "Dr Rangan Chatterjee"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpw",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4t"
+      },
+      "episode": {
+        "id": "m000wb4v",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-24T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvwpx",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000wb4x"
+      },
+      "episode": {
+        "id": "m000wb4z",
+        "title": "Alannah Myles, Liam Lynch and Doop"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:30:00.000Z",
+        "end": "2021-05-24T02:00:00.000Z"
+      }
+    }
+  ]
+}

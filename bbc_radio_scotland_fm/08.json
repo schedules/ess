@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:28:13.199Z"
+  },
+  "items": [
+    {
+      "id": "p09j62kv",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrjr"
+      },
+      "episode": {
+        "id": "m000wrjt",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxn",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrfp"
+      },
+      "episode": {
+        "id": "m000wrfq",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T05:00:00.000Z",
+        "end": "2021-06-08T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxp",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrfr"
+      },
+      "episode": {
+        "id": "m000wrfs",
+        "title": "with Kaye Adams"
+      },
+      "brand": {
+        "title": "Mornings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T08:00:00.000Z",
+        "end": "2021-06-08T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxq",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrft"
+      },
+      "episode": {
+        "id": "m000wrfv",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Lunchtime Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T11:00:00.000Z",
+        "end": "2021-06-08T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxr",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrfw"
+      },
+      "episode": {
+        "id": "m000wrfx",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "The Afternoon Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T12:30:00.000Z",
+        "end": "2021-06-08T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxs",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrfy"
+      },
+      "episode": {
+        "id": "m000wrfz",
+        "title": "with John Beattie"
+      },
+      "brand": {
+        "title": "Drivetime"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T15:00:00.000Z",
+        "end": "2021-06-08T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxt",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrg0"
+      },
+      "episode": {
+        "id": "m000wrg1",
+        "title": "Albums You Bought For One Track"
+      },
+      "brand": {
+        "title": "Get it On with Bryan Burnett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T17:00:00.000Z",
+        "end": "2021-06-08T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxv",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrg2"
+      },
+      "episode": {
+        "id": "m000wrg3",
+        "title": "The Best Music of 2021, So Far...."
+      },
+      "brand": {
+        "title": "Another Country with Ricky Ross"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T19:00:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5jxw",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrg4"
+      },
+      "episode": {
+        "id": "m000wrg5",
+        "title": "08/06/2021"
+      },
+      "brand": {
+        "title": "Roddy Hart"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-08T23:00:00.000Z"
+      }
+    }
+  ]
+}

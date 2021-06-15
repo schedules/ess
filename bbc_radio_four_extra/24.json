@@ -1,0 +1,1153 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:24:07.367Z"
+  },
+  "items": [
+    {
+      "id": "p09gvr72",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00tvmgf"
+      },
+      "episode": {
+        "id": "b00tvmk0",
+        "title": "The Grey Woman"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-23T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr73",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0003l5f"
+      },
+      "episode": {
+        "id": "m0003l5g",
+        "title": "The Man of the Crowd by  Edgar Allan Poe"
+      },
+      "brand": {
+        "title": "Murder & Mystery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:45:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr75",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07yk676"
+      },
+      "episode": {
+        "id": "b07yk69n",
+        "title": "The Return by Hisham Matar (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr76",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b06chslz"
+      },
+      "episode": {
+        "id": "b06chsm1",
+        "title": "Bill Nighy"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:10:00.000Z",
+        "end": "2021-05-24T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr77",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b093m2w8"
+      },
+      "episode": {
+        "id": "b093m2x1",
+        "title": "Series 2 (Omnibus)"
+      },
+      "brand": {
+        "title": "AL Kennedy - Subterranean Homesick Blues"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:20:00.000Z",
+        "end": "2021-05-24T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr78",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0b51zpg"
+      },
+      "episode": {
+        "id": "b0b520pj",
+        "title": "Patrick Cargill"
+      },
+      "brand": {
+        "title": "Be My Guest"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T02:30:00.000Z",
+        "end": "2021-05-24T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr7c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0021y5v"
+      },
+      "episode": {
+        "id": "b0076cpm",
+        "title": "08/02/2003 - Caroline Gawn - Fraud"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T03:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr7d",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wb74"
+      },
+      "episode": {
+        "id": "m000wb77",
+        "title": "Africa's Digital Poets - Another Kind of Stage  1/2"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr7f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b040hjwt"
+      },
+      "episode": {
+        "id": "b040hjy4",
+        "title": "Aspasia"
+      },
+      "brand": {
+        "title": "Natalie Haynes Stands Up for the Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:30:00.000Z",
+        "end": "2021-05-24T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0070f18"
+      },
+      "episode": {
+        "id": "b007k372",
+        "title": "6. Jebel Al-Akhbar"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:00:00.000Z",
+        "end": "2021-05-24T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hfc"
+      },
+      "episode": {
+        "id": "b0b51vyp",
+        "title": "1. The Kind Man"
+      },
+      "brand": {
+        "title": "Edward Boyd - The Candle of Darkness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T05:30:00.000Z",
+        "end": "2021-05-24T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9ss"
+      },
+      "episode": {
+        "id": "b00dsr3b",
+        "title": "Psmith Arranges His Future"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T06:00:00.000Z",
+        "end": "2021-05-24T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w4pd"
+      },
+      "episode": {
+        "id": "m000w4pf",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Nature Table"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T06:30:00.000Z",
+        "end": "2021-05-24T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pf5p"
+      },
+      "episode": {
+        "id": "b007k094",
+        "title": "Full House"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T07:00:00.000Z",
+        "end": "2021-05-24T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000xfkx"
+      },
+      "episode": {
+        "id": "b0075nmn",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Life, Death and Sex with Mike and Sue"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T07:30:00.000Z",
+        "end": "2021-05-24T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00qplm6"
+      },
+      "episode": {
+        "id": "b00qplyn",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Act Your Age"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T08:00:00.000Z",
+        "end": "2021-05-24T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b04phf03"
+      },
+      "episode": {
+        "id": "b04phhxw",
+        "title": "It Could Be the Zoo"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T08:30:00.000Z",
+        "end": "2021-05-24T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006dnbl"
+      },
+      "episode": {
+        "id": "b007jx2h",
+        "title": "Episode 1 - The King's Son"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:00:00.000Z",
+        "end": "2021-05-24T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9st"
+      },
+      "episode": {
+        "id": "m000w9sv",
+        "title": "Reinvention"
+      },
+      "brand": {
+        "title": "TED Radio Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T10:00:00.000Z",
+        "end": "2021-05-24T10:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hkptq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wlpm"
+      },
+      "episode": {
+        "id": "m000wlpn",
+        "title": "Phillip Schofield"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T10:50:00.000Z",
+        "end": "2021-05-24T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcms",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pf5p"
+      },
+      "episode": {
+        "id": "b007k094",
+        "title": "Full House"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T11:00:00.000Z",
+        "end": "2021-05-24T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000xfkx"
+      },
+      "episode": {
+        "id": "b0075nmn",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Life, Death and Sex with Mike and Sue"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T11:30:00.000Z",
+        "end": "2021-05-24T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmv",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0070f18"
+      },
+      "episode": {
+        "id": "b007k372",
+        "title": "6. Jebel Al-Akhbar"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T12:00:00.000Z",
+        "end": "2021-05-24T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hfc"
+      },
+      "episode": {
+        "id": "b0b51vyp",
+        "title": "1. The Kind Man"
+      },
+      "brand": {
+        "title": "Edward Boyd - The Candle of Darkness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T12:30:00.000Z",
+        "end": "2021-05-24T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08dnkgr"
+      },
+      "episode": {
+        "id": "b08dnkhb",
+        "title": "Episode 6"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:00:00.000Z",
+        "end": "2021-05-24T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmy",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005f2q"
+      },
+      "episode": {
+        "id": "m0005f2s",
+        "title": "Episode 6: Gudrun"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:15:00.000Z",
+        "end": "2021-05-24T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcmz",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9sw"
+      },
+      "episode": {
+        "id": "b00c7fbx",
+        "title": "Bob Dylan"
+      },
+      "brand": {
+        "title": "What's So Great About ...?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T13:30:00.000Z",
+        "end": "2021-05-24T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006dnbl"
+      },
+      "episode": {
+        "id": "b007jx2h",
+        "title": "Episode 1 - The King's Son"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T14:00:00.000Z",
+        "end": "2021-05-24T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00qplm6"
+      },
+      "episode": {
+        "id": "b00qplyn",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Act Your Age"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T15:00:00.000Z",
+        "end": "2021-05-24T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b04phf03"
+      },
+      "episode": {
+        "id": "b04phhxw",
+        "title": "It Could Be the Zoo"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T15:30:00.000Z",
+        "end": "2021-05-24T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9ss"
+      },
+      "episode": {
+        "id": "b00dsr3b",
+        "title": "Psmith Arranges His Future"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:00:00.000Z",
+        "end": "2021-05-24T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w4pd"
+      },
+      "episode": {
+        "id": "m000w4pf",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Nature Table"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:30:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b002732q"
+      },
+      "episode": {
+        "id": "b007jnlt",
+        "title": "Episode 1 - 1. Ruination"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9sx"
+      },
+      "episode": {
+        "id": "b01gh84k",
+        "title": "Isy Suttie and Beverley Humphreys"
+      },
+      "brand": {
+        "title": "A Good Read"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:30:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pf5p"
+      },
+      "episode": {
+        "id": "b007k094",
+        "title": "Full House"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn8",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000xfkx"
+      },
+      "episode": {
+        "id": "b0075nmn",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Life, Death and Sex with Mike and Sue"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:30:00.000Z",
+        "end": "2021-05-24T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcn9",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0070f18"
+      },
+      "episode": {
+        "id": "b007k372",
+        "title": "6. Jebel Al-Akhbar"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T19:00:00.000Z",
+        "end": "2021-05-24T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnb",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hfc"
+      },
+      "episode": {
+        "id": "b0b51vyp",
+        "title": "1. The Kind Man"
+      },
+      "brand": {
+        "title": "Edward Boyd - The Candle of Darkness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T19:30:00.000Z",
+        "end": "2021-05-24T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9st"
+      },
+      "episode": {
+        "id": "m000w9sv",
+        "title": "Reinvention"
+      },
+      "brand": {
+        "title": "TED Radio Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T20:00:00.000Z",
+        "end": "2021-05-24T20:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hkptt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wlpm"
+      },
+      "episode": {
+        "id": "m000wlpn",
+        "title": "Phillip Schofield"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T20:50:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnd",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w4pd"
+      },
+      "episode": {
+        "id": "m000w4pf",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Nature Table"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-24T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnf",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b03q8vfz"
+      },
+      "episode": {
+        "id": "b03q8z47",
+        "title": "Neil Innes talks to Graham Linehan"
+      },
+      "brand": {
+        "title": "Chain Reaction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:30:00.000Z",
+        "end": "2021-05-24T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcng",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w5wh"
+      },
+      "episode": {
+        "id": "m000w5wj",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "The News Quiz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T22:00:00.000Z",
+        "end": "2021-05-24T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnh",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01p2rzj"
+      },
+      "episode": {
+        "id": "b01p2s1y",
+        "title": "I Looked Like Gollum at School"
+      },
+      "brand": {
+        "title": "The Jason Byrne Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T22:30:00.000Z",
+        "end": "2021-05-24T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnk",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b002732q"
+      },
+      "episode": {
+        "id": "b007jnlt",
+        "title": "Episode 1 - 1. Ruination"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:00:00.000Z",
+        "end": "2021-05-24T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnm",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9sx"
+      },
+      "episode": {
+        "id": "b01gh84k",
+        "title": "Isy Suttie and Beverley Humphreys"
+      },
+      "brand": {
+        "title": "A Good Read"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:30:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0070f18"
+      },
+      "episode": {
+        "id": "b007k372",
+        "title": "6. Jebel Al-Akhbar"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnp",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hfc"
+      },
+      "episode": {
+        "id": "b0b51vyp",
+        "title": "1. The Kind Man"
+      },
+      "brand": {
+        "title": "Edward Boyd - The Candle of Darkness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:30:00.000Z",
+        "end": "2021-05-25T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnq",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08dnkgr"
+      },
+      "episode": {
+        "id": "b08dnkhb",
+        "title": "Episode 6"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:00:00.000Z",
+        "end": "2021-05-25T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcnr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005f2q"
+      },
+      "episode": {
+        "id": "m0005f2s",
+        "title": "Episode 6: Gudrun"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:15:00.000Z",
+        "end": "2021-05-25T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvcns",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9sw"
+      },
+      "episode": {
+        "id": "b00c7fbx",
+        "title": "Bob Dylan"
+      },
+      "brand": {
+        "title": "What's So Great About ...?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:30:00.000Z",
+        "end": "2021-05-25T02:00:00.000Z"
+      }
+    }
+  ]
+}

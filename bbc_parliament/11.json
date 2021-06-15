@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-11T03:41:29.770Z"
+  },
+  "items": [
+    {
+      "id": "p09jx017",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wvz9"
+      },
+      "episode": {
+        "id": "m000wvzc",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:15:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx019",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14p"
+      },
+      "episode": {
+        "id": "m000x14q",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T05:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx1",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x7k3"
+      },
+      "episode": {
+        "id": "m000x7k4",
+        "title": "Economic Impact of Coronavirus Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:05:00.000Z",
+        "end": "2021-06-11T07:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09l3qht",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14p"
+      },
+      "episode": {
+        "id": "m000x14q",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx2",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xb81"
+      },
+      "episode": {
+        "id": "m000xb82",
+        "title": "Urgent Question on Asylum Accommodation"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T07:20:00.000Z",
+        "end": "2021-06-11T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0k5",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T08:00:00.000Z",
+        "end": "2021-06-11T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx3",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xc3g"
+      },
+      "episode": {
+        "id": "m000xc3h",
+        "title": "Health Secretary Matt Hancock Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T08:30:00.000Z",
+        "end": "2021-06-11T12:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0k8",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14t"
+      },
+      "episode": {
+        "id": "m000x14v",
+        "title": "Greensill Capital Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:45:00.000Z",
+        "end": "2021-06-11T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx4",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xf7x"
+      },
+      "episode": {
+        "id": "m000xf7y",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Lords Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:00:00.000Z",
+        "end": "2021-06-11T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0kb",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14w"
+      },
+      "episode": {
+        "id": "m000x14x",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T13:30:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx5",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xc3j"
+      },
+      "episode": {
+        "id": "m000xc3k",
+        "title": "Lords Overseas Aid Private Notice Question"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:45:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0kc",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x14y"
+      },
+      "episode": {
+        "id": "m000x14z",
+        "title": "Government's Response to Covid-19 Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T19:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09l5cx6",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000xf7z"
+      },
+      "episode": {
+        "id": "m000xf80",
+        "title": "EU Visas for Creative Workers Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:40:00.000Z",
+        "end": "2021-06-11T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0kd",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wwkn"
+      },
+      "episode": {
+        "id": "m000wqzm",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newscast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:30:00.000Z",
+        "end": "2021-06-11T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0kg",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:00:00.000Z",
+        "end": "2021-06-11T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jx0kh",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000x13g"
+      },
+      "episode": {
+        "id": "m000x13h",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:30:00.000Z",
+        "end": "2021-06-11T23:10:00.000Z"
+      }
+    }
+  ]
+}

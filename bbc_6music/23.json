@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:38:03.591Z"
+  },
+  "items": [
+    {
+      "id": "p09gw0r5",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbp3"
+      },
+      "episode": {
+        "id": "m000wbp4",
+        "title": "Nabihah Iqbal - Episode 4"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r8",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbp5"
+      },
+      "episode": {
+        "id": "m000wbp6",
+        "title": "ATTLAS' Tour of Ontario"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0r9",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000tn8d"
+      },
+      "episode": {
+        "id": "m000tn8f",
+        "title": "Vol 5: Pain; Songs for dark, depressing days"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:00:00.000Z",
+        "end": "2021-05-23T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hzv3f",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000sq1r"
+      },
+      "episode": {
+        "id": "m000sq1s",
+        "title": "Two hours of music to help you reset and navigate the day"
+      },
+      "brand": {
+        "title": "The Morning After Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T02:00:00.000Z",
+        "end": "2021-05-23T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw0rd",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbp9"
+      },
+      "episode": {
+        "id": "m000wbpb",
+        "title": "More from Joni Mitchell"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:00:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw86w",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbqs"
+      },
+      "episode": {
+        "id": "m000wbqv",
+        "title": "Joe Cornish"
+      },
+      "brand": {
+        "title": "Radcliffe and Maconie"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw86x",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbqy"
+      },
+      "episode": {
+        "id": "m000wbr0",
+        "title": "A birthday tribute to Bob Dylan"
+      },
+      "brand": {
+        "title": "Cerys Matthews"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw86y",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbr2"
+      },
+      "episode": {
+        "id": "m000wbr4",
+        "title": "Róisín Murphy"
+      },
+      "brand": {
+        "title": "Journeys In Sound"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw86z",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbr6"
+      },
+      "episode": {
+        "id": "m000wbr8",
+        "title": "Birthday Mentions Galore"
+      },
+      "brand": {
+        "title": "Guy Garvey's Finest Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw870",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbrb"
+      },
+      "episode": {
+        "id": "m000wbrd",
+        "title": "Stop making a spectacle of yourself"
+      },
+      "brand": {
+        "title": "Amy Lamé"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw871",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbrg"
+      },
+      "episode": {
+        "id": "m000wbrj",
+        "title": "Guide To...Gary Numan and the sound of the Numanoids"
+      },
+      "brand": {
+        "title": "Now Playing @6Music"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw872",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbrk"
+      },
+      "episode": {
+        "id": "m000wbrl",
+        "title": "Caroline Catz on Delia Derbyshire"
+      },
+      "brand": {
+        "title": "Stuart Maconie's Freak Zone"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw874",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbrm"
+      },
+      "episode": {
+        "id": "m000wbrn",
+        "title": "Black Power"
+      },
+      "brand": {
+        "title": "Don Letts' Culture Clash Radio"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gy1z5",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wd64"
+      },
+      "episode": {
+        "id": "m000wd65",
+        "title": "The Black Power Playlist"
+      },
+      "brand": {
+        "title": "Don Letts' Culture Clash Radio"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw877",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbr6"
+      },
+      "episode": {
+        "id": "m000wbr8",
+        "title": "Birthday Mentions Galore"
+      },
+      "brand": {
+        "title": "Guy Garvey's Finest Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-24T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw879",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000w4zm"
+      },
+      "episode": {
+        "id": "m000w4zn",
+        "title": "Lou Hayter, Robert Plant, Sofia Kourtesis, and more!"
+      },
+      "brand": {
+        "title": "6 Music's Jukebox"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:00:00.000Z",
+        "end": "2021-05-24T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw87c",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wbrp"
+      },
+      "episode": {
+        "id": "m000wbrq",
+        "title": "Alison Spittle & extreme industrial metal"
+      },
+      "brand": {
+        "title": "James Acaster's Perfect Sounds"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-05-24T02:00:00.000Z",
+        "end": "2021-05-24T02:30:00.000Z"
+      }
+    }
+  ]
+}

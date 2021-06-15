@@ -1,0 +1,403 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:18:46.741Z"
+  },
+  "items": [
+    {
+      "id": "p09gvqtj",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wbd4"
+      },
+      "episode": {
+        "id": "m000wbd5",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Introducing with Adam Walton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvqtk",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wbd6"
+      },
+      "episode": {
+        "id": "m000wbd7",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7yr",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000w5s1"
+      },
+      "episode": {
+        "id": "m000w5s2",
+        "title": "Tir na n-Og Award 2021"
+      },
+      "brand": {
+        "title": "Radio Wales Arts Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7ys",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000tfhh"
+      },
+      "episode": {
+        "id": "m000tfhj",
+        "title": "Our First Climate Refugees"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:30:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7yt",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc24"
+      },
+      "episode": {
+        "id": "m000wc25",
+        "title": "Lave Fishing & Wonderful Wildflowers"
+      },
+      "brand": {
+        "title": "Country Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T06:31:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7yv",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc26"
+      },
+      "episode": {
+        "id": "m000wc27",
+        "title": "Bishop Gregory Cameron"
+      },
+      "brand": {
+        "title": "Celebration"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:31:00.000Z",
+        "end": "2021-05-23T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7yw",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc28"
+      },
+      "episode": {
+        "id": "m000wc29",
+        "title": "Welsh farming and trade deals, Swansea riot and Daniel Morgan case"
+      },
+      "brand": {
+        "title": "Sunday Supplement"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T07:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hzvhw",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000r49p"
+      },
+      "episode": {
+        "id": "m000r49q",
+        "title": "Leroy Logan"
+      },
+      "brand": {
+        "title": "All Things Considered"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T08:31:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7yy",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2b"
+      },
+      "episode": {
+        "id": "m000wc2c",
+        "title": "Michaela Strachan, Lucy Owen and Priya Hall join Joanna"
+      },
+      "brand": {
+        "title": "Sunday Morning with Joanna Page"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:31:00.000Z",
+        "end": "2021-05-23T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7yz",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2d"
+      },
+      "episode": {
+        "id": "m000wc2f",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Owen Money's Solid Gold Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:00:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z0",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2g"
+      },
+      "episode": {
+        "id": "m000wc2h",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Kiri Pritchard-McLean"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z1",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2j"
+      },
+      "episode": {
+        "id": "m000wc2k",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Lynn Bowles"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:00:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z2",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2l"
+      },
+      "episode": {
+        "id": "m000wc2m",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Roy Noble"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z3",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000v15y"
+      },
+      "episode": {
+        "id": "m000v15z",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Phil the Shelf"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T18:28:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z4",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2n"
+      },
+      "episode": {
+        "id": "m000wc27",
+        "title": "Bishop Gregory Cameron"
+      },
+      "brand": {
+        "title": "Celebration"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:28:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z5",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2p"
+      },
+      "episode": {
+        "id": "m000wc2q",
+        "title": "Happy Birthday Bob Dylan"
+      },
+      "brand": {
+        "title": "Celtic Heartbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw7z6",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wc2r"
+      },
+      "episode": {
+        "id": "m000wc2s",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Beverley's World of Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

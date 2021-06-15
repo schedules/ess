@@ -1,0 +1,426 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-23T03:23:10.220Z"
+  },
+  "items": [
+    {
+      "id": "p09hc94l",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0948l70"
+      },
+      "episode": {
+        "id": "b0948l72",
+        "title": "09/09/2017 - 2017"
+      },
+      "brand": {
+        "title": "Tatù Rìoghail Dhùn Èideann/Edinburgh Military Tattoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:05:00.000Z",
+        "end": "2021-05-22T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc94m",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000qpnh"
+      },
+      "episode": {
+        "id": "m000qpnj",
+        "title": "An t-Inneal Espresso/The Espresso Machine"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:40:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc94n",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wffm"
+      },
+      "episode": {
+        "id": "m000wffn",
+        "title": "Rangers v Celtic"
+      },
+      "brand": {
+        "title": "Scottish Women's Premier League"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T17:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000js5z"
+      },
+      "episode": {
+        "id": "m000js60",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:05:00.000Z",
+        "end": "2021-05-23T17:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddh",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jy57"
+      },
+      "episode": {
+        "id": "m000jy58",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:10:00.000Z",
+        "end": "2021-05-23T17:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddj",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wffp"
+      },
+      "episode": {
+        "id": "m000wffq",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:15:00.000Z",
+        "end": "2021-05-23T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddk",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wffr"
+      },
+      "episode": {
+        "id": "m000wffs",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Seachd Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:30:00.000Z",
+        "end": "2021-05-23T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfft"
+      },
+      "episode": {
+        "id": "m000wffv",
+        "title": "Alleluia Naomh Calum Cille (Columba)"
+      },
+      "brand": {
+        "title": "Alleluia!"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:30:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jyfz"
+      },
+      "episode": {
+        "id": "m000jyg0",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Leugh Mi/Book Show"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gp2s"
+      },
+      "episode": {
+        "id": "m000gp2t",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Dreach Ùr"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:30:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddq",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003k4d"
+      },
+      "episode": {
+        "id": "m0003k4f",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "DIY le Donnie"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T20:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jy57"
+      },
+      "episode": {
+        "id": "m000jy58",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Celtic Connections Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:40:00.000Z",
+        "end": "2021-05-23T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdds",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfff"
+      },
+      "episode": {
+        "id": "m000wffg",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:45:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddt",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b07xd672"
+      },
+      "episode": {
+        "id": "b07xd67j",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gxp7"
+      },
+      "episode": {
+        "id": "m000gxp8",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Eadar na Dha: 1918-1935/Clash of Futures: 1918-1935"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T22:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wffw"
+      },
+      "episode": {
+        "id": "m000wffx",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Binneas - Na Trads"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:50:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    }
+  ]
+}

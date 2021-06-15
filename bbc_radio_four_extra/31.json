@@ -1,0 +1,1153 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_four_extra"
+  },
+  "service": {
+    "id": "bbc_radio_four_extra",
+    "name": "BBC Radio 4 Extra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:37:44.145Z"
+  },
+  "items": [
+    {
+      "id": "p09hjr2r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0065clr"
+      },
+      "episode": {
+        "id": "b0076wvt",
+        "title": "Thomas Hardy - The Withered Arm"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-30T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0003tdv"
+      },
+      "episode": {
+        "id": "m0003tdx",
+        "title": "MS. Found in a Bottle by  Edgar Allan Poe"
+      },
+      "brand": {
+        "title": "Murder & Mystery"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:45:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07zf838"
+      },
+      "episode": {
+        "id": "b07zf850",
+        "title": "The Invention of Angela Carter by Edmund Gordon (Omnibus)"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:00:00.000Z",
+        "end": "2021-05-31T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr2x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b077s3n7"
+      },
+      "episode": {
+        "id": "b077s3qj",
+        "title": "Phil Tufnell"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:10:00.000Z",
+        "end": "2021-05-31T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr31",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b08pmsm3"
+      },
+      "episode": {
+        "id": "b08pmsmp",
+        "title": "Series 8 (Omnibus)"
+      },
+      "brand": {
+        "title": "How Does That Make You Feel?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:20:00.000Z",
+        "end": "2021-05-31T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr36",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000w9sw"
+      },
+      "episode": {
+        "id": "b00c7fbx",
+        "title": "Bob Dylan"
+      },
+      "brand": {
+        "title": "What's So Great About ...?"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T02:30:00.000Z",
+        "end": "2021-05-31T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr37",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m0005tlf"
+      },
+      "episode": {
+        "id": "m0005tlg",
+        "title": "Stephen Wakelam - Death at the Bed End"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T03:00:00.000Z",
+        "end": "2021-05-31T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr39",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkc0"
+      },
+      "episode": {
+        "id": "m000wkc1",
+        "title": "Africa's Digital Poets - Breaking the Window with a Poem  2/2"
+      },
+      "brand": {
+        "title": "Poetry Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:00:00.000Z",
+        "end": "2021-05-31T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr3d",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b09rx2bv"
+      },
+      "episode": {
+        "id": "b09rx3vt",
+        "title": "Last Chance Salon"
+      },
+      "brand": {
+        "title": "To Hull and Back"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T04:30:00.000Z",
+        "end": "2021-05-31T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr88",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vw3t"
+      },
+      "episode": {
+        "id": "b007jvn1",
+        "title": "5. At Lady Dormer's"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:00:00.000Z",
+        "end": "2021-05-31T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr89",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hlw"
+      },
+      "episode": {
+        "id": "b0b5t0pp",
+        "title": "6. Who Is 'The Kind Man'?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:30:00.000Z",
+        "end": "2021-05-31T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8c",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01qlddk"
+      },
+      "episode": {
+        "id": "b01qldm8",
+        "title": "Pilot episode"
+      },
+      "brand": {
+        "title": "Tim FitzHigham: The Gambler"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T06:00:00.000Z",
+        "end": "2021-05-31T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8f",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wccz"
+      },
+      "episode": {
+        "id": "m000wcd0",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Nature Table"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T06:30:00.000Z",
+        "end": "2021-05-31T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8h",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pmkp"
+      },
+      "episode": {
+        "id": "b007k0k6",
+        "title": "Is That Your Horse Outside?"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T07:00:00.000Z",
+        "end": "2021-05-31T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8k",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000q0ys"
+      },
+      "episode": {
+        "id": "b00756vl",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Life, Death and Sex with Mike and Sue"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T07:30:00.000Z",
+        "end": "2021-05-31T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8n",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00qvm37"
+      },
+      "episode": {
+        "id": "b00qvm9f",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Act Your Age"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:00:00.000Z",
+        "end": "2021-05-31T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8r",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006vxzs"
+      },
+      "episode": {
+        "id": "b007k2c7",
+        "title": "Keeper vs Keeper"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:30:00.000Z",
+        "end": "2021-05-31T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8v",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b007q9bq"
+      },
+      "episode": {
+        "id": "b007q9by",
+        "title": "Great Son of Ammon"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T09:00:00.000Z",
+        "end": "2021-05-31T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr8y",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkv9"
+      },
+      "episode": {
+        "id": "m000wkvb",
+        "title": "IRL - online"
+      },
+      "brand": {
+        "title": "TED Radio Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T10:00:00.000Z",
+        "end": "2021-05-31T10:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr91",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkvc"
+      },
+      "episode": {
+        "id": "m000wkvd",
+        "title": "Mica Paris"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T10:50:00.000Z",
+        "end": "2021-05-31T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr94",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pmkp"
+      },
+      "episode": {
+        "id": "b007k0k6",
+        "title": "Is That Your Horse Outside?"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:00:00.000Z",
+        "end": "2021-05-31T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr96",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000q0ys"
+      },
+      "episode": {
+        "id": "b00756vl",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Life, Death and Sex with Mike and Sue"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:30:00.000Z",
+        "end": "2021-05-31T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr9b",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vw3t"
+      },
+      "episode": {
+        "id": "b007jvn1",
+        "title": "5. At Lady Dormer's"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:00:00.000Z",
+        "end": "2021-05-31T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr9g",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hlw"
+      },
+      "episode": {
+        "id": "b0b5t0pp",
+        "title": "6. Who Is 'The Kind Man'?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:30:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr9l",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07mwlm5"
+      },
+      "episode": {
+        "id": "b07mwqf9",
+        "title": "Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr9p",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000sqr8"
+      },
+      "episode": {
+        "id": "m000sqrb",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:15:00.000Z",
+        "end": "2021-05-31T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr9s",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006ktrq"
+      },
+      "episode": {
+        "id": "b007jxq4",
+        "title": "Paint It Black"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:30:00.000Z",
+        "end": "2021-05-31T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjr9x",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b007q9bq"
+      },
+      "episode": {
+        "id": "b007q9by",
+        "title": "Great Son of Ammon"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T14:00:00.000Z",
+        "end": "2021-05-31T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrb0",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00qvm37"
+      },
+      "episode": {
+        "id": "b00qvm9f",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Act Your Age"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T15:00:00.000Z",
+        "end": "2021-05-31T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrb2",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006vxzs"
+      },
+      "episode": {
+        "id": "b007k2c7",
+        "title": "Keeper vs Keeper"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T15:30:00.000Z",
+        "end": "2021-05-31T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrb7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01qlddk"
+      },
+      "episode": {
+        "id": "b01qldm8",
+        "title": "Pilot episode"
+      },
+      "brand": {
+        "title": "Tim FitzHigham: The Gambler"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:00:00.000Z",
+        "end": "2021-05-31T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wccz"
+      },
+      "episode": {
+        "id": "m000wcd0",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Nature Table"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:30:00.000Z",
+        "end": "2021-05-31T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00288sr"
+      },
+      "episode": {
+        "id": "b007jp39",
+        "title": "6. Sacrifice"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:00:00.000Z",
+        "end": "2021-05-31T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbj",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01j5mx8"
+      },
+      "episode": {
+        "id": "b01j5my9",
+        "title": "Steve Backshall and Geraldine Bedell"
+      },
+      "brand": {
+        "title": "A Good Read"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T17:30:00.000Z",
+        "end": "2021-05-31T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbl",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006pmkp"
+      },
+      "episode": {
+        "id": "b007k0k6",
+        "title": "Is That Your Horse Outside?"
+      },
+      "brand": {
+        "title": "Steptoe and Son"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:00:00.000Z",
+        "end": "2021-05-31T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbn",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b000q0ys"
+      },
+      "episode": {
+        "id": "b00756vl",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Life, Death and Sex with Mike and Sue"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:30:00.000Z",
+        "end": "2021-05-31T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbr",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vw3t"
+      },
+      "episode": {
+        "id": "b007jvn1",
+        "title": "5. At Lady Dormer's"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T19:00:00.000Z",
+        "end": "2021-05-31T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbs",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hlw"
+      },
+      "episode": {
+        "id": "b0b5t0pp",
+        "title": "6. Who Is 'The Kind Man'?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T19:30:00.000Z",
+        "end": "2021-05-31T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbt",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkv9"
+      },
+      "episode": {
+        "id": "m000wkvb",
+        "title": "IRL - online"
+      },
+      "brand": {
+        "title": "TED Radio Hour"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T20:00:00.000Z",
+        "end": "2021-05-31T20:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbw",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wkvc"
+      },
+      "episode": {
+        "id": "m000wkvd",
+        "title": "Mica Paris"
+      },
+      "brand": {
+        "title": "Inheritance Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T20:50:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbx",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wccz"
+      },
+      "episode": {
+        "id": "m000wcd0",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Nature Table"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-05-31T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrbz",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b03s71bm"
+      },
+      "episode": {
+        "id": "b03s71cz",
+        "title": "Graham Linehan talks to Adam Buxton"
+      },
+      "brand": {
+        "title": "Chain Reaction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:30:00.000Z",
+        "end": "2021-05-31T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc1",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000wdhg"
+      },
+      "episode": {
+        "id": "m000wdhh",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "The News Quiz"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T22:00:00.000Z",
+        "end": "2021-05-31T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc3",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01p6p1d"
+      },
+      "episode": {
+        "id": "b01p6pxc",
+        "title": "I Won't Eat Bread From a Puddle"
+      },
+      "brand": {
+        "title": "The Jason Byrne Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T22:30:00.000Z",
+        "end": "2021-05-31T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc4",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b00288sr"
+      },
+      "episode": {
+        "id": "b007jp39",
+        "title": "6. Sacrifice"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:00:00.000Z",
+        "end": "2021-05-31T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc5",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b01j5mx8"
+      },
+      "episode": {
+        "id": "b01j5my9",
+        "title": "Steve Backshall and Geraldine Bedell"
+      },
+      "brand": {
+        "title": "A Good Read"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:30:00.000Z",
+        "end": "2021-06-01T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc6",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b005vw3t"
+      },
+      "episode": {
+        "id": "b007jvn1",
+        "title": "5. At Lady Dormer's"
+      },
+      "brand": {
+        "title": "Wimsey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": "2021-06-01T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc7",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b0006hlw"
+      },
+      "episode": {
+        "id": "b0b5t0pp",
+        "title": "6. Who Is 'The Kind Man'?"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:30:00.000Z",
+        "end": "2021-06-01T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrc9",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b07mwlm5"
+      },
+      "episode": {
+        "id": "b07mwqf9",
+        "title": "Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-01T01:00:00.000Z",
+        "end": "2021-06-01T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrcc",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "m000sqr8"
+      },
+      "episode": {
+        "id": "m000sqrb",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Gudrun"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T01:15:00.000Z",
+        "end": "2021-06-01T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjrcg",
+      "service": {
+        "id": "bbc_radio_four_extra"
+      },
+      "version": {
+        "id": "b006ktrq"
+      },
+      "episode": {
+        "id": "b007jxq4",
+        "title": "Paint It Black"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_four_extra"
+      },
+      "published_time": {
+        "start": "2021-06-01T01:30:00.000Z",
+        "end": "2021-06-01T02:00:00.000Z"
+      }
+    }
+  ]
+}

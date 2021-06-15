@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-31T03:26:36.498Z"
+  },
+  "items": [
+    {
+      "id": "p09hjlhv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkjs"
+      },
+      "episode": {
+        "id": "m000wkjt",
+        "title": "Part 12: Andrea Baker"
+      },
+      "brand": {
+        "title": "Sounds Connected"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:00:00.000Z",
+        "end": "2021-05-30T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjlhx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkjv"
+      },
+      "episode": {
+        "id": "m000wkjw",
+        "title": "Sergey Khachatryan plays Shostakovich"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:30:00.000Z",
+        "end": "2021-05-31T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3h",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wky5"
+      },
+      "episode": {
+        "id": "m000wky6",
+        "title": "Monday - Petroc's classical picks"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T05:30:00.000Z",
+        "end": "2021-05-31T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3j",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wky7"
+      },
+      "episode": {
+        "id": "m000wky8",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T08:00:00.000Z",
+        "end": "2021-05-31T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3k",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wky9"
+      },
+      "episode": {
+        "id": "m000wkyb",
+        "title": "The Anti-Pessimist"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T11:00:00.000Z",
+        "end": "2021-05-31T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3l",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyd"
+      },
+      "episode": {
+        "id": "m000wkyf",
+        "title": "Chromatic Renaissance"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T12:00:00.000Z",
+        "end": "2021-05-31T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3m",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyg"
+      },
+      "episode": {
+        "id": "m000wkyh",
+        "title": "Celebrating the Ulster Orchestra and the BBC Concert Orchestra (1/5)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T13:00:00.000Z",
+        "end": "2021-05-31T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3n",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyj"
+      },
+      "episode": {
+        "id": "m000wkyk",
+        "title": "Bach from Oslo"
+      },
+      "brand": {
+        "title": "Early Music Now"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T15:30:00.000Z",
+        "end": "2021-05-31T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3p",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyl"
+      },
+      "episode": {
+        "id": "m000wkym",
+        "title": "Miah Persson, Fontanella, SmorgasChord"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T16:00:00.000Z",
+        "end": "2021-05-31T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3q",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyn"
+      },
+      "episode": {
+        "id": "m000wkyp",
+        "title": "Classical music for your journey"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:00:00.000Z",
+        "end": "2021-05-31T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3r",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyq"
+      },
+      "episode": {
+        "id": "m000wkyr",
+        "title": "National Orchestra of France"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T18:30:00.000Z",
+        "end": "2021-05-31T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3s",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkcx"
+      },
+      "episode": {
+        "id": "m000wkcy",
+        "title": "Music in the Moment"
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:00:00.000Z",
+        "end": "2021-05-31T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3t",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkys"
+      },
+      "episode": {
+        "id": "m000wkyt",
+        "title": "Setting Off"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T21:45:00.000Z",
+        "end": "2021-05-31T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjv3v",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyw"
+      },
+      "episode": {
+        "id": "m000wkyx",
+        "title": "The constant harmony machine"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-31T22:00:00.000Z",
+        "end": "2021-05-31T23:30:00.000Z"
+      }
+    }
+  ]
+}

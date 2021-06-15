@@ -1,0 +1,451 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:38:07.232Z"
+  },
+  "items": [
+    {
+      "id": "p09hh3zz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj0w"
+      },
+      "episode": {
+        "id": "m000wj0x",
+        "title": "MUST DIE! Quest Mix and Grimmy Mixtape"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:00:00.000Z",
+        "end": "2021-06-02T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7qyn",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vn8r"
+      },
+      "episode": {
+        "id": "m000vn8v",
+        "title": "Frank Ocean, Khalid, Lauryn Hill and more"
+      },
+      "brand": {
+        "title": "Radio 1's Chillout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T01:00:00.000Z",
+        "end": "2021-06-02T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh400",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj0y"
+      },
+      "episode": {
+        "id": "m000wj0z",
+        "title": "Harry Potter Vibes!"
+      },
+      "brand": {
+        "title": "Radio 1's Movie Mixtapes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T02:00:00.000Z",
+        "end": "2021-06-02T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh401",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj10"
+      },
+      "episode": {
+        "id": "m000wj11",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T03:00:00.000Z",
+        "end": "2021-06-02T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh402",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj12"
+      },
+      "episode": {
+        "id": "m000wj13",
+        "title": "with Rakeem Omar"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:00:00.000Z",
+        "end": "2021-06-02T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46s",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj14"
+      },
+      "episode": {
+        "id": "m000wj15",
+        "title": "Top Of The Shops"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T06:00:00.000Z",
+        "end": "2021-06-02T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46t",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj16"
+      },
+      "episode": {
+        "id": "m000wj17",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T09:32:00.000Z",
+        "end": "2021-06-02T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46v",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj18"
+      },
+      "episode": {
+        "id": "m000wj19",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T11:45:00.000Z",
+        "end": "2021-06-02T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46w",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1b"
+      },
+      "episode": {
+        "id": "m000wj1c",
+        "title": "Bamboleo"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T12:00:00.000Z",
+        "end": "2021-06-02T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46x",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1d"
+      },
+      "episode": {
+        "id": "m000wj1f",
+        "title": "The People's Postcode Boppery"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T14:32:00.000Z",
+        "end": "2021-06-02T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46y",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1g"
+      },
+      "episode": {
+        "id": "m000wj1h",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:45:00.000Z",
+        "end": "2021-06-02T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh46z",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1j"
+      },
+      "episode": {
+        "id": "m000wj1k",
+        "title": "Jungle Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T17:00:00.000Z",
+        "end": "2021-06-02T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh470",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1l"
+      },
+      "episode": {
+        "id": "m000wj1m",
+        "title": "Fourplay with Bugzy Malone"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T19:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh471",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1n"
+      },
+      "episode": {
+        "id": "m000wj1p",
+        "title": "Jess sits in for Jack"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-02T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh472",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1q"
+      },
+      "episode": {
+        "id": "m000wj1r",
+        "title": "With Poté"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T23:00:00.000Z",
+        "end": "2021-06-03T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh473",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1s"
+      },
+      "episode": {
+        "id": "m000wj1t",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "The Radio 1 Interview"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:00:00.000Z",
+        "end": "2021-06-03T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09cft26",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v8r5"
+      },
+      "episode": {
+        "id": "m000v8r6",
+        "title": "Imagine Dragons' Dan Reynolds"
+      },
+      "brand": {
+        "title": "The YUNGBLUD Podcast"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:15:00.000Z",
+        "end": "2021-06-03T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09d5jf2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vhym"
+      },
+      "episode": {
+        "id": "m000vhyn",
+        "title": "Jess"
+      },
+      "brand": {
+        "title": "The YUNGBLUD Podcast"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:30:00.000Z",
+        "end": "2021-06-03T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh474",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj1v"
+      },
+      "episode": {
+        "id": "m000wj1w",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-03T01:45:00.000Z",
+        "end": "2021-06-03T02:00:00.000Z"
+      }
+    }
+  ]
+}

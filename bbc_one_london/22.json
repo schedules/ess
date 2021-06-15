@@ -1,0 +1,493 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-22T03:18:31.427Z"
+  },
+  "items": [
+    {
+      "id": "p09grtwl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000m2jj"
+      },
+      "episode": {
+        "id": "m000m2jk",
+        "title": "The Witches of Eastwick"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T21:45:00.000Z",
+        "end": "2021-05-21T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09grtwm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w7ph"
+      },
+      "episode": {
+        "id": "m000w7pk",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:40:00.000Z",
+        "end": "2021-05-21T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09grtwn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w7pm"
+      },
+      "episode": {
+        "id": "m000w7q6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:45:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfqc"
+      },
+      "episode": {
+        "id": "m000wfqd",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfqf"
+      },
+      "episode": {
+        "id": "m000wfqg",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Saturday Kitchen"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:00:00.000Z",
+        "end": "2021-05-22T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b092nfph"
+      },
+      "episode": {
+        "id": "b092ng4n",
+        "title": "Episode 6 - Scotland"
+      },
+      "brand": {
+        "title": "Nadiya's British Food Adventure"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T10:30:00.000Z",
+        "end": "2021-05-22T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfqh"
+      },
+      "episode": {
+        "id": "m000wfqk",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Football Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:00:00.000Z",
+        "end": "2021-05-22T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfqm"
+      },
+      "episode": {
+        "id": "m000wfqp",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:00:00.000Z",
+        "end": "2021-05-22T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfqr"
+      },
+      "episode": {
+        "id": "m000wfqt",
+        "title": "Day 6, Part 1"
+      },
+      "brand": {
+        "title": "Swimming: European Championships"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:15:00.000Z",
+        "end": "2021-05-22T13:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0bl1tw5"
+      },
+      "episode": {
+        "id": "b0bl1tw7",
+        "title": "Episode 24 - Episode 24"
+      },
+      "brand": {
+        "title": "Money for Nothing"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:50:00.000Z",
+        "end": "2021-05-22T14:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkp",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b08swzs2"
+      },
+      "episode": {
+        "id": "b08sx01d",
+        "title": "Episode 55 - Suffolk"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:50:00.000Z",
+        "end": "2021-05-22T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfqx"
+      },
+      "episode": {
+        "id": "m000wfr0",
+        "title": "Clapham & Shrewsbury"
+      },
+      "brand": {
+        "title": "Garden Rescue"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:35:00.000Z",
+        "end": "2021-05-22T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfr3"
+      },
+      "episode": {
+        "id": "m000wfr6",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:35:00.000Z",
+        "end": "2021-05-22T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczks",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfsl"
+      },
+      "episode": {
+        "id": "m000wfsp",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:45:00.000Z",
+        "end": "2021-05-22T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000csz1"
+      },
+      "episode": {
+        "id": "m000csz2",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Celebrity Mastermind"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:50:00.000Z",
+        "end": "2021-05-22T17:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfr9"
+      },
+      "episode": {
+        "id": "m000wfrd",
+        "title": "Blue Peter"
+      },
+      "brand": {
+        "title": "Pointless Celebrities"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T17:25:00.000Z",
+        "end": "2021-05-22T18:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hwvrq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wmhh"
+      },
+      "episode": {
+        "id": "m000wfrl",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "I Can See Your Voice"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:10:00.000Z",
+        "end": "2021-05-22T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczkx",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfrp"
+      },
+      "episode": {
+        "id": "m000wfrs",
+        "title": "Grand Final"
+      },
+      "brand": {
+        "title": "Eurovision Song Contest"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T19:00:00.000Z",
+        "end": "2021-05-22T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczky",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfrw"
+      },
+      "episode": {
+        "id": "m000wfrz",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:45:00.000Z",
+        "end": "2021-05-22T23:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczl0",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b006k32m"
+      },
+      "episode": {
+        "id": "b0074gpk",
+        "title": "05/09/2004 - The Ring"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:05:00.000Z",
+        "end": "2021-05-23T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczl1",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfs2"
+      },
+      "episode": {
+        "id": "m000wfs5",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:50:00.000Z",
+        "end": "2021-05-23T00:55:00.000Z"
+      }
+    }
+  ]
+}

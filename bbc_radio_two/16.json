@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:19:50.852Z"
+  },
+  "items": [
+    {
+      "id": "p09g6yq9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gm"
+      },
+      "episode": {
+        "id": "m000w4gn",
+        "title": "Euro Dance"
+      },
+      "brand": {
+        "title": "Ana Matronic's Dance Devotion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:00:00.000Z",
+        "end": "2021-05-16T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yqb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gp"
+      },
+      "episode": {
+        "id": "m000w4gq",
+        "title": "Prince Stories:  An hour of cool Prince covers"
+      },
+      "brand": {
+        "title": "Patrick Kielty's Cover Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T01:00:00.000Z",
+        "end": "2021-05-16T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yqd",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gr"
+      },
+      "episode": {
+        "id": "m000w4gs",
+        "title": "Lorraine Kelly"
+      },
+      "brand": {
+        "title": "Sheridan's Showstoppers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T02:00:00.000Z",
+        "end": "2021-05-16T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yqf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gv"
+      },
+      "episode": {
+        "id": "p02qf1f3",
+        "title": "Pick of the Pops: 50s and 60s Eurovision"
+      },
+      "brand": {
+        "title": "Radio 2 Celebrates Eurovision"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T03:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6yqg",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w4gw"
+      },
+      "episode": {
+        "id": "p02qps6l",
+        "title": "Pick of the Pops: 70s and 80s Eurovision"
+      },
+      "brand": {
+        "title": "Radio 2 Celebrates Eurovision"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pd2",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44b"
+      },
+      "episode": {
+        "id": "m000w44c",
+        "title": "Poorna Bell"
+      },
+      "brand": {
+        "title": "Good Morning Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pd3",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44d"
+      },
+      "episode": {
+        "id": "m000w44f",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Steve Wright's Sunday Love Songs"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T08:00:00.000Z",
+        "end": "2021-05-16T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pd4",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44g"
+      },
+      "episode": {
+        "id": "m000w44h",
+        "title": "Petula Clark, Kim Woodburn and Dr. James Greenwood"
+      },
+      "brand": {
+        "title": "The Michael Ball Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T10:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pd5",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44j"
+      },
+      "episode": {
+        "id": "m000w44k",
+        "title": "Theatre reopening news!"
+      },
+      "brand": {
+        "title": "Elaine Paige on Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pd7",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44l"
+      },
+      "episode": {
+        "id": "m000w44m",
+        "title": "Special Guest: Pauline Black from 2-Tone legends The Selecter"
+      },
+      "brand": {
+        "title": "Sounds of the 70s with Johnnie Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pd9",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44n"
+      },
+      "episode": {
+        "id": "m000w44p",
+        "title": "Triples with a hint of Eurovision"
+      },
+      "brand": {
+        "title": "Paul O'Grady"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:00:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pdb",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "b079m1yj"
+      },
+      "episode": {
+        "id": "b079m21n",
+        "title": "ABBA Spectacular"
+      },
+      "brand": {
+        "title": "Sunday Night is Music Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pdd",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000f5xv"
+      },
+      "episode": {
+        "id": "m000f5xw",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Seth Lakeman's Folk Map of the British Isles"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pdf",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44q"
+      },
+      "episode": {
+        "id": "m000w44r",
+        "title": "Fit Body, Fit Mind with Lawrence Okolie"
+      },
+      "brand": {
+        "title": "Dr Rangan Chatterjee"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-16T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pdg",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44s"
+      },
+      "episode": {
+        "id": "m000w44t",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:00:00.000Z",
+        "end": "2021-05-17T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6pdj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000w44v"
+      },
+      "episode": {
+        "id": "m000w44w",
+        "title": "The Rasmus, Sam & The Womp and Doop"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-05-17T01:30:00.000Z",
+        "end": "2021-05-17T02:00:00.000Z"
+      }
+    }
+  ]
+}

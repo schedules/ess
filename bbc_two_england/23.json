@@ -1,0 +1,537 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-23T03:20:38.999Z"
+  },
+  "items": [
+    {
+      "id": "p09hd2qs",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000nx4l"
+      },
+      "episode": {
+        "id": "m000nx4m",
+        "title": "Loving"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:00:00.000Z",
+        "end": "2021-05-22T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qx",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b01jvbpn"
+      },
+      "episode": {
+        "id": "b01mnxzd",
+        "title": "02/07/2012 - Margin Call"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:55:00.000Z",
+        "end": "2021-05-23T01:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2qy",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:35:00.000Z",
+        "end": "2021-05-23T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sn",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0b11drf"
+      },
+      "episode": {
+        "id": "b0b11dzh",
+        "title": "Episode 10 - Oakham"
+      },
+      "brand": {
+        "title": "Britain in Bloom"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:30:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sp",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w776"
+      },
+      "episode": {
+        "id": "m000w777",
+        "title": "Episode 10"
+      },
+      "brand": {
+        "title": "Gardeners' World"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j4dgj",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wqnc"
+      },
+      "episode": {
+        "id": "m000w72y",
+        "title": "White Peak"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T07:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sr",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w91l"
+      },
+      "episode": {
+        "id": "m000w91m",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Landward"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2ss",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w91j"
+      },
+      "episode": {
+        "id": "m000w91k",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Beechgrove"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:30:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2st",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgyk"
+      },
+      "episode": {
+        "id": "m000wgyl",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Saturday Kitchen Best Bites"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sv",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b070xbqh"
+      },
+      "episode": {
+        "id": "b070xbvq",
+        "title": "Episode 2 - Speedy Cooking"
+      },
+      "brand": {
+        "title": "The Best Dishes Ever"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:30:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w7ft"
+      },
+      "episode": {
+        "id": "m000w7fv",
+        "title": "The Finals: Dessert"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sx",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000w774"
+      },
+      "episode": {
+        "id": "m000w775",
+        "title": "Banquet Special"
+      },
+      "brand": {
+        "title": "Great British Menu"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sy",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgym"
+      },
+      "episode": {
+        "id": "m000wgyn",
+        "title": "Day 7, Part 1"
+      },
+      "brand": {
+        "title": "Swimming: European Championships"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2sz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgyp"
+      },
+      "episode": {
+        "id": "m000wgyq",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Flog It!"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t0",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgyr"
+      },
+      "episode": {
+        "id": "m000wgys",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Final Score"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t1",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0005hlx"
+      },
+      "episode": {
+        "id": "m0005hlz",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Saving Lives at Sea"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:30:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t2",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgyt"
+      },
+      "episode": {
+        "id": "m000wgyv",
+        "title": "Gateshead"
+      },
+      "brand": {
+        "title": "Athletics: IAAF Diamond League"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t3",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgtr"
+      },
+      "episode": {
+        "id": "p09gt3yd",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Gods of Snooker"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t4",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b08nt0xr"
+      },
+      "episode": {
+        "id": "b08nt19b",
+        "title": "23/04/2017 - The Crucible: 40 Golden Snooker Years"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t5",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p09g9gk9"
+      },
+      "episode": {
+        "id": "p09g9gcb",
+        "title": "The Get Back"
+      },
+      "brand": {
+        "title": "Snowfall"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t6",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p09g9hxc"
+      },
+      "episode": {
+        "id": "p09g9hj5",
+        "title": "Say a Little Prayer"
+      },
+      "brand": {
+        "title": "Snowfall"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:45:00.000Z",
+        "end": "2021-05-23T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t7",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgyx"
+      },
+      "episode": {
+        "id": "m000w81p",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:30:00.000Z",
+        "end": "2021-05-24T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd2t8",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wgyy"
+      },
+      "episode": {
+        "id": "m000w7kh",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Holby City"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:30:00.000Z",
+        "end": "2021-05-24T01:10:00.000Z"
+      }
+    }
+  ]
+}

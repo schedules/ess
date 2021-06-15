@@ -1,0 +1,541 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-13T03:25:42.926Z"
+  },
+  "items": [
+    {
+      "id": "p09kc8pk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x343"
+      },
+      "episode": {
+        "id": "m000x349",
+        "title": "Replay: Wales v Switzerland"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:15:00.000Z",
+        "end": "2021-06-13T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8pm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x34w"
+      },
+      "episode": {
+        "id": "m000x352",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:20:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8m2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2xq"
+      },
+      "episode": {
+        "id": "m000x2xt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8m3",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2xw"
+      },
+      "episode": {
+        "id": "m000x2xy",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "The Andrew Marr Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:00:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8m4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2y0"
+      },
+      "episode": {
+        "id": "m000x2y2",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Politics London"
+      },
+      "masterbrand": {
+        "id": "bbc_one_london"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8m6",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2y4"
+      },
+      "episode": {
+        "id": "m000x2y6",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Sunday Morning Live"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:30:00.000Z",
+        "end": "2021-06-13T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8m7",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m0004hq5"
+      },
+      "episode": {
+        "id": "m0004b6f",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Pilgrimage"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T10:30:00.000Z",
+        "end": "2021-06-13T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8m8",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2yb"
+      },
+      "episode": {
+        "id": "m000x2yd",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Points of View"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T11:30:00.000Z",
+        "end": "2021-06-13T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mb",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2yh"
+      },
+      "episode": {
+        "id": "m000x2yk",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T11:45:00.000Z",
+        "end": "2021-06-13T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mc",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2ym"
+      },
+      "episode": {
+        "id": "m000x2yn",
+        "title": "England v Croatia"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:00:00.000Z",
+        "end": "2021-06-13T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8md",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p09jfv60"
+      },
+      "episode": {
+        "id": "p09j7xp2",
+        "title": "Moments of Euro '96"
+      },
+      "brand": {
+        "title": "Match of the Day Top 10"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-13T15:30:00.000Z",
+        "end": "2021-06-13T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000csnh"
+      },
+      "episode": {
+        "id": "m000csnj",
+        "title": "Paddington 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:00:00.000Z",
+        "end": "2021-06-13T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2yq"
+      },
+      "episode": {
+        "id": "m000x2ys",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:35:00.000Z",
+        "end": "2021-06-13T17:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2yv"
+      },
+      "episode": {
+        "id": "m000x2yw",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:50:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2yx"
+      },
+      "episode": {
+        "id": "m000x2yz",
+        "title": "County Down"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8ml",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m0008s96"
+      },
+      "episode": {
+        "id": "m0008s9b",
+        "title": "V&A Dundee 1"
+      },
+      "brand": {
+        "title": "Antiques Roadshow"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T19:00:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kwdq2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x88g"
+      },
+      "episode": {
+        "id": "p09fs2x6",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mp",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2z1"
+      },
+      "episode": {
+        "id": "m000x2z3",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-13T21:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2z5"
+      },
+      "episode": {
+        "id": "m000x2z7",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:20:00.000Z",
+        "end": "2021-06-13T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2z9"
+      },
+      "episode": {
+        "id": "m000x2zc",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Crouchy's Year-Late Euros: Live"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:30:00.000Z",
+        "end": "2021-06-13T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2zf"
+      },
+      "episode": {
+        "id": "m000x2zh",
+        "title": "Highlights: England v Croatia, Austria v North Macedonia, Netherland v Ukraine"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:15:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8my",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2zk"
+      },
+      "episode": {
+        "id": "m000x2zm",
+        "title": "Replay: England v Croatia"
+      },
+      "brand": {
+        "title": "Euro 2020"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T00:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc8mz",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000x2zp"
+      },
+      "episode": {
+        "id": "m000x2zr",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:40:00.000Z",
+        "end": "2021-06-14T00:45:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:23:02.524Z"
+  },
+  "items": [
+    {
+      "id": "p09gw5rr",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbqq"
+      },
+      "episode": {
+        "id": "m000wbqr",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Billy Sloan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw5rs",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbqt"
+      },
+      "episode": {
+        "id": "m000wbqx",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "As BBC Local Radio and BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64r",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbmq"
+      },
+      "episode": {
+        "id": "m000wbmr",
+        "title": "Scottish Explorer Alice Morrison with Adventures in Africa"
+      },
+      "brand": {
+        "title": "Scotland Outdoors"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64s",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbms"
+      },
+      "episode": {
+        "id": "m000wbmt",
+        "title": "Advice for Young People"
+      },
+      "brand": {
+        "title": "Clever About Cash"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:30:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64t",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbmv"
+      },
+      "episode": {
+        "id": "m000wbmw",
+        "title": "Off Grid Adventures and the Hedgehog Hospital"
+      },
+      "brand": {
+        "title": "Our Lives with Michelle McManus"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64v",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbmx"
+      },
+      "episode": {
+        "id": "m000lmhn",
+        "title": "09/08/2020"
+      },
+      "brand": {
+        "title": "New Every Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:30:00.000Z",
+        "end": "2021-05-23T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64x",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbmy"
+      },
+      "episode": {
+        "id": "m000wbmz",
+        "title": "with Cathy Macdonald"
+      },
+      "brand": {
+        "title": "Sunday Morning"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T07:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64y",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbn0"
+      },
+      "episode": {
+        "id": "m000wbn1",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The Sunday Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw64z",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbn2"
+      },
+      "episode": {
+        "id": "m000wbn3",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Off the Ball"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw650",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbn4"
+      },
+      "episode": {
+        "id": "m000wbn5",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Sportsound"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw651",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbn6"
+      },
+      "episode": {
+        "id": "m000wbn7",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Your Requests with Gary Innes"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw653",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbn8"
+      },
+      "episode": {
+        "id": "m000wbn9",
+        "title": "Birdland : New Releases & Listeners Requests"
+      },
+      "brand": {
+        "title": "Jazz Nights"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw654",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbnb"
+      },
+      "episode": {
+        "id": "m000wbnc",
+        "title": "Great Musical Lives"
+      },
+      "brand": {
+        "title": "Classics Unwrapped"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw655",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wbnd"
+      },
+      "episode": {
+        "id": "m000wbnf",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Iain Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    }
+  ]
+}

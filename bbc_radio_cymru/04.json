@@ -1,0 +1,267 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_cymru"
+  },
+  "service": {
+    "id": "bbc_radio_cymru",
+    "name": "BBC Radio Cymru",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:33:04.861Z"
+  },
+  "items": [
+    {
+      "id": "p09hkcnq",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wldx"
+      },
+      "episode": {
+        "id": "m000wldy",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Gweler BBC World Service"
+      },
+      "masterbrand": {
+        "id": "bbc_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-03T23:00:00.000Z",
+        "end": "2021-06-04T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hkcnr",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wldz"
+      },
+      "episode": {
+        "id": "m000wlf0",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "John Hardy"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:30:00.000Z",
+        "end": "2021-06-04T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6l",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm45"
+      },
+      "episode": {
+        "id": "m000wm46",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dros Frecwast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T06:00:00.000Z",
+        "end": "2021-06-04T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6m",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm47"
+      },
+      "episode": {
+        "id": "m000wm48",
+        "title": "Shelley a Rhydian yn cyflwyno"
+      },
+      "brand": {
+        "title": "Trystan ac Emma"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T08:00:00.000Z",
+        "end": "2021-06-04T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6n",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm10"
+      },
+      "episode": {
+        "id": "m000wm11",
+        "title": "Hanna Hopwood Griffiths yn cyflwyno"
+      },
+      "brand": {
+        "title": "Bore Cothi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T10:00:00.000Z",
+        "end": "2021-06-04T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6p",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm12"
+      },
+      "episode": {
+        "id": "m000wm13",
+        "title": "Iolo ap Dafydd"
+      },
+      "brand": {
+        "title": "Dros Ginio"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T11:30:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6q",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm14"
+      },
+      "episode": {
+        "id": "m000wm15",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Eisteddfod T"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6r",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm16"
+      },
+      "episode": {
+        "id": "m000wm17",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Post Prynhawn"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T16:00:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6s",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm18"
+      },
+      "episode": {
+        "id": "m000wm19",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Lauren Moore"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6t",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm1b"
+      },
+      "episode": {
+        "id": "m000wm1c",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Penwythnos Geth a Ger"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T19:00:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb6v",
+      "service": {
+        "id": "bbc_radio_cymru"
+      },
+      "version": {
+        "id": "m000wm1d"
+      },
+      "episode": {
+        "id": "m000wm1f",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Nos Wener Ffion Emyr"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_cymru"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-04T23:00:00.000Z"
+      }
+    }
+  ]
+}

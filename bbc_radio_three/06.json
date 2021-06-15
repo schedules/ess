@@ -1,0 +1,403 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:32:46.552Z"
+  },
+  "items": [
+    {
+      "id": "p09j5pt5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryv"
+      },
+      "episode": {
+        "id": "m000wryw",
+        "title": "Surprising Solos"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5pt6",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wryx"
+      },
+      "episode": {
+        "id": "m000wryy",
+        "title": "Swedish National Day"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608q",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsl0"
+      },
+      "episode": {
+        "id": "m000wsl1",
+        "title": "Sunday - Martin Handley"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T06:00:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608r",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsl2"
+      },
+      "episode": {
+        "id": "m000wsl3",
+        "title": "Sarah Walker with guest Marie-Louise Muir"
+      },
+      "brand": {
+        "title": "Sunday Morning"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608s",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsl4"
+      },
+      "episode": {
+        "id": "m000wsl5",
+        "title": "Anya Hurlbert"
+      },
+      "brand": {
+        "title": "Private Passions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T11:00:00.000Z",
+        "end": "2021-06-06T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608t",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkyd"
+      },
+      "episode": {
+        "id": "m000wkyf",
+        "title": "Chromatic Renaissance"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:00:00.000Z",
+        "end": "2021-06-06T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608v",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsl6"
+      },
+      "episode": {
+        "id": "m000wsl7",
+        "title": "Albinoni"
+      },
+      "brand": {
+        "title": "The Early Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T13:00:00.000Z",
+        "end": "2021-06-06T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608w",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl68"
+      },
+      "episode": {
+        "id": "m000wl69",
+        "title": "St Davids Cathedral"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T14:00:00.000Z",
+        "end": "2021-06-06T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608x",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsl8"
+      },
+      "episode": {
+        "id": "m000wsl9",
+        "title": "Your Favourite Things"
+      },
+      "brand": {
+        "title": "Jazz Record Requests"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T15:00:00.000Z",
+        "end": "2021-06-06T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jsr0x",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "b09rz2hk"
+      },
+      "episode": {
+        "id": "b09rz2pq",
+        "title": "Debussy the Impressionist?"
+      },
+      "brand": {
+        "title": "The Listening Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:00:00.000Z",
+        "end": "2021-06-06T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j608z",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsld"
+      },
+      "episode": {
+        "id": "m000wslf",
+        "title": "Bees"
+      },
+      "brand": {
+        "title": "Words and Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:30:00.000Z",
+        "end": "2021-06-06T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6090",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wslg"
+      },
+      "episode": {
+        "id": "m000wslh",
+        "title": "The Nightingales of Berlin"
+      },
+      "brand": {
+        "title": "Between the Ears"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:45:00.000Z",
+        "end": "2021-06-06T18:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6091",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wslj"
+      },
+      "episode": {
+        "id": "m000wslk",
+        "title": "Archives in the Culture Wars"
+      },
+      "brand": {
+        "title": "Sunday Feature"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:15:00.000Z",
+        "end": "2021-06-06T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6092",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsll"
+      },
+      "episode": {
+        "id": "m000wslm",
+        "title": "Terminal 3"
+      },
+      "brand": {
+        "title": "Drama on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:30:00.000Z",
+        "end": "2021-06-06T19:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6094",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsln"
+      },
+      "episode": {
+        "id": "m000wslp",
+        "title": "Sibelius's Violin Concerto"
+      },
+      "brand": {
+        "title": "Record Review Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T19:50:00.000Z",
+        "end": "2021-06-06T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6095",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000p6d9"
+      },
+      "episode": {
+        "id": "m000p6db",
+        "title": "Zichy, Wittgenstein and Me"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:00:00.000Z",
+        "end": "2021-06-06T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6096",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wslq"
+      },
+      "episode": {
+        "id": "m000wslr",
+        "title": "Nemone"
+      },
+      "brand": {
+        "title": "Classical Fix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:00:00.000Z",
+        "end": "2021-06-06T23:30:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:30:20.137Z"
+  },
+  "items": [
+    {
+      "id": "p09j65wp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsry"
+      },
+      "episode": {
+        "id": "m000wsrz",
+        "title": "With Skiifall"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:00:00.000Z",
+        "end": "2021-06-10T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jxw8m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000x16n"
+      },
+      "episode": {
+        "id": "p09jp6wx",
+        "title": "Rebecca"
+      },
+      "brand": {
+        "title": "The YUNGBLUD Podcast"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:00:00.000Z",
+        "end": "2021-06-10T01:14:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65ws",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst7"
+      },
+      "episode": {
+        "id": "m000wst8",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Radio 1 Interview"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:00:00.000Z",
+        "end": "2021-06-10T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbdgb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "p09jp57z"
+      },
+      "episode": {
+        "id": "m000x16q",
+        "title": "Jacob"
+      },
+      "brand": {
+        "title": "The YUNGBLUD Podcast"
+      },
+      "masterbrand": {
+        "id": "bbc_sounds_podcasts"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:14:00.000Z",
+        "end": "2021-06-10T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kzcnj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v14m"
+      },
+      "episode": {
+        "id": "m000v14p",
+        "title": "Joe Lycett Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:30:00.000Z",
+        "end": "2021-06-10T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65ww",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wst9"
+      },
+      "episode": {
+        "id": "m000wstb",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:45:00.000Z",
+        "end": "2021-06-10T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65wy",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstc"
+      },
+      "episode": {
+        "id": "m000wstd",
+        "title": "Listen to an hour of MASSIVE festival anthems from Beyonce, The Killers, Coldplay and more"
+      },
+      "brand": {
+        "title": "Radio 1's Festival Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T02:00:00.000Z",
+        "end": "2021-06-10T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65wz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wstf"
+      },
+      "episode": {
+        "id": "m000wstg",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T03:00:00.000Z",
+        "end": "2021-06-10T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65x0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wsth"
+      },
+      "episode": {
+        "id": "m000wstj",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T04:00:00.000Z",
+        "end": "2021-06-10T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt0n"
+      },
+      "episode": {
+        "id": "m000wt0p",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T06:00:00.000Z",
+        "end": "2021-06-10T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5p",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt0q"
+      },
+      "episode": {
+        "id": "m000wt0r",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T09:32:00.000Z",
+        "end": "2021-06-10T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5q",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt0s"
+      },
+      "episode": {
+        "id": "m000wt0t",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T11:45:00.000Z",
+        "end": "2021-06-10T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5r",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt0v"
+      },
+      "episode": {
+        "id": "m000wt0w",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T12:00:00.000Z",
+        "end": "2021-06-10T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5s",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt0x"
+      },
+      "episode": {
+        "id": "m000wt0y",
+        "title": "Holly Humberstone"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T14:32:00.000Z",
+        "end": "2021-06-10T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5y",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt0z"
+      },
+      "episode": {
+        "id": "m000wt10",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T16:45:00.000Z",
+        "end": "2021-06-10T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k5z",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt11"
+      },
+      "episode": {
+        "id": "m000wt12",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T17:00:00.000Z",
+        "end": "2021-06-10T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k61",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt13"
+      },
+      "episode": {
+        "id": "m000wt14",
+        "title": "Night Time Requests"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T19:00:00.000Z",
+        "end": "2021-06-10T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k62",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt15"
+      },
+      "episode": {
+        "id": "m000wt16",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Club Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T20:30:00.000Z",
+        "end": "2021-06-10T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k63",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt17"
+      },
+      "episode": {
+        "id": "m000wt18",
+        "title": "Nels sits in for Jack"
+      },
+      "brand": {
+        "title": "Radio 1's Indie Show with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T21:00:00.000Z",
+        "end": "2021-06-10T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk9kj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wlmr"
+      },
+      "episode": {
+        "id": "m000wlms",
+        "title": "MPH Guest Mix + Master KG First Play"
+      },
+      "brand": {
+        "title": "Radio 1's Soundsystem with Jeremiah Asiamah"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:00:00.000Z",
+        "end": "2021-06-11T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k65",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wt1c"
+      },
+      "episode": {
+        "id": "m000wt1d",
+        "title": "Kleu Guest Mix!"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:00:00.000Z",
+        "end": "2021-06-11T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6k66",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000vyrw"
+      },
+      "episode": {
+        "id": "m000vyrx",
+        "title": "Turno!"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T01:30:00.000Z",
+        "end": "2021-06-11T02:00:00.000Z"
+      }
+    }
+  ]
+}

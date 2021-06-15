@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_london"
+  },
+  "service": {
+    "id": "bbc_london",
+    "name": "BBC Radio London",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:28:09.509Z"
+  },
+  "items": [
+    {
+      "id": "p09hgfg2",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hgffm"
+      },
+      "episode": {
+        "id": "p09hgff2",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "LionHeart"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-02T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggd4",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggd1"
+      },
+      "episode": {
+        "id": "p09hggcy",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:00:00.000Z",
+        "end": "2021-06-02T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggd9",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggd7"
+      },
+      "episode": {
+        "id": "p09hggd5",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T04:00:00.000Z",
+        "end": "2021-06-02T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggdg",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggdd"
+      },
+      "episode": {
+        "id": "p09hggdb",
+        "title": "Petrie Hosken sits in (02/06/2021)"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T06:00:00.000Z",
+        "end": "2021-06-02T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggdq",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggdk"
+      },
+      "episode": {
+        "id": "p09hggdh",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Robert Elms"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T09:00:00.000Z",
+        "end": "2021-06-02T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggf0",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggdv"
+      },
+      "episode": {
+        "id": "p09hggds",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Jo Good"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T12:30:00.000Z",
+        "end": "2021-06-02T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggfn",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggfd"
+      },
+      "episode": {
+        "id": "p09hggf7",
+        "title": "Salma El-Wardany sits in (02/06/2021)"
+      },
+      "brand": {
+        "title": "Eddie Nestor"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:00:00.000Z",
+        "end": "2021-06-02T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggfy",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggfw"
+      },
+      "episode": {
+        "id": "p09hggft",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "The Scene with Jacqueline Shepherd"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T19:00:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hggg9",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09hggg4"
+      },
+      "episode": {
+        "id": "p09hggfz",
+        "title": "LionHeart sits in (02/06/2021)"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-03T00:00:00.000Z"
+      }
+    }
+  ]
+}

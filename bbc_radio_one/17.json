@@ -1,0 +1,474 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-17T03:26:56.989Z"
+  },
+  "items": [
+    {
+      "id": "p09g6spd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w467"
+      },
+      "episode": {
+        "id": "m000w468",
+        "title": "On The Spot with Kerrie Cosh"
+      },
+      "brand": {
+        "title": "BBC Introducing on Radio 1"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:00:00.000Z",
+        "end": "2021-05-16T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6spf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w469"
+      },
+      "episode": {
+        "id": "m000w46b",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "BBC Introducing Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:30:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6spg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w38r"
+      },
+      "episode": {
+        "id": "m000w38s",
+        "title": "Carl Cox - Techno and Electro special"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:00:00.000Z",
+        "end": "2021-05-17T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6sph",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w38t"
+      },
+      "episode": {
+        "id": "m000w38v",
+        "title": "Carista"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T01:00:00.000Z",
+        "end": "2021-05-17T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6spj",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w46c"
+      },
+      "episode": {
+        "id": "m000w46d",
+        "title": "Sofia Kourtesis Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T02:00:00.000Z",
+        "end": "2021-05-17T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6spk",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000rd5h"
+      },
+      "episode": {
+        "id": "m000rd5j",
+        "title": "Amelia Dimoldenberg"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T02:30:00.000Z",
+        "end": "2021-05-17T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6spl",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3f9"
+      },
+      "episode": {
+        "id": "m000w3fb",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T03:00:00.000Z",
+        "end": "2021-05-17T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6spm",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w46f"
+      },
+      "episode": {
+        "id": "m000w46g",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:00:00.000Z",
+        "end": "2021-05-17T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73gx",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3fm"
+      },
+      "episode": {
+        "id": "m000w3fn",
+        "title": "Matt and Mollie sit in for Greg"
+      },
+      "brand": {
+        "title": "Matt and Mollie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T06:00:00.000Z",
+        "end": "2021-05-17T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73gz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3fp"
+      },
+      "episode": {
+        "id": "m000w3fq",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T09:32:00.000Z",
+        "end": "2021-05-17T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3fr"
+      },
+      "episode": {
+        "id": "m000w3fs",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T11:45:00.000Z",
+        "end": "2021-05-17T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h1",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3ft"
+      },
+      "episode": {
+        "id": "m000w3fv",
+        "title": "Vick and Katie are in for Scott and Chris"
+      },
+      "brand": {
+        "title": "Vick Hope and Katie Thistleton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T12:00:00.000Z",
+        "end": "2021-05-17T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3fx"
+      },
+      "episode": {
+        "id": "m000w3fy",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T14:32:00.000Z",
+        "end": "2021-05-17T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3fz"
+      },
+      "episode": {
+        "id": "m000w3g0",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:45:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3g1"
+      },
+      "episode": {
+        "id": "m000w3g2",
+        "title": "Billie Marten Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3g3"
+      },
+      "episode": {
+        "id": "m000w3g4",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Power Down Playlist with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:00:00.000Z",
+        "end": "2021-05-17T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3g5"
+      },
+      "episode": {
+        "id": "m000w3g7",
+        "title": "Out Of Sight, Out Of Mind"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T19:00:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73h9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3g9"
+      },
+      "episode": {
+        "id": "m000w3gc",
+        "title": "beabadoobee Future Artists Mixtape"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-17T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73hb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w37f"
+      },
+      "episode": {
+        "id": "m000w37h",
+        "title": "'Response' in the DNB Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:00:00.000Z",
+        "end": "2021-05-18T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyfs8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v0zk"
+      },
+      "episode": {
+        "id": "m000v0zl",
+        "title": "Stop stressing"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:00:00.000Z",
+        "end": "2021-05-18T02:00:00.000Z"
+      }
+    }
+  ]
+}

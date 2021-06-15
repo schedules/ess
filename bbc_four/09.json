@@ -1,0 +1,410 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-09T03:33:59.650Z"
+  },
+  "items": [
+    {
+      "id": "p09jnqc9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01452jn"
+      },
+      "episode": {
+        "id": "b01452jz",
+        "title": "Episode 3 - Voices of the Sea"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T22:55:00.000Z",
+        "end": "2021-06-08T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqcb",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvng"
+      },
+      "episode": {
+        "id": "m000wvnh",
+        "title": "Grey Mountain"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:55:00.000Z",
+        "end": "2021-06-09T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqcc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00mwx8r"
+      },
+      "episode": {
+        "id": "b00mwx9d",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:25:00.000Z",
+        "end": "2021-06-09T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqch",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w172"
+      },
+      "episode": {
+        "id": "m000w173",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:55:00.000Z",
+        "end": "2021-06-09T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqck",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04688n4"
+      },
+      "episode": {
+        "id": "b0426kjz",
+        "title": "Episode 3 - Green Imagined Land"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T01:25:00.000Z",
+        "end": "2021-06-09T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqcm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T02:25:00.000Z",
+        "end": "2021-06-09T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqcp",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T04:30:00.000Z",
+        "end": "2021-06-09T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:58:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvnm"
+      },
+      "episode": {
+        "id": "m000wvnn",
+        "title": "Curtain-Up on Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9s",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvnp"
+      },
+      "episode": {
+        "id": "m000wvnq",
+        "title": "Wayside Pond"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:30:00.000Z",
+        "end": "2021-06-09T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9t",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07w16bt"
+      },
+      "episode": {
+        "id": "b07w196d",
+        "title": "Episode 5 - London Skies"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T19:00:00.000Z",
+        "end": "2021-06-09T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvm2"
+      },
+      "episode": {
+        "id": "m000wvm3",
+        "title": "Coventry Cathedral: Building for a New Britain"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T20:00:00.000Z",
+        "end": "2021-06-09T21:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000b8nh"
+      },
+      "episode": {
+        "id": "m000b8nj",
+        "title": "Everything Is Connected - George Eliot's Life"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:15:00.000Z",
+        "end": "2021-06-09T22:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvlb"
+      },
+      "episode": {
+        "id": "m000wvlc",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:15:00.000Z",
+        "end": "2021-06-09T23:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08h9973"
+      },
+      "episode": {
+        "id": "b08h99sb",
+        "title": "08/03/2017 - The Man Who Shot Tutankhamun"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-09T23:15:00.000Z",
+        "end": "2021-06-10T00:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq9z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvnp"
+      },
+      "episode": {
+        "id": "m000wvnq",
+        "title": "Wayside Pond"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:15:00.000Z",
+        "end": "2021-06-10T00:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqb0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvnm"
+      },
+      "episode": {
+        "id": "m000wvnn",
+        "title": "Curtain-Up on Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:45:00.000Z",
+        "end": "2021-06-10T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqb1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvnr"
+      },
+      "episode": {
+        "id": "m000wvm3",
+        "title": "Coventry Cathedral: Building for a New Britain"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-10T01:15:00.000Z",
+        "end": "2021-06-10T02:30:00.000Z"
+      }
+    }
+  ]
+}

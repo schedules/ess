@@ -1,0 +1,347 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-23T03:20:39.076Z"
+  },
+  "items": [
+    {
+      "id": "p09hc4rd",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00z1xxp"
+      },
+      "episode": {
+        "id": "b00z1yqx",
+        "title": "Episode 11 - Episode 11"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:30:00.000Z",
+        "end": "2021-05-22T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4rg",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00z1xz5"
+      },
+      "episode": {
+        "id": "b00z1yqz",
+        "title": "Episode 12 - Episode 12"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:30:00.000Z",
+        "end": "2021-05-23T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4rk",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00z8tyr"
+      },
+      "episode": {
+        "id": "b00z8v1b",
+        "title": "Episode 13 - Episode 13"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:30:00.000Z",
+        "end": "2021-05-23T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4rn",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0080smw"
+      },
+      "episode": {
+        "id": "b0080sp3",
+        "title": "Episode 3 - Wild East"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:25:00.000Z",
+        "end": "2021-05-23T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4rp",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T02:25:00.000Z",
+        "end": "2021-05-23T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4rr",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T04:30:00.000Z",
+        "end": "2021-05-23T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4t8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:58:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4tb",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b073mrd3"
+      },
+      "episode": {
+        "id": "b073mrky",
+        "title": "18/03/2016 - John Williams at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4td",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08h9c6k"
+      },
+      "episode": {
+        "id": "b08h9ctd",
+        "title": "Episode 2 - Using Sound"
+      },
+      "brand": {
+        "title": "Sound Waves: The Symphony of Physics"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4tf",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfch"
+      },
+      "episode": {
+        "id": "m000wfcj",
+        "title": "Dark Matter: A History of the Afrofuture"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4th",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000lwf0"
+      },
+      "episode": {
+        "id": "m000lwf2",
+        "title": "Ethiopia"
+      },
+      "brand": {
+        "title": "African Renaissance: When Art Meets Power"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4tj",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07yqdv7"
+      },
+      "episode": {
+        "id": "b07yqfkq",
+        "title": "10/10/2016 - The Great Butterfly Adventure: Africa to Britain with the Painted Lady"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4tl",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08h9c6k"
+      },
+      "episode": {
+        "id": "b08h9ctd",
+        "title": "Episode 2 - Using Sound"
+      },
+      "brand": {
+        "title": "Sound Waves: The Symphony of Physics"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:30:00.000Z",
+        "end": "2021-05-24T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4tm",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wfch"
+      },
+      "episode": {
+        "id": "m000wfcj",
+        "title": "Dark Matter: A History of the Afrofuture"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:30:00.000Z",
+        "end": "2021-05-24T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hc4tq",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b073mrd3"
+      },
+      "episode": {
+        "id": "b073mrky",
+        "title": "18/03/2016 - John Williams at the BBC"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:30:00.000Z",
+        "end": "2021-05-24T02:30:00.000Z"
+      }
+    }
+  ]
+}

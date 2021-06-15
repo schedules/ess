@@ -1,0 +1,460 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-08T03:42:01.265Z"
+  },
+  "items": [
+    {
+      "id": "p09jnq8g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07lnktk"
+      },
+      "episode": {
+        "id": "b013wpxz",
+        "title": "Episode 2 - Deep Thinkers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq8j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvl8"
+      },
+      "episode": {
+        "id": "m000wvl9",
+        "title": "Crimson Tide"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T00:00:00.000Z",
+        "end": "2021-06-08T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq8l",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvl7"
+      },
+      "episode": {
+        "id": "b007hzj1",
+        "title": "Episode 5"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-08T00:30:00.000Z",
+        "end": "2021-06-08T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq8m",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b065n9r4"
+      },
+      "episode": {
+        "id": "b01mxxzg",
+        "title": "Episode 1 - Degas and the Little Dancer"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T01:00:00.000Z",
+        "end": "2021-06-08T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq8p",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvld"
+      },
+      "episode": {
+        "id": "m000wvlc",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T02:00:00.000Z",
+        "end": "2021-06-08T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq8r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T03:00:00.000Z",
+        "end": "2021-06-08T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnq8v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T04:30:00.000Z",
+        "end": "2021-06-08T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqbz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T17:58:00.000Z",
+        "end": "2021-06-08T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00mwx8r"
+      },
+      "episode": {
+        "id": "b00mwx9d",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:00:00.000Z",
+        "end": "2021-06-08T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvng"
+      },
+      "episode": {
+        "id": "m000wvnh",
+        "title": "Grey Mountain"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:30:00.000Z",
+        "end": "2021-06-08T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc4",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b000cyjz"
+      },
+      "episode": {
+        "id": "b00784dk",
+        "title": "Episode 5 - The Devil You Know"
+      },
+      "brand": {
+        "title": "Yes, Minister"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T19:00:00.000Z",
+        "end": "2021-06-08T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0004dbk"
+      },
+      "episode": {
+        "id": "b007862s",
+        "title": "Episode 5 - The Summer Hunt Ball"
+      },
+      "brand": {
+        "title": "To the Manor Born"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T19:30:00.000Z",
+        "end": "2021-06-08T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc6",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0426kjp"
+      },
+      "episode": {
+        "id": "b0426kjz",
+        "title": "Episode 3 - Green Imagined Land"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T20:00:00.000Z",
+        "end": "2021-06-08T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvnj"
+      },
+      "episode": {
+        "id": "m000wvm5",
+        "title": "Behaviour"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:00:00.000Z",
+        "end": "2021-06-08T21:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc8",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0bsqn9r"
+      },
+      "episode": {
+        "id": "b08w61hc",
+        "title": "19/06/2017 - Ten Things You Need to Know about the Future"
+      },
+      "brand": {
+        "title": "Horizon"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-08T21:55:00.000Z",
+        "end": "2021-06-08T22:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqc9",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01452jn"
+      },
+      "episode": {
+        "id": "b01452jz",
+        "title": "Episode 3 - Voices of the Sea"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-08T22:55:00.000Z",
+        "end": "2021-06-08T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqcb",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wvng"
+      },
+      "episode": {
+        "id": "m000wvnh",
+        "title": "Grey Mountain"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:55:00.000Z",
+        "end": "2021-06-09T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqcc",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00mwx8r"
+      },
+      "episode": {
+        "id": "b00mwx9d",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:25:00.000Z",
+        "end": "2021-06-09T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqch",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w172"
+      },
+      "episode": {
+        "id": "m000w173",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:55:00.000Z",
+        "end": "2021-06-09T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnqck",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04688n4"
+      },
+      "episode": {
+        "id": "b0426kjz",
+        "title": "Episode 3 - Green Imagined Land"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-09T01:25:00.000Z",
+        "end": "2021-06-09T02:25:00.000Z"
+      }
+    }
+  ]
+}

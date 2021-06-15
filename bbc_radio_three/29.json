@@ -1,0 +1,380 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-29T03:34:09.666Z"
+  },
+  "items": [
+    {
+      "id": "p09h06h2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkn"
+      },
+      "episode": {
+        "id": "m000wdkp",
+        "title": "Joshua Abrams and Phew in session"
+      },
+      "brand": {
+        "title": "Late Junction"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06h3",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdkq"
+      },
+      "episode": {
+        "id": "m000wdkr",
+        "title": "Szymon Nehring performs Chopin"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T00:00:00.000Z",
+        "end": "2021-05-29T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h06h4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wdks"
+      },
+      "episode": {
+        "id": "m000wdkt",
+        "title": "Vol 6: Lose yourself in an hour of piano love songs"
+      },
+      "brand": {
+        "title": "Piano Flow with Lianne La Havas"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T04:00:00.000Z",
+        "end": "2021-05-29T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkcq"
+      },
+      "episode": {
+        "id": "m000wkcr",
+        "title": "Vol 6: Divine harmonies from musical theatre"
+      },
+      "brand": {
+        "title": "Happy Harmonies with Laufey"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T05:00:00.000Z",
+        "end": "2021-05-29T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkcs"
+      },
+      "episode": {
+        "id": "m000wkct",
+        "title": "Saturday - Elizabeth Alker"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T06:00:00.000Z",
+        "end": "2021-05-29T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkcv"
+      },
+      "episode": {
+        "id": "m000wkcw",
+        "title": "Bach's Motets on Building a Library with Simon Heighes and Andrew McGregor"
+      },
+      "brand": {
+        "title": "Record Review"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T08:00:00.000Z",
+        "end": "2021-05-29T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkcx"
+      },
+      "episode": {
+        "id": "m000wkcy",
+        "title": "Music in the Moment"
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T10:45:00.000Z",
+        "end": "2021-05-29T11:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkcz"
+      },
+      "episode": {
+        "id": "m000wkd0",
+        "title": "Jess Gillam with... Anna Tsybuleva"
+      },
+      "brand": {
+        "title": "This Classical Life"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T11:30:00.000Z",
+        "end": "2021-05-29T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkd1"
+      },
+      "episode": {
+        "id": "m000wkd2",
+        "title": "Composer Gavin Higgins with a playlist that packs a musical punch"
+      },
+      "brand": {
+        "title": "Inside Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T12:00:00.000Z",
+        "end": "2021-05-29T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkd3"
+      },
+      "episode": {
+        "id": "m000wkd4",
+        "title": "Joseph Bishara"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T14:00:00.000Z",
+        "end": "2021-05-29T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyq",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkd5"
+      },
+      "episode": {
+        "id": "m000wkd6",
+        "title": "Kathryn Tickell with Toumani Diabate"
+      },
+      "brand": {
+        "title": "Music Planet"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T15:00:00.000Z",
+        "end": "2021-05-29T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyr",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkd7"
+      },
+      "episode": {
+        "id": "m000wkd8",
+        "title": "Shai Maestro"
+      },
+      "brand": {
+        "title": "J to Z"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T16:00:00.000Z",
+        "end": "2021-05-29T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhys",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkd9"
+      },
+      "episode": {
+        "id": "m000wkdb",
+        "title": "Humperdinck’s fairy-tale opera Hansel and Gretel"
+      },
+      "brand": {
+        "title": "Opera on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T17:30:00.000Z",
+        "end": "2021-05-29T19:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyt",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkdc"
+      },
+      "episode": {
+        "id": "m000wkdd",
+        "title": "Scottish Inspirations"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T19:40:00.000Z",
+        "end": "2021-05-29T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyw",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkdf"
+      },
+      "episode": {
+        "id": "m000wkdg",
+        "title": "Where Are You?"
+      },
+      "brand": {
+        "title": "New Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-29T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjhyx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wkdh"
+      },
+      "episode": {
+        "id": "m000wkdj",
+        "title": "The improv scene in South Korea"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    }
+  ]
+}

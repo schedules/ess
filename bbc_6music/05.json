@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:43:33.327Z"
+  },
+  "items": [
+    {
+      "id": "p09k6jfy",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000skbs"
+      },
+      "episode": {
+        "id": "m000skbt",
+        "title": "Beats for working, relaxing or just zoning out"
+      },
+      "brand": {
+        "title": "Focus Beats"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:00:00.000Z",
+        "end": "2021-06-05T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6jfz",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000tg0k"
+      },
+      "episode": {
+        "id": "m000tg0l",
+        "title": "Two hours of mixed ambience chosen by musician William Doyle"
+      },
+      "brand": {
+        "title": "Ambient Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T01:00:00.000Z",
+        "end": "2021-06-05T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6vd4",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000vvrj"
+      },
+      "episode": {
+        "id": "m000vvrk",
+        "title": "Vol. 5: Music I would actually dance to at a party"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T03:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb5y",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wm43"
+      },
+      "episode": {
+        "id": "m000wm44",
+        "title": "Huw Stephens sits in"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528b",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1b"
+      },
+      "episode": {
+        "id": "m000wr1c",
+        "title": "Public Service Broadcasting’s J Willgoose Esq"
+      },
+      "brand": {
+        "title": "Radcliffe and Maconie"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528d",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1d"
+      },
+      "episode": {
+        "id": "m000wr1f",
+        "title": "Latin Funk Block Party"
+      },
+      "brand": {
+        "title": "The Huey Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528f",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1g"
+      },
+      "episode": {
+        "id": "m000wr1h",
+        "title": "Baltimore club music special with TT"
+      },
+      "brand": {
+        "title": "Jamz Supernova on 6"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:00:00.000Z",
+        "end": "2021-06-05T13:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528h",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1j"
+      },
+      "episode": {
+        "id": "m000wr1k",
+        "title": "The Weekend Warm Up Mix"
+      },
+      "brand": {
+        "title": "Jamz Supernova on 6"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T13:32:00.000Z",
+        "end": "2021-06-05T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528j",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1l"
+      },
+      "episode": {
+        "id": "m000wr1m",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Gilles Peterson"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T14:00:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528k",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1n"
+      },
+      "episode": {
+        "id": "m000wr1p",
+        "title": "Terri Walker Trunk of Funk"
+      },
+      "brand": {
+        "title": "The Craig Charles Funk and Soul Show"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528l",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1q"
+      },
+      "episode": {
+        "id": "m000wr1r",
+        "title": "We’ve Got Tonight, Boy"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528m",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1s"
+      },
+      "episode": {
+        "id": "m000wr1t",
+        "title": "Bathhouse Culture"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-05T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528n",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1v"
+      },
+      "episode": {
+        "id": "m000wr1w",
+        "title": "ABSOLUTE. In The Mix"
+      },
+      "brand": {
+        "title": "The Blessed Madonna"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:00:00.000Z",
+        "end": "2021-06-05T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528q",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000t7t7"
+      },
+      "episode": {
+        "id": "m000t7t8",
+        "title": "Caroline Polachek - Episode 1"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j528s",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wr1x"
+      },
+      "episode": {
+        "id": "m000wr1y",
+        "title": "Murlo's Tour of Seoul"
+      },
+      "brand": {
+        "title": "Lose Yourself with..."
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6vph",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000v0p8"
+      },
+      "episode": {
+        "id": "m000v0p9",
+        "title": "Vol. 1: The Music I loved when I was 13"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:00:00.000Z",
+        "end": "2021-06-06T02:00:00.000Z"
+      }
+    }
+  ]
+}

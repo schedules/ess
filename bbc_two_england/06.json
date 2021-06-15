@@ -1,0 +1,510 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-06T03:38:20.295Z"
+  },
+  "items": [
+    {
+      "id": "p09jp8rv",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvxd"
+      },
+      "episode": {
+        "id": "m000wvxg",
+        "title": "Tina Live!"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:30:00.000Z",
+        "end": "2021-06-05T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0bkvw13"
+      },
+      "episode": {
+        "id": "b0bkvw2l",
+        "title": "15/09/2018 - Three Summers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:40:00.000Z",
+        "end": "2021-06-06T01:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8rx",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-06-06T01:20:00.000Z",
+        "end": "2021-06-06T05:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jttd9",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b00s9y9g"
+      },
+      "episode": {
+        "id": "b00s9yk8",
+        "title": "Episode 5 - Flowers and Herbs"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:05:00.000Z",
+        "end": "2021-06-06T05:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sp",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0b221xl"
+      },
+      "episode": {
+        "id": "b0b223m0",
+        "title": "Episode 12 - Stetchford"
+      },
+      "brand": {
+        "title": "Britain in Bloom"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:35:00.000Z",
+        "end": "2021-06-06T06:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sq",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wntw"
+      },
+      "episode": {
+        "id": "m000wntx",
+        "title": "Episode 12"
+      },
+      "brand": {
+        "title": "Gardeners' World"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T06:05:00.000Z",
+        "end": "2021-06-06T07:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sr",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx3"
+      },
+      "episode": {
+        "id": "m000wn8z",
+        "title": "Llŷn Peninsula"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T07:05:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8ss",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wqcy"
+      },
+      "episode": {
+        "id": "m000wqcz",
+        "title": "Episode 8"
+      },
+      "brand": {
+        "title": "Landward"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8st",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wqcw"
+      },
+      "episode": {
+        "id": "m000wqcx",
+        "title": "Episode 10"
+      },
+      "brand": {
+        "title": "Beechgrove"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:30:00.000Z",
+        "end": "2021-06-06T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sv",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx5"
+      },
+      "episode": {
+        "id": "m000wvx7",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Saturday Kitchen Best Bites"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T09:00:00.000Z",
+        "end": "2021-06-06T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b01nd35m"
+      },
+      "episode": {
+        "id": "b01nd36s",
+        "title": "Episode 1 - Making the Most of It"
+      },
+      "brand": {
+        "title": "Nigel Slater's Dish of the Day"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T10:30:00.000Z",
+        "end": "2021-06-06T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jt8x5",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnkm"
+      },
+      "episode": {
+        "id": "m000wnkn",
+        "title": "Lisa and Judy"
+      },
+      "brand": {
+        "title": "Your Home Made Perfect"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T11:00:00.000Z",
+        "end": "2021-06-06T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k6vmw",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x21r"
+      },
+      "episode": {
+        "id": "m000x21s",
+        "title": "Leeds"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:00:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sy",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000pjgh"
+      },
+      "episode": {
+        "id": "m000pjgj",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Cornwall with Simon Reeve"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8sz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvx9"
+      },
+      "episode": {
+        "id": "m000wvxc",
+        "title": "First Test: Day Five Highlights"
+      },
+      "brand": {
+        "title": "Cricket: Today at the Test"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:00:00.000Z",
+        "end": "2021-06-06T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t1",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvxf"
+      },
+      "episode": {
+        "id": "m000wvxh",
+        "title": "Rainforests"
+      },
+      "brand": {
+        "title": "Our Wild Adventures"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T19:00:00.000Z",
+        "end": "2021-06-06T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t2",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wnk2"
+      },
+      "episode": {
+        "id": "m000wnk3",
+        "title": "Aliens: Are We Alone?"
+      },
+      "brand": {
+        "title": "Brian Cox's Adventures in Space and Time"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T20:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t3",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b00xjy6z"
+      },
+      "episode": {
+        "id": "b00xjyfx",
+        "title": "Episode 2 - Greenland"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-06T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t4",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p09gkkqc"
+      },
+      "episode": {
+        "id": "p09gkkdd",
+        "title": "Sleeping Dogs"
+      },
+      "brand": {
+        "title": "Snowfall"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:00:00.000Z",
+        "end": "2021-06-06T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t5",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p09gkm3k"
+      },
+      "episode": {
+        "id": "p09gklxf",
+        "title": "Fight or Flight"
+      },
+      "brand": {
+        "title": "Snowfall"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-06T22:45:00.000Z",
+        "end": "2021-06-06T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t6",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvxj"
+      },
+      "episode": {
+        "id": "m000wp5c",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:30:00.000Z",
+        "end": "2021-06-07T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp8t7",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wvxk"
+      },
+      "episode": {
+        "id": "m000wnxp",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Holby City"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-07T00:30:00.000Z",
+        "end": "2021-06-07T01:10:00.000Z"
+      }
+    }
+  ]
+}

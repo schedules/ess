@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_scotland_fm"
+  },
+  "service": {
+    "id": "bbc_radio_scotland_fm",
+    "name": "BBC Radio Scotland FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:39:12.049Z"
+  },
+  "items": [
+    {
+      "id": "p09j5jxy",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrg6"
+      },
+      "episode": {
+        "id": "m000wrg7",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kby",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrl"
+      },
+      "episode": {
+        "id": "m000wrrm",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Good Morning Scotland"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:00:00.000Z",
+        "end": "2021-06-09T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kbz",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrn"
+      },
+      "episode": {
+        "id": "m000wrrp",
+        "title": "with Kaye Adams"
+      },
+      "brand": {
+        "title": "Mornings"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:00:00.000Z",
+        "end": "2021-06-09T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kc0",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrq"
+      },
+      "episode": {
+        "id": "m000wrrr",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Lunchtime Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:00:00.000Z",
+        "end": "2021-06-09T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kc1",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrs"
+      },
+      "episode": {
+        "id": "m000wrrt",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "The Afternoon Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T12:30:00.000Z",
+        "end": "2021-06-09T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kc2",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrv"
+      },
+      "episode": {
+        "id": "m000wrrw",
+        "title": "with John Beattie"
+      },
+      "brand": {
+        "title": "Drivetime"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T15:00:00.000Z",
+        "end": "2021-06-09T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kc3",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrx"
+      },
+      "episode": {
+        "id": "m000wrry",
+        "title": "Your Requests In Rhyme"
+      },
+      "brand": {
+        "title": "Get it On with Bryan Burnett"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T17:00:00.000Z",
+        "end": "2021-06-09T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kc4",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrrz"
+      },
+      "episode": {
+        "id": "m000wrs0",
+        "title": "Wolf Alice, First Aid Kit & James Vincent McMorrow"
+      },
+      "brand": {
+        "title": "The Quay Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T19:00:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5kc5",
+      "service": {
+        "id": "bbc_radio_scotland_fm"
+      },
+      "version": {
+        "id": "m000wrs1"
+      },
+      "episode": {
+        "id": "m000wrs2",
+        "title": "Rock"
+      },
+      "brand": {
+        "title": "The Simon Neil Experience"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_scotland"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-09T23:00:00.000Z"
+      }
+    }
+  ]
+}

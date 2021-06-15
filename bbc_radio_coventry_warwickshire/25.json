@@ -1,0 +1,198 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_coventry_warwickshire"
+  },
+  "service": {
+    "id": "bbc_radio_coventry_warwickshire",
+    "name": "BBC Coventry & Warwickshire",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-25T03:17:33.637Z"
+  },
+  "items": [
+    {
+      "id": "p09h4kxv",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kxs"
+      },
+      "episode": {
+        "id": "p09h4kxm",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kdv",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09gxh90"
+      },
+      "episode": {
+        "id": "p09gxh8y",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kfd",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09gycb9"
+      },
+      "episode": {
+        "id": "p09gxh95",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-25T04:00:00.000Z",
+        "end": "2021-05-25T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kgb",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kg0"
+      },
+      "episode": {
+        "id": "p09h4kfn",
+        "title": "25/05/2021: CWR Breakfast with Phil Upton"
+      },
+      "brand": {
+        "title": "Breakfast on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-25T05:00:00.000Z",
+        "end": "2021-05-25T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4khn",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kh4"
+      },
+      "episode": {
+        "id": "p09h4kgr",
+        "title": "25/05/2021: Brody Swain"
+      },
+      "brand": {
+        "title": "Mid-morning on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-25T09:00:00.000Z",
+        "end": "2021-05-25T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kjn",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kjg"
+      },
+      "episode": {
+        "id": "p09h4kj0",
+        "title": "25/05/2021: Trish Adudu"
+      },
+      "brand": {
+        "title": "Afternoons on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-25T13:00:00.000Z",
+        "end": "2021-05-25T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kk2",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kjz"
+      },
+      "episode": {
+        "id": "p09h4kjx",
+        "title": "25/05/2021: Lorna Bailey"
+      },
+      "brand": {
+        "title": "Evenings on BBC CWR"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "published_time": {
+        "start": "2021-05-25T17:00:00.000Z",
+        "end": "2021-05-25T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h4kkl",
+      "service": {
+        "id": "bbc_radio_coventry_warwickshire"
+      },
+      "version": {
+        "id": "p09h4kkc"
+      },
+      "episode": {
+        "id": "p09h4kk5",
+        "title": "25/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_wm"
+      },
+      "published_time": {
+        "start": "2021-05-25T21:00:00.000Z",
+        "end": "2021-05-26T00:00:00.000Z"
+      }
+    }
+  ]
+}

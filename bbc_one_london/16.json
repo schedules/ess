@@ -1,0 +1,652 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-16T03:21:00.880Z"
+  },
+  "items": [
+    {
+      "id": "p09gqx0g",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0953w69"
+      },
+      "episode": {
+        "id": "b0953w82",
+        "title": "09/09/2017 - X+Y"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:15:00.000Z",
+        "end": "2021-05-16T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqx0h",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w7j2"
+      },
+      "episode": {
+        "id": "m000w7j3",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T01:00:00.000Z",
+        "end": "2021-05-16T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqx0j",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w7j4"
+      },
+      "episode": {
+        "id": "m000w7j5",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-16T01:05:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzb8",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w728"
+      },
+      "episode": {
+        "id": "m000w729",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T06:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5lg2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w7hy"
+      },
+      "episode": {
+        "id": "m000w72c",
+        "title": "15/05/2021"
+      },
+      "brand": {
+        "title": "Match of the Day"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:35:00.000Z",
+        "end": "2021-05-16T07:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09h5v1b",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w7hz"
+      },
+      "episode": {
+        "id": "m000w72f",
+        "title": "Final Highlights"
+      },
+      "brand": {
+        "title": "The FA Cup"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-05-16T07:35:00.000Z",
+        "end": "2021-05-16T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbc",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72g"
+      },
+      "episode": {
+        "id": "m000w72h",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "The Andrew Marr Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T08:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbf",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w8dp"
+      },
+      "episode": {
+        "id": "m000w8dq",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Politics London"
+      },
+      "masterbrand": {
+        "id": "bbc_one_london"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72l"
+      },
+      "episode": {
+        "id": "m000w72m",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Sunday Morning Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:30:00.000Z",
+        "end": "2021-05-16T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b09xv17z"
+      },
+      "episode": {
+        "id": "b09x0ynf",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Pilgrimage"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-16T10:00:00.000Z",
+        "end": "2021-05-16T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbj",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b09dby92"
+      },
+      "episode": {
+        "id": "b09dby9k",
+        "title": "Episode 6 - Southwell"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T11:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72n"
+      },
+      "episode": {
+        "id": "m000w72p",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72q"
+      },
+      "episode": {
+        "id": "m000w72r",
+        "title": "Exeter"
+      },
+      "brand": {
+        "title": "Songs of Praise"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:15:00.000Z",
+        "end": "2021-05-16T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbm",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72s"
+      },
+      "episode": {
+        "id": "m000w72t",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Points of View"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:50:00.000Z",
+        "end": "2021-05-16T13:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m00052xg"
+      },
+      "episode": {
+        "id": "m00052xh",
+        "title": "Ceredigion"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:05:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000qq4d"
+      },
+      "episode": {
+        "id": "m000qq4g",
+        "title": "Cars 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T15:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbs",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0bt3rqs"
+      },
+      "episode": {
+        "id": "p06mvr1c",
+        "title": "Episode 3 - Lion"
+      },
+      "brand": {
+        "title": "Dynasties"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T15:35:00.000Z",
+        "end": "2021-05-16T16:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72v"
+      },
+      "episode": {
+        "id": "m000w72w",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:35:00.000Z",
+        "end": "2021-05-16T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w8dr"
+      },
+      "episode": {
+        "id": "m000w8ds",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:50:00.000Z",
+        "end": "2021-05-16T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbw",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72x"
+      },
+      "episode": {
+        "id": "m000w72y",
+        "title": "White Peak"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:00:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzbx",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w72z"
+      },
+      "episode": {
+        "id": "m000w730",
+        "title": "Stonor Park 2"
+      },
+      "brand": {
+        "title": "Antiques Roadshow"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzby",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w731"
+      },
+      "episode": {
+        "id": "m000w732",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Call the Midwife"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hd70v",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wh19"
+      },
+      "episode": {
+        "id": "p099q2zf",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "The Pursuit of Love"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzc2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w733"
+      },
+      "episode": {
+        "id": "m000w734",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:00:00.000Z",
+        "end": "2021-05-16T21:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzc4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w8dt"
+      },
+      "episode": {
+        "id": "m000w8dv",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:20:00.000Z",
+        "end": "2021-05-16T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzc5",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w735"
+      },
+      "episode": {
+        "id": "m000w736",
+        "title": "16/05/2021"
+      },
+      "brand": {
+        "title": "Match of the Day 2"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:30:00.000Z",
+        "end": "2021-05-16T22:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzc6",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p08xwfxn"
+      },
+      "episode": {
+        "id": "p08v531s",
+        "title": "Once Were Lions"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:40:00.000Z",
+        "end": "2021-05-16T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gqzc7",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000w737"
+      },
+      "episode": {
+        "id": "m000w738",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:55:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

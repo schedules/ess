@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-10T03:32:38.330Z"
+  },
+  "items": [
+    {
+      "id": "p09j65pt",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wsrw"
+      },
+      "episode": {
+        "id": "m000wsrx",
+        "title": "09/06/2021"
+      },
+      "brand": {
+        "title": "Snoochie Shy"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:00:00.000Z",
+        "end": "2021-06-10T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65pv",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wsry"
+      },
+      "episode": {
+        "id": "m000wsrz",
+        "title": "With Skiifall"
+      },
+      "brand": {
+        "title": "Benji B"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T00:00:00.000Z",
+        "end": "2021-06-10T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65pz",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wss0"
+      },
+      "episode": {
+        "id": "m000wss1",
+        "title": "DBN Gogo in the mix"
+      },
+      "brand": {
+        "title": "Amapiano to AfroHouse"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T02:00:00.000Z",
+        "end": "2021-06-10T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65q1",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wl2v"
+      },
+      "episode": {
+        "id": "m000wl2w",
+        "title": "Sarkodie"
+      },
+      "brand": {
+        "title": "DJ Edu - Destination Africa"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T03:00:00.000Z",
+        "end": "2021-06-10T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxm",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt7r"
+      },
+      "episode": {
+        "id": "m000wt7s",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:00:00.000Z",
+        "end": "2021-06-10T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxn",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wlnx"
+      },
+      "episode": {
+        "id": "m000wlny",
+        "title": "03/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T05:30:00.000Z",
+        "end": "2021-06-10T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxp",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt7t"
+      },
+      "episode": {
+        "id": "m000wt7v",
+        "title": "It's Baby Friday!"
+      },
+      "brand": {
+        "title": "The 1Xtra Breakfast Show with Nadia Jae"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T06:00:00.000Z",
+        "end": "2021-06-10T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxq",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt7w"
+      },
+      "episode": {
+        "id": "m000wt7x",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T09:00:00.000Z",
+        "end": "2021-06-10T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxr",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt0s"
+      },
+      "episode": {
+        "id": "m000wt0t",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T11:45:00.000Z",
+        "end": "2021-06-10T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxs",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt7y"
+      },
+      "episode": {
+        "id": "m000wt7z",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Yasmin Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T12:00:00.000Z",
+        "end": "2021-06-10T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxt",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt80"
+      },
+      "episode": {
+        "id": "m000wt81",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Reece Parkinson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T15:00:00.000Z",
+        "end": "2021-06-10T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxv",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt0z"
+      },
+      "episode": {
+        "id": "m000wt10",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-10T16:45:00.000Z",
+        "end": "2021-06-10T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxw",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt82"
+      },
+      "episode": {
+        "id": "m000wt83",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Reece Parkinson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T17:00:00.000Z",
+        "end": "2021-06-10T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxy",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt84"
+      },
+      "episode": {
+        "id": "m000wt85",
+        "title": "Unknown T Embargo"
+      },
+      "brand": {
+        "title": "DJ Target"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T18:00:00.000Z",
+        "end": "2021-06-10T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jxz",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt86"
+      },
+      "episode": {
+        "id": "m000wt87",
+        "title": "100% Vinyl Mix"
+      },
+      "brand": {
+        "title": "Seani B"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T20:00:00.000Z",
+        "end": "2021-06-10T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jy0",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt88"
+      },
+      "episode": {
+        "id": "m000wt89",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Snoochie Shy"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T22:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hkdrx",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wlmr"
+      },
+      "episode": {
+        "id": "m000wlms",
+        "title": "MPH Guest Mix + Master KG First Play"
+      },
+      "brand": {
+        "title": "Radio 1's Soundsystem with Jeremiah Asiamah"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-07T03:35:48.593Z"
+  },
+  "items": [
+    {
+      "id": "p09j6097",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsls"
+      },
+      "episode": {
+        "id": "m000wslt",
+        "title": "Britten and Shostakovich from Geneva"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-06T23:30:00.000Z",
+        "end": "2021-06-07T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmk"
+      },
+      "episode": {
+        "id": "m000wsml",
+        "title": "Monday - Petroc's classical alarm call"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T05:30:00.000Z",
+        "end": "2021-06-07T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmm"
+      },
+      "episode": {
+        "id": "m000wsmn",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T08:00:00.000Z",
+        "end": "2021-06-07T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0006zh0"
+      },
+      "episode": {
+        "id": "m0006zh1",
+        "title": "Portraits of a Man, Pictures of a City"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T11:00:00.000Z",
+        "end": "2021-06-07T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60ph",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmp"
+      },
+      "episode": {
+        "id": "m000wsmq",
+        "title": "Sophie Bevan sings Berlioz and Debussy"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T12:00:00.000Z",
+        "end": "2021-06-07T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmr"
+      },
+      "episode": {
+        "id": "m000wsms",
+        "title": "German Ensembles (1/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T13:00:00.000Z",
+        "end": "2021-06-07T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmt"
+      },
+      "episode": {
+        "id": "m000wsmv",
+        "title": "Netherlands Bach Society in Stuttgart"
+      },
+      "brand": {
+        "title": "Early Music Now"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T15:30:00.000Z",
+        "end": "2021-06-07T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmw"
+      },
+      "episode": {
+        "id": "m000wsmx",
+        "title": "Nadine Benjamin and Nicole Panizza, Thomas Adès"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T16:00:00.000Z",
+        "end": "2021-06-07T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0002865"
+      },
+      "episode": {
+        "id": "m0002866",
+        "title": "The eclectic classical mix"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T18:00:00.000Z",
+        "end": "2021-06-07T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsmy"
+      },
+      "episode": {
+        "id": "m000wsmz",
+        "title": "Berlin Philharmonic"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T18:30:00.000Z",
+        "end": "2021-06-07T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pr",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wry8"
+      },
+      "episode": {
+        "id": "m000wry9",
+        "title": "Yo-Yo Ma and Emanuel Ax"
+      },
+      "brand": {
+        "title": "Music Matters"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:00:00.000Z",
+        "end": "2021-06-07T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60ps",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0006m1t"
+      },
+      "episode": {
+        "id": "m0006m1w",
+        "title": "Glasgow School of Art"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T21:45:00.000Z",
+        "end": "2021-06-07T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60pv",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wsn0"
+      },
+      "episode": {
+        "id": "m000wsn1",
+        "title": "Soundtrack for night"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-07T22:00:00.000Z",
+        "end": "2021-06-07T23:30:00.000Z"
+      }
+    }
+  ]
+}

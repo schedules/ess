@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-30T03:21:53.123Z"
+  },
+  "items": [
+    {
+      "id": "p09hxmyc",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09ht81x"
+      },
+      "episode": {
+        "id": "p09ht81s",
+        "title": "29/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-29T21:00:00.000Z",
+        "end": "2021-05-30T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmyg",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hgdhz"
+      },
+      "episode": {
+        "id": "p09hgdhs",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:00:00.000Z",
+        "end": "2021-05-30T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmyn",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hgdjc"
+      },
+      "episode": {
+        "id": "p09hgdj6",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmyy",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxmys"
+      },
+      "episode": {
+        "id": "p09hxmyp",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Adam Tomlinson"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxmzy",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxmzj"
+      },
+      "episode": {
+        "id": "p09hxmz8",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Sarah Urwin"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn0b",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn08"
+      },
+      "episode": {
+        "id": "p09hxn06",
+        "title": "Bradford Bulls v York City Knights"
+      },
+      "brand": {
+        "title": "BBC Radio York Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:00:00.000Z",
+        "end": "2021-05-30T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jn6wj",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jn6wg"
+      },
+      "episode": {
+        "id": "p09jn6wd",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Liz Green"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_leeds"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:00:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn0p",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09ht93s"
+      },
+      "episode": {
+        "id": "p09ht93g",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Neil Foster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn14",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09ht94b"
+      },
+      "episode": {
+        "id": "p09ht943",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Steve White"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z"
+      }
+    }
+  ]
+}

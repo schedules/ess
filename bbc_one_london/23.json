@@ -1,0 +1,608 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-23T03:32:16.748Z"
+  },
+  "items": [
+    {
+      "id": "p09hczl0",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b006k32m"
+      },
+      "episode": {
+        "id": "b0074gpk",
+        "title": "05/09/2004 - The Ring"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:20:00.000Z",
+        "end": "2021-05-23T01:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczl1",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfs2"
+      },
+      "episode": {
+        "id": "m000wfs5",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:05:00.000Z",
+        "end": "2021-05-23T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczl2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wfs8"
+      },
+      "episode": {
+        "id": "m000wfsc",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-23T01:10:00.000Z",
+        "end": "2021-05-23T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczv4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg0q"
+      },
+      "episode": {
+        "id": "m000wg0t",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T05:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczv5",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg0x"
+      },
+      "episode": {
+        "id": "m000wg10",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "The Andrew Marr Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczv6",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg8q"
+      },
+      "episode": {
+        "id": "m000wg8t",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Politics London"
+      },
+      "masterbrand": {
+        "id": "bbc_one_london"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:00:00.000Z",
+        "end": "2021-05-23T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczv7",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg19"
+      },
+      "episode": {
+        "id": "m000wg1d",
+        "title": "A Celebration for Pentecost"
+      },
+      "brand": {
+        "title": "Sunday Worship"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T09:30:00.000Z",
+        "end": "2021-05-23T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczv9",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg1h"
+      },
+      "episode": {
+        "id": "m000wg1l",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Sunday Morning Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T10:30:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvb",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b09xy81z"
+      },
+      "episode": {
+        "id": "b09xy8f7",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Pilgrimage"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvd",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg1p"
+      },
+      "episode": {
+        "id": "m000wg1s",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg1w"
+      },
+      "episode": {
+        "id": "m000wg1z",
+        "title": "Pentecost Sunday"
+      },
+      "brand": {
+        "title": "Songs of Praise"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:15:00.000Z",
+        "end": "2021-05-23T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg22"
+      },
+      "episode": {
+        "id": "m000wg25",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Points of View"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:50:00.000Z",
+        "end": "2021-05-23T13:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b08tpc7n"
+      },
+      "episode": {
+        "id": "b08tpc9d",
+        "title": "Episode 56 - East Sussex"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:05:00.000Z",
+        "end": "2021-05-23T13:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b03txd1w"
+      },
+      "episode": {
+        "id": "b03txd30",
+        "title": "23/01/2014 - Frozen"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:50:00.000Z",
+        "end": "2021-05-23T15:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvp",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "b0btxkl0"
+      },
+      "episode": {
+        "id": "p06mvrr0",
+        "title": "Episode 4 - Painted Wolf"
+      },
+      "brand": {
+        "title": "Dynasties"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:20:00.000Z",
+        "end": "2021-05-23T16:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg28"
+      },
+      "episode": {
+        "id": "m000wg2b",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:20:00.000Z",
+        "end": "2021-05-23T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvs",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg8z"
+      },
+      "episode": {
+        "id": "m000wg94",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:40:00.000Z",
+        "end": "2021-05-23T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg2d"
+      },
+      "episode": {
+        "id": "m000wg2g",
+        "title": "Plant Britain Spring Special"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:50:00.000Z",
+        "end": "2021-05-23T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj6sv",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wk0r"
+      },
+      "episode": {
+        "id": "m000wk0s",
+        "title": "Forty Hall 3"
+      },
+      "brand": {
+        "title": "Antiques Roadshow"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:00:00.000Z",
+        "end": "2021-05-23T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczvy",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg2n"
+      },
+      "episode": {
+        "id": "m000wg2q",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Call the Midwife"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T19:00:00.000Z",
+        "end": "2021-05-23T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j96tz",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wtgs"
+      },
+      "episode": {
+        "id": "p099q311",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "The Pursuit of Love"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:00:00.000Z",
+        "end": "2021-05-23T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczw0",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg2r"
+      },
+      "episode": {
+        "id": "m000wg2v",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC Weekend News"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:00:00.000Z",
+        "end": "2021-05-23T21:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczw1",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg98"
+      },
+      "episode": {
+        "id": "m000wg9d",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:20:00.000Z",
+        "end": "2021-05-23T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczw3",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg2x"
+      },
+      "episode": {
+        "id": "m000wg2z",
+        "title": "23/05/2021"
+      },
+      "brand": {
+        "title": "Match of the Day"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T21:30:00.000Z",
+        "end": "2021-05-23T23:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczw5",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg31"
+      },
+      "episode": {
+        "id": "m000wg33",
+        "title": "Great Escapes"
+      },
+      "brand": {
+        "title": "Match of the Day Top 10"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:10:00.000Z",
+        "end": "2021-05-23T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hczw8",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wg34"
+      },
+      "episode": {
+        "id": "m000wg36",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:40:00.000Z",
+        "end": "2021-05-23T23:45:00.000Z"
+      }
+    }
+  ]
+}

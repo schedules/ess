@@ -1,0 +1,313 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:19:45.998Z"
+  },
+  "items": [
+    {
+      "id": "p09g79z7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xm"
+      },
+      "episode": {
+        "id": "m000w4xn",
+        "title": "Music for the evening"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:00:00.000Z",
+        "end": "2021-05-17T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79z8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4xp"
+      },
+      "episode": {
+        "id": "m000w4xq",
+        "title": "Bacewicz, Bruch and Stravinsky"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:30:00.000Z",
+        "end": "2021-05-18T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pn8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2ww"
+      },
+      "episode": {
+        "id": "m000w2wy",
+        "title": "Tuesday - Kate's classical picks"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:30:00.000Z",
+        "end": "2021-05-18T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnb",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2x0"
+      },
+      "episode": {
+        "id": "m000w2x2",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T08:00:00.000Z",
+        "end": "2021-05-18T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2x4"
+      },
+      "episode": {
+        "id": "m000w2x6",
+        "title": "Marriage"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T11:00:00.000Z",
+        "end": "2021-05-18T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2xb"
+      },
+      "episode": {
+        "id": "m000w2xd",
+        "title": "Schumann Plus performed by Alessandro Fisher and JongSun Woo"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T12:00:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2xf"
+      },
+      "episode": {
+        "id": "m000w2xh",
+        "title": "BBC Scottish Symphony Orchestra"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5png",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2xj"
+      },
+      "episode": {
+        "id": "m000w2xl",
+        "title": "Benson Wilson and Lucy Colquhoun, Jonas Vitaud"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T16:00:00.000Z",
+        "end": "2021-05-18T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnj",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2xn"
+      },
+      "episode": {
+        "id": "m000w2xr",
+        "title": "A 30-minute mix of delightful classical music"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:00:00.000Z",
+        "end": "2021-05-18T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2xv"
+      },
+      "episode": {
+        "id": "m000w2xx",
+        "title": "The Royal Philharmonic play Walton, Delius, Finzi and Ireland"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T18:30:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2y0"
+      },
+      "episode": {
+        "id": "m000w2y3",
+        "title": "The Wolfson History Prize 2021"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-18T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnn",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000fpj3"
+      },
+      "episode": {
+        "id": "m000fpj4",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:45:00.000Z",
+        "end": "2021-05-18T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g5pnp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w2y7"
+      },
+      "episode": {
+        "id": "m000w2yb",
+        "title": "Dissolve into sound"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-18T22:00:00.000Z",
+        "end": "2021-05-18T23:30:00.000Z"
+      }
+    }
+  ]
+}

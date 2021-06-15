@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-15T03:50:49.859Z"
+  },
+  "items": [
+    {
+      "id": "p09jrt0p",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy48"
+      },
+      "episode": {
+        "id": "m000wy49",
+        "title": "Loxy DNB Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:00:00.000Z",
+        "end": "2021-06-15T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt0q",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wybn"
+      },
+      "episode": {
+        "id": "m000wybp",
+        "title": "Conquering Procrastination"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T01:00:00.000Z",
+        "end": "2021-06-15T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt0r",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wybq"
+      },
+      "episode": {
+        "id": "m000wybr",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Workout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T02:00:00.000Z",
+        "end": "2021-06-15T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt0s",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wybs"
+      },
+      "episode": {
+        "id": "m000wybt",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T03:00:00.000Z",
+        "end": "2021-06-15T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jrt0t",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wybv"
+      },
+      "episode": {
+        "id": "m000wybw",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T04:00:00.000Z",
+        "end": "2021-06-15T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy7t"
+      },
+      "episode": {
+        "id": "m000wy7w",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T06:00:00.000Z",
+        "end": "2021-06-15T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8q",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy7y"
+      },
+      "episode": {
+        "id": "m000wy80",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Adele Roberts"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T09:32:00.000Z",
+        "end": "2021-06-15T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8r",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy82"
+      },
+      "episode": {
+        "id": "m000wy84",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T11:45:00.000Z",
+        "end": "2021-06-15T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8t",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy87"
+      },
+      "episode": {
+        "id": "m000wy89",
+        "title": "Blow Your Own Trumpet"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T12:00:00.000Z",
+        "end": "2021-06-15T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8v",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy8c"
+      },
+      "episode": {
+        "id": "m000wy8f",
+        "title": "The People's Postcode Boppery"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T14:32:00.000Z",
+        "end": "2021-06-15T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8w",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy8h"
+      },
+      "episode": {
+        "id": "m000wy8k",
+        "title": "15/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T16:45:00.000Z",
+        "end": "2021-06-15T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8x",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy8l"
+      },
+      "episode": {
+        "id": "m000wy8m",
+        "title": "Yonaka Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T17:00:00.000Z",
+        "end": "2021-06-15T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8y",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy8n"
+      },
+      "episode": {
+        "id": "m000wy8p",
+        "title": "Run RMC: Drake Edition"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T19:00:00.000Z",
+        "end": "2021-06-15T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry8z",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy8q"
+      },
+      "episode": {
+        "id": "m000wy8r",
+        "title": "Quarry Live Session"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T21:00:00.000Z",
+        "end": "2021-06-15T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry90",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wy8s"
+      },
+      "episode": {
+        "id": "m000wy8t",
+        "title": "Annie's Continued Euro Celebrations"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T23:00:00.000Z",
+        "end": "2021-06-16T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jry91",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w45l"
+      },
+      "episode": {
+        "id": "m000w45m",
+        "title": "Drake, Glass Animals, Miley Cyrus and more"
+      },
+      "brand": {
+        "title": "Radio 1's Chillout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-16T01:00:00.000Z",
+        "end": "2021-06-16T02:00:00.000Z"
+      }
+    }
+  ]
+}

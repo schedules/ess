@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_london"
+  },
+  "service": {
+    "id": "bbc_london",
+    "name": "BBC Radio London",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:31:21.272Z"
+  },
+  "items": [
+    {
+      "id": "p09gxkyl",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxkyh"
+      },
+      "episode": {
+        "id": "p09gxkyc",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Salma El-Wardany"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-27T21:00:00.000Z",
+        "end": "2021-05-28T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxlyj",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxlyd"
+      },
+      "episode": {
+        "id": "p09gxly7",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:00:00.000Z",
+        "end": "2021-05-28T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxlz1",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxlyy"
+      },
+      "episode": {
+        "id": "p09gxlys",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T04:00:00.000Z",
+        "end": "2021-05-28T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxlzt",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxlzk"
+      },
+      "episode": {
+        "id": "p09gxlz6",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Vanessa Feltz"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T06:00:00.000Z",
+        "end": "2021-05-28T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxm0w",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxm0l"
+      },
+      "episode": {
+        "id": "p09gxm03",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Robert Elms"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:00:00.000Z",
+        "end": "2021-05-28T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxm1c",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxm18"
+      },
+      "episode": {
+        "id": "p09gxm12",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Jo Good"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T12:30:00.000Z",
+        "end": "2021-05-28T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxm1y",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxm1q"
+      },
+      "episode": {
+        "id": "p09gxm1k",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Eddie Nestor"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T16:00:00.000Z",
+        "end": "2021-05-28T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxm27",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxm25"
+      },
+      "episode": {
+        "id": "p09gxm22",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "The Scene with Kim Davis and Raffaella Coleman"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T19:00:00.000Z",
+        "end": "2021-05-28T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gxm2j",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09gxm2d"
+      },
+      "episode": {
+        "id": "p09gxm2b",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:00:00.000Z",
+        "end": "2021-05-29T00:00:00.000Z"
+      }
+    }
+  ]
+}

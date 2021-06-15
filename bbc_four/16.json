@@ -1,0 +1,328 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-16T03:30:30.278Z"
+  },
+  "items": [
+    {
+      "id": "p09gq07s",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00ysnwx"
+      },
+      "episode": {
+        "id": "b00ysny1",
+        "title": "Episode 8 - Episode 8"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:30:00.000Z",
+        "end": "2021-05-16T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq07t",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00yvs6g"
+      },
+      "episode": {
+        "id": "b00yvs6s",
+        "title": "Episode 9 - Episode 9"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:30:00.000Z",
+        "end": "2021-05-16T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq07v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00yvs6l"
+      },
+      "episode": {
+        "id": "b00yvs6v",
+        "title": "Episode 10 - Episode 10"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T01:25:00.000Z",
+        "end": "2021-05-16T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq07w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T02:25:00.000Z",
+        "end": "2021-05-16T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq07x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:30:00.000Z",
+        "end": "2021-05-16T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq07z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T17:58:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq080",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07g9q4c"
+      },
+      "episode": {
+        "id": "b07g9q4w",
+        "title": "Episode 3 - Party Like It's 1899"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq081",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08h06nc"
+      },
+      "episode": {
+        "id": "b08h06tq",
+        "title": "Episode 1 - Making Sound"
+      },
+      "brand": {
+        "title": "Sound Waves: The Symphony of Physics"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T19:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gy0xv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wd63"
+      },
+      "episode": {
+        "id": "m000w6tr",
+        "title": "Delia Derbyshire: The Myths and the Legendary Tapes"
+      },
+      "brand": {
+        "title": "Arena"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq083",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0bcmbwq"
+      },
+      "episode": {
+        "id": "b0bcmbws",
+        "title": "27/07/2018 - Pioneers of Sound"
+      },
+      "brand": {
+        "title": "BBC Proms"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-16T21:30:00.000Z",
+        "end": "2021-05-16T22:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq084",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b05ttkt7"
+      },
+      "episode": {
+        "id": "b05ttkx2",
+        "title": "04/05/2015 - Dawn Chorus: The Sounds of Spring"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:55:00.000Z",
+        "end": "2021-05-16T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq085",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08lvxxg"
+      },
+      "episode": {
+        "id": "b08lvxxs",
+        "title": "12/04/2017 - Into the Wind"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:55:00.000Z",
+        "end": "2021-05-17T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq086",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08h06nc"
+      },
+      "episode": {
+        "id": "b08h06tq",
+        "title": "Episode 1 - Making Sound"
+      },
+      "brand": {
+        "title": "Sound Waves: The Symphony of Physics"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:25:00.000Z",
+        "end": "2021-05-17T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq087",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07grm5d"
+      },
+      "episode": {
+        "id": "b07g9q4w",
+        "title": "Episode 3 - Party Like It's 1899"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T01:25:00.000Z",
+        "end": "2021-05-17T02:25:00.000Z"
+      }
+    }
+  ]
+}

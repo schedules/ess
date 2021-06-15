@@ -1,0 +1,566 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-22T03:30:44.438Z"
+  },
+  "items": [
+    {
+      "id": "p09j5x3w",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbr1"
+      },
+      "episode": {
+        "id": "m000wbr3",
+        "title": "Cabinet Manual Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-21T23:05:00.000Z",
+        "end": "2021-05-22T00:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5x3x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000ws59"
+      },
+      "episode": {
+        "id": "m000ws5b",
+        "title": "UK's Relationship with the EU Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T00:20:00.000Z",
+        "end": "2021-05-22T01:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5x3y",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000ws5c"
+      },
+      "episode": {
+        "id": "m000ws5d",
+        "title": "Cabinet Office Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T01:50:00.000Z",
+        "end": "2021-05-22T03:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5x40",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000ws5f"
+      },
+      "episode": {
+        "id": "m000ws5g",
+        "title": "Future of the Railways Statement"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:50:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7bph",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wq4j"
+      },
+      "episode": {
+        "id": "m000wq4k",
+        "title": "Future of the Railways Statement"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T03:50:00.000Z",
+        "end": "2021-05-22T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b8s",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbr9"
+      },
+      "episode": {
+        "id": "m000wbrc",
+        "title": "Smart Motorways Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T07:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b8t",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wpvk"
+      },
+      "episode": {
+        "id": "m000wpvl",
+        "title": "'Levelling Up' Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T07:20:00.000Z",
+        "end": "2021-05-22T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh5lz",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj25"
+      },
+      "episode": {
+        "id": "m000wj26",
+        "title": "22/05/2021"
+      },
+      "brand": {
+        "title": "Westminster Hall"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T05:00:00.000Z",
+        "end": "2021-05-22T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b8w",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wtfg"
+      },
+      "episode": {
+        "id": "m000wtfh",
+        "title": "Election of the First Minister"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T09:30:00.000Z",
+        "end": "2021-05-22T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b8x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wmql"
+      },
+      "episode": {
+        "id": "m000wmqm",
+        "title": "Urgent Questions"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T10:30:00.000Z",
+        "end": "2021-05-22T11:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh5m0",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj27"
+      },
+      "episode": {
+        "id": "m000wj28",
+        "title": "Appointment of Ministers"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:05:00.000Z",
+        "end": "2021-05-22T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b8y",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wtfj"
+      },
+      "episode": {
+        "id": "m000wtfk",
+        "title": "Urgent Questions"
+      },
+      "brand": {
+        "title": "Scottish Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T11:45:00.000Z",
+        "end": "2021-05-22T12:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b8z",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wb0w"
+      },
+      "episode": {
+        "id": "m000wb0x",
+        "title": "Northern Ireland Assembly Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:05:00.000Z",
+        "end": "2021-05-22T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh5m1",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj29"
+      },
+      "episode": {
+        "id": "m000wj2b",
+        "title": "Education Statement"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T12:50:00.000Z",
+        "end": "2021-05-22T13:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b92",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wtfl"
+      },
+      "episode": {
+        "id": "m000wtfm",
+        "title": "Covid-19 Restrictions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T13:35:00.000Z",
+        "end": "2021-05-22T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b93",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wtfn"
+      },
+      "episode": {
+        "id": "m000wtfp",
+        "title": "Finance Questions"
+      },
+      "brand": {
+        "title": "Northern Ireland Assembly"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T14:30:00.000Z",
+        "end": "2021-05-22T15:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh5m2",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj2c"
+      },
+      "episode": {
+        "id": "m000wj2d",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Senedd Cymru - Welsh Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T15:20:00.000Z",
+        "end": "2021-05-22T16:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh5m3",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj2f"
+      },
+      "episode": {
+        "id": "m000wj2g",
+        "title": "Northern Ireland Protocol Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T16:20:00.000Z",
+        "end": "2021-05-22T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b95",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wlw7"
+      },
+      "episode": {
+        "id": "m000wlw8",
+        "title": "Future of the Union Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T18:30:00.000Z",
+        "end": "2021-05-22T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b96",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9ww"
+      },
+      "episode": {
+        "id": "m000w9wx",
+        "title": "Wales Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:00:00.000Z",
+        "end": "2021-05-22T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b97",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w9wy"
+      },
+      "episode": {
+        "id": "m000w9wz",
+        "title": "19/05/2021"
+      },
+      "brand": {
+        "title": "Prime Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T21:30:00.000Z",
+        "end": "2021-05-22T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b98",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000w96g"
+      },
+      "episode": {
+        "id": "m000w96h",
+        "title": "Kaja Kallas - Prime Minister of Estonia"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:00:00.000Z",
+        "end": "2021-05-22T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b99",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wbcc"
+      },
+      "episode": {
+        "id": "m000wbcd",
+        "title": "20/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T22:30:00.000Z",
+        "end": "2021-05-22T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8b9b",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wtfq"
+      },
+      "episode": {
+        "id": "m000wtfr",
+        "title": "Concussion in Sport Committee"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-23T01:35:00.000Z"
+      }
+    }
+  ]
+}

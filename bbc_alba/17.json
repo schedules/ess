@@ -1,0 +1,426 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-17T03:21:29.427Z"
+  },
+  "items": [
+    {
+      "id": "p09gq6kt",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:00:00.000Z",
+        "end": "2021-05-17T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6km",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T05:00:00.000Z",
+        "end": "2021-05-17T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kq",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6y6"
+      },
+      "episode": {
+        "id": "m000w6y7",
+        "title": "Bileagan Blasta"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:00:00.000Z",
+        "end": "2021-05-17T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6ks",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08m8tzm"
+      },
+      "episode": {
+        "id": "b08m8v01",
+        "title": "Episode 11 - Faiceallach Patches"
+      },
+      "brand": {
+        "title": "Sù Shiùsaidh/Little Suzy's Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:15:00.000Z",
+        "end": "2021-05-17T16:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w05k"
+      },
+      "episode": {
+        "id": "m000w05l",
+        "title": "Ceud 'Tanca' Dhut"
+      },
+      "brand": {
+        "title": "Su Pic (Peek Zoo)"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:20:00.000Z",
+        "end": "2021-05-17T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b015nbzh"
+      },
+      "episode": {
+        "id": "b015nc0z",
+        "title": "Episode 14 - Episode 14"
+      },
+      "brand": {
+        "title": "Baile Mhuilinn"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:25:00.000Z",
+        "end": "2021-05-17T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000brn0"
+      },
+      "episode": {
+        "id": "m000brn1",
+        "title": "Air Bhog agus 'Dol Fodha"
+      },
+      "brand": {
+        "title": "Piseag agus Cuilean/Kit and Pup"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:40:00.000Z",
+        "end": "2021-05-17T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6ky",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fzpx"
+      },
+      "episode": {
+        "id": "m000fzpy",
+        "title": "Sgàthain"
+      },
+      "brand": {
+        "title": "Piseag agus Cuilean/Kit and Pup"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:45:00.000Z",
+        "end": "2021-05-17T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6kz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000c0k5"
+      },
+      "episode": {
+        "id": "m000c0k6",
+        "title": "Am Pàrtaidh Teatha aig Dadaidh Leòmhann"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T16:50:00.000Z",
+        "end": "2021-05-17T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000f3kl"
+      },
+      "episode": {
+        "id": "m000f3km",
+        "title": "Iasg Sgoinneil"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:00:00.000Z",
+        "end": "2021-05-17T17:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6xt"
+      },
+      "episode": {
+        "id": "m000w6xx",
+        "title": "Iomadh Marisa/Multilde"
+      },
+      "brand": {
+        "title": "Port Paipeir"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:20:00.000Z",
+        "end": "2021-05-17T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b036lpyw"
+      },
+      "episode": {
+        "id": "b036lrrd",
+        "title": "Episode 26 - Episode 26"
+      },
+      "brand": {
+        "title": "Saidheans Sporsail"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:30:00.000Z",
+        "end": "2021-05-17T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w6y9"
+      },
+      "episode": {
+        "id": "m000w6yc",
+        "title": "17/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:00:00.000Z",
+        "end": "2021-05-17T18:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gykvs",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wd6x"
+      },
+      "episode": {
+        "id": "m000wd6y",
+        "title": "League 1 Play-off Final 2021 - Edinburgh City v Dumbarton"
+      },
+      "brand": {
+        "title": "Scottish Premiership"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:25:00.000Z",
+        "end": "2021-05-17T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000g8dm"
+      },
+      "episode": {
+        "id": "m000g8dn",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Thar na Loidhne/Crossing the Line"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T20:30:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6l9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000j48l"
+      },
+      "episode": {
+        "id": "m000j48m",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Julie Fowlis | Ceòl aig Baile"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-17T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6lb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0001v5r"
+      },
+      "episode": {
+        "id": "m0001v5s",
+        "title": "As the Women Lay Dreaming"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:30:00.000Z",
+        "end": "2021-05-17T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq6lc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000w0cj"
+      },
+      "episode": {
+        "id": "m000w0ck",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "Seòid a' Chidsin - The Kitchen Coves"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:30:00.000Z",
+        "end": "2021-05-17T23:00:00.000Z"
+      }
+    }
+  ]
+}

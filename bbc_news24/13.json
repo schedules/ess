@@ -1,0 +1,1108 @@
+{
+  "filters": {
+    "serviceId": "bbc_news24"
+  },
+  "service": {
+    "id": "bbc_news24",
+    "name": "BBC News Channel",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-13T03:41:43.509Z"
+  },
+  "items": [
+    {
+      "id": "p09khflt",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x56v"
+      },
+      "episode": {
+        "id": "m000wvnn",
+        "title": "Curtain-Up on Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:30:00.000Z",
+        "end": "2021-06-13T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khflv",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x57v"
+      },
+      "episode": {
+        "id": "m000x57w",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:00:00.000Z",
+        "end": "2021-06-13T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khflw",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46z"
+      },
+      "episode": {
+        "id": "m000x470",
+        "title": "Dancing All Over The World"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T00:30:00.000Z",
+        "end": "2021-06-13T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khflx",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x57x"
+      },
+      "episode": {
+        "id": "m000x57y",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:00:00.000Z",
+        "end": "2021-06-13T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khflz",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01c"
+      },
+      "episode": {
+        "id": "m000x01d",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:30:00.000Z",
+        "end": "2021-06-13T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khfm1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x57z"
+      },
+      "episode": {
+        "id": "m000x580",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:00:00.000Z",
+        "end": "2021-06-13T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khfm2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46x"
+      },
+      "episode": {
+        "id": "m000x46y",
+        "title": "Australia's Wildlife: After the Fires"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:30:00.000Z",
+        "end": "2021-06-13T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khfm3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x581"
+      },
+      "episode": {
+        "id": "m000x582",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T03:00:00.000Z",
+        "end": "2021-06-13T03:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khfm4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46s"
+      },
+      "episode": {
+        "id": "m000x46t",
+        "title": "The Future of Transport"
+      },
+      "brand": {
+        "title": "Click"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T03:30:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khfm5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x583"
+      },
+      "episode": {
+        "id": "m000x584",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khfm6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:30:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gl"
+      },
+      "episode": {
+        "id": "m000x5gm",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast (BBC News Channel)"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gn"
+      },
+      "episode": {
+        "id": "m000x5gp",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:00:00.000Z",
+        "end": "2021-06-13T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gq"
+      },
+      "episode": {
+        "id": "m000x5gr",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:30:00.000Z",
+        "end": "2021-06-13T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gs"
+      },
+      "episode": {
+        "id": "m000x5gt",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:00:00.000Z",
+        "end": "2021-06-13T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x56v"
+      },
+      "episode": {
+        "id": "m000wvnn",
+        "title": "Curtain-Up on Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T09:30:00.000Z",
+        "end": "2021-06-13T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl6",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gv"
+      },
+      "episode": {
+        "id": "m000x5gw",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T10:00:00.000Z",
+        "end": "2021-06-13T10:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x01c"
+      },
+      "episode": {
+        "id": "m000x01d",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Dateline London"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T10:30:00.000Z",
+        "end": "2021-06-13T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpl8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gx"
+      },
+      "episode": {
+        "id": "m000x5gy",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T11:00:00.000Z",
+        "end": "2021-06-13T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5gz"
+      },
+      "episode": {
+        "id": "m000x5h0",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:00:00.000Z",
+        "end": "2021-06-13T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplc",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46z"
+      },
+      "episode": {
+        "id": "m000x470",
+        "title": "Dancing All Over The World"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:30:00.000Z",
+        "end": "2021-06-13T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpld",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5h1"
+      },
+      "episode": {
+        "id": "m000x5h2",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:00:00.000Z",
+        "end": "2021-06-13T13:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplf",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-13T13:30:00.000Z",
+        "end": "2021-06-13T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplh",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5h3"
+      },
+      "episode": {
+        "id": "m000x5h4",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T14:00:00.000Z",
+        "end": "2021-06-13T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplj",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x572"
+      },
+      "episode": {
+        "id": "m000x573",
+        "title": "Radio Takes On the Tech Giants"
+      },
+      "brand": {
+        "title": "The Media Show"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T14:30:00.000Z",
+        "end": "2021-06-13T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplk",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5h5"
+      },
+      "episode": {
+        "id": "m000x5h6",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T15:00:00.000Z",
+        "end": "2021-06-13T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpll",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46q"
+      },
+      "episode": {
+        "id": "m000x46r",
+        "title": "G7"
+      },
+      "brand": {
+        "title": "World Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T15:30:00.000Z",
+        "end": "2021-06-13T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplm",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5h7"
+      },
+      "episode": {
+        "id": "m000x5h8",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:00:00.000Z",
+        "end": "2021-06-13T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpln",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x56v"
+      },
+      "episode": {
+        "id": "m000wvnn",
+        "title": "Curtain-Up on Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:30:00.000Z",
+        "end": "2021-06-13T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplp",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5h9"
+      },
+      "episode": {
+        "id": "m000x5hb",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T17:00:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplq",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hc"
+      },
+      "episode": {
+        "id": "m000x5hd",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09l3wsb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "p09l0dv3"
+      },
+      "episode": {
+        "id": "p09l0bx4",
+        "title": "Covid Vaccines for Kids"
+      },
+      "brand": {
+        "title": "Ros Atkins On..."
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:30:00.000Z",
+        "end": "2021-06-13T18:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpls",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hf"
+      },
+      "episode": {
+        "id": "m000x5hg",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Sportsday"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:45:00.000Z",
+        "end": "2021-06-13T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplt",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hh"
+      },
+      "episode": {
+        "id": "m000x5hj",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T19:00:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplw",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hk"
+      },
+      "episode": {
+        "id": "m000x5hl",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplx",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46x"
+      },
+      "episode": {
+        "id": "m000x46y",
+        "title": "Australia's Wildlife: After the Fires"
+      },
+      "brand": {
+        "title": "Our World"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:30:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khply",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hm"
+      },
+      "episode": {
+        "id": "m000x5hn",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-13T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khplz",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hp"
+      },
+      "episode": {
+        "id": "m000x5hq",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:30:00.000Z",
+        "end": "2021-06-13T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm0",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hr"
+      },
+      "episode": {
+        "id": "m000x5hs",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:00:00.000Z",
+        "end": "2021-06-13T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm1",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5ht"
+      },
+      "episode": {
+        "id": "m000x5hv",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "The Papers"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:30:00.000Z",
+        "end": "2021-06-13T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm2",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x013"
+      },
+      "episode": {
+        "id": "m000x014",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "The Film Review"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:45:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm3",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hw"
+      },
+      "episode": {
+        "id": "m000x5hx",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-13T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm4",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5hy"
+      },
+      "episode": {
+        "id": "m000x5hz",
+        "title": "Barry Hearn - Sporting Events Promoter"
+      },
+      "brand": {
+        "title": "HARDtalk"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:30:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm5",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5j0"
+      },
+      "episode": {
+        "id": "m000x5j1",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC World News"
+      },
+      "masterbrand": {
+        "id": "bbc_world_news"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm7",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x46q"
+      },
+      "episode": {
+        "id": "m000x46r",
+        "title": "G7"
+      },
+      "brand": {
+        "title": "World Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:30:00.000Z",
+        "end": "2021-06-14T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm8",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5j2"
+      },
+      "episode": {
+        "id": "m000x5j3",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:00:00.000Z",
+        "end": "2021-06-14T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpm9",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:30:00.000Z",
+        "end": "2021-06-14T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09khpmb",
+      "service": {
+        "id": "bbc_news24"
+      },
+      "version": {
+        "id": "m000x5j4"
+      },
+      "episode": {
+        "id": "m000x5j5",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-14T02:00:00.000Z",
+        "end": "2021-06-14T02:30:00.000Z"
+      }
+    }
+  ]
+}

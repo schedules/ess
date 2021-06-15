@@ -1,0 +1,403 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-23T03:27:00.558Z"
+  },
+  "items": [
+    {
+      "id": "p09gw2tk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wbh8"
+      },
+      "episode": {
+        "id": "m000wbhb",
+        "title": "Despondent drones"
+      },
+      "brand": {
+        "title": "Freeness"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-22T23:00:00.000Z",
+        "end": "2021-05-23T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw2tl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wbhd"
+      },
+      "episode": {
+        "id": "m000wbhg",
+        "title": "Sacred Vocal Polyphony before and after the Council of Trent"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T00:00:00.000Z",
+        "end": "2021-05-23T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr4s",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9x6"
+      },
+      "episode": {
+        "id": "m000w9x7",
+        "title": "Sunday - Martin Handley"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T06:00:00.000Z",
+        "end": "2021-05-23T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr4v",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9x8"
+      },
+      "episode": {
+        "id": "m000w9x9",
+        "title": "Sarah Walker with an inspiring musical mix"
+      },
+      "brand": {
+        "title": "Sunday Morning"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T08:00:00.000Z",
+        "end": "2021-05-23T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr4x",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xb"
+      },
+      "episode": {
+        "id": "m000w9xc",
+        "title": "Zandra Rhodes"
+      },
+      "brand": {
+        "title": "Private Passions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T11:00:00.000Z",
+        "end": "2021-05-23T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr52",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w4x7"
+      },
+      "episode": {
+        "id": "m000w4x8",
+        "title": "Michael Collins and Michael McHale"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T12:00:00.000Z",
+        "end": "2021-05-23T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr54",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xd"
+      },
+      "episode": {
+        "id": "m000w9xf",
+        "title": "Freedom"
+      },
+      "brand": {
+        "title": "The Early Music Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T13:00:00.000Z",
+        "end": "2021-05-23T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3vh8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wqdj"
+      },
+      "episode": {
+        "id": "m000w57b",
+        "title": "St Pancras Church, London"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T14:00:00.000Z",
+        "end": "2021-05-23T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr56",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xg"
+      },
+      "episode": {
+        "id": "m000w9xh",
+        "title": "Jazz for a Sunday Afternoon"
+      },
+      "brand": {
+        "title": "Jazz Record Requests"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T15:00:00.000Z",
+        "end": "2021-05-23T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr57",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "b09dx7v9"
+      },
+      "episode": {
+        "id": "b09dxbfg",
+        "title": "The Synthesizer. Hannah Peel, Peter Zinovieff"
+      },
+      "brand": {
+        "title": "The Listening Service"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:00:00.000Z",
+        "end": "2021-05-23T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr58",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xj"
+      },
+      "episode": {
+        "id": "b0b9w8bf",
+        "title": "The News"
+      },
+      "brand": {
+        "title": "Words and Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T16:30:00.000Z",
+        "end": "2021-05-23T17:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr59",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xk"
+      },
+      "episode": {
+        "id": "m000w9xl",
+        "title": "Rhythms of Remembering"
+      },
+      "brand": {
+        "title": "Between the Ears"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T17:45:00.000Z",
+        "end": "2021-05-23T18:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr5b",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xm"
+      },
+      "episode": {
+        "id": "m000w9xn",
+        "title": "Clubbing after Lockdown"
+      },
+      "brand": {
+        "title": "Sunday Feature"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:15:00.000Z",
+        "end": "2021-05-23T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09bw7vl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000v2jw"
+      },
+      "episode": {
+        "id": "m000v2jx",
+        "title": "Welcome to Iran"
+      },
+      "brand": {
+        "title": "Drama on 3"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T18:30:00.000Z",
+        "end": "2021-05-23T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr5d",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xp"
+      },
+      "episode": {
+        "id": "m000w9xq",
+        "title": "Shostakovich's Second Piano Concerto"
+      },
+      "brand": {
+        "title": "Record Review Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T20:45:00.000Z",
+        "end": "2021-05-23T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr5g",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xr"
+      },
+      "episode": {
+        "id": "m000w9xs",
+        "title": "Episode 3"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gvr5h",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000w9xt"
+      },
+      "episode": {
+        "id": "m000w9xv",
+        "title": "Part 11: Andrea Baker"
+      },
+      "brand": {
+        "title": "Sounds Connected"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:00:00.000Z",
+        "end": "2021-05-23T23:30:00.000Z"
+      }
+    }
+  ]
+}

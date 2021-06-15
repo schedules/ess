@@ -1,0 +1,727 @@
+{
+  "filters": {
+    "serviceId": "bbc_one_london"
+  },
+  "service": {
+    "id": "bbc_one_london",
+    "name": "BBC One London",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-01T03:28:32.163Z"
+  },
+  "items": [
+    {
+      "id": "p09j1cgq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnzz"
+      },
+      "episode": {
+        "id": "m000wp01",
+        "title": "Episode 12"
+      },
+      "brand": {
+        "title": "The Hit List"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:20:00.000Z",
+        "end": "2021-06-01T00:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1cgs",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wp02"
+      },
+      "episode": {
+        "id": "m000wp03",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:05:00.000Z",
+        "end": "2021-06-01T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1cgt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wp04"
+      },
+      "episode": {
+        "id": "m000wp05",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Joins BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news24"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:10:00.000Z",
+        "end": "2021-06-01T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnwh"
+      },
+      "episode": {
+        "id": "m000wnwk",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T05:00:00.000Z",
+        "end": "2021-06-01T08:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnwm"
+      },
+      "episode": {
+        "id": "m000wnwp",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "Morning Live"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T08:15:00.000Z",
+        "end": "2021-06-01T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnth"
+      },
+      "episode": {
+        "id": "m000wntj",
+        "title": "Episode 45"
+      },
+      "brand": {
+        "title": "Homes Under the Hammer"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T09:00:00.000Z",
+        "end": "2021-06-01T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxp",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnwr"
+      },
+      "episode": {
+        "id": "m000wnws",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "The Sheriffs Are Coming"
+      },
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-06-01T10:00:00.000Z",
+        "end": "2021-06-01T10:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000hjxn"
+      },
+      "episode": {
+        "id": "m000hjxp",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "Close Calls: On Camera"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T10:45:00.000Z",
+        "end": "2021-06-01T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxw",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m0007m5b"
+      },
+      "episode": {
+        "id": "m0007m5c",
+        "title": "Harrogate 24"
+      },
+      "brand": {
+        "title": "Bargain Hunt"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T11:15:00.000Z",
+        "end": "2021-06-01T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bxz",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnwt"
+      },
+      "episode": {
+        "id": "m000wnwv",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at One"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-01T12:00:00.000Z",
+        "end": "2021-06-01T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by1",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnww"
+      },
+      "episode": {
+        "id": "m000wnwx",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T12:30:00.000Z",
+        "end": "2021-06-01T12:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by2",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnwy"
+      },
+      "episode": {
+        "id": "m000wnwz",
+        "title": "Seize the Day"
+      },
+      "brand": {
+        "title": "Doctors"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T12:45:00.000Z",
+        "end": "2021-06-01T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by3",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnx0"
+      },
+      "episode": {
+        "id": "m000wnx1",
+        "title": "Episode 17"
+      },
+      "brand": {
+        "title": "Unbeatable"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T13:15:00.000Z",
+        "end": "2021-06-01T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by4",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000v4g3"
+      },
+      "episode": {
+        "id": "m000v4g4",
+        "title": "Somerset"
+      },
+      "brand": {
+        "title": "Escape to the Country"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T14:00:00.000Z",
+        "end": "2021-06-01T14:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by5",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnng"
+      },
+      "episode": {
+        "id": "m000wnnk",
+        "title": "Droitwich Spa"
+      },
+      "brand": {
+        "title": "Garden Rescue"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T14:45:00.000Z",
+        "end": "2021-06-01T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by6",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnx2"
+      },
+      "episode": {
+        "id": "m000wnx3",
+        "title": "Episode 17"
+      },
+      "brand": {
+        "title": "Antiques Road Trip"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T15:30:00.000Z",
+        "end": "2021-06-01T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by8",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnx4"
+      },
+      "episode": {
+        "id": "m000wnx5",
+        "title": "Episode 40"
+      },
+      "brand": {
+        "title": "Pointless"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T16:15:00.000Z",
+        "end": "2021-06-01T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1by9",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnx6"
+      },
+      "episode": {
+        "id": "m000wnx7",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Six"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:00:00.000Z",
+        "end": "2021-06-01T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byb",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnx8"
+      },
+      "episode": {
+        "id": "m000wnx9",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:30:00.000Z",
+        "end": "2021-06-01T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byg",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnxc"
+      },
+      "episode": {
+        "id": "m000wnxf",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "The One Show"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:00:00.000Z",
+        "end": "2021-06-01T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byh",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnxh"
+      },
+      "episode": {
+        "id": "m000wnxk",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "EastEnders"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:30:00.000Z",
+        "end": "2021-06-01T18:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byk",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnxm"
+      },
+      "episode": {
+        "id": "m000wnxp",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Holby City"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:50:00.000Z",
+        "end": "2021-06-01T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byl",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnxr"
+      },
+      "episode": {
+        "id": "m000wnxt",
+        "title": "Royal Wootton Bassett"
+      },
+      "brand": {
+        "title": "Garden Rescue"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T19:30:00.000Z",
+        "end": "2021-06-01T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bym",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p09gt1h1"
+      },
+      "episode": {
+        "id": "p09gt1g2",
+        "title": "Episode 6"
+      },
+      "brand": {
+        "title": "The Pact"
+      },
+      "masterbrand": {
+        "id": "bbc_one_wales"
+      },
+      "published_time": {
+        "start": "2021-06-01T20:00:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byn",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wnxw"
+      },
+      "episode": {
+        "id": "m000wnxy",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "BBC News at Ten"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-01T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byq",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wny0"
+      },
+      "episode": {
+        "id": "m000wny2",
+        "title": "01/06/2021"
+      },
+      "brand": {
+        "title": "BBC London"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:30:00.000Z",
+        "end": "2021-06-01T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byr",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p09hwvw8"
+      },
+      "episode": {
+        "id": "p09hwvsk",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "Glow Up: Britain's Next Make-Up Star"
+      },
+      "masterbrand": {
+        "id": "bbc_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:45:00.000Z",
+        "end": "2021-06-01T22:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1bys",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p09cyh9z"
+      },
+      "episode": {
+        "id": "p09cyh2z",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Young, Welsh and..."
+      },
+      "masterbrand": {
+        "id": "bbc_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:45:00.000Z",
+        "end": "2021-06-01T23:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byt",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p093wrmf"
+      },
+      "episode": {
+        "id": "p093t1wp",
+        "title": "Crazy"
+      },
+      "brand": {
+        "title": "Bates Motel"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:15:00.000Z",
+        "end": "2021-06-01T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byw",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "p093wrl1"
+      },
+      "episode": {
+        "id": "p093t1wt",
+        "title": "Unconscious"
+      },
+      "brand": {
+        "title": "Bates Motel"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:55:00.000Z",
+        "end": "2021-06-02T00:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j1byy",
+      "service": {
+        "id": "bbc_one_london"
+      },
+      "version": {
+        "id": "m000wny4"
+      },
+      "episode": {
+        "id": "m000wny6",
+        "title": "02/06/2021"
+      },
+      "brand": {
+        "title": "Weather for the Week Ahead"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:40:00.000Z",
+        "end": "2021-06-02T00:45:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_london"
+  },
+  "service": {
+    "id": "bbc_london",
+    "name": "BBC Radio London",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:46:02.804Z"
+  },
+  "items": [
+    {
+      "id": "p09j3k2w",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3k2s"
+      },
+      "episode": {
+        "id": "p09j3k2n",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3ks9",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3ks3"
+      },
+      "episode": {
+        "id": "p09j3ks0",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Jim Davis"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k90g4",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09k90fw"
+      },
+      "episode": {
+        "id": "p09k90fp",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Claira Hermet"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T04:00:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3ktb",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3kt5"
+      },
+      "episode": {
+        "id": "p09j3kt1",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Inspirit with Jumoke Fashola"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kb0ww",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09kb0wm"
+      },
+      "episode": {
+        "id": "p09kb0wf",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Sangita Myska"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3kv6",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3kv1"
+      },
+      "episode": {
+        "id": "p09j3ktx",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Gaby Roslin"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T11:00:00.000Z",
+        "end": "2021-06-06T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3kvv",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3kvn"
+      },
+      "episode": {
+        "id": "p09j3kvf",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T14:00:00.000Z",
+        "end": "2021-06-06T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3kx1",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3kwq"
+      },
+      "episode": {
+        "id": "p09j3kw8",
+        "title": "Soul On Sunday"
+      },
+      "brand": {
+        "title": "Tony Blackburn's Soul on Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T17:00:00.000Z",
+        "end": "2021-06-06T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3ky0",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3kxq"
+      },
+      "episode": {
+        "id": "p09j3kxh",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Tony Blackburn"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j3kz1",
+      "service": {
+        "id": "bbc_london"
+      },
+      "version": {
+        "id": "p09j3kyq"
+      },
+      "episode": {
+        "id": "p09j3kyh",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Sunny and Shay"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    }
+  ]
+}

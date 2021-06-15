@@ -1,0 +1,508 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-01T03:42:58.884Z"
+  },
+  "items": [
+    {
+      "id": "p09j0h3v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p07n84df"
+      },
+      "episode": {
+        "id": "p07mvqj6",
+        "title": "No Mum Left Behind"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:25:00.000Z",
+        "end": "2021-05-31T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h3x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p07n84g1"
+      },
+      "episode": {
+        "id": "p07mvr9b",
+        "title": "Soft Opening"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T23:55:00.000Z",
+        "end": "2021-06-01T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h3y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p07n84jq"
+      },
+      "episode": {
+        "id": "p07mvrqr",
+        "title": "Mother's Load"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:25:00.000Z",
+        "end": "2021-06-01T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h3z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p07n84kb"
+      },
+      "episode": {
+        "id": "p07mvsgm",
+        "title": "The Purge"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T00:55:00.000Z",
+        "end": "2021-06-01T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h40",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p07n84kt"
+      },
+      "episode": {
+        "id": "p07mvszc",
+        "title": "Le Weekend"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T01:25:00.000Z",
+        "end": "2021-06-01T01:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h41",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p07n84mx"
+      },
+      "episode": {
+        "id": "p07mvtbr",
+        "title": "Good Job"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T01:55:00.000Z",
+        "end": "2021-06-01T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h42",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn0r"
+      },
+      "episode": {
+        "id": "b007hzf0",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-01T02:25:00.000Z",
+        "end": "2021-06-01T02:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h43",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T02:55:00.000Z",
+        "end": "2021-06-01T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h45",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T04:30:00.000Z",
+        "end": "2021-06-01T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q5v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T17:58:00.000Z",
+        "end": "2021-06-01T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q5w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn1v"
+      },
+      "episode": {
+        "id": "b007hzfj",
+        "title": "Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:00:00.000Z",
+        "end": "2021-06-01T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q5y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn1x"
+      },
+      "episode": {
+        "id": "m000wn1y",
+        "title": "Toward Day's End"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T18:30:00.000Z",
+        "end": "2021-06-01T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q5z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b000cwzf"
+      },
+      "episode": {
+        "id": "b007845r",
+        "title": "Episode 4 - The Greasy Pole"
+      },
+      "brand": {
+        "title": "Yes, Minister"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T19:00:00.000Z",
+        "end": "2021-06-01T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09js41r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0004dbj"
+      },
+      "episode": {
+        "id": "b0078629",
+        "title": "Episode 4 - Nation's Heritage"
+      },
+      "brand": {
+        "title": "To the Manor Born"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-01T19:30:00.000Z",
+        "end": "2021-06-01T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q61",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b041djw4"
+      },
+      "episode": {
+        "id": "b041dqp3",
+        "title": "Episode 2 - Forward into the Past"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T20:00:00.000Z",
+        "end": "2021-06-01T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q62",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn20"
+      },
+      "episode": {
+        "id": "m000wn21",
+        "title": "Data"
+      },
+      "brand": {
+        "title": "Extra Life: A Short History of Living Longer"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:00:00.000Z",
+        "end": "2021-06-01T21:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q63",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b038p1pk"
+      },
+      "episode": {
+        "id": "b038p1pm",
+        "title": "Episode 2 - Monitor Me"
+      },
+      "brand": {
+        "title": "Horizon"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-01T21:55:00.000Z",
+        "end": "2021-06-01T22:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q65",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0b612hz"
+      },
+      "episode": {
+        "id": "p01f53b9",
+        "title": "Episode 3 - Poison"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:55:00.000Z",
+        "end": "2021-06-01T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q66",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b04gbcp9"
+      },
+      "episode": {
+        "id": "b04gbdwt",
+        "title": "Episode 4 - The Hunter Brothers"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:55:00.000Z",
+        "end": "2021-06-02T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q67",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn1x"
+      },
+      "episode": {
+        "id": "m000wn1y",
+        "title": "Toward Day's End"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:25:00.000Z",
+        "end": "2021-06-02T00:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q68",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn1v"
+      },
+      "episode": {
+        "id": "b007hzfj",
+        "title": "Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-02T00:55:00.000Z",
+        "end": "2021-06-02T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0q69",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn22"
+      },
+      "episode": {
+        "id": "m000wn0w",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-02T01:25:00.000Z",
+        "end": "2021-06-02T02:25:00.000Z"
+      }
+    }
+  ]
+}

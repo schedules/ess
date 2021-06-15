@@ -1,0 +1,955 @@
+{
+  "filters": {
+    "serviceId": "cbbc"
+  },
+  "service": {
+    "id": "cbbc",
+    "name": "CBBC",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-30T03:21:33.966Z"
+  },
+  "items": [
+    {
+      "id": "p09j0pq6",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:00:00.000Z",
+        "end": "2021-05-30T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ps2",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T05:00:00.000Z",
+        "end": "2021-05-30T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ps3",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000jr22"
+      },
+      "episode": {
+        "id": "m000jr23",
+        "title": "Brain and the Time Capsule"
+      },
+      "brand": {
+        "title": "Arthur"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:00:00.000Z",
+        "end": "2021-05-30T06:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ps5",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bmfl3p"
+      },
+      "episode": {
+        "id": "b0bmkh01",
+        "title": "Episode 37 - Rodent Recall"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:10:00.000Z",
+        "end": "2021-05-30T06:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ps7",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bqrfr3"
+      },
+      "episode": {
+        "id": "b0bqrg4g",
+        "title": "Episode 38 - A Fear to Remember"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:25:00.000Z",
+        "end": "2021-05-30T06:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ps8",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000ngtz"
+      },
+      "episode": {
+        "id": "m000l3z7",
+        "title": "Bertiesitting"
+      },
+      "brand": {
+        "title": "Dennis & Gnasher Unleashed!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:35:00.000Z",
+        "end": "2021-05-30T06:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ps9",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000wn2h"
+      },
+      "episode": {
+        "id": "m000wn2j",
+        "title": "30/05/2021"
+      },
+      "brand": {
+        "title": "Newsround"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:45:00.000Z",
+        "end": "2021-05-30T06:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psf",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b063hyld"
+      },
+      "episode": {
+        "id": "b063hzzk",
+        "title": "Episode 21 - Best Seats in the House"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T06:55:00.000Z",
+        "end": "2021-05-30T07:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psj",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000r6r1"
+      },
+      "episode": {
+        "id": "m000r6r3",
+        "title": "Break a Leg"
+      },
+      "brand": {
+        "title": "Danny and Mick"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T07:05:00.000Z",
+        "end": "2021-05-30T07:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psk",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0006nw3"
+      },
+      "episode": {
+        "id": "m0006nw4",
+        "title": "Water Skills"
+      },
+      "brand": {
+        "title": "Nine Minute Ninja"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T07:15:00.000Z",
+        "end": "2021-05-30T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psm",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000t8hs"
+      },
+      "episode": {
+        "id": "m000t8ht",
+        "title": "Shiver Me Dinners, Day 2"
+      },
+      "brand": {
+        "title": "Step Up to the Plate"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T07:30:00.000Z",
+        "end": "2021-05-30T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psn",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000wfl3"
+      },
+      "episode": {
+        "id": "m000wfl4",
+        "title": "Out and About in Search of Wildlife!"
+      },
+      "brand": {
+        "title": "Blue Peter"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:00:00.000Z",
+        "end": "2021-05-30T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psq",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0b01p7z"
+      },
+      "episode": {
+        "id": "b0b01qs3",
+        "title": "Episode 6 - The Big Stink"
+      },
+      "brand": {
+        "title": "The Zoo"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:30:00.000Z",
+        "end": "2021-05-30T08:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pss",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b05ncn5h"
+      },
+      "episode": {
+        "id": "b05nd0q5",
+        "title": "Episode 6 - Episode 6"
+      },
+      "brand": {
+        "title": "OOglies"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:40:00.000Z",
+        "end": "2021-05-30T08:47:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pst",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0003vp2"
+      },
+      "episode": {
+        "id": "m0003vp3",
+        "title": "Viral Video With Dr O"
+      },
+      "brand": {
+        "title": "Odd Tubes"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:47:00.000Z",
+        "end": "2021-05-30T08:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psv",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000kkm9"
+      },
+      "episode": {
+        "id": "m000kkmb",
+        "title": "Odd Beginnings, Part 1"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T08:50:00.000Z",
+        "end": "2021-05-30T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psy",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000kl2y"
+      },
+      "episode": {
+        "id": "m000kl2z",
+        "title": "Odd Beginnings, Part 2"
+      },
+      "brand": {
+        "title": "Odd Squad"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:00:00.000Z",
+        "end": "2021-05-30T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0psz",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000csnh"
+      },
+      "episode": {
+        "id": "m000csnj",
+        "title": "Paddington 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T09:15:00.000Z",
+        "end": "2021-05-30T10:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pt1",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000fzd7"
+      },
+      "episode": {
+        "id": "m000fzd8",
+        "title": "Bali"
+      },
+      "brand": {
+        "title": "Deadly 60"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T10:50:00.000Z",
+        "end": "2021-05-30T11:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pt6",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b03d7bv7"
+      },
+      "episode": {
+        "id": "b03d7bw1",
+        "title": "Episode 2 - Can Robots Vomit?"
+      },
+      "brand": {
+        "title": "Operation Ouch!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:20:00.000Z",
+        "end": "2021-05-30T11:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pt8",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b09d5fd9"
+      },
+      "episode": {
+        "id": "b09d5fm0",
+        "title": "Episode 11 - Super Strong Skulls"
+      },
+      "brand": {
+        "title": "Operation Ouch!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T11:50:00.000Z",
+        "end": "2021-05-30T12:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptd",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0927h4y"
+      },
+      "episode": {
+        "id": "b0909jrk",
+        "title": "Episode 3 - Ridiculous Romantics"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:20:00.000Z",
+        "end": "2021-05-30T12:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptg",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b03mjlqq"
+      },
+      "episode": {
+        "id": "b03mjlr4",
+        "title": "16/12/2013 - Jody in Wonderland"
+      },
+      "brand": {
+        "title": "The Dumping Ground"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T12:50:00.000Z",
+        "end": "2021-05-30T13:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pth",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000w717"
+      },
+      "episode": {
+        "id": "m000w718",
+        "title": "Songwriting with Mae Muller"
+      },
+      "brand": {
+        "title": "Got What It Takes?"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T13:45:00.000Z",
+        "end": "2021-05-30T14:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptj",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0003ghv"
+      },
+      "episode": {
+        "id": "m0003ghw",
+        "title": "Rufus and Martha"
+      },
+      "brand": {
+        "title": "So Awkward Files"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:20:00.000Z",
+        "end": "2021-05-30T14:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptk",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000n1cq"
+      },
+      "episode": {
+        "id": "m000n1cs",
+        "title": "The Health Check"
+      },
+      "brand": {
+        "title": "One Zoo Three"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:35:00.000Z",
+        "end": "2021-05-30T14:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptl",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bf8sz9"
+      },
+      "episode": {
+        "id": "b0bf8tkm",
+        "title": "Episode 9 - Deadlier than the Dinosaurs"
+      },
+      "brand": {
+        "title": "Deadly Dinosaurs with Steve Backshall"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T14:50:00.000Z",
+        "end": "2021-05-30T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptp",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b09m55cy"
+      },
+      "episode": {
+        "id": "b09m562t",
+        "title": "Episode 7 - Scottish Castle Den"
+      },
+      "brand": {
+        "title": "The Dengineers"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:15:00.000Z",
+        "end": "2021-05-30T15:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pts",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b09p5vvt"
+      },
+      "episode": {
+        "id": "b09p5w53",
+        "title": "Episode 8 - Martial Arts Den"
+      },
+      "brand": {
+        "title": "The Dengineers"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T15:45:00.000Z",
+        "end": "2021-05-30T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptt",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m000wfl1"
+      },
+      "episode": {
+        "id": "m000wfl2",
+        "title": "Max & Harvey"
+      },
+      "brand": {
+        "title": "The Ultimate Playlist"
+      },
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:15:00.000Z",
+        "end": "2021-05-30T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0ptx",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b01r3wwc"
+      },
+      "episode": {
+        "id": "b03966wd",
+        "title": "Episode 1 - How to Start a Dragon Academy"
+      },
+      "brand": {
+        "title": "Dragons"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T16:40:00.000Z",
+        "end": "2021-05-30T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pv0",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b095ywxc"
+      },
+      "episode": {
+        "id": "b0962q4l",
+        "title": "Episode 15 - Gold Flinger"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:00:00.000Z",
+        "end": "2021-05-30T17:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pv4",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b095yycq"
+      },
+      "episode": {
+        "id": "b0962rff",
+        "title": "Episode 16 - There's Something About Scarlett"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:10:00.000Z",
+        "end": "2021-05-30T17:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pv5",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b095yzcl"
+      },
+      "episode": {
+        "id": "b0962tqc",
+        "title": "Episode 17 - Groundmouse Day"
+      },
+      "brand": {
+        "title": "Danger Mouse"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:25:00.000Z",
+        "end": "2021-05-30T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pv7",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0bs2lqh"
+      },
+      "episode": {
+        "id": "b0bs2stj",
+        "title": "Episode 11 - Diddy Robot Wars"
+      },
+      "brand": {
+        "title": "Diddy Bits"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:35:00.000Z",
+        "end": "2021-05-30T17:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pv8",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b08ws3pz"
+      },
+      "episode": {
+        "id": "b08vgq31",
+        "title": "Episode 1 - Monstrous Musicians"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:40:00.000Z",
+        "end": "2021-05-30T18:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pv9",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b011q84x"
+      },
+      "episode": {
+        "id": "b011q851",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Horrible Histories"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:10:00.000Z",
+        "end": "2021-05-30T18:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pvb",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b08d6491"
+      },
+      "episode": {
+        "id": "b08d6495",
+        "title": "Episode 3 - How We Roll"
+      },
+      "brand": {
+        "title": "My Life"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:40:00.000Z",
+        "end": "2021-05-30T19:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pvd",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b0816yj1"
+      },
+      "episode": {
+        "id": "b0816z24",
+        "title": "Episode 10 - What Would Emmeline Do?"
+      },
+      "brand": {
+        "title": "So Awkward"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:10:00.000Z",
+        "end": "2021-05-30T19:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pvg",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "b09cbn6t"
+      },
+      "episode": {
+        "id": "b09cbnf4",
+        "title": "Episode 13 - TNS: Civil War"
+      },
+      "brand": {
+        "title": "The Next Step"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:35:00.000Z",
+        "end": "2021-05-30T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0pvh",
+      "service": {
+        "id": "cbbc"
+      },
+      "version": {
+        "id": "m0001j5d"
+      },
+      "episode": {
+        "id": "m0001j5f",
+        "title": "This is CBBC!"
+      },
+      "brand": {
+        "title": "This is CBBC!"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:00:00.000Z",
+        "end": "2021-05-30T23:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-26T03:35:24.400Z"
+  },
+  "items": [
+    {
+      "id": "p09hcdhm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-25T23:00:00.000Z",
+        "end": "2021-05-26T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddy",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T05:00:00.000Z",
+        "end": "2021-05-26T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcddz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfg7"
+      },
+      "episode": {
+        "id": "m000wfgb",
+        "title": "Rudan Beaga"
+      },
+      "brand": {
+        "title": "Su Pic (Peek Zoo)"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:00:00.000Z",
+        "end": "2021-05-26T16:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0006x5n"
+      },
+      "episode": {
+        "id": "m0006x5p",
+        "title": "Geàm Parcaidh"
+      },
+      "brand": {
+        "title": "Bing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:10:00.000Z",
+        "end": "2021-05-26T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000lc2f"
+      },
+      "episode": {
+        "id": "m000lc2g",
+        "title": "Reòiteag"
+      },
+      "brand": {
+        "title": "Bing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:15:00.000Z",
+        "end": "2021-05-26T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09cywpr"
+      },
+      "episode": {
+        "id": "b09cywpt",
+        "title": "Episode 17 - Mì-mhodh Musha"
+      },
+      "brand": {
+        "title": "Tree Fu Tom"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:25:00.000Z",
+        "end": "2021-05-26T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j8nhb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08m92zr"
+      },
+      "episode": {
+        "id": "b08m93q6",
+        "title": "Episode 12 - Ri Cleasachd!"
+      },
+      "brand": {
+        "title": "Sù Shiùsaidh/Little Suzy's Zoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:50:00.000Z",
+        "end": "2021-05-26T16:52:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfgf"
+      },
+      "episode": {
+        "id": "m000wfgj",
+        "title": "Dachaigh Ùr do Shionnach Beag"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T16:52:00.000Z",
+        "end": "2021-05-26T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000rhz"
+      },
+      "episode": {
+        "id": "m0000rj0",
+        "title": "Slighe an t-Slabhraidh"
+      },
+      "brand": {
+        "title": "Kung Fu Panda"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:00:00.000Z",
+        "end": "2021-05-26T17:28:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000l9nh"
+      },
+      "episode": {
+        "id": "m000l9nj",
+        "title": "Ball-Bholaidh"
+      },
+      "brand": {
+        "title": "Geamaichean Gorach "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:28:00.000Z",
+        "end": "2021-05-26T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00xwrh5"
+      },
+      "episode": {
+        "id": "b00xws5f",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Saidheans Sporsail"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T17:30:00.000Z",
+        "end": "2021-05-26T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf7",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000kqv5"
+      },
+      "episode": {
+        "id": "m000kqv6",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Port"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:00:00.000Z",
+        "end": "2021-05-26T18:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfgm"
+      },
+      "episode": {
+        "id": "m000wfgq",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:20:00.000Z",
+        "end": "2021-05-26T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdf9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wfgt"
+      },
+      "episode": {
+        "id": "m000wfgw",
+        "title": "Glasgow City v Hearts"
+      },
+      "brand": {
+        "title": "Scottish Women's Premier League"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T18:30:00.000Z",
+        "end": "2021-05-26T20:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdfb",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000vktl"
+      },
+      "episode": {
+        "id": "m000vktm",
+        "title": "Tharais air an Uisge/Over Water"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T20:35:00.000Z",
+        "end": "2021-05-26T20:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdfc",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000qpsb"
+      },
+      "episode": {
+        "id": "m000qpsc",
+        "title": "Na Tuinichean Mi-thoilichte"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T20:45:00.000Z",
+        "end": "2021-05-26T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdfd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000dc60"
+      },
+      "episode": {
+        "id": "m000dc61",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Mach a Seo!"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:00:00.000Z",
+        "end": "2021-05-26T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdff",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000jblk"
+      },
+      "episode": {
+        "id": "m000jbll",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Julie Fowlis | Ceòl aig Baile"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T21:30:00.000Z",
+        "end": "2021-05-26T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hcdfg",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000cgx"
+      },
+      "episode": {
+        "id": "m0000cgy",
+        "title": "Piobairean Lionacleit ann an NY/Lionacleit Pipers in NY"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-05-26T22:00:00.000Z",
+        "end": "2021-05-26T23:00:00.000Z"
+      }
+    }
+  ]
+}

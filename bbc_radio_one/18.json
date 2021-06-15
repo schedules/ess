@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:19:49.040Z"
+  },
+  "items": [
+    {
+      "id": "p09g73hb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w37f"
+      },
+      "episode": {
+        "id": "m000w37h",
+        "title": "'Response' in the DNB Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Drum & Bass Show with René LaVice"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:00:00.000Z",
+        "end": "2021-05-18T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gyfs8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v0zk"
+      },
+      "episode": {
+        "id": "m000v0zl",
+        "title": "Stop stressing"
+      },
+      "brand": {
+        "title": "Radio 1's Decompression Session"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:00:00.000Z",
+        "end": "2021-05-18T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73hd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w371"
+      },
+      "episode": {
+        "id": "m000w373",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Workout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T02:00:00.000Z",
+        "end": "2021-05-18T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73hf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w36x"
+      },
+      "episode": {
+        "id": "m000w36z",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T03:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g73hg",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w3gf"
+      },
+      "episode": {
+        "id": "m000w3gh",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4dz"
+      },
+      "episode": {
+        "id": "m000w4f0",
+        "title": "Another round of Unpopular Opinion!"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T06:00:00.000Z",
+        "end": "2021-05-18T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4f1"
+      },
+      "episode": {
+        "id": "m000w4f2",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Clara Amfo"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:32:00.000Z",
+        "end": "2021-05-18T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4dg"
+      },
+      "episode": {
+        "id": "m000w4dh",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T11:45:00.000Z",
+        "end": "2021-05-18T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj6",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4f3"
+      },
+      "episode": {
+        "id": "m000w4f4",
+        "title": "Vick and Katie are in for Scott and Chris"
+      },
+      "brand": {
+        "title": "Vick Hope and Katie Thistleton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T12:00:00.000Z",
+        "end": "2021-05-18T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj7",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4f5"
+      },
+      "episode": {
+        "id": "m000w4f6",
+        "title": "The People's Postcode Boppery"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T14:32:00.000Z",
+        "end": "2021-05-18T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj8",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4dn"
+      },
+      "episode": {
+        "id": "m000w4dp",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T16:45:00.000Z",
+        "end": "2021-05-18T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vj9",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4f7"
+      },
+      "episode": {
+        "id": "m000w4f8",
+        "title": "James Vincent McMorrow Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:00:00.000Z",
+        "end": "2021-05-18T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4f9"
+      },
+      "episode": {
+        "id": "m000w4fb",
+        "title": "Run RMC: Daft Punk Edition"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T19:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjc",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w4fc"
+      },
+      "episode": {
+        "id": "m000w4fd",
+        "title": "Live Music Fix"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-18T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000w37k"
+      },
+      "episode": {
+        "id": "m000w37m",
+        "title": "Jordan Comolli Quest Mix"
+      },
+      "brand": {
+        "title": "Annie Nightingale presents..."
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T23:00:00.000Z",
+        "end": "2021-05-19T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6vjf",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000v7g1"
+      },
+      "episode": {
+        "id": "m000v7g2",
+        "title": "Tom Misch, Clairo, TLC and more"
+      },
+      "brand": {
+        "title": "Radio 1's Chillout Anthems"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-19T01:00:00.000Z",
+        "end": "2021-05-19T02:00:00.000Z"
+      }
+    }
+  ]
+}

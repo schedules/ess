@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_ulster"
+  },
+  "service": {
+    "id": "bbc_radio_ulster",
+    "name": "BBC Radio Ulster",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-28T03:42:16.957Z"
+  },
+  "items": [
+    {
+      "id": "p09gwwv0",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000h8yl"
+      },
+      "episode": {
+        "id": "m000h8ym",
+        "title": "As BBC Radio 5 live"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:00:00.000Z",
+        "end": "2021-05-28T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h3",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wd9d"
+      },
+      "episode": {
+        "id": "m000wd9f",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Good Morning Ulster"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T05:30:00.000Z",
+        "end": "2021-05-28T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h4",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wd9j"
+      },
+      "episode": {
+        "id": "m000wd9k",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "The Nolan Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T08:00:00.000Z",
+        "end": "2021-05-28T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h5",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wd9l"
+      },
+      "episode": {
+        "id": "m000wd9m",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "The Connor Phillips Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T09:30:00.000Z",
+        "end": "2021-05-28T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h6",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wd9n"
+      },
+      "episode": {
+        "id": "m000wd9p",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Talkback"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T11:00:00.000Z",
+        "end": "2021-05-28T12:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h7",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdcs"
+      },
+      "episode": {
+        "id": "m000wdct",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Hugo Duncan"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T12:30:00.000Z",
+        "end": "2021-05-28T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h8",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdcv"
+      },
+      "episode": {
+        "id": "m000wdcw",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T14:00:00.000Z",
+        "end": "2021-05-28T14:04:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05h9",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdcx"
+      },
+      "episode": {
+        "id": "m000wdcy",
+        "title": "Ben Ofoedu & Texas"
+      },
+      "brand": {
+        "title": "The Vinny Hurrell Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T14:04:00.000Z",
+        "end": "2021-05-28T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hb",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wd9z"
+      },
+      "episode": {
+        "id": "m000wdb0",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Evening Extra"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T15:00:00.000Z",
+        "end": "2021-05-28T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hc",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdb1"
+      },
+      "episode": {
+        "id": "m000wdb2",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Inside Business"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T16:30:00.000Z",
+        "end": "2021-05-28T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hd",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdb3"
+      },
+      "episode": {
+        "id": "m000wdb4",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:00:00.000Z",
+        "end": "2021-05-28T17:05:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hf",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdb5"
+      },
+      "episode": {
+        "id": "m000wdb6",
+        "title": "Shaun Ryder Joins The Party!"
+      },
+      "brand": {
+        "title": "The House Party with Phil Taggart "
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T17:05:00.000Z",
+        "end": "2021-05-28T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hg",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdd0"
+      },
+      "episode": {
+        "id": "m000wdd2",
+        "title": "John, John, John And The Smell Of Dinner - Aerial Salad, Fogerty , PIL and Masi Masi."
+      },
+      "brand": {
+        "title": "The Mickey Bradley Record Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T18:30:00.000Z",
+        "end": "2021-05-28T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hh",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdb9"
+      },
+      "episode": {
+        "id": "m000wdbb",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Blas Ceoil"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T20:30:00.000Z",
+        "end": "2021-05-28T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hj",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdbc"
+      },
+      "episode": {
+        "id": "m000wdbd",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "Folk Club with Lynette Fay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T21:30:00.000Z",
+        "end": "2021-05-28T22:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09h05hk",
+      "service": {
+        "id": "bbc_radio_ulster"
+      },
+      "version": {
+        "id": "m000wdbf"
+      },
+      "episode": {
+        "id": "m000wdbg",
+        "title": "28/05/2021"
+      },
+      "brand": {
+        "title": "BBC News NI update"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_ulster"
+      },
+      "published_time": {
+        "start": "2021-05-28T22:55:00.000Z",
+        "end": "2021-05-28T23:00:00.000Z"
+      }
+    }
+  ]
+}

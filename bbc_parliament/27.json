@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_parliament"
+  },
+  "service": {
+    "id": "bbc_parliament",
+    "name": "BBC Parliament",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-27T03:27:18.070Z"
+  },
+  "items": [
+    {
+      "id": "p09hj4zj",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wgrv"
+      },
+      "episode": {
+        "id": "m000wgrw",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-26T23:05:00.000Z",
+        "end": "2021-05-27T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zl",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk20"
+      },
+      "episode": {
+        "id": "m000wk21",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T00:50:00.000Z",
+        "end": "2021-05-27T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zf",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk22"
+      },
+      "episode": {
+        "id": "m000wk23",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "House of Lords"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T05:00:00.000Z",
+        "end": "2021-05-27T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zk",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk1y"
+      },
+      "episode": {
+        "id": "m000wk1z",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Wednesday in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T08:00:00.000Z",
+        "end": "2021-05-27T08:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zm",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk24"
+      },
+      "episode": {
+        "id": "m000wk25",
+        "title": "Live Cabinet Office Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T08:30:00.000Z",
+        "end": "2021-05-27T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq81s",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxq9"
+      },
+      "episode": {
+        "id": "m000wxqb",
+        "title": "Live NHS and Covid-19 Urgent Question"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T09:30:00.000Z",
+        "end": "2021-05-27T10:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq81t",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqc"
+      },
+      "episode": {
+        "id": "m000wxqd",
+        "title": "Live Australian Trade Deal Urgent Question"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T10:15:00.000Z",
+        "end": "2021-05-27T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zn",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk26"
+      },
+      "episode": {
+        "id": "m000wk27",
+        "title": "Live Business Questions"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T11:00:00.000Z",
+        "end": "2021-05-27T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zq",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk28"
+      },
+      "episode": {
+        "id": "m000wk29",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "House of Commons"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T12:00:00.000Z",
+        "end": "2021-05-27T16:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zr",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000whvx"
+      },
+      "episode": {
+        "id": "m000whvy",
+        "title": "26/05/2021"
+      },
+      "brand": {
+        "title": "Debate Night"
+      },
+      "masterbrand": {
+        "id": "bbc_scotland"
+      },
+      "published_time": {
+        "start": "2021-05-27T16:30:00.000Z",
+        "end": "2021-05-27T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq81v",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqf"
+      },
+      "episode": {
+        "id": "m000wxqg",
+        "title": "Dominic Cummings and Covid-19 Committee - Part 1"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T16:30:00.000Z",
+        "end": "2021-05-27T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq81w",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqh"
+      },
+      "episode": {
+        "id": "m000wxqj",
+        "title": "Dominic Cummings and Covid-19 Committee - Part 2"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T19:00:00.000Z",
+        "end": "2021-05-27T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zt",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wj7y"
+      },
+      "episode": {
+        "id": "m000wj7z",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T22:00:00.000Z",
+        "end": "2021-05-27T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zv",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wk2d"
+      },
+      "episode": {
+        "id": "m000wk2f",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Scottish First Minister's Questions"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-27T22:30:00.000Z",
+        "end": "2021-05-27T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hj4zw",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wgt7"
+      },
+      "episode": {
+        "id": "m000wgt8",
+        "title": "27/05/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-27T23:30:00.000Z",
+        "end": "2021-05-28T00:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jq81x",
+      "service": {
+        "id": "bbc_parliament"
+      },
+      "version": {
+        "id": "m000wxqk"
+      },
+      "episode": {
+        "id": "m000wxql",
+        "title": "Dominic Cummings and Covid-19 Committee - Part 3"
+      },
+      "brand": {
+        "title": "Select Committees"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-05-28T00:15:00.000Z",
+        "end": "2021-05-28T01:45:00.000Z"
+      }
+    }
+  ]
+}

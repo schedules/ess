@@ -1,0 +1,403 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_wales_fm"
+  },
+  "service": {
+    "id": "bbc_radio_wales_fm",
+    "name": "BBC Radio Wales FM",
+    "type": "Regional Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-06T03:43:05.902Z"
+  },
+  "items": [
+    {
+      "id": "p09j60g5",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws43"
+      },
+      "episode": {
+        "id": "m000ws44",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "BBC Introducing with Adam Walton"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j60g6",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000ws45"
+      },
+      "episode": {
+        "id": "m000ws46",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "As BBC Radio 5 Live"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691h",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wmzr"
+      },
+      "episode": {
+        "id": "m000wmzs",
+        "title": "Dream Horse, the Brexit novel, a heritage thriller and Gruff Rhys's volcano muse"
+      },
+      "brand": {
+        "title": "The Review Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:00:00.000Z",
+        "end": "2021-06-06T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691l",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wj95"
+      },
+      "episode": {
+        "id": "m000wj98",
+        "title": "Viruses"
+      },
+      "brand": {
+        "title": "Uninvited"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T05:30:00.000Z",
+        "end": "2021-06-06T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691p",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wqq8"
+      },
+      "episode": {
+        "id": "m000wqq9",
+        "title": "Tackling the Climate Emergency"
+      },
+      "brand": {
+        "title": "Country Focus"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T06:00:00.000Z",
+        "end": "2021-06-06T06:31:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691r",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr7q"
+      },
+      "episode": {
+        "id": "m000wr7r",
+        "title": "Rev'd Dr Phil Wall"
+      },
+      "brand": {
+        "title": "Celebration"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T06:31:00.000Z",
+        "end": "2021-06-06T07:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691t",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr7s"
+      },
+      "episode": {
+        "id": "m000wr7t",
+        "title": "Covid rules, holiday homes and gender politics in football"
+      },
+      "brand": {
+        "title": "Sunday Supplement"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T07:00:00.000Z",
+        "end": "2021-06-06T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691x",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr7v"
+      },
+      "episode": {
+        "id": "m000wr7w",
+        "title": "The Call"
+      },
+      "brand": {
+        "title": "All Things Considered"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:00:00.000Z",
+        "end": "2021-06-06T08:31:00.000Z"
+      }
+    },
+    {
+      "id": "p09j691y",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr7x"
+      },
+      "episode": {
+        "id": "m000wr7y",
+        "title": "Eamonn Holmes and Gabrielle Creevy"
+      },
+      "brand": {
+        "title": "Sunday Morning with Colin Jackson and Suzanne Packer"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T08:31:00.000Z",
+        "end": "2021-06-06T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6921",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr7z"
+      },
+      "episode": {
+        "id": "m000wr80",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Owen Money's Solid Gold Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T10:00:00.000Z",
+        "end": "2021-06-06T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6923",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr81"
+      },
+      "episode": {
+        "id": "m000wr82",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Kiri Pritchard-McLean"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T12:00:00.000Z",
+        "end": "2021-06-06T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6926",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr83"
+      },
+      "episode": {
+        "id": "m000wr84",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Lynn Bowles"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T14:00:00.000Z",
+        "end": "2021-06-06T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6928",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr85"
+      },
+      "episode": {
+        "id": "m000wr86",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Roy Noble"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T16:00:00.000Z",
+        "end": "2021-06-06T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6929",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wl9w"
+      },
+      "episode": {
+        "id": "m000wl9x",
+        "title": "This Week at Hay"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:00:00.000Z",
+        "end": "2021-06-06T18:28:00.000Z"
+      }
+    },
+    {
+      "id": "p09j692c",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr87"
+      },
+      "episode": {
+        "id": "m000wr7r",
+        "title": "Rev'd Dr Phil Wall"
+      },
+      "brand": {
+        "title": "Celebration"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T18:28:00.000Z",
+        "end": "2021-06-06T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j692f",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr88"
+      },
+      "episode": {
+        "id": "m000wr89",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Celtic Heartbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T19:00:00.000Z",
+        "end": "2021-06-06T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j692j",
+      "service": {
+        "id": "bbc_radio_wales_fm"
+      },
+      "version": {
+        "id": "m000wr8b"
+      },
+      "episode": {
+        "id": "m000wr8c",
+        "title": "06/06/2021"
+      },
+      "brand": {
+        "title": "Beverley's World of Music"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_wales"
+      },
+      "published_time": {
+        "start": "2021-06-06T21:00:00.000Z",
+        "end": "2021-06-07T00:00:00.000Z"
+      }
+    }
+  ]
+}

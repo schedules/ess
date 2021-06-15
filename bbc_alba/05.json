@@ -1,0 +1,472 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-05T03:35:44.436Z"
+  },
+  "items": [
+    {
+      "id": "p09j0x80",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-04T23:00:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0000j8d"
+      },
+      "episode": {
+        "id": "m0000j8g",
+        "title": "Am Partan/The Shore Crab"
+      },
+      "brand": {
+        "title": "Gudrun - A' Bhana-phrionnsa Lochlannach"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:00:00.000Z",
+        "end": "2021-06-05T15:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn1l"
+      },
+      "episode": {
+        "id": "m000wn1m",
+        "title": "An Argamaid"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:10:00.000Z",
+        "end": "2021-06-05T15:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznp",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09dby94"
+      },
+      "episode": {
+        "id": "b09dby9h",
+        "title": "Episode 18 - Deòrsa Fuamhaireil"
+      },
+      "brand": {
+        "title": "Tree Fu Tom"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:25:00.000Z",
+        "end": "2021-06-05T15:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznq",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09qcsc4"
+      },
+      "episode": {
+        "id": "b09qcscj",
+        "title": "Episode 5 - Pàdraig Post agus A' Phartaidh Fhoileagan"
+      },
+      "brand": {
+        "title": "Padraig Post: Seirbheis Deis agus Sonraichte"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:45:00.000Z",
+        "end": "2021-06-05T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fjc8"
+      },
+      "episode": {
+        "id": "m000fjc9",
+        "title": "Searbhant Mamaidh Mùman"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:00:00.000Z",
+        "end": "2021-06-05T16:23:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzns",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000lkdl"
+      },
+      "episode": {
+        "id": "m000lkdm",
+        "title": "Ball-Coise"
+      },
+      "brand": {
+        "title": "Geamaichean Gorach "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:23:00.000Z",
+        "end": "2021-06-05T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznt",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wn1q"
+      },
+      "episode": {
+        "id": "m000wn1r",
+        "title": "An Ìre as Àirde/Level Up Matilda!"
+      },
+      "brand": {
+        "title": "Port Paipeir"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:25:00.000Z",
+        "end": "2021-06-05T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000ft23"
+      },
+      "episode": {
+        "id": "m000ft24",
+        "title": "Episode 17"
+      },
+      "brand": {
+        "title": "An Rud As Fhearr Leam"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:40:00.000Z",
+        "end": "2021-06-05T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznw",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvqg"
+      },
+      "episode": {
+        "id": "m000wvqh",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T16:45:00.000Z",
+        "end": "2021-06-05T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b0890t8j"
+      },
+      "episode": {
+        "id": "b0890t8q",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Farpaisean Chon-Chaorach"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T17:00:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzny",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00pgyql"
+      },
+      "episode": {
+        "id": "b00pgyrx",
+        "title": "25/12/2009 - Tiugainn a Dhannsa"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnznz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b006b9nr"
+      },
+      "episode": {
+        "id": "b007hwx1",
+        "title": "Episode 4 - Kintail and Glen Affric"
+      },
+      "brand": {
+        "title": "Tir Is Teanga"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:00:00.000Z",
+        "end": "2021-06-05T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzp0",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08fd4y7"
+      },
+      "episode": {
+        "id": "b08fd506",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Taigheadas Dùthchail/Rural Housing"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T19:30:00.000Z",
+        "end": "2021-06-05T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzp1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b07z2fx1"
+      },
+      "episode": {
+        "id": "b07z2g0n",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:00:00.000Z",
+        "end": "2021-06-05T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzp2",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0001fph"
+      },
+      "episode": {
+        "id": "m0001fpk",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Slighean Sgoile an t-Saoghail/Most Dangerous Ways to School"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:00:00.000Z",
+        "end": "2021-06-05T21:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzp3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvqj"
+      },
+      "episode": {
+        "id": "m000wvqk",
+        "title": "Episode 9"
+      },
+      "brand": {
+        "title": "Dealbh is Slighe"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T21:50:00.000Z",
+        "end": "2021-06-05T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzp4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0008lt7"
+      },
+      "episode": {
+        "id": "m0008lt8",
+        "title": "2019"
+      },
+      "brand": {
+        "title": "Tatù Rìoghail Dhùn Èideann/Edinburgh Military Tattoo"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:00:00.000Z",
+        "end": "2021-06-05T23:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09jnzp5",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000rgsf"
+      },
+      "episode": {
+        "id": "m000rgsg",
+        "title": "Episode 3"
+      },
+      "brand": {
+        "title": "ALT"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:45:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    }
+  ]
+}

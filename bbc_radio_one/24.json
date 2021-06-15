@@ -1,0 +1,796 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_one"
+  },
+  "service": {
+    "id": "bbc_radio_one",
+    "name": "BBC Radio 1",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-24T03:21:59.828Z"
+  },
+  "items": [
+    {
+      "id": "p09gw1gx",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb7w"
+      },
+      "episode": {
+        "id": "m000wb7y",
+        "title": "BBC Introducing at Big Weekend Preview!"
+      },
+      "brand": {
+        "title": "BBC Introducing on Radio 1"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T22:00:00.000Z",
+        "end": "2021-05-23T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1h0",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb80"
+      },
+      "episode": {
+        "id": "m000wb82",
+        "title": "Ell Murphy & Stones Taro Dancefloor Moment!"
+      },
+      "brand": {
+        "title": "BBC Introducing Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-23T23:30:00.000Z",
+        "end": "2021-05-24T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1h2",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb12"
+      },
+      "episode": {
+        "id": "m000wb13",
+        "title": "Amelie Lens"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T00:00:00.000Z",
+        "end": "2021-05-24T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1h3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb14"
+      },
+      "episode": {
+        "id": "m000wb15",
+        "title": "Avalon Emerson"
+      },
+      "brand": {
+        "title": "Radio 1's Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T01:00:00.000Z",
+        "end": "2021-05-24T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1h5",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb84"
+      },
+      "episode": {
+        "id": "m000wb86",
+        "title": "Nick Grimshaw Chill Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T02:00:00.000Z",
+        "end": "2021-05-24T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gym0p",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd7m"
+      },
+      "episode": {
+        "id": "m000wd7n",
+        "title": "Little Mix"
+      },
+      "brand": {
+        "title": "Radio 1's Big Weekend Headliners"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_webonly"
+      },
+      "published_time": {
+        "start": "2021-05-24T02:30:00.000Z",
+        "end": "2021-05-24T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1hb",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb10"
+      },
+      "episode": {
+        "id": "m000wb11",
+        "title": "24/7 Dance..."
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T03:00:00.000Z",
+        "end": "2021-05-24T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1hd",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wb88"
+      },
+      "episode": {
+        "id": "m000wb8b",
+        "title": "with Arielle Free"
+      },
+      "brand": {
+        "title": "Radio 1 Early Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T04:00:00.000Z",
+        "end": "2021-05-24T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jk",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbws"
+      },
+      "episode": {
+        "id": "m000wbwt",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1 Breakfast with Greg James"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T06:00:00.000Z",
+        "end": "2021-05-24T09:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jm",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbwv"
+      },
+      "episode": {
+        "id": "m000wbww",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Clara Amfo"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T09:32:00.000Z",
+        "end": "2021-05-24T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jp",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbkc"
+      },
+      "episode": {
+        "id": "m000wbkd",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T11:45:00.000Z",
+        "end": "2021-05-24T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jq",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbwx"
+      },
+      "episode": {
+        "id": "m000wbwy",
+        "title": "Whoo Game"
+      },
+      "brand": {
+        "title": "Scott Mills"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T12:00:00.000Z",
+        "end": "2021-05-24T14:32:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1js",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbwz"
+      },
+      "episode": {
+        "id": "m000wbx0",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Nick Grimshaw"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T14:32:00.000Z",
+        "end": "2021-05-24T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jw",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbkk"
+      },
+      "episode": {
+        "id": "m000wbkl",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T16:45:00.000Z",
+        "end": "2021-05-24T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jy",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbx1"
+      },
+      "episode": {
+        "id": "m000wbx2",
+        "title": "Easy Life Hottest Record"
+      },
+      "brand": {
+        "title": "Radio 1's Future Sounds with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T17:00:00.000Z",
+        "end": "2021-05-24T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1jz",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbx3"
+      },
+      "episode": {
+        "id": "m000wbx4",
+        "title": "24/05/2021"
+      },
+      "brand": {
+        "title": "Radio 1's Power Down Playlist with Annie Mac"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T18:00:00.000Z",
+        "end": "2021-05-24T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1k3",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbx5"
+      },
+      "episode": {
+        "id": "m000wbx6",
+        "title": "The Rickie and Melvin Show"
+      },
+      "brand": {
+        "title": "Rickie, Melvin and Charlie"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T19:00:00.000Z",
+        "end": "2021-05-24T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gw1k4",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wbx7"
+      },
+      "episode": {
+        "id": "m000wbx8",
+        "title": "Big Weekend Recommendations"
+      },
+      "brand": {
+        "title": "Radio 1's Future Artists with Jack Saunders"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T21:00:00.000Z",
+        "end": "2021-05-24T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6nt",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj5x"
+      },
+      "episode": {
+        "id": "m000wj5y",
+        "title": "High Contrast (2020)"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:00:00.000Z",
+        "end": "2021-05-24T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hh6nv",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wj5z"
+      },
+      "episode": {
+        "id": "m000wj60",
+        "title": "Camelphat (2020)"
+      },
+      "brand": {
+        "title": "Radio 1 Dance"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-24T23:30:00.000Z",
+        "end": "2021-05-25T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gym2j",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd7s"
+      },
+      "episode": {
+        "id": "m000wd7t",
+        "title": "Clairo"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:00:00.000Z",
+        "end": "2021-05-25T00:09:00.000Z"
+      }
+    },
+    {
+      "id": "p09gym2l",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd7w"
+      },
+      "episode": {
+        "id": "m000wd7x",
+        "title": "Dodie"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:09:00.000Z",
+        "end": "2021-05-25T00:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09gym2m",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd7y"
+      },
+      "episode": {
+        "id": "m000wd7z",
+        "title": "Foals"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:15:00.000Z",
+        "end": "2021-05-25T00:22:00.000Z"
+      }
+    },
+    {
+      "id": "p09gym2n",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wd80"
+      },
+      "episode": {
+        "id": "m000wd81",
+        "title": "girl in red"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:22:00.000Z",
+        "end": "2021-05-25T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp40",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjnl"
+      },
+      "episode": {
+        "id": "m000wjnm",
+        "title": "Griff"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:30:00.000Z",
+        "end": "2021-05-25T00:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp41",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjnn"
+      },
+      "episode": {
+        "id": "m000wjnp",
+        "title": "HAIM"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:40:00.000Z",
+        "end": "2021-05-25T00:46:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp42",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjnq"
+      },
+      "episode": {
+        "id": "m000wjnr",
+        "title": "King Princess"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:46:00.000Z",
+        "end": "2021-05-25T00:54:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp43",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjns"
+      },
+      "episode": {
+        "id": "m000wjnt",
+        "title": "Låpsley"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T00:54:00.000Z",
+        "end": "2021-05-25T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp44",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjnv"
+      },
+      "episode": {
+        "id": "m000wjnw",
+        "title": "Lianne La Havas"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:00:00.000Z",
+        "end": "2021-05-25T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp45",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjnx"
+      },
+      "episode": {
+        "id": "m000wjny",
+        "title": "Mac Demarco"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:10:00.000Z",
+        "end": "2021-05-25T01:16:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp46",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjnz"
+      },
+      "episode": {
+        "id": "m000wjp0",
+        "title": "Phoebe Bridgers feat. Arlo Parks"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:16:00.000Z",
+        "end": "2021-05-25T01:24:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp47",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjp1"
+      },
+      "episode": {
+        "id": "m000wjp2",
+        "title": "Thom Yorke"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:24:00.000Z",
+        "end": "2021-05-25T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp48",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjp3"
+      },
+      "episode": {
+        "id": "m000wjp4",
+        "title": "Tom Grennan"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:30:00.000Z",
+        "end": "2021-05-25T01:39:00.000Z"
+      }
+    },
+    {
+      "id": "p09hhp49",
+      "service": {
+        "id": "bbc_radio_one"
+      },
+      "version": {
+        "id": "m000wjp5"
+      },
+      "episode": {
+        "id": "m000wjp6",
+        "title": "Alessia Cara"
+      },
+      "brand": {
+        "title": "Radio 1's Piano Sessions"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-05-25T01:39:00.000Z",
+        "end": "2021-05-25T02:00:00.000Z"
+      }
+    }
+  ]
+}

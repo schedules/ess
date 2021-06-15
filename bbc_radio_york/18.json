@@ -1,0 +1,221 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-18T03:32:09.509Z"
+  },
+  "items": [
+    {
+      "id": "p09gt1pw",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gl4qv"
+      },
+      "episode": {
+        "id": "p09gl4qb",
+        "title": "Russell Walker: Songs for Monkeys"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-18T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt28s",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09g41f6"
+      },
+      "episode": {
+        "id": "p09g41f1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:00:00.000Z",
+        "end": "2021-05-18T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt28t",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09g4czt"
+      },
+      "episode": {
+        "id": "p09g41fd",
+        "title": "Claira Hermet sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-05-18T04:00:00.000Z",
+        "end": "2021-05-18T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt293",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt28y"
+      },
+      "episode": {
+        "id": "p09gt28v",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Georgey Spanswick at Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-18T05:00:00.000Z",
+        "end": "2021-05-18T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt29l",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt29g"
+      },
+      "episode": {
+        "id": "p09gt297",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Jonathan Cowap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-18T09:00:00.000Z",
+        "end": "2021-05-18T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt29x",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt29s"
+      },
+      "episode": {
+        "id": "p09gt29n",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Joanita Musisi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-18T13:00:00.000Z",
+        "end": "2021-05-18T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2b7",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt2b5"
+      },
+      "episode": {
+        "id": "p09gt29y",
+        "title": "David Ward sits in (18/05/2021)"
+      },
+      "brand": {
+        "title": "Sharon Shortle"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-18T17:00:00.000Z",
+        "end": "2021-05-18T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2bh",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gt1rl"
+      },
+      "episode": {
+        "id": "p09gt1rf",
+        "title": "Benjamin Francis Leftwich in session with Jericho Keys (15/05/21)"
+      },
+      "brand": {
+        "title": "BBC Music Introducing in York and North Yorkshire"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-05-18T19:00:00.000Z",
+        "end": "2021-05-18T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gt2bp",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09gl5c9"
+      },
+      "episode": {
+        "id": "p09gl5c1",
+        "title": "18/05/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-05-18T21:00:00.000Z",
+        "end": "2021-05-19T00:00:00.000Z"
+      }
+    }
+  ]
+}

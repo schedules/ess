@@ -1,0 +1,405 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-11T03:37:55.300Z"
+  },
+  "items": [
+    {
+      "id": "p09j6jy0",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt88"
+      },
+      "episode": {
+        "id": "m000wt89",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Snoochie Shy"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-10T22:00:00.000Z",
+        "end": "2021-06-11T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hkdrx",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wlmr"
+      },
+      "episode": {
+        "id": "m000wlms",
+        "title": "MPH Guest Mix + Master KG First Play"
+      },
+      "brand": {
+        "title": "Radio 1's Soundsystem with Jeremiah Asiamah"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T00:00:00.000Z",
+        "end": "2021-06-11T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jy2",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wt8b"
+      },
+      "episode": {
+        "id": "m000wt8c",
+        "title": "What’s going on in Nigeria right now?"
+      },
+      "brand": {
+        "title": "If You Don't Know"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T02:00:00.000Z",
+        "end": "2021-06-11T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j6jy3",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wlpc"
+      },
+      "episode": {
+        "id": "m000wlpd",
+        "title": "Demarco"
+      },
+      "brand": {
+        "title": "Seani B"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T03:00:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9lrz",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtjn"
+      },
+      "episode": {
+        "id": "m000wtjp",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls0",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wm2m"
+      },
+      "episode": {
+        "id": "m000wm2n",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra Playlists"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:30:00.000Z",
+        "end": "2021-06-11T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls1",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtjq"
+      },
+      "episode": {
+        "id": "m000wtjr",
+        "title": "Friday Fun"
+      },
+      "brand": {
+        "title": "The 1Xtra Breakfast Show with Nadia Jae"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T06:00:00.000Z",
+        "end": "2021-06-11T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls2",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtjs"
+      },
+      "episode": {
+        "id": "m000wtjt",
+        "title": "Film Friday"
+      },
+      "brand": {
+        "title": "Ace"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T09:00:00.000Z",
+        "end": "2021-06-11T11:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls3",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtjv"
+      },
+      "episode": {
+        "id": "m000wtjw",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T11:45:00.000Z",
+        "end": "2021-06-11T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls4",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtjx"
+      },
+      "episode": {
+        "id": "m000wtjy",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Yasmin Evans"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T12:00:00.000Z",
+        "end": "2021-06-11T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls5",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtjz"
+      },
+      "episode": {
+        "id": "m000wtk0",
+        "title": "On This Day"
+      },
+      "brand": {
+        "title": "Sian Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T15:00:00.000Z",
+        "end": "2021-06-11T16:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls6",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtk1"
+      },
+      "episode": {
+        "id": "m000wtk2",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Newsbeat"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:45:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls7",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtk3"
+      },
+      "episode": {
+        "id": "m000wtk4",
+        "title": "The Soundclash With Hamzaa"
+      },
+      "brand": {
+        "title": "Sian Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls8",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtk5"
+      },
+      "episode": {
+        "id": "m000wtk6",
+        "title": "Afrobeats & Amapiano Genre Clash"
+      },
+      "brand": {
+        "title": "Jeremiah Asiamah"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9ls9",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtk7"
+      },
+      "episode": {
+        "id": "m000wtk8",
+        "title": "Wild Weekends Get Lit Mix"
+      },
+      "brand": {
+        "title": "Jeremiah Asiamah"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:30:00.000Z",
+        "end": "2021-06-11T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9lsb",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtk9"
+      },
+      "episode": {
+        "id": "m000wtkb",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Kenny Allstar"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T20:00:00.000Z",
+        "end": "2021-06-11T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j9lsc",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wtkc"
+      },
+      "episode": {
+        "id": "m000wtkd",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "Sir Spyro"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:00:00.000Z",
+        "end": "2021-06-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

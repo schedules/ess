@@ -1,0 +1,244 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_york"
+  },
+  "service": {
+    "id": "bbc_radio_york",
+    "name": "BBC Radio York",
+    "type": "Local Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-04T03:41:28.007Z"
+  },
+  "items": [
+    {
+      "id": "p09hxn9q",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09htbzp"
+      },
+      "episode": {
+        "id": "p09htbzh",
+        "title": "Russell Walker: Songs for Knitting & Sewing"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-03T21:00:00.000Z",
+        "end": "2021-06-04T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn1s",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hghtn"
+      },
+      "episode": {
+        "id": "p09hghth",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Dotun Adebayo with BBC Radio 5 live"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T00:00:00.000Z",
+        "end": "2021-06-04T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn24",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hl55j"
+      },
+      "episode": {
+        "id": "p09hghv6",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Jason Rosam"
+      },
+      "masterbrand": {
+        "id": "bbc_london"
+      },
+      "published_time": {
+        "start": "2021-06-04T04:00:00.000Z",
+        "end": "2021-06-04T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn2h",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn2b"
+      },
+      "episode": {
+        "id": "p09hxn28",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Georgey Spanswick at Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-04T05:00:00.000Z",
+        "end": "2021-06-04T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn2q",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn2l"
+      },
+      "episode": {
+        "id": "p09hxn2j",
+        "title": "Julia Lewis sits  in (04/06/2021)"
+      },
+      "brand": {
+        "title": "Jonathan Cowap"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-04T09:00:00.000Z",
+        "end": "2021-06-04T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn31",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn2y"
+      },
+      "episode": {
+        "id": "p09hxn2v",
+        "title": "Sarah Urwin sits in (04/06/2021)"
+      },
+      "brand": {
+        "title": "Joanita Musisi"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-04T13:00:00.000Z",
+        "end": "2021-06-04T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn38",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09hxn35"
+      },
+      "episode": {
+        "id": "p09hxn33",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "BBC Radio York Sport"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_york"
+      },
+      "published_time": {
+        "start": "2021-06-04T17:00:00.000Z",
+        "end": "2021-06-04T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jl2px",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09jl2pr"
+      },
+      "episode": {
+        "id": "p09htcc9",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "George Smith"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-04T18:00:00.000Z",
+        "end": "2021-06-04T20:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn3b",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09htccp"
+      },
+      "episode": {
+        "id": "p09htcck",
+        "title": "Big hits from 2009, with Calvin Harris, Lady Gaga and Metro Station"
+      },
+      "brand": {
+        "title": "Let's Get Noughties"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_lincolnshire"
+      },
+      "published_time": {
+        "start": "2021-06-04T20:30:00.000Z",
+        "end": "2021-06-04T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hxn3d",
+      "service": {
+        "id": "bbc_radio_york"
+      },
+      "version": {
+        "id": "p09htccz"
+      },
+      "episode": {
+        "id": "p09htccx",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Russell Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_local_radio"
+      },
+      "published_time": {
+        "start": "2021-06-04T21:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    }
+  ]
+}

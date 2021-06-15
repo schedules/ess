@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_6music"
+  },
+  "service": {
+    "id": "bbc_6music",
+    "name": "BBC Radio 6 Music",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-08T03:33:47.279Z"
+  },
+  "items": [
+    {
+      "id": "p09j5sfc",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000qj66"
+      },
+      "episode": {
+        "id": "m000qj67",
+        "title": "In Their Own Words: St. Vincent"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-07T23:00:00.000Z",
+        "end": "2021-06-08T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sfd",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0001pqm"
+      },
+      "episode": {
+        "id": "m0001pqn",
+        "title": "St. Vincent 6 Music Wise Woman 2014"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T00:00:00.000Z",
+        "end": "2021-06-08T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sff",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000qj6c"
+      },
+      "episode": {
+        "id": "m000qj6d",
+        "title": "St. Vincent Live"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T01:00:00.000Z",
+        "end": "2021-06-08T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sfj",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b0b91v4b"
+      },
+      "episode": {
+        "id": "b0b91v71",
+        "title": "The First Time with St. Vincent"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T02:00:00.000Z",
+        "end": "2021-06-08T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sfk",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000qj6h"
+      },
+      "episode": {
+        "id": "m000qj6j",
+        "title": "The St. Vincent Playlist"
+      },
+      "brand": {
+        "title": "6 Music Artist Collection"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T03:00:00.000Z",
+        "end": "2021-06-08T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5sfl",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000ws11"
+      },
+      "episode": {
+        "id": "m000ws12",
+        "title": "Lost Love"
+      },
+      "brand": {
+        "title": "Chris Hawkins"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T04:00:00.000Z",
+        "end": "2021-06-08T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656p",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsq4"
+      },
+      "episode": {
+        "id": "m000wsq5",
+        "title": "The Maths of Life and 6 Music Salutes"
+      },
+      "brand": {
+        "title": "Lauren Laverne"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T06:30:00.000Z",
+        "end": "2021-06-08T09:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656q",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsq6"
+      },
+      "episode": {
+        "id": "m000wsq7",
+        "title": "Jamz Supernova sits in"
+      },
+      "brand": {
+        "title": "Mary Anne Hobbs"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T09:30:00.000Z",
+        "end": "2021-06-08T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656s",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsq8"
+      },
+      "episode": {
+        "id": "m000wsq9",
+        "title": "Ep 576 - New music from Walt Disco"
+      },
+      "brand": {
+        "title": "Shaun Keaveny"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T12:00:00.000Z",
+        "end": "2021-06-08T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656t",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsqb"
+      },
+      "episode": {
+        "id": "m000wsqc",
+        "title": "Kid Critics"
+      },
+      "brand": {
+        "title": "Steve Lamacq"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T15:00:00.000Z",
+        "end": "2021-06-08T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656w",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsqd"
+      },
+      "episode": {
+        "id": "m000wsqf",
+        "title": "Ezra Furman"
+      },
+      "brand": {
+        "title": "Loud and Proud"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T18:00:00.000Z",
+        "end": "2021-06-08T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656y",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsqg"
+      },
+      "episode": {
+        "id": "m000wsqh",
+        "title": "John Grant"
+      },
+      "brand": {
+        "title": "Loud and Proud"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T20:00:00.000Z",
+        "end": "2021-06-08T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j656z",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m000wsqj"
+      },
+      "episode": {
+        "id": "m000wsqk",
+        "title": "Vol 3. A Touch of Paisley: hippie, trippy and totally far out"
+      },
+      "brand": {
+        "title": "6 Music Artist in Residence"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:00:00.000Z",
+        "end": "2021-06-09T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j77rq",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "m0002ly2"
+      },
+      "episode": {
+        "id": "m0002ly4",
+        "title": "Carol Morley"
+      },
+      "brand": {
+        "title": "Sound and Vision"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-09T00:00:00.000Z",
+        "end": "2021-06-09T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j77rs",
+      "service": {
+        "id": "bbc_6music"
+      },
+      "version": {
+        "id": "b09g0q2z"
+      },
+      "episode": {
+        "id": "b09g0qf7",
+        "title": "Cillian Murphy"
+      },
+      "brand": {
+        "title": "Sound and Vision"
+      },
+      "masterbrand": {
+        "id": "bbc_6music"
+      },
+      "published_time": {
+        "start": "2021-06-09T01:00:00.000Z",
+        "end": "2021-06-09T02:00:00.000Z"
+      }
+    }
+  ]
+}

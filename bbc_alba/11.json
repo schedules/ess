@@ -1,0 +1,445 @@
+{
+  "filters": {
+    "serviceId": "bbc_alba"
+  },
+  "service": {
+    "id": "bbc_alba",
+    "name": "BBC ALBA",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-11T03:34:40.905Z"
+  },
+  "items": [
+    {
+      "id": "p09jp24l",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-10T23:00:00.000Z",
+        "end": "2021-06-11T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0mm",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m0003z44"
+      },
+      "episode": {
+        "id": "m0003z46",
+        "title": "Alba Today"
+      },
+      "brand": {
+        "title": "Alba Today"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T05:00:00.000Z",
+        "end": "2021-06-11T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0mn",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvpt"
+      },
+      "episode": {
+        "id": "m000wvpv",
+        "title": "Am Mèirleach Dìomhair"
+      },
+      "brand": {
+        "title": "Treubh an Tuathanais (Big Barn Farm) "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:00:00.000Z",
+        "end": "2021-06-11T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0mr",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b08tm1mf"
+      },
+      "episode": {
+        "id": "b08tm227",
+        "title": "Episode 13 - Gearradh leum is Sìnteag"
+      },
+      "brand": {
+        "title": "Creag nam Buthaidean/Puffin Rock"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:15:00.000Z",
+        "end": "2021-06-11T16:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0mv",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b09r2kbw"
+      },
+      "episode": {
+        "id": "b09r2ks8",
+        "title": "Episode 6 - Pàdraig Post agus An Uidheam-smachd Cèin Seachranach"
+      },
+      "brand": {
+        "title": "Padraig Post: Seirbheis Deis agus Sonraichte"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:25:00.000Z",
+        "end": "2021-06-11T16:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0mx",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvs3"
+      },
+      "episode": {
+        "id": "m000wvs4",
+        "title": "Do leabaidh fhèin/Your own bed "
+      },
+      "brand": {
+        "title": "Nannag a’ Noo/Huggleboo  "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:40:00.000Z",
+        "end": "2021-06-11T16:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0mz",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvs5"
+      },
+      "episode": {
+        "id": "m000wvs6",
+        "title": "Elmer agus am Bogha-froise"
+      },
+      "brand": {
+        "title": "Stòiridh"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T16:50:00.000Z",
+        "end": "2021-06-11T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0n1",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b041tjc7"
+      },
+      "episode": {
+        "id": "b041tjxr",
+        "title": "Episode 5 - Seoc an Struth/Ollie the Ostrich"
+      },
+      "brand": {
+        "title": "Aithne air Ainmhidhean/All About Animals"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:00:00.000Z",
+        "end": "2021-06-11T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0n3",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvr1"
+      },
+      "episode": {
+        "id": "m000wvr2",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "A’ Chùil"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:30:00.000Z",
+        "end": "2021-06-11T17:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0n4",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000fswy"
+      },
+      "episode": {
+        "id": "m000fswz",
+        "title": "Sgeul Taibhs"
+      },
+      "brand": {
+        "title": "Na Moomins/Moomin Valley "
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T17:35:00.000Z",
+        "end": "2021-06-11T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0n6",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000wvs7"
+      },
+      "episode": {
+        "id": "m000wvs8",
+        "title": "11/06/2021"
+      },
+      "brand": {
+        "title": "An Là"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:00:00.000Z",
+        "end": "2021-06-11T18:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0n8",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000vkw6"
+      },
+      "episode": {
+        "id": "m000vkw8",
+        "title": "Episode 2"
+      },
+      "brand": {
+        "title": "Dan"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:25:00.000Z",
+        "end": "2021-06-11T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0n9",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00jc6k6"
+      },
+      "episode": {
+        "id": "b00jc6kd",
+        "title": "Episode 10 - Episode 10"
+      },
+      "brand": {
+        "title": "Machair"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:30:00.000Z",
+        "end": "2021-06-11T18:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0nd",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b04dqt45"
+      },
+      "episode": {
+        "id": "b04dqtyq",
+        "title": "Episode 6 - Episode 6"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T18:55:00.000Z",
+        "end": "2021-06-11T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0nf",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b006bgk1"
+      },
+      "episode": {
+        "id": "b007hwx7",
+        "title": "Episode 5 - Perthshire"
+      },
+      "brand": {
+        "title": "Tir Is Teanga"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:00:00.000Z",
+        "end": "2021-06-11T19:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0ng",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "m000gwz3"
+      },
+      "episode": {
+        "id": "m000gwz4",
+        "title": "Episode 5"
+      },
+      "brand": {
+        "title": "Thar na Loidhne/Crossing the Line"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T19:30:00.000Z",
+        "end": "2021-06-11T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0nh",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00f7jxb"
+      },
+      "episode": {
+        "id": "b00f7jxs",
+        "title": "30/10/2008 - Ar Dobhair Fhein"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T20:00:00.000Z",
+        "end": "2021-06-11T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0nk",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b00fw5nb"
+      },
+      "episode": {
+        "id": "b00fw608",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-11T21:00:00.000Z",
+        "end": "2021-06-11T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jp0nl",
+      "service": {
+        "id": "bbc_alba"
+      },
+      "version": {
+        "id": "b07z2fx1"
+      },
+      "episode": {
+        "id": "b07z2g0n",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Seirm"
+      },
+      "masterbrand": {
+        "id": "bbc_alba"
+      },
+      "published_time": {
+        "start": "2021-06-11T22:00:00.000Z",
+        "end": "2021-06-11T23:00:00.000Z"
+      }
+    }
+  ]
+}

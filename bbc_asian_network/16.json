@@ -1,0 +1,382 @@
+{
+  "filters": {
+    "serviceId": "bbc_asian_network"
+  },
+  "service": {
+    "id": "bbc_asian_network",
+    "name": "BBC Asian Network",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-05-16T03:25:19.717Z"
+  },
+  "items": [
+    {
+      "id": "p09g6bw3",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w3rb"
+      },
+      "episode": {
+        "id": "m000w3rc",
+        "title": "Track 2 Side A"
+      },
+      "brand": {
+        "title": "SOS Bhangra Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:00:00.000Z",
+        "end": "2021-05-15T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6bw4",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000vy0d"
+      },
+      "episode": {
+        "id": "m000vy0f",
+        "title": "Happy Bhangra Vibes"
+      },
+      "brand": {
+        "title": "SOS Bhangra Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-15T23:30:00.000Z",
+        "end": "2021-05-16T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6bw5",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000vwhm"
+      },
+      "episode": {
+        "id": "m000vwhp",
+        "title": "Rambo"
+      },
+      "brand": {
+        "title": "Asian Network Represents"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T00:00:00.000Z",
+        "end": "2021-05-16T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6bw8",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000vwhs"
+      },
+      "episode": {
+        "id": "m000vwht",
+        "title": "DJ Kye's Artist of The Month: Rapper Spitty"
+      },
+      "brand": {
+        "title": "Asian Network Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T02:00:00.000Z",
+        "end": "2021-05-16T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6bwb",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w3rd"
+      },
+      "episode": {
+        "id": "m000w3rf",
+        "title": "Feel Good Classics"
+      },
+      "brand": {
+        "title": "Gagan's Old Skool Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:00:00.000Z",
+        "end": "2021-05-16T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09g6bwc",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000vy0g"
+      },
+      "episode": {
+        "id": "m000vy0h",
+        "title": "Bhangra Pa Le"
+      },
+      "brand": {
+        "title": "Gagan's Old Skool Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T04:30:00.000Z",
+        "end": "2021-05-16T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79x8",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000tl4r"
+      },
+      "episode": {
+        "id": "m000tl4s",
+        "title": "07/04/21"
+      },
+      "brand": {
+        "title": "Asian Network Certified"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T05:00:00.000Z",
+        "end": "2021-05-16T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79x9",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39l"
+      },
+      "episode": {
+        "id": "m000w39m",
+        "title": "Juggy The Indian Body Coach"
+      },
+      "brand": {
+        "title": "Jasmine Takhar"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T06:00:00.000Z",
+        "end": "2021-05-16T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xb",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39n"
+      },
+      "episode": {
+        "id": "m000w39p",
+        "title": "Bollywood by Numbers!"
+      },
+      "brand": {
+        "title": "Gagan Grewal"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T09:00:00.000Z",
+        "end": "2021-05-16T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xc",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39q"
+      },
+      "episode": {
+        "id": "m000w39r",
+        "title": "Producer Tee-L in conversation with Dipps."
+      },
+      "brand": {
+        "title": "Dipps Bhamrah"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T12:00:00.000Z",
+        "end": "2021-05-16T13:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09h7pqj",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000wf2q"
+      },
+      "episode": {
+        "id": "m000wf2r",
+        "title": "Asian Network Celebrates: Essential Bhangra Albums"
+      },
+      "brand": {
+        "title": "Asian Network Celebrates..."
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T13:45:00.000Z",
+        "end": "2021-05-16T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xd",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39s"
+      },
+      "episode": {
+        "id": "m000w39t",
+        "title": "Dhaka artist Barney Sku"
+      },
+      "brand": {
+        "title": "Nadia Ali"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T14:00:00.000Z",
+        "end": "2021-05-16T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xg",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39v"
+      },
+      "episode": {
+        "id": "m000w39w",
+        "title": "Eid Mubarak!"
+      },
+      "brand": {
+        "title": "Waqas Saeed"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T16:00:00.000Z",
+        "end": "2021-05-16T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xh",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39x"
+      },
+      "episode": {
+        "id": "m000w39y",
+        "title": "Kiran and Nivi"
+      },
+      "brand": {
+        "title": "Ashanti Omkar"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T18:00:00.000Z",
+        "end": "2021-05-16T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xj",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w39z"
+      },
+      "episode": {
+        "id": "m000w3b0",
+        "title": "Rambo"
+      },
+      "brand": {
+        "title": "Asian Network Represents"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T20:00:00.000Z",
+        "end": "2021-05-16T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09g79xk",
+      "service": {
+        "id": "bbc_asian_network"
+      },
+      "version": {
+        "id": "m000w3b1"
+      },
+      "episode": {
+        "id": "m000w3b2",
+        "title": "Almass Badat"
+      },
+      "brand": {
+        "title": "Asian Network Residency"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:00:00.000Z",
+        "end": "2021-05-17T00:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "filters": {
+    "serviceId": "bbc_two_england"
+  },
+  "service": {
+    "id": "bbc_two_england",
+    "name": "BBC Two England",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-14T03:44:17.709Z"
+  },
+  "items": [
+    {
+      "id": "p09kc1hz",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000frjj"
+      },
+      "episode": {
+        "id": "m000frjk",
+        "title": "The Big Sick"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T22:00:00.000Z",
+        "end": "2021-06-14T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc1j1",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2t0"
+      },
+      "episode": {
+        "id": "m000wwkj",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "Question Time"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T00:00:00.000Z",
+        "end": "2021-06-14T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc1j3",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2t2"
+      },
+      "episode": {
+        "id": "m000ww9z",
+        "title": "Episode 10"
+      },
+      "brand": {
+        "title": "Holby City"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:00:00.000Z",
+        "end": "2021-06-14T01:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc1j5",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m0002d3n"
+      },
+      "episode": {
+        "id": "m0002d3p",
+        "title": "This is BBC Two"
+      },
+      "brand": {
+        "title": "This is BBC Two"
+      },
+      "masterbrand": {
+        "id": "bbc_two_england"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:40:00.000Z",
+        "end": "2021-06-14T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18m",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000ww75"
+      },
+      "episode": {
+        "id": "m000ww77",
+        "title": "Episode 25"
+      },
+      "brand": {
+        "title": "Antiques Road Trip"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:00:00.000Z",
+        "end": "2021-06-14T05:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18p",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000ww71"
+      },
+      "episode": {
+        "id": "m000ww73",
+        "title": "Great Glen"
+      },
+      "brand": {
+        "title": "Garden Rescue"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T05:45:00.000Z",
+        "end": "2021-06-14T06:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18q",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2nr"
+      },
+      "episode": {
+        "id": "m000wwb2",
+        "title": "Episode 7"
+      },
+      "brand": {
+        "title": "The Repair Shop"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T06:30:00.000Z",
+        "end": "2021-06-14T07:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18s",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000wzxy"
+      },
+      "episode": {
+        "id": "m000wzxz",
+        "title": "10/06/2021"
+      },
+      "brand": {
+        "title": "The Week in Parliament"
+      },
+      "masterbrand": {
+        "id": "bbc_parliament"
+      },
+      "published_time": {
+        "start": "2021-06-14T07:30:00.000Z",
+        "end": "2021-06-14T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18v",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2nw"
+      },
+      "episode": {
+        "id": "m000x2ny",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-14T08:00:00.000Z",
+        "end": "2021-06-14T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18x",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2p1"
+      },
+      "episode": {
+        "id": "m000x2p3",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC News"
+      },
+      "masterbrand": {
+        "id": "bbc_news"
+      },
+      "published_time": {
+        "start": "2021-06-14T09:00:00.000Z",
+        "end": "2021-06-14T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc18z",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2p5"
+      },
+      "episode": {
+        "id": "m000x2p8",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Politics Live"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T11:15:00.000Z",
+        "end": "2021-06-14T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc190",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2pb"
+      },
+      "episode": {
+        "id": "m000x2pd",
+        "title": "Day 1"
+      },
+      "brand": {
+        "title": "Tennis: Queen's"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-14T12:00:00.000Z",
+        "end": "2021-06-14T17:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc193",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "b0961v0r"
+      },
+      "episode": {
+        "id": "b0961wk2",
+        "title": "Episode 11 - Episode 11"
+      },
+      "brand": {
+        "title": "Richard Osman's House of Games"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:00:00.000Z",
+        "end": "2021-06-14T17:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc194",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2pg"
+      },
+      "episode": {
+        "id": "m000x2pj",
+        "title": "Episode 1"
+      },
+      "brand": {
+        "title": "Great Continental Railway Journeys"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:30:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc198",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2pl"
+      },
+      "episode": {
+        "id": "m000x2pn",
+        "title": "Second Test: Day Five Highlights"
+      },
+      "brand": {
+        "title": "Cricket: Today at the Test"
+      },
+      "masterbrand": {
+        "id": "bbc_sport"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19c",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2pq"
+      },
+      "episode": {
+        "id": "m000x2ps",
+        "title": "Lei Ying and David"
+      },
+      "brand": {
+        "title": "Your Home Made Perfect"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T19:00:00.000Z",
+        "end": "2021-06-14T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19d",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2pv"
+      },
+      "episode": {
+        "id": "m000x2py",
+        "title": "Peter Taylor: Ireland After Partition"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T20:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19g",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2q1"
+      },
+      "episode": {
+        "id": "p099qqhr",
+        "title": "Last Night of the Proms"
+      },
+      "brand": {
+        "title": "Inside No. 9"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T21:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19k",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "p0983zk9"
+      },
+      "episode": {
+        "id": "p0983zhy",
+        "title": "Majority"
+      },
+      "brand": {
+        "title": "Festival of Funny: Shorts"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:30:00.000Z",
+        "end": "2021-06-14T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19m",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2q4"
+      },
+      "episode": {
+        "id": "m000x2q7",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "Newsnight"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:45:00.000Z",
+        "end": "2021-06-14T22:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19r",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qb"
+      },
+      "episode": {
+        "id": "m000x2qf",
+        "title": "14/06/2021"
+      },
+      "brand": {
+        "title": "BBC Weather"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T22:25:00.000Z",
+        "end": "2021-06-14T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19s",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000kx8b"
+      },
+      "episode": {
+        "id": "b07k1d94",
+        "title": "04/07/2016 - Just Call Me Martina"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T22:30:00.000Z",
+        "end": "2021-06-14T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19v",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qj"
+      },
+      "episode": {
+        "id": "m000wvv0",
+        "title": "Norfolk/Suffolk"
+      },
+      "brand": {
+        "title": "Countryfile"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:30:00.000Z",
+        "end": "2021-06-15T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc19y",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qm"
+      },
+      "episode": {
+        "id": "m000wgs5",
+        "title": "The Black American Fight for Freedom"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:30:00.000Z",
+        "end": "2021-06-15T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kc1b0",
+      "service": {
+        "id": "bbc_two_england"
+      },
+      "version": {
+        "id": "m000x2qp"
+      },
+      "episode": {
+        "id": "m000wnm5",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Hospital"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-06-15T01:30:00.000Z",
+        "end": "2021-06-15T02:25:00.000Z"
+      }
+    }
+  ]
+}

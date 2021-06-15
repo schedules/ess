@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-09T03:47:49.446Z"
+  },
+  "items": [
+    {
+      "id": "p09j5ggh",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wrcg"
+      },
+      "episode": {
+        "id": "m000wrch",
+        "title": "Death and Transfiguration - Jommelli's Miserere and Requiem"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-08T23:30:00.000Z",
+        "end": "2021-06-09T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65mt",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wss2"
+      },
+      "episode": {
+        "id": "m000wss3",
+        "title": "Wednesday - Petroc's classical alternative"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T05:30:00.000Z",
+        "end": "2021-06-09T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65mx",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wss4"
+      },
+      "episode": {
+        "id": "m000wss5",
+        "title": "Suzy Klein"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T08:00:00.000Z",
+        "end": "2021-06-09T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65n0",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000709b"
+      },
+      "episode": {
+        "id": "m000709c",
+        "title": "Vivaldi’s Muses"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T11:00:00.000Z",
+        "end": "2021-06-09T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65n1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "b09w6yqc"
+      },
+      "episode": {
+        "id": "b09w6yrh",
+        "title": "Debussy and Pizzetti at LSO St Luke's"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T12:00:00.000Z",
+        "end": "2021-06-09T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65n7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wss6"
+      },
+      "episode": {
+        "id": "m000wss7",
+        "title": "German Ensembles (3/4)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T13:00:00.000Z",
+        "end": "2021-06-09T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65n9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wss8"
+      },
+      "episode": {
+        "id": "m000wss9",
+        "title": "St George's, Windsor"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T14:30:00.000Z",
+        "end": "2021-06-09T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nb",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssb"
+      },
+      "episode": {
+        "id": "m000wssc",
+        "title": "Debussy from Elisabeth Brauss and Aleksey Semenenko"
+      },
+      "brand": {
+        "title": "New Generation Artists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T15:30:00.000Z",
+        "end": "2021-06-09T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssd"
+      },
+      "episode": {
+        "id": "m000wssf",
+        "title": "Tamsin Waley-Cohen and James Baillieu, Paul Englishby"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T16:00:00.000Z",
+        "end": "2021-06-09T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssg"
+      },
+      "episode": {
+        "id": "m000wssh",
+        "title": "Expand your horizons with classical music"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:00:00.000Z",
+        "end": "2021-06-09T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nh",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssj"
+      },
+      "episode": {
+        "id": "m000wssk",
+        "title": "Stephen Hough and Friends play Mozart and Poulenc"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T18:30:00.000Z",
+        "end": "2021-06-09T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nk",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssl"
+      },
+      "episode": {
+        "id": "m000wssm",
+        "title": "Beryl Vertue"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:00:00.000Z",
+        "end": "2021-06-09T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nl",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m0006mtc"
+      },
+      "episode": {
+        "id": "m0006mtd",
+        "title": "Malcolm's Place, Uig, Isle of Lewis"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T21:45:00.000Z",
+        "end": "2021-06-09T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j65nm",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wssn"
+      },
+      "episode": {
+        "id": "m000wssp",
+        "title": "Night music"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-09T22:00:00.000Z",
+        "end": "2021-06-09T23:30:00.000Z"
+      }
+    }
+  ]
+}

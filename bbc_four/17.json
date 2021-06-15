@@ -1,0 +1,393 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-17T03:36:27.489Z"
+  },
+  "items": [
+    {
+      "id": "p09gq084",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b05ttkt7"
+      },
+      "episode": {
+        "id": "b05ttkx2",
+        "title": "04/05/2015 - Dawn Chorus: The Sounds of Spring"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T22:55:00.000Z",
+        "end": "2021-05-16T23:55:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq085",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08lvxxg"
+      },
+      "episode": {
+        "id": "b08lvxxs",
+        "title": "12/04/2017 - Into the Wind"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-16T23:55:00.000Z",
+        "end": "2021-05-17T00:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq086",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08h06nc"
+      },
+      "episode": {
+        "id": "b08h06tq",
+        "title": "Episode 1 - Making Sound"
+      },
+      "brand": {
+        "title": "Sound Waves: The Symphony of Physics"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T00:25:00.000Z",
+        "end": "2021-05-17T01:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq087",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07grm5d"
+      },
+      "episode": {
+        "id": "b07g9q4w",
+        "title": "Episode 3 - Party Like It's 1899"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T01:25:00.000Z",
+        "end": "2021-05-17T02:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq088",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T02:25:00.000Z",
+        "end": "2021-05-17T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq089",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T04:30:00.000Z",
+        "end": "2021-05-17T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06p",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T17:58:00.000Z",
+        "end": "2021-05-17T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06q",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bksr"
+      },
+      "episode": {
+        "id": "m000bk6x",
+        "title": "Shardlow to Stoke-on-Trent"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:00:00.000Z",
+        "end": "2021-05-17T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sq"
+      },
+      "episode": {
+        "id": "m000w6sr",
+        "title": "Country Creek"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T18:30:00.000Z",
+        "end": "2021-05-17T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06s",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m00077rr"
+      },
+      "episode": {
+        "id": "m00077rs",
+        "title": "Cosway or Lawrence?"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T19:00:00.000Z",
+        "end": "2021-05-17T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06t",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sn"
+      },
+      "episode": {
+        "id": "m000w6sp",
+        "title": "Classic British Cars: Made in Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T20:00:00.000Z",
+        "end": "2021-05-17T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06v",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000l4kq"
+      },
+      "episode": {
+        "id": "m000l4kr",
+        "title": "Lemn Sissay: The Memory of Me"
+      },
+      "brand": {
+        "title": "imagine..."
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-17T21:00:00.000Z",
+        "end": "2021-05-17T22:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06w",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b06hhggp"
+      },
+      "episode": {
+        "id": "b06hhgxs",
+        "title": "12/10/2015 - Rhymes, Rock and Revolution: The Story of Performance Poetry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T22:10:00.000Z",
+        "end": "2021-05-17T23:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06x",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6sq"
+      },
+      "episode": {
+        "id": "m000w6sr",
+        "title": "Country Creek"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:10:00.000Z",
+        "end": "2021-05-17T23:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06y",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000bksr"
+      },
+      "episode": {
+        "id": "m000bk6x",
+        "title": "Shardlow to Stoke-on-Trent"
+      },
+      "brand": {
+        "title": "Canal Boat Diaries"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-17T23:40:00.000Z",
+        "end": "2021-05-18T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq06z",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m00077rr"
+      },
+      "episode": {
+        "id": "m00077rs",
+        "title": "Cosway or Lawrence?"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-18T00:10:00.000Z",
+        "end": "2021-05-18T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09gq070",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000w6ss"
+      },
+      "episode": {
+        "id": "m000w6sp",
+        "title": "Classic British Cars: Made in Coventry"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-18T01:10:00.000Z",
+        "end": "2021-05-18T02:10:00.000Z"
+      }
+    }
+  ]
+}

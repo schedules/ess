@@ -1,0 +1,336 @@
+{
+  "filters": {
+    "serviceId": "bbc_1xtra"
+  },
+  "service": {
+    "id": "bbc_1xtra",
+    "name": "BBC Radio 1Xtra",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-05T03:26:31.841Z"
+  },
+  "items": [
+    {
+      "id": "p09hnb5d",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wm36"
+      },
+      "episode": {
+        "id": "m000wm37",
+        "title": "04/06/2021"
+      },
+      "brand": {
+        "title": "Sir Spyro"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-04T22:00:00.000Z",
+        "end": "2021-06-05T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb5f",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wdlf"
+      },
+      "episode": {
+        "id": "m000wdlg",
+        "title": "Selecta Drizz"
+      },
+      "brand": {
+        "title": "DJ Limelight & Kan D Man"
+      },
+      "masterbrand": {
+        "id": "bbc_asian_network"
+      },
+      "published_time": {
+        "start": "2021-06-05T00:00:00.000Z",
+        "end": "2021-06-05T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb5g",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wk6f"
+      },
+      "episode": {
+        "id": "m000wk6g",
+        "title": "BABii in the Mix!"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T03:00:00.000Z",
+        "end": "2021-06-05T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hnb5h",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wk6h"
+      },
+      "episode": {
+        "id": "m000wk6j",
+        "title": "Elohim in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T04:00:00.000Z",
+        "end": "2021-06-05T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vll",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wrcz"
+      },
+      "episode": {
+        "id": "m000wrd0",
+        "title": "Smoothest Selection"
+      },
+      "brand": {
+        "title": "1Xtra's R&B Chill Mix"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T05:00:00.000Z",
+        "end": "2021-06-05T06:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlm",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000ws24"
+      },
+      "episode": {
+        "id": "m000ws25",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Remi Burgz"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T06:00:00.000Z",
+        "end": "2021-06-05T09:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vln",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000ws26"
+      },
+      "episode": {
+        "id": "m000ws27",
+        "title": "The Real Housewives Of Cheshire - Nicole and Joe Sealey join Nick"
+      },
+      "brand": {
+        "title": "Nick Bright"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T09:00:00.000Z",
+        "end": "2021-06-05T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlp",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000ws28"
+      },
+      "episode": {
+        "id": "m000ws29",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "Lady Leshurr"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T12:00:00.000Z",
+        "end": "2021-06-05T15:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlq",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000ws2b"
+      },
+      "episode": {
+        "id": "m000ws2c",
+        "title": "DJ Kaj In The Mix!"
+      },
+      "brand": {
+        "title": "Sian Anderson"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T15:00:00.000Z",
+        "end": "2021-06-05T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlr",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wrzk"
+      },
+      "episode": {
+        "id": "m000wrzl",
+        "title": "05/06/2021"
+      },
+      "brand": {
+        "title": "1Xtra's Takeover with DJ Target"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T18:00:00.000Z",
+        "end": "2021-06-05T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vls",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wrzm"
+      },
+      "episode": {
+        "id": "m000wrzn",
+        "title": "Tion Wayne Street Heat and ArrDee"
+      },
+      "brand": {
+        "title": "1Xtra's Rap Show with Tiffany Calver"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-05T20:00:00.000Z",
+        "end": "2021-06-05T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlt",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wrzp"
+      },
+      "episode": {
+        "id": "m000wrzq",
+        "title": "Lil Mariko in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T22:00:00.000Z",
+        "end": "2021-06-05T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlv",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wrzr"
+      },
+      "episode": {
+        "id": "m000wrzs",
+        "title": "Tensnake in the Mix"
+      },
+      "brand": {
+        "title": "Diplo and Friends"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_one"
+      },
+      "published_time": {
+        "start": "2021-06-05T23:00:00.000Z",
+        "end": "2021-06-06T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j5vlw",
+      "service": {
+        "id": "bbc_1xtra"
+      },
+      "version": {
+        "id": "m000wdp0"
+      },
+      "episode": {
+        "id": "m000wdp1",
+        "title": "Friday Nights With Kenny!"
+      },
+      "brand": {
+        "title": "Kenny Allstar"
+      },
+      "masterbrand": {
+        "id": "bbc_1xtra"
+      },
+      "published_time": {
+        "start": "2021-06-06T00:00:00.000Z",
+        "end": "2021-06-06T02:00:00.000Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_three"
+  },
+  "service": {
+    "id": "bbc_radio_three",
+    "name": "BBC Radio 3",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-02T03:29:50.726Z"
+  },
+  "items": [
+    {
+      "id": "p09hk5pp",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlgy"
+      },
+      "episode": {
+        "id": "m000wlgz",
+        "title": "Evening soundscape"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T22:00:00.000Z",
+        "end": "2021-06-01T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hk5pq",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wlh0"
+      },
+      "episode": {
+        "id": "m000wlh1",
+        "title": "Love, the Magician"
+      },
+      "brand": {
+        "title": "Through the Night"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-01T23:30:00.000Z",
+        "end": "2021-06-02T05:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc1",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl5y"
+      },
+      "episode": {
+        "id": "m000wl5z",
+        "title": "Wednesday - Petroc's classical alarm call"
+      },
+      "brand": {
+        "title": "Breakfast"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T05:30:00.000Z",
+        "end": "2021-06-02T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc2",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl60"
+      },
+      "episode": {
+        "id": "m000wl61",
+        "title": "Georgia Mann"
+      },
+      "brand": {
+        "title": "Essential Classics"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T08:00:00.000Z",
+        "end": "2021-06-02T11:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc3",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl62"
+      },
+      "episode": {
+        "id": "m000wl63",
+        "title": "Words and Music"
+      },
+      "brand": {
+        "title": "Composer of the Week"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T11:00:00.000Z",
+        "end": "2021-06-02T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc4",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl64"
+      },
+      "episode": {
+        "id": "m000wl65",
+        "title": "Consone Quartet play Schubert songs"
+      },
+      "brand": {
+        "title": "Radio 3 Lunchtime Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T12:00:00.000Z",
+        "end": "2021-06-02T13:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc5",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl66"
+      },
+      "episode": {
+        "id": "m000wl67",
+        "title": "Celebrating the Ulster Orchestra and the BBC Concert Orchestra (3/5)"
+      },
+      "brand": {
+        "title": "Afternoon Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T13:00:00.000Z",
+        "end": "2021-06-02T14:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc7",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl68"
+      },
+      "episode": {
+        "id": "m000wl69",
+        "title": "St Davids Cathedral"
+      },
+      "brand": {
+        "title": "Choral Evensong"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T14:30:00.000Z",
+        "end": "2021-06-02T15:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc8",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6b"
+      },
+      "episode": {
+        "id": "m000wl6c",
+        "title": "Timothy Ridout plays Hummel"
+      },
+      "brand": {
+        "title": "New Generation Artists"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T15:30:00.000Z",
+        "end": "2021-06-02T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjyc9",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6d"
+      },
+      "episode": {
+        "id": "m000wl6f",
+        "title": "Castalian String Quartet, Rakhi Singh"
+      },
+      "brand": {
+        "title": "In Tune"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T16:00:00.000Z",
+        "end": "2021-06-02T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjycb",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6g"
+      },
+      "episode": {
+        "id": "m000wl6h",
+        "title": "Classical music to inspire you"
+      },
+      "brand": {
+        "title": "In Tune Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:00:00.000Z",
+        "end": "2021-06-02T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjycc",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6j"
+      },
+      "episode": {
+        "id": "m000wl6k",
+        "title": "Mitsuko Uchida plays Schubert"
+      },
+      "brand": {
+        "title": "Radio 3 in Concert"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T18:30:00.000Z",
+        "end": "2021-06-02T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjycd",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6l"
+      },
+      "episode": {
+        "id": "m000wl6m",
+        "title": "Alice and Dreaming"
+      },
+      "brand": {
+        "title": "Free Thinking"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:00:00.000Z",
+        "end": "2021-06-02T21:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjycf",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6n"
+      },
+      "episode": {
+        "id": "m000wl6p",
+        "title": "North and South"
+      },
+      "brand": {
+        "title": "The Essay"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T21:45:00.000Z",
+        "end": "2021-06-02T22:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09hjycg",
+      "service": {
+        "id": "bbc_radio_three"
+      },
+      "version": {
+        "id": "m000wl6q"
+      },
+      "episode": {
+        "id": "m000wl6r",
+        "title": "Immerse yourself"
+      },
+      "brand": {
+        "title": "Night Tracks"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_three"
+      },
+      "published_time": {
+        "start": "2021-06-02T22:00:00.000Z",
+        "end": "2021-06-02T23:30:00.000Z"
+      }
+    }
+  ]
+}

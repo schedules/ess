@@ -1,0 +1,495 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-05-30T03:38:06.209Z"
+  },
+  "items": [
+    {
+      "id": "p09j0h17",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00z8tz4"
+      },
+      "episode": {
+        "id": "b00z8v1d",
+        "title": "Episode 14 - Episode 14"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-29T23:10:00.000Z",
+        "end": "2021-05-30T00:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h1b",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00zhcbv"
+      },
+      "episode": {
+        "id": "b00zhcf2",
+        "title": "Episode 15 - Episode 15"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T00:10:00.000Z",
+        "end": "2021-05-30T01:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h1d",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00zhcc3"
+      },
+      "episode": {
+        "id": "b00zhcf4",
+        "title": "Episode 16 - Episode 16"
+      },
+      "brand": {
+        "title": "The Killing"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T01:10:00.000Z",
+        "end": "2021-05-30T02:10:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h1f",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T02:10:00.000Z",
+        "end": "2021-05-30T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h1g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T04:30:00.000Z",
+        "end": "2021-05-30T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h23",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T17:58:00.000Z",
+        "end": "2021-05-30T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h25",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01hz6my"
+      },
+      "episode": {
+        "id": "b01hz6n0",
+        "title": "17/05/2012 - 04/11/1974"
+      },
+      "brand": {
+        "title": "Blue Peter"
+      },
+      "masterbrand": {
+        "id": "cbbc"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:00:00.000Z",
+        "end": "2021-05-30T18:25:00.000Z"
+      }
+    },
+    {
+      "id": "p09j7qss",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wtdz"
+      },
+      "episode": {
+        "id": "m000wn0f",
+        "title": "Ship in a Bottle"
+      },
+      "brand": {
+        "title": "Bagpuss"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:25:00.000Z",
+        "end": "2021-05-30T18:40:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h28",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn0g"
+      },
+      "episode": {
+        "id": "m000wn0h",
+        "title": "The Tablecloth"
+      },
+      "brand": {
+        "title": "The Clangers"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:40:00.000Z",
+        "end": "2021-05-30T18:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h29",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000wn0j"
+      },
+      "episode": {
+        "id": "m000wn0k",
+        "title": "The Trumpet"
+      },
+      "brand": {
+        "title": "Ivor the Engine"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-05-30T18:50:00.000Z",
+        "end": "2021-05-30T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2b",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00pht4p"
+      },
+      "episode": {
+        "id": "b00pht5q",
+        "title": "Episode 6 - Oliver Postgate: A Life in Small Films"
+      },
+      "brand": {
+        "title": "Timeshift"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T19:00:00.000Z",
+        "end": "2021-05-30T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2c",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07453kq"
+      },
+      "episode": {
+        "id": "b06t3mhm",
+        "title": "21/12/2015 - From Andy Pandy to Zebedee: The Golden Age of Children's Television"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T20:00:00.000Z",
+        "end": "2021-05-30T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2f",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0000kzn"
+      },
+      "episode": {
+        "id": "b0074th6",
+        "title": "28/12/2000 - Smiley Tracks the Mole"
+      },
+      "brand": {
+        "title": "Tinker Tailor Soldier Spy"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:00:00.000Z",
+        "end": "2021-05-30T21:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2g",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0000nw8"
+      },
+      "episode": {
+        "id": "b0074tjf",
+        "title": "29/12/2000 - How It All Fits Together"
+      },
+      "brand": {
+        "title": "Tinker Tailor Soldier Spy"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T21:50:00.000Z",
+        "end": "2021-05-30T22:35:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2h",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b0000q3h"
+      },
+      "episode": {
+        "id": "b0074tks",
+        "title": "30/12/2000 - Tinker Tailor"
+      },
+      "brand": {
+        "title": "Tinker Tailor Soldier Spy"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-05-30T22:35:00.000Z",
+        "end": "2021-05-30T23:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2j",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p05j1k7l"
+      },
+      "episode": {
+        "id": "p05j1k3t",
+        "title": "Episode 1 - Episode 1"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:20:00.000Z",
+        "end": "2021-05-30T23:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2k",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p05j36n3"
+      },
+      "episode": {
+        "id": "p05j36kl",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-30T23:50:00.000Z",
+        "end": "2021-05-31T00:20:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2l",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p05j37bd"
+      },
+      "episode": {
+        "id": "p05j376v",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:20:00.000Z",
+        "end": "2021-05-31T00:50:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2n",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jc4fv"
+      },
+      "episode": {
+        "id": "p05j39b9",
+        "title": "Episode 4 - Episode 4"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T00:50:00.000Z",
+        "end": "2021-05-31T01:15:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2p",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "p05j3b19"
+      },
+      "episode": {
+        "id": "p05j39xn",
+        "title": "Episode 5 - Episode 5"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:15:00.000Z",
+        "end": "2021-05-31T01:45:00.000Z"
+      }
+    },
+    {
+      "id": "p09j0h2r",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b09jlnq9"
+      },
+      "episode": {
+        "id": "p05j3br1",
+        "title": "Episode 6 - Episode 6"
+      },
+      "brand": {
+        "title": "Motherland"
+      },
+      "masterbrand": {
+        "id": "bbc_two"
+      },
+      "published_time": {
+        "start": "2021-05-31T01:45:00.000Z",
+        "end": "2021-05-31T02:15:00.000Z"
+      }
+    }
+  ]
+}

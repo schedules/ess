@@ -1,0 +1,372 @@
+{
+  "filters": {
+    "serviceId": "bbc_four"
+  },
+  "service": {
+    "id": "bbc_four",
+    "name": "BBC Four",
+    "type": "TV",
+    "mediaType": "Video",
+    "scheduleUpdated": "2021-06-14T03:43:22.566Z"
+  },
+  "items": [
+    {
+      "id": "p09kbhmz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01r3mmj"
+      },
+      "episode": {
+        "id": "b01r3n6r",
+        "title": "05/03/2013 - Treasures of the Louvre"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:30:00.000Z",
+        "end": "2021-06-14T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhn0",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b019c9rc"
+      },
+      "episode": {
+        "id": "b019c9t9",
+        "title": "13/01/2012 - The Lark Ascending"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:00:00.000Z",
+        "end": "2021-06-14T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhn1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b07ls9r0"
+      },
+      "episode": {
+        "id": "b07l6bd0",
+        "title": "19/07/2016 - The Search for the Lost Manuscript: Julian of Norwich"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:30:00.000Z",
+        "end": "2021-06-14T02:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhn2",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T02:30:00.000Z",
+        "end": "2021-06-14T04:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbhn3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfk"
+      },
+      "episode": {
+        "id": "m0001jfl",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T04:30:00.000Z",
+        "end": "2021-06-14T17:58:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqnv",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m0001jfg"
+      },
+      "episode": {
+        "id": "m0001jfh",
+        "title": "This is BBC Four"
+      },
+      "brand": {
+        "title": "This is BBC Four"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T17:58:00.000Z",
+        "end": "2021-06-14T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqnw",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00n1lvd"
+      },
+      "episode": {
+        "id": "b00n1lvz",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:00:00.000Z",
+        "end": "2021-06-14T18:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqnx",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x291"
+      },
+      "episode": {
+        "id": "m000x292",
+        "title": "A Mild Winter's Day"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T18:30:00.000Z",
+        "end": "2021-06-14T19:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqny",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01n39kd"
+      },
+      "episode": {
+        "id": "b01n39kg",
+        "title": "Episode 2 - Turner: A Miscarriage of Justice?"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-14T19:00:00.000Z",
+        "end": "2021-06-14T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqnz",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x293"
+      },
+      "episode": {
+        "id": "m000x294",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T20:00:00.000Z",
+        "end": "2021-06-14T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp1",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x295"
+      },
+      "episode": {
+        "id": "m000x296",
+        "title": "Round 2"
+      },
+      "brand": {
+        "title": "BBC Cardiff Singer of the World"
+      },
+      "masterbrand": {
+        "id": "bbc_webonly"
+      },
+      "published_time": {
+        "start": "2021-06-14T21:00:00.000Z",
+        "end": "2021-06-14T22:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp3",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b08k0sdf"
+      },
+      "episode": {
+        "id": "b08k0srb",
+        "title": "Episode 3 - Episode 3"
+      },
+      "brand": {
+        "title": "Britain in Focus: A Photographic History"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T22:30:00.000Z",
+        "end": "2021-06-14T23:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp4",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x291"
+      },
+      "episode": {
+        "id": "m000x292",
+        "title": "A Mild Winter's Day"
+      },
+      "brand": {
+        "title": "The Joy of Painting"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-14T23:30:00.000Z",
+        "end": "2021-06-15T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp5",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b00n1lvd"
+      },
+      "episode": {
+        "id": "b00n1lvz",
+        "title": "Episode 2 - Episode 2"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_two_wales_digital"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:00:00.000Z",
+        "end": "2021-06-15T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp6",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "b01n39kd"
+      },
+      "episode": {
+        "id": "b01n39kg",
+        "title": "Episode 2 - Turner: A Miscarriage of Justice?"
+      },
+      "brand": {
+        "title": "Fake or Fortune?"
+      },
+      "masterbrand": {
+        "id": "bbc_one"
+      },
+      "published_time": {
+        "start": "2021-06-15T00:30:00.000Z",
+        "end": "2021-06-15T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09kbqp7",
+      "service": {
+        "id": "bbc_four"
+      },
+      "version": {
+        "id": "m000x298"
+      },
+      "episode": {
+        "id": "m000x294",
+        "title": "Episode 4"
+      },
+      "brand": {
+        "title": "Great British Photography Challenge"
+      },
+      "masterbrand": {
+        "id": "bbc_four"
+      },
+      "published_time": {
+        "start": "2021-06-15T01:30:00.000Z",
+        "end": "2021-06-15T02:30:00.000Z"
+      }
+    }
+  ]
+}

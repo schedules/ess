@@ -1,0 +1,380 @@
+{
+  "filters": {
+    "serviceId": "bbc_radio_two"
+  },
+  "service": {
+    "id": "bbc_radio_two",
+    "name": "BBC Radio 2",
+    "type": "National Radio",
+    "mediaType": "Audio",
+    "scheduleUpdated": "2021-06-13T03:38:02.164Z"
+  },
+  "items": [
+    {
+      "id": "p09jvbvj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x03z"
+      },
+      "episode": {
+        "id": "m000x040",
+        "title": "13/06/2021"
+      },
+      "brand": {
+        "title": "Ana Matronic's Dance Devotion"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-12T23:00:00.000Z",
+        "end": "2021-06-13T01:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbvl",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x041"
+      },
+      "episode": {
+        "id": "m000x042",
+        "title": "Live Stories: An hour of flawless live covers"
+      },
+      "brand": {
+        "title": "Patrick Kielty's Cover Stories"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T01:00:00.000Z",
+        "end": "2021-06-13T02:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09k9yt5",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000shqj"
+      },
+      "episode": {
+        "id": "m000shqk",
+        "title": "David Walliams"
+      },
+      "brand": {
+        "title": "Sheridan's Showstoppers"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T02:00:00.000Z",
+        "end": "2021-06-13T03:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09kffh2",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000nn0p"
+      },
+      "episode": {
+        "id": "m000nn0q",
+        "title": "Join the Springsteen motorcade with an hour of songs about cars!"
+      },
+      "brand": {
+        "title": "Bruce Springsteen: From My Home To Yours"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T03:00:00.000Z",
+        "end": "2021-06-13T04:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvbvn",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x045"
+      },
+      "episode": {
+        "id": "m000x046",
+        "title": "Jon Fratelli chooses his Tracks Of My Years"
+      },
+      "brand": {
+        "title": "Tracks Of My Years"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T04:00:00.000Z",
+        "end": "2021-06-13T05:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrg",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0dn"
+      },
+      "episode": {
+        "id": "m000x0dp",
+        "title": "Rachel Johnson"
+      },
+      "brand": {
+        "title": "Good Morning Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T05:00:00.000Z",
+        "end": "2021-06-13T08:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrj",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0dq"
+      },
+      "episode": {
+        "id": "m000x0dr",
+        "title": "Songs by The Bee Gees, Bruno Mars and Aretha Franklin!"
+      },
+      "brand": {
+        "title": "Steve Wright's Sunday Love Songs"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T08:00:00.000Z",
+        "end": "2021-06-13T10:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrk",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0ds"
+      },
+      "episode": {
+        "id": "m000x0dt",
+        "title": "Jodie Prenger and The Style Sisters"
+      },
+      "brand": {
+        "title": "The Michael Ball Show"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T10:00:00.000Z",
+        "end": "2021-06-13T12:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrm",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0dv"
+      },
+      "episode": {
+        "id": "m000x0dw",
+        "title": "In the Heights film song"
+      },
+      "brand": {
+        "title": "Elaine Paige on Sunday"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T12:00:00.000Z",
+        "end": "2021-06-13T14:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrp",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0dx"
+      },
+      "episode": {
+        "id": "m000x0dy",
+        "title": "Sizzling Summer Songs... And More!"
+      },
+      "brand": {
+        "title": "Sounds of the 70s with Johnnie Walker"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T14:00:00.000Z",
+        "end": "2021-06-13T16:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrr",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0dz"
+      },
+      "episode": {
+        "id": "m000x0f0",
+        "title": "Triples: Johnny Bristol and Martine McCutcheon"
+      },
+      "brand": {
+        "title": "Paul O'Grady"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T16:00:00.000Z",
+        "end": "2021-06-13T18:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrs",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f1"
+      },
+      "episode": {
+        "id": "m000x0f2",
+        "title": "Paul Weller Live at the Barbican"
+      },
+      "brand": {},
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T18:00:00.000Z",
+        "end": "2021-06-13T20:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09l0kvl",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000tgvv"
+      },
+      "episode": {
+        "id": "m000tgvw",
+        "title": "Oti Mabuse"
+      },
+      "brand": {
+        "title": "My Life In A Mixtape"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T20:00:00.000Z",
+        "end": "2021-06-13T21:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlrw",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f3"
+      },
+      "episode": {
+        "id": "m000x0f4",
+        "title": "Loneliness Awareness Week with Rev Richard Coles"
+      },
+      "brand": {
+        "title": "Dr Rangan Chatterjee"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T21:00:00.000Z",
+        "end": "2021-06-13T23:00:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvlry",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f5"
+      },
+      "episode": {
+        "id": "m000x0f6",
+        "title": "Weekend Boasts"
+      },
+      "brand": {
+        "title": "OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-13T23:00:00.000Z",
+        "end": "2021-06-14T01:30:00.000Z"
+      }
+    },
+    {
+      "id": "p09jvls1",
+      "service": {
+        "id": "bbc_radio_two"
+      },
+      "version": {
+        "id": "m000x0f7"
+      },
+      "episode": {
+        "id": "m000x0f8",
+        "title": "Football Special: Cole, Gascoigne, Wright and Waddle"
+      },
+      "brand": {
+        "title": "One Hit Wonders with OJ Borg"
+      },
+      "masterbrand": {
+        "id": "bbc_radio_two"
+      },
+      "published_time": {
+        "start": "2021-06-14T01:30:00.000Z",
+        "end": "2021-06-14T02:00:00.000Z"
+      }
+    }
+  ]
+}
